@@ -118,8 +118,15 @@ def find_ffmpeg(explicit: str = "") -> str:
 # extract
 # --------------------------------------------------------------------------
 
-def extract(video: str, out_dir: str, fps: float = 2.0, tile: str = "1x1",
-            width: int = 960, ffmpeg: str = "") -> dict:
+def extract(video: str, out_dir: str, fps: float = 1.0, tile: str = "4x2",
+            width: int = 600, ffmpeg: str = "") -> dict:
+    """
+    Defaults are tuned for token cost when Claude reads the frames: 1 fps is
+    enough for a steady one-screen-per-second scroll, and a 4x2 tile of 600px
+    frames (2400x2600) is still fully legible after the viewer downsizes it,
+    so one image covers 8 seconds of recording. A 4.5-minute recording becomes
+    ~34 images instead of ~270.
+    """
     ff = find_ffmpeg(ffmpeg)
     frames = os.path.join(out_dir, "frames")
     if os.path.isdir(frames):
@@ -288,9 +295,9 @@ def main():
     e = sub.add_parser("extract")
     e.add_argument("video")
     e.add_argument("--out", required=True)
-    e.add_argument("--fps", type=float, default=2.0)
-    e.add_argument("--tile", default="1x1", help="ffmpeg tile layout, e.g. 2x2 (1x1 = no tiling)")
-    e.add_argument("--width", type=int, default=960)
+    e.add_argument("--fps", type=float, default=1.0)
+    e.add_argument("--tile", default="4x2", help="ffmpeg tile layout (1x1 = no tiling)")
+    e.add_argument("--width", type=int, default=600)
     e.add_argument("--ffmpeg", default="")
     c = sub.add_parser("compile")
     c.add_argument("out")

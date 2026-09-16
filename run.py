@@ -222,8 +222,9 @@ def main():
     ap.add_argument("--season", default="2026-nfl")
     ap.add_argument("--video", help="screen recording of the promo app")
     ap.add_argument("--available", help="use this availability file instead of the video")
-    ap.add_argument("--fps", type=float, default=2.0)
-    ap.add_argument("--tile", default="1x1")
+    ap.add_argument("--fps", type=float, default=1.0)
+    ap.add_argument("--tile", default="4x2", help="frames per image for reading; 4x2 = 8 seconds per image")
+    ap.add_argument("--width", type=int, default=600)
     ap.add_argument("--games", default="", help="comma list like 'DET @ BUF' when the app does not show the game")
     ap.add_argument("--days", type=float, default=7)
     ap.add_argument("--books", default="dk,fd")
@@ -257,7 +258,7 @@ def main():
         print(f"using {avail_path}")
     else:
         if a.video:
-            video.extract(a.video, wk, a.fps, a.tile)
+            video.extract(a.video, wk, a.fps, a.tile, a.width)
         if os.path.exists(reads_path):
             video.compile_dir(wk)
         elif not os.path.exists(avail_path):
