@@ -1,0 +1,6 @@
+cache/
+__pycache__/
+seasons/**/frames/
+/ranked*.csv
+/wk[2-9]*.json
+/props.json

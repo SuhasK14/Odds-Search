@@ -1,0 +1,22 @@
+13 legs priced; top 13 shown. Tickets use legs at or above 56% (break-even 53.0%, multiplier 6.70x).
+1-sided legs: true_p = implied(yes price) / 1.08. That divisor is an assumption (--one-sided-overround), not a measurement.
+pref = Suhas's market preference rank: 1=receptions, 2=pass_tds, 3=targets, 4=anytime_td, 5=pass_attempts, 6=rush_attempts, 7=completions
+
+#  leg                                            true   spr  bk  opp  pref  flags
+----------------------------------------------------------------------------------
+1  Jared Goff OVER 1.5 pass_tds                  54.2%  2.7   2   32     2  
+2  Josh Allen OVER 20.5 completions              53.6%  0.0   1   22     7  1 book
+3  Jared Goff UNDER 24.5 completions             53.5%  0.0   1   22     7  1 book
+4  Josh Allen OVER 0.5 anytime_td                53.2%  0.0   2    6     4  1-sided
+5  Sam LaPorta UNDER 4.5 receptions              53.0%  1.6   2    6     1  
+6  Joe Burrow OVER 1.5 pass_tds                  52.5%  2.1   2   32     2  
+7  DJ Moore UNDER 4.5 receptions                 52.4%  3.6   2    6     1  thin
+8  Jahmyr Gibbs UNDER 19.5 rush_attempts         52.4%  0.0   1   15     6  1 book
+9  Josh Allen OVER 30.5 pass_attempts            51.9%  0.0   1   32     5  1 book
+10 Jared Goff OVER 35.5 pass_attempts            51.5%  0.0   1   32     5  1 book
+11 Amon-Ra St. Brown UNDER 7.5 receptions        51.2%  1.5   2    6     1  
+12 Lamar Jackson OVER 1.5 pass_tds               50.8%  4.4   2   32     2  thin
+13 Drake Maye UNDER 20.5 completions             50.2%  0.0   1   22     7  1 book
+
+STRUCTURE: only 0 qualifying legs -- do not force entries
+No slate. Unused entries cost nothing; bad legs cost money.

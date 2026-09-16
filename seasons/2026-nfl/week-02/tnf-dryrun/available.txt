@@ -1,0 +1,52 @@
+# promo app availability, compiled by video.py
+# source: C:\Users\suhas\Downloads\ScreenRecording_09-16-2026 00-24-01_1.MP4
+# Player Name | market | line | sides | game
+Joe Burrow | pass_tds | 1.5 | over,under | CIN @ HOU
+Joe Burrow | pass_yards | 250.5 | over,under | CIN @ HOU
+Joe Burrow | rush_yards | 8.5 | over,under | CIN @ HOU
+Josh Allen | anytime_td | 0.5 | over | DET @ BUF
+Jared Goff | completions | 24.5 | over,under | DET @ BUF
+Josh Allen | completions | 20.5 | over,under | DET @ BUF
+Jared Goff | pass_attempts | 35.5 | over,under | DET @ BUF
+Josh Allen | pass_attempts | 30.5 | over,under | DET @ BUF
+Jared Goff | pass_tds | 1.5 | over,under | DET @ BUF
+Jared Goff | pass_yards | 270.5 | over,under | DET @ BUF
+Josh Allen | pass_yards | 250.5 | over,under | DET @ BUF
+Amon-Ra St. Brown | receiving_yards | 82.5 | over,under | DET @ BUF
+Brock Wright | receiving_yards | 0.5 | over,under | DET @ BUF
+DJ Moore | receiving_yards | 59.5 | over,under | DET @ BUF
+Dalton Kincaid | receiving_yards | 51.5 | over,under | DET @ BUF
+Dawson Knox | receiving_yards | 12.5 | over,under | DET @ BUF
+Isaac TeSlaa | receiving_yards | 15.5 | over,under | DET @ BUF
+Jahmyr Gibbs | receiving_yards | 29.5 | over,under | DET @ BUF
+James Cook | receiving_yards | 15.5 | over,under | DET @ BUF
+Jameson Williams | receiving_yards | 59.5 | over,under | DET @ BUF
+Joshua Palmer | receiving_yards | 13.5 | over,under | DET @ BUF
+Keon Coleman | receiving_yards | 11.5 | over,under | DET @ BUF
+Khalil Shakir | receiving_yards | 44.5 | over,under | DET @ BUF
+Sam LaPorta | receiving_yards | 45.5 | over,under | DET @ BUF
+Amon-Ra St. Brown | receptions | 7.5 | over,under | DET @ BUF
+DJ Moore | receptions | 4.5 | over,under | DET @ BUF
+Sam LaPorta | receptions | 4.5 | over,under | DET @ BUF
+Jahmyr Gibbs | rush_attempts | 19.5 | over,under | DET @ BUF
+James Cook | rush_attempts | 17.5 | over,under | DET @ BUF
+Jahmyr Gibbs | rush_yards | 90.5 | over,under | DET @ BUF
+James Cook | rush_yards | 78.5 | over,under | DET @ BUF
+Jared Goff | rush_yards | 0.5 | over,under | DET @ BUF
+Josh Allen | rush_yards | 31.5 | over,under | DET @ BUF
+Amon-Ra St. Brown | targets | 10.5 | over,under | DET @ BUF
+DJ Moore | targets | 7.0 | over,under | DET @ BUF
+Dalton Kincaid | targets | 5.5 | over,under | DET @ BUF
+Dawson Knox | targets | 2.0 | over,under | DET @ BUF
+Isaac TeSlaa | targets | 2.0 | over,under | DET @ BUF
+Jahmyr Gibbs | targets | 5.5 | over,under | DET @ BUF
+James Cook | targets | 3.5 | over,under | DET @ BUF
+Jameson Williams | targets | 6.5 | over,under | DET @ BUF
+Joshua Palmer | targets | 1.5 | over,under | DET @ BUF
+Keon Coleman | targets | 1.5 | over,under | DET @ BUF
+Khalil Shakir | targets | 6.0 | over,under | DET @ BUF
+Lamar Jackson | pass_tds | 1.5 | over,under | NO @ BAL
+Lamar Jackson | pass_yards | 228.5 | over,under | NO @ BAL
+Drake Maye | completions | 20.5 | over,under | PIT @ NE
+Drake Maye | pass_yards | 226.5 | over,under | PIT @ NE
+Drake Maye | rush_yards | 27.5 | over,under | PIT @ NE

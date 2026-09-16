@@ -1,0 +1,2534 @@
+[
+ {
+  "player": "Andrei Iosivas",
+  "player_key": "andrei iosivas",
+  "team": "CIN",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 550,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 550,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Brevin Jordan",
+  "player_key": "brevin jordan",
+  "team": "HOU",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 2500,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 2200,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "British Brooks",
+  "player_key": "british brooks",
+  "team": "HOU",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 3000,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 3000,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Cade Stover",
+  "player_key": "cade stover",
+  "team": "HOU",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 1300,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 1300,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Chase Brown",
+  "player_key": "chase brown",
+  "team": "CIN",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 105,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 100,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "CIN Bengals D/ST",
+  "player_key": "cin bengals d st",
+  "team": "",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 600,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Cincinnati Defense",
+  "player_key": "cincinnati defense",
+  "team": "CIN",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": 700,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "C.J. Stroud",
+  "player_key": "cj stroud",
+  "team": "HOU",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 950,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 850,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Colbie Young",
+  "player_key": "colbie young",
+  "team": "CIN",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 2200,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 2000,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Dalton Schultz",
+  "player_key": "dalton schultz",
+  "team": "HOU",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 300,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 310,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "David Montgomery",
+  "player_key": "david montgomery",
+  "team": "HOU",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -140,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": -150,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Dohnte Meyers",
+  "player_key": "dohnte meyers",
+  "team": "CIN",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 1300,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 900,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Drew Sample",
+  "player_key": "drew sample",
+  "team": "CIN",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 1500,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 1200,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Erick All",
+  "player_key": "erick all",
+  "team": "CIN",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 1200,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 1000,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Foster Moreau",
+  "player_key": "foster moreau",
+  "team": "HOU",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 1000,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 950,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "HOU Texans D/ST",
+  "player_key": "hou texans d st",
+  "team": "",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 550,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Houston Defense",
+  "player_key": "houston defense",
+  "team": "HOU",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": 650,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Ja'Marr Chase",
+  "player_key": "jamarr chase",
+  "team": "CIN",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 115,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 115,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Jared Wayne",
+  "player_key": "jared wayne",
+  "team": "HOU",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 2200,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 2000,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Jaylin Noel",
+  "player_key": "jaylin noel",
+  "team": "HOU",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 380,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 440,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Joe Burrow",
+  "player_key": "joe burrow",
+  "team": "CIN",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 850,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 900,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Kayshon Boutte",
+  "player_key": "kayshon boutte",
+  "team": "HOU",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 360,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 330,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Ke'Shawn Williams",
+  "player_key": "keshawn williams",
+  "team": "CIN",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 2500,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 2000,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Marlin Klein",
+  "player_key": "marlin klein",
+  "team": "HOU",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 2800,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 2200,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Mike Gesicki",
+  "player_key": "mike gesicki",
+  "team": "CIN",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 280,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 310,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Nico Collins",
+  "player_key": "nico collins",
+  "team": "HOU",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 130,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 145,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Samaje Perine",
+  "player_key": "samaje perine",
+  "team": "CIN",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 550,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 600,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Tahj Brooks",
+  "player_key": "tahj brooks",
+  "team": "CIN",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 3000,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 3000,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Tanner Hudson",
+  "player_key": "tanner hudson",
+  "team": "CIN",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 1600,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 1000,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Tee Higgins",
+  "player_key": "tee higgins",
+  "team": "CIN",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 155,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 160,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Woody Marks",
+  "player_key": "woody marks",
+  "team": "HOU",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 225,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 210,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Xavier Hutchinson",
+  "player_key": "xavier hutchinson",
+  "team": "HOU",
+  "game": "CIN @ HOU",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 425,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 380,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "C.J. Stroud",
+  "player_key": "cj stroud",
+  "team": "HOU",
+  "game": "CIN @ HOU",
+  "market": "pass_tds",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -126,
+    "under": -101,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 1.5
+   }
+  ]
+ },
+ {
+  "player": "Joe Burrow",
+  "player_key": "joe burrow",
+  "team": "CIN",
+  "game": "CIN @ HOU",
+  "market": "pass_tds",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -131,
+    "under": 103,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": -122,
+    "under": -108,
+    "line": 1.5
+   }
+  ]
+ },
+ {
+  "player": "Dalton Schultz",
+  "player_key": "dalton schultz",
+  "team": "HOU",
+  "game": "CIN @ HOU",
+  "market": "receptions",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -130,
+    "under": -102,
+    "line": 3.5
+   }
+  ]
+ },
+ {
+  "player": "Ja'Marr Chase",
+  "player_key": "jamarr chase",
+  "team": "CIN",
+  "game": "CIN @ HOU",
+  "market": "receptions",
+  "line": 6.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": 106,
+    "under": -140,
+    "line": 6.5
+   }
+  ]
+ },
+ {
+  "player": "Mike Gesicki",
+  "player_key": "mike gesicki",
+  "team": "CIN",
+  "game": "CIN @ HOU",
+  "market": "receptions",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -102,
+    "under": -130,
+    "line": 2.5
+   }
+  ]
+ },
+ {
+  "player": "Nico Collins",
+  "player_key": "nico collins",
+  "team": "HOU",
+  "game": "CIN @ HOU",
+  "market": "receptions",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": 120,
+    "under": -160,
+    "line": 5.5
+   }
+  ]
+ },
+ {
+  "player": "Tee Higgins",
+  "player_key": "tee higgins",
+  "team": "CIN",
+  "game": "CIN @ HOU",
+  "market": "receptions",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -160,
+    "under": 120,
+    "line": 3.5
+   }
+  ]
+ },
+ {
+  "player": "Xavier Hutchinson",
+  "player_key": "xavier hutchinson",
+  "team": "HOU",
+  "game": "CIN @ HOU",
+  "market": "receptions",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -132,
+    "under": 100,
+    "line": 2.5
+   }
+  ]
+ },
+ {
+  "player": "Amon-Ra St. Brown",
+  "player_key": "amonra st brown",
+  "team": "DET",
+  "game": "DET @ BUF",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 105,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 105,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Brock Wright",
+  "player_key": "brock wright",
+  "team": "DET",
+  "game": "DET @ BUF",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 1100,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 1000,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "BUF Bills D/ST",
+  "player_key": "buf bills d st",
+  "team": "",
+  "game": "DET @ BUF",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 650,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Buffalo Defense",
+  "player_key": "buffalo defense",
+  "team": "BUF",
+  "game": "DET @ BUF",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": 700,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Dalton Kincaid",
+  "player_key": "dalton kincaid",
+  "team": "BUF",
+  "game": "DET @ BUF",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 180,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 175,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Dawson Knox",
+  "player_key": "dawson knox",
+  "team": "BUF",
+  "game": "DET @ BUF",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 550,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 500,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "DET Lions D/ST",
+  "player_key": "det lions d st",
+  "team": "",
+  "game": "DET @ BUF",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 750,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Detroit Defense",
+  "player_key": "detroit defense",
+  "team": "DET",
+  "game": "DET @ BUF",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": 750,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "D.J. Moore",
+  "player_key": "dj moore",
+  "team": "BUF",
+  "game": "DET @ BUF",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 175,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 155,
+    "under": null,
+    "line": 0.5
+   }
+  ],
+  "aliases": [
+   "DJ Moore",
+   "D.J. Moore"
+  ]
+ },
+ {
+  "player": "Greg Dortch",
+  "player_key": "greg dortch",
+  "team": "BUF",
+  "game": "DET @ BUF",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 1600,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Isaac TeSlaa",
+  "player_key": "isaac teslaa",
+  "team": "DET",
+  "game": "DET @ BUF",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 425,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 500,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Jackson Hawes",
+  "player_key": "jackson hawes",
+  "team": "BUF",
+  "game": "DET @ BUF",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 800,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 750,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Jacob Saylors",
+  "player_key": "jacob saylors",
+  "team": "DET",
+  "game": "DET @ BUF",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 1700,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 2500,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Jahmyr Gibbs",
+  "player_key": "jahmyr gibbs",
+  "team": "DET",
+  "game": "DET @ BUF",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -330,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": -320,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "James Cook",
+  "player_key": "james cook",
+  "team": "BUF",
+  "game": "DET @ BUF",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -170,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": -175,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Jameson Williams",
+  "player_key": "jameson williams",
+  "team": "DET",
+  "game": "DET @ BUF",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 205,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 200,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Jared Goff",
+  "player_key": "jared goff",
+  "team": "DET",
+  "game": "DET @ BUF",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 1700,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 1700,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Josh Allen",
+  "player_key": "josh allen",
+  "team": "BUF",
+  "game": "DET @ BUF",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -135,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": -135,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Joshua Palmer",
+  "player_key": "josh palmer",
+  "team": "BUF",
+  "game": "DET @ BUF",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 500,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 550,
+    "under": null,
+    "line": 0.5
+   }
+  ],
+  "aliases": [
+   "Joshua Palmer",
+   "Josh Palmer"
+  ]
+ },
+ {
+  "player": "Keleki Latu",
+  "player_key": "keleki latu",
+  "team": "BUF",
+  "game": "DET @ BUF",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 2000,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 2500,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Keon Coleman",
+  "player_key": "keon coleman",
+  "team": "BUF",
+  "game": "DET @ BUF",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 425,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 380,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Khalil Shakir",
+  "player_key": "khalil shakir",
+  "team": "BUF",
+  "game": "DET @ BUF",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 215,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 210,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Ray Davis",
+  "player_key": "ray davis",
+  "team": "BUF",
+  "game": "DET @ BUF",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 425,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 420,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Sam LaPorta",
+  "player_key": "sam laporta",
+  "team": "DET",
+  "game": "DET @ BUF",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 210,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 220,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Sione Vaki",
+  "player_key": "sione vaki",
+  "team": "DET",
+  "game": "DET @ BUF",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 1100,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 900,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Tay Martin",
+  "player_key": "tay martin",
+  "team": "DET",
+  "game": "DET @ BUF",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 3500,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 3000,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Tom Kennedy",
+  "player_key": "tom kennedy",
+  "team": "DET",
+  "game": "DET @ BUF",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 2800,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 3000,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Tyler Conklin",
+  "player_key": "tyler conklin",
+  "team": "DET",
+  "game": "DET @ BUF",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 2000,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 2500,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Jared Goff",
+  "player_key": "jared goff",
+  "team": "DET",
+  "game": "DET @ BUF",
+  "market": "completions",
+  "line": 24.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 103,
+    "under": -131,
+    "line": 24.5
+   }
+  ]
+ },
+ {
+  "player": "Josh Allen",
+  "player_key": "josh allen",
+  "team": "BUF",
+  "game": "DET @ BUF",
+  "market": "completions",
+  "line": 20.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -132,
+    "under": 103,
+    "line": 20.5
+   }
+  ]
+ },
+ {
+  "player": "Jared Goff",
+  "player_key": "jared goff",
+  "team": "DET",
+  "game": "DET @ BUF",
+  "market": "pass_attempts",
+  "line": 35.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -120,
+    "under": -106,
+    "line": 35.5
+   }
+  ]
+ },
+ {
+  "player": "Josh Allen",
+  "player_key": "josh allen",
+  "team": "BUF",
+  "game": "DET @ BUF",
+  "market": "pass_attempts",
+  "line": 30.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -122,
+    "under": -104,
+    "line": 30.5
+   }
+  ]
+ },
+ {
+  "player": "Jared Goff",
+  "player_key": "jared goff",
+  "team": "DET",
+  "game": "DET @ BUF",
+  "market": "pass_tds",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -143,
+    "under": 112,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": -130,
+    "under": -102,
+    "line": 1.5
+   }
+  ]
+ },
+ {
+  "player": "Josh Allen",
+  "player_key": "josh allen",
+  "team": "BUF",
+  "game": "DET @ BUF",
+  "market": "pass_tds",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -169,
+    "under": 132,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": -162,
+    "under": 122,
+    "line": 1.5
+   }
+  ]
+ },
+ {
+  "player": "Amon-Ra St. Brown",
+  "player_key": "amonra st brown",
+  "team": "DET",
+  "game": "DET @ BUF",
+  "market": "receptions",
+  "line": 7.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -111,
+    "under": -115,
+    "line": 7.5
+   },
+   {
+    "book": "fd",
+    "over": -106,
+    "under": -125,
+    "line": 7.5
+   }
+  ]
+ },
+ {
+  "player": "Dalton Kincaid",
+  "player_key": "dalton kincaid",
+  "team": "BUF",
+  "game": "DET @ BUF",
+  "market": "receptions",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -161,
+    "under": 126,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -162,
+    "under": 122,
+    "line": 3.5
+   }
+  ]
+ },
+ {
+  "player": "Dawson Knox",
+  "player_key": "dawson knox",
+  "team": "BUF",
+  "game": "DET @ BUF",
+  "market": "receptions",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 128,
+    "under": -163,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": 124,
+    "under": -166,
+    "line": 1.5
+   }
+  ]
+ },
+ {
+  "player": "D.J. Moore",
+  "player_key": "dj moore",
+  "team": "BUF",
+  "game": "DET @ BUF",
+  "market": "receptions",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 106,
+    "under": -135,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": -112,
+    "under": -118,
+    "line": 4.5
+   }
+  ],
+  "aliases": [
+   "DJ Moore",
+   "D.J. Moore"
+  ]
+ },
+ {
+  "player": "Isaac TeSlaa",
+  "player_key": "isaac teslaa",
+  "team": "DET",
+  "game": "DET @ BUF",
+  "market": "receptions",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 119,
+    "under": -152,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": 118,
+    "under": -158,
+    "line": 1.5
+   }
+  ]
+ },
+ {
+  "player": "Jahmyr Gibbs",
+  "player_key": "jahmyr gibbs",
+  "team": "DET",
+  "game": "DET @ BUF",
+  "market": "receptions",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 115,
+    "under": -146,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": 110,
+    "under": -146,
+    "line": 4.5
+   }
+  ]
+ },
+ {
+  "player": "Jameson Williams",
+  "player_key": "jameson williams",
+  "team": "DET",
+  "game": "DET @ BUF",
+  "market": "receptions",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -192,
+    "under": 142,
+    "line": 3.5
+   }
+  ]
+ },
+ {
+  "player": "Jameson Williams",
+  "player_key": "jameson williams",
+  "team": "DET",
+  "game": "DET @ BUF",
+  "market": "receptions",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 130,
+    "under": -166,
+    "line": 4.5
+   }
+  ]
+ },
+ {
+  "player": "Joshua Palmer",
+  "player_key": "josh palmer",
+  "team": "BUF",
+  "game": "DET @ BUF",
+  "market": "receptions",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 157,
+    "under": -202,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": 148,
+    "under": -200,
+    "line": 1.5
+   }
+  ],
+  "aliases": [
+   "Joshua Palmer",
+   "Josh Palmer"
+  ]
+ },
+ {
+  "player": "Keon Coleman",
+  "player_key": "keon coleman",
+  "team": "BUF",
+  "game": "DET @ BUF",
+  "market": "receptions",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 154,
+    "under": -198,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": 172,
+    "under": -235,
+    "line": 1.5
+   }
+  ]
+ },
+ {
+  "player": "Khalil Shakir",
+  "player_key": "khalil shakir",
+  "team": "BUF",
+  "game": "DET @ BUF",
+  "market": "receptions",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 112,
+    "under": -143,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": 102,
+    "under": -136,
+    "line": 4.5
+   }
+  ]
+ },
+ {
+  "player": "Sam LaPorta",
+  "player_key": "sam laporta",
+  "team": "DET",
+  "game": "DET @ BUF",
+  "market": "receptions",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -103,
+    "under": -124,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": 102,
+    "under": -136,
+    "line": 4.5
+   }
+  ]
+ },
+ {
+  "player": "Jahmyr Gibbs",
+  "player_key": "jahmyr gibbs",
+  "team": "DET",
+  "game": "DET @ BUF",
+  "market": "rush_attempts",
+  "line": 19.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -102,
+    "under": -125,
+    "line": 19.5
+   }
+  ]
+ },
+ {
+  "player": "James Cook",
+  "player_key": "james cook",
+  "team": "BUF",
+  "game": "DET @ BUF",
+  "market": "rush_attempts",
+  "line": 18.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -102,
+    "under": -125,
+    "line": 18.5
+   }
+  ]
+ },
+ {
+  "player": "Josh Allen",
+  "player_key": "josh allen",
+  "team": "BUF",
+  "game": "DET @ BUF",
+  "market": "rush_attempts",
+  "line": 7.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 116,
+    "under": -148,
+    "line": 7.5
+   }
+  ]
+ },
+ {
+  "player": "Baltimore Defense",
+  "player_key": "baltimore defense",
+  "team": "BAL",
+  "game": "NO @ BAL",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": 650,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Chris Olave",
+  "player_key": "chris olave",
+  "team": "NO",
+  "game": "NO @ BAL",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 170,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 170,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Derrick Henry",
+  "player_key": "derrick henry",
+  "team": "BAL",
+  "game": "NO @ BAL",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -290,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": -320,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Devaughn Vele",
+  "player_key": "devaughn vele",
+  "team": "NO",
+  "game": "NO @ BAL",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 310,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 310,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Lamar Jackson",
+  "player_key": "lamar jackson",
+  "team": "BAL",
+  "game": "NO @ BAL",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 185,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 170,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "New Orleans Defense",
+  "player_key": "new orleans defense",
+  "team": "NO",
+  "game": "NO @ BAL",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": 1100,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Travis Etienne Jr.",
+  "player_key": "travis etienne",
+  "team": "NO",
+  "game": "NO @ BAL",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -105,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Tyler Shough",
+  "player_key": "tyler shough",
+  "team": "NO",
+  "game": "NO @ BAL",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 425,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 450,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Lamar Jackson",
+  "player_key": "lamar jackson",
+  "team": "BAL",
+  "game": "NO @ BAL",
+  "market": "completions",
+  "line": 19.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -104,
+    "under": -122,
+    "line": 19.5
+   }
+  ]
+ },
+ {
+  "player": "Tyler Shough",
+  "player_key": "tyler shough",
+  "team": "NO",
+  "game": "NO @ BAL",
+  "market": "completions",
+  "line": 21.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -124,
+    "under": -102,
+    "line": 21.5
+   }
+  ]
+ },
+ {
+  "player": "Lamar Jackson",
+  "player_key": "lamar jackson",
+  "team": "BAL",
+  "game": "NO @ BAL",
+  "market": "pass_attempts",
+  "line": 28.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -121,
+    "under": -105,
+    "line": 28.5
+   }
+  ]
+ },
+ {
+  "player": "Tyler Shough",
+  "player_key": "tyler shough",
+  "team": "NO",
+  "game": "NO @ BAL",
+  "market": "pass_attempts",
+  "line": 34.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -109,
+    "under": -116,
+    "line": 34.5
+   }
+  ]
+ },
+ {
+  "player": "Lamar Jackson",
+  "player_key": "lamar jackson",
+  "team": "BAL",
+  "game": "NO @ BAL",
+  "market": "pass_tds",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -128,
+    "under": 101,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -122,
+    "line": 1.5
+   }
+  ]
+ },
+ {
+  "player": "Tyler Shough",
+  "player_key": "tyler shough",
+  "team": "NO",
+  "game": "NO @ BAL",
+  "market": "pass_tds",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 144,
+    "under": -185,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": 162,
+    "under": -220,
+    "line": 1.5
+   }
+  ]
+ },
+ {
+  "player": "Chris Olave",
+  "player_key": "chris olave",
+  "team": "NO",
+  "game": "NO @ BAL",
+  "market": "receptions",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -112,
+    "line": 5.5
+   }
+  ]
+ },
+ {
+  "player": "Devaughn Vele",
+  "player_key": "devaughn vele",
+  "team": "NO",
+  "game": "NO @ BAL",
+  "market": "receptions",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 3.5
+   }
+  ]
+ },
+ {
+  "player": "Aaron Rodgers",
+  "player_key": "aaron rodgers",
+  "team": "PIT",
+  "game": "PIT @ NE",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 1700,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 1600,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Demario Douglas",
+  "player_key": "demario douglas",
+  "team": "NE",
+  "game": "PIT @ NE",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 320,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 350,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "DK Metcalf",
+  "player_key": "dk metcalf",
+  "team": "PIT",
+  "game": "PIT @ NE",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 245,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 270,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Drake Maye",
+  "player_key": "drake maye",
+  "team": "NE",
+  "game": "PIT @ NE",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 210,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 180,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Hunter Henry",
+  "player_key": "hunter henry",
+  "team": "NE",
+  "game": "PIT @ NE",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 235,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 200,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Jaylen Warren",
+  "player_key": "jaylen warren",
+  "team": "PIT",
+  "game": "PIT @ NE",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 170,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 160,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Mack Hollins",
+  "player_key": "mack hollins",
+  "team": "NE",
+  "game": "PIT @ NE",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 225,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 250,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Michael Pittman Jr.",
+  "player_key": "michael pittman",
+  "team": "PIT",
+  "game": "PIT @ NE",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 400,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 430,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "New England Defense",
+  "player_key": "new england defense",
+  "team": "NE",
+  "game": "PIT @ NE",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": 750,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Pat Freiermuth",
+  "player_key": "pat freiermuth",
+  "team": "PIT",
+  "game": "PIT @ NE",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 500,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 500,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Pittsburgh Defense",
+  "player_key": "pittsburgh defense",
+  "team": "PIT",
+  "game": "PIT @ NE",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": 700,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Rhamondre Stevenson",
+  "player_key": "rhamondre stevenson",
+  "team": "NE",
+  "game": "PIT @ NE",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -105,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": -105,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Rico Dowdle",
+  "player_key": "rico dowdle",
+  "team": "PIT",
+  "game": "PIT @ NE",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 165,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 165,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Romeo Doubs",
+  "player_key": "romeo doubs",
+  "team": "NE",
+  "game": "PIT @ NE",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 260,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": 260,
+    "under": null,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Aaron Rodgers",
+  "player_key": "aaron rodgers",
+  "team": "PIT",
+  "game": "PIT @ NE",
+  "market": "completions",
+  "line": 20.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -119,
+    "under": -107,
+    "line": 20.5
+   }
+  ]
+ },
+ {
+  "player": "Drake Maye",
+  "player_key": "drake maye",
+  "team": "NE",
+  "game": "PIT @ NE",
+  "market": "completions",
+  "line": 20.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -112,
+    "under": -114,
+    "line": 20.5
+   }
+  ]
+ },
+ {
+  "player": "Aaron Rodgers",
+  "player_key": "aaron rodgers",
+  "team": "PIT",
+  "game": "PIT @ NE",
+  "market": "pass_attempts",
+  "line": 34.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -103,
+    "under": -124,
+    "line": 34.5
+   }
+  ]
+ },
+ {
+  "player": "Drake Maye",
+  "player_key": "drake maye",
+  "team": "NE",
+  "game": "PIT @ NE",
+  "market": "pass_attempts",
+  "line": 29.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -120,
+    "under": -106,
+    "line": 29.5
+   }
+  ]
+ },
+ {
+  "player": "Aaron Rodgers",
+  "player_key": "aaron rodgers",
+  "team": "PIT",
+  "game": "PIT @ NE",
+  "market": "pass_tds",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -271,
+    "under": 207,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": -245,
+    "under": 178,
+    "line": 0.5
+   }
+  ]
+ },
+ {
+  "player": "Drake Maye",
+  "player_key": "drake maye",
+  "team": "NE",
+  "game": "PIT @ NE",
+  "market": "pass_tds",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 122,
+    "under": -156,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": 116,
+    "under": -154,
+    "line": 1.5
+   }
+  ]
+ }
+]

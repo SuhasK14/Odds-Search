@@ -1,0 +1,8 @@
+# Boom / Sports Predictor availability, built from the Sunday screen recording.
+# Format:  Player Name | market | line | sides
+# sides = which buttons are actually tappable. If the app only offers the side
+# we do not want, the leg is dead and gets filtered out automatically.
+Tee Higgins | receptions | 4.5 | over,under
+Jameson Williams | receptions | 3.5 | over,under
+Justin Jefferson | receptions | 5.5 | over
+Dak Prescott | pass_tds | 1.5 | over,under

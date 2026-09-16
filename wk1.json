@@ -1,0 +1,14 @@
+[
+ {"player":"Dak Prescott","team":"DAL","game":"DAL @ NYG","market":"pass_tds","line":1.5,
+  "quotes":[{"book":"dk","over":-152,"under":117},{"book":"fd","over":-150,"under":115}]},
+ {"player":"Justin Jefferson","team":"MIN","game":"MIN vs GB","market":"receptions","line":5.5,
+  "quotes":[{"book":"dk","over":-148,"under":114},{"book":"fd","over":-145,"under":112}]},
+ {"player":"Jameson Williams","team":"DET","game":"DET @ GB","market":"receptions","line":3.5,
+  "quotes":[{"book":"dk","over":-144,"under":111},{"book":"fd","over":-142,"under":110}]},
+ {"player":"Tee Higgins","team":"CIN","game":"CIN vs CLE","market":"receptions","line":4.5,
+  "quotes":[{"book":"dk","over":-143,"under":110},{"book":"fd","over":-140,"under":108}]},
+ {"player":"Breece Hall","team":"NYJ","game":"NYJ @ PIT","market":"receptions","line":2.5,
+  "quotes":[{"book":"dk","over":-138,"under":107}]},
+ {"player":"Tucker Kraft","team":"GB","game":"DET @ GB","market":"receptions","line":4.5,
+  "quotes":[{"book":"dk","over":128,"under":-166}]}
+]

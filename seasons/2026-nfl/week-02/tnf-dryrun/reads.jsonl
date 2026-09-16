@@ -1,0 +1,115 @@
+# Pick & Spin, NFL tab, recorded 2026-09-16 00:24. Read by Claude from frames/*.png.
+# game is written AWAY @ HOME. sides = tappable buttons. Non-vocabulary props are transcribed too.
+{"frame": "0001.png", "player": "Josh Allen", "market": "Passing Yds", "line": 250.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0001.png", "player": "Josh Allen", "market": "Fantasy Points", "line": 23, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0001.png", "player": "Josh Allen", "market": "Rushing Yds", "line": 31.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0006.png", "player": "Josh Allen", "market": "Passing Yds", "line": 250.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0006.png", "player": "Josh Allen", "market": "Rushing Yds", "line": 31.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0006.png", "player": "Josh Allen", "market": "Completions", "line": 20.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0006.png", "player": "Josh Allen", "market": "Passing Attempts", "line": 30.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0006.png", "player": "Josh Allen", "market": "Passing + Rushing Yards", "line": 286.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0006.png", "player": "Josh Allen", "market": "Completion Percentage", "line": 66.2, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0006.png", "player": "Josh Allen", "market": "Longest Pass Completion", "line": 39.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0006.png", "player": "Josh Allen", "market": "Rushing + Receiving TDs", "line": 0.5, "sides": "over", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0006.png", "player": "Josh Allen", "market": "Longest Rush", "line": 13.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0006.png", "player": "Josh Allen", "market": "Completions in 1st 10 Attempts", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0001.png", "player": "Jared Goff", "market": "Passing Yds", "line": 270.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0001.png", "player": "Jared Goff", "market": "Passing TDs", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0001.png", "player": "Jared Goff", "market": "Fantasy Points", "line": 16.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0016.png", "player": "Jared Goff", "market": "Passing Yds", "line": 270.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0016.png", "player": "Jared Goff", "market": "Passing TDs", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0016.png", "player": "Jared Goff", "market": "Rushing Yds", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0016.png", "player": "Jared Goff", "market": "Completions", "line": 24.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0016.png", "player": "Jared Goff", "market": "Passing Attempts", "line": 35.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0016.png", "player": "Jared Goff", "market": "Interceptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0016.png", "player": "Jared Goff", "market": "Passing + Rushing Yards", "line": 267.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0016.png", "player": "Jared Goff", "market": "Completion Percentage", "line": 64.9, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0016.png", "player": "Jared Goff", "market": "Longest Pass Completion", "line": 34.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0016.png", "player": "Jared Goff", "market": "Longest Rush", "line": 0.5, "sides": "over,under", "confidence": "low", "game": "DET @ BUF", "note": "row cut off at bottom of sheet"}
+{"frame": "0011.png", "player": "Jahmyr Gibbs", "market": "Rushing Yds", "line": 90.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0011.png", "player": "Jahmyr Gibbs", "market": "Receiving Yds", "line": 29.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0011.png", "player": "Jahmyr Gibbs", "market": "Rushing Attempts", "line": 19.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0021.png", "player": "Jahmyr Gibbs", "market": "Rushing Yds", "line": 90.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0021.png", "player": "Jahmyr Gibbs", "market": "Receiving Yds", "line": 29.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0021.png", "player": "Jahmyr Gibbs", "market": "Rushing Attempts", "line": 19.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0021.png", "player": "Jahmyr Gibbs", "market": "Fantasy Points", "line": 22, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0021.png", "player": "Jahmyr Gibbs", "market": "Longest Rush", "line": 19.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0021.png", "player": "Jahmyr Gibbs", "market": "Targets", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0021.png", "player": "Jahmyr Gibbs", "market": "Rushing + Receiving Yards", "line": 125.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0021.png", "player": "Jahmyr Gibbs", "market": "Longest Reception", "line": 13.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0029.png", "player": "James Cook", "market": "Rushing Yds", "line": 78.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0029.png", "player": "James Cook", "market": "Receiving Yds", "line": 15.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0029.png", "player": "James Cook", "market": "Rushing Attempts", "line": 17.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0029.png", "player": "James Cook", "market": "Fantasy Points", "line": 15.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0029.png", "player": "James Cook", "market": "Longest Rush", "line": 14.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0029.png", "player": "James Cook", "market": "Targets", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0029.png", "player": "James Cook", "market": "Rushing + Receiving Yards", "line": 95.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0029.png", "player": "James Cook", "market": "Longest Reception", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0029.png", "player": "James Cook", "market": "Rush Yds in 1st 5 Attempts", "line": 22.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0029.png", "player": "James Cook", "market": "First Reception Yds", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0035.png", "player": "Amon-Ra St. Brown", "market": "Receiving Yds", "line": 82.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0035.png", "player": "Amon-Ra St. Brown", "market": "Receptions", "line": 7.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0035.png", "player": "Amon-Ra St. Brown", "market": "Fantasy Points", "line": 18.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0035.png", "player": "Amon-Ra St. Brown", "market": "Targets", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0035.png", "player": "Amon-Ra St. Brown", "market": "Longest Reception", "line": 21.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0035.png", "player": "Amon-Ra St. Brown", "market": "Rec Yds in 1st 2 Receptions", "line": 18.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0035.png", "player": "Amon-Ra St. Brown", "market": "First Reception Yds", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0041.png", "player": "DJ Moore", "market": "Receiving Yds", "line": 59.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0041.png", "player": "DJ Moore", "market": "Receptions", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0041.png", "player": "DJ Moore", "market": "Fantasy Points", "line": 12.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0041.png", "player": "DJ Moore", "market": "Targets", "line": 7, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0041.png", "player": "DJ Moore", "market": "Longest Reception", "line": 23.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0041.png", "player": "DJ Moore", "market": "Rec Yds in 1st 2 Receptions", "line": 21.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0041.png", "player": "DJ Moore", "market": "First Reception Yds", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0045.png", "player": "Jameson Williams", "market": "Receiving Yds", "line": 59.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0045.png", "player": "Jameson Williams", "market": "Fantasy Points", "line": 12, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0045.png", "player": "Jameson Williams", "market": "Targets", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0045.png", "player": "Jameson Williams", "market": "Longest Reception", "line": 25.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0045.png", "player": "Jameson Williams", "market": "Rec Yds in 1st 2 Receptions", "line": 23.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0045.png", "player": "Jameson Williams", "market": "First Reception Yds", "line": 11.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0051.png", "player": "Dalton Kincaid", "market": "Receiving Yds", "line": 51.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0051.png", "player": "Dalton Kincaid", "market": "Fantasy Points", "line": 11, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0051.png", "player": "Dalton Kincaid", "market": "Targets", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0051.png", "player": "Dalton Kincaid", "market": "Longest Reception", "line": 21.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0051.png", "player": "Dalton Kincaid", "market": "Rec Yds in 1st 2 Receptions", "line": 19.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0051.png", "player": "Dalton Kincaid", "market": "First Reception Yds", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0053.png", "player": "Khalil Shakir", "market": "Receiving Yds", "line": 44.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF", "note": "View more (3) never opened"}
+{"frame": "0053.png", "player": "Khalil Shakir", "market": "Fantasy Points", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0053.png", "player": "Khalil Shakir", "market": "Targets", "line": 6, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0056.png", "player": "Sam LaPorta", "market": "Receiving Yds", "line": 45.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF", "note": "View more (4) never opened"}
+{"frame": "0056.png", "player": "Sam LaPorta", "market": "Fantasy Points", "line": 11, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0056.png", "player": "Sam LaPorta", "market": "Receptions", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0059.png", "player": "Joshua Palmer", "market": "Receiving Yds", "line": 13.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0059.png", "player": "Joshua Palmer", "market": "Fantasy Points", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0059.png", "player": "Joshua Palmer", "market": "Targets", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0059.png", "player": "Joshua Palmer", "market": "Longest Reception", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0062.png", "player": "Isaac TeSlaa", "market": "Receiving Yds", "line": 15.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0062.png", "player": "Isaac TeSlaa", "market": "Fantasy Points", "line": 4, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0062.png", "player": "Isaac TeSlaa", "market": "Targets", "line": 2, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0062.png", "player": "Isaac TeSlaa", "market": "Longest Reception", "line": 11.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0065.png", "player": "Dawson Knox", "market": "Receiving Yds", "line": 12.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0065.png", "player": "Dawson Knox", "market": "Fantasy Points", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0065.png", "player": "Dawson Knox", "market": "Targets", "line": 2, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0065.png", "player": "Dawson Knox", "market": "Longest Reception", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0065.png", "player": "Keon Coleman", "market": "Receiving Yds", "line": 11.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF", "note": "View more (2) never opened"}
+{"frame": "0065.png", "player": "Keon Coleman", "market": "Fantasy Points", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0065.png", "player": "Keon Coleman", "market": "Targets", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0068.png", "player": "Tyler Bass", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0068.png", "player": "Tyler Bass", "market": "Kicker Points", "line": 7.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0068.png", "player": "Jake Bates", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0068.png", "player": "Jake Bates", "market": "Kicker Points", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0068.png", "player": "Aidan Hutchinson", "market": "Sacks", "line": 0.5, "sides": "over", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0071.png", "player": "Jack Fox", "market": "Punts", "line": 3, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0071.png", "player": "Brock Wright", "market": "Receiving Yds", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0071.png", "player": "Tommy Doman", "market": "Punts", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0071.png", "player": "Lamar Jackson", "market": "Passing Yds", "line": 228.5, "sides": "over,under", "confidence": "high", "game": "NO @ BAL", "note": "View more (6) never opened"}
+{"frame": "0071.png", "player": "Lamar Jackson", "market": "Passing TDs", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "NO @ BAL"}
+{"frame": "0071.png", "player": "Lamar Jackson", "market": "Fantasy Points", "line": 21, "sides": "over,under", "confidence": "high", "game": "NO @ BAL"}
+{"frame": "0074.png", "player": "Drake Maye", "market": "Passing Yds", "line": 226.5, "sides": "over,under", "confidence": "high", "game": "PIT @ NE", "note": "View more (4) never opened"}
+{"frame": "0074.png", "player": "Drake Maye", "market": "Rushing Yds", "line": 27.5, "sides": "over,under", "confidence": "high", "game": "PIT @ NE"}
+{"frame": "0074.png", "player": "Drake Maye", "market": "Completions", "line": 20.5, "sides": "over,under", "confidence": "high", "game": "PIT @ NE"}
+{"frame": "0077.png", "player": "Joe Burrow", "market": "Passing Yds", "line": 250.5, "sides": "over,under", "confidence": "high", "game": "CIN @ HOU", "note": "View more (4) never opened; recording ends here"}
+{"frame": "0077.png", "player": "Joe Burrow", "market": "Passing TDs", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "CIN @ HOU"}
+{"frame": "0077.png", "player": "Joe Burrow", "market": "Rushing Yds", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "CIN @ HOU"}
+{"frame": "0023.png", "player": "Jahmyr Gibbs", "market": "Rush Yds in 1st 5 Attempts", "line": 22.5, "sides": "over,under", "confidence": "high", "game": "DET @ BUF"}
+{"frame": "0023.png", "player": "Jahmyr Gibbs", "market": "Rec Yds in 1st 2 Receptions", "line": 12.5, "sides": "over,under", "confidence": "low", "game": "DET @ BUF", "note": "row cut off at bottom of sheet; one more row (12 of 12) never visible"}

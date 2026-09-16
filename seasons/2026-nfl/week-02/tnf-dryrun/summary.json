@@ -1,0 +1,183 @@
+{
+ "week": 2,
+ "season": "2026-nfl",
+ "props_in_app": 49,
+ "book_records": 125,
+ "matched": 13,
+ "matched_two_books": 7,
+ "unmatched": [
+  [
+   "James Cook",
+   "rush_attempts",
+   17.5,
+   "line mismatch: app 17.5, books dk 18.5. No two-way alternate line exists at either book, so no estimate."
+  ],
+  [
+   "Amon-Ra St. Brown",
+   "targets",
+   10.5,
+   "targets are not priced at DK or FD"
+  ],
+  [
+   "DJ Moore",
+   "targets",
+   7.0,
+   "targets are not priced at DK or FD"
+  ],
+  [
+   "Dalton Kincaid",
+   "targets",
+   5.5,
+   "targets are not priced at DK or FD"
+  ],
+  [
+   "Dawson Knox",
+   "targets",
+   2.0,
+   "targets are not priced at DK or FD"
+  ],
+  [
+   "Isaac TeSlaa",
+   "targets",
+   2.0,
+   "targets are not priced at DK or FD"
+  ],
+  [
+   "Jahmyr Gibbs",
+   "targets",
+   5.5,
+   "targets are not priced at DK or FD"
+  ],
+  [
+   "James Cook",
+   "targets",
+   3.5,
+   "targets are not priced at DK or FD"
+  ],
+  [
+   "Jameson Williams",
+   "targets",
+   6.5,
+   "targets are not priced at DK or FD"
+  ],
+  [
+   "Joshua Palmer",
+   "targets",
+   1.5,
+   "targets are not priced at DK or FD"
+  ],
+  [
+   "Keon Coleman",
+   "targets",
+   1.5,
+   "targets are not priced at DK or FD"
+  ],
+  [
+   "Khalil Shakir",
+   "targets",
+   6.0,
+   "targets are not priced at DK or FD"
+  ]
+ ],
+ "legs_priced": 13,
+ "legs_clear": 0,
+ "threshold": 0.56,
+ "structure": "only 0 qualifying legs -- do not force entries",
+ "tickets": [],
+ "p_zero": null,
+ "roi": null,
+ "kelly_quarter": null,
+ "board": [
+  {
+   "leg": "Jared Goff OVER 1.5 pass_tds",
+   "true_p": 0.5416,
+   "spread": 0.0269,
+   "books": 2,
+   "opportunity": 32
+  },
+  {
+   "leg": "Josh Allen OVER 20.5 completions",
+   "true_p": 0.536,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 22
+  },
+  {
+   "leg": "Jared Goff UNDER 24.5 completions",
+   "true_p": 0.5351,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 22
+  },
+  {
+   "leg": "Josh Allen OVER 0.5 anytime_td",
+   "true_p": 0.5319,
+   "spread": 0.0,
+   "books": 2,
+   "opportunity": 6
+  },
+  {
+   "leg": "Sam LaPorta UNDER 4.5 receptions",
+   "true_p": 0.5298,
+   "spread": 0.0161,
+   "books": 2,
+   "opportunity": 6
+  },
+  {
+   "leg": "Joe Burrow OVER 1.5 pass_tds",
+   "true_p": 0.5247,
+   "spread": 0.021,
+   "books": 2,
+   "opportunity": 32
+  },
+  {
+   "leg": "DJ Moore UNDER 4.5 receptions",
+   "true_p": 0.524,
+   "spread": 0.0359,
+   "books": 2,
+   "opportunity": 6
+  },
+  {
+   "leg": "Jahmyr Gibbs UNDER 19.5 rush_attempts",
+   "true_p": 0.5239,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 15
+  },
+  {
+   "leg": "Josh Allen OVER 30.5 pass_attempts",
+   "true_p": 0.5188,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 32
+  },
+  {
+   "leg": "Jared Goff OVER 35.5 pass_attempts",
+   "true_p": 0.5146,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 32
+  },
+  {
+   "leg": "Amon-Ra St. Brown UNDER 7.5 receptions",
+   "true_p": 0.5117,
+   "spread": 0.015,
+   "books": 2,
+   "opportunity": 6
+  },
+  {
+   "leg": "Lamar Jackson OVER 1.5 pass_tds",
+   "true_p": 0.508,
+   "spread": 0.0444,
+   "books": 2,
+   "opportunity": 32
+  },
+  {
+   "leg": "Drake Maye UNDER 20.5 completions",
+   "true_p": 0.5021,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 22
+  }
+ ]
+}

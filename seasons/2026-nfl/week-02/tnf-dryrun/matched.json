@@ -1,0 +1,307 @@
+[
+ {
+  "player": "Joe Burrow",
+  "player_key": "joe burrow",
+  "team": "CIN",
+  "game": "CIN @ HOU",
+  "market": "pass_tds",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -131,
+    "under": 103,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": -122,
+    "under": -108,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Josh Allen",
+  "player_key": "josh allen",
+  "team": "BUF",
+  "game": "DET @ BUF",
+  "market": "anytime_td",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -135,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": -135,
+    "under": null,
+    "line": 0.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Jared Goff",
+  "player_key": "jared goff",
+  "team": "DET",
+  "game": "DET @ BUF",
+  "market": "completions",
+  "line": 24.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 103,
+    "under": -131,
+    "line": 24.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Josh Allen",
+  "player_key": "josh allen",
+  "team": "BUF",
+  "game": "DET @ BUF",
+  "market": "completions",
+  "line": 20.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -132,
+    "under": 103,
+    "line": 20.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jared Goff",
+  "player_key": "jared goff",
+  "team": "DET",
+  "game": "DET @ BUF",
+  "market": "pass_attempts",
+  "line": 35.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -120,
+    "under": -106,
+    "line": 35.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Josh Allen",
+  "player_key": "josh allen",
+  "team": "BUF",
+  "game": "DET @ BUF",
+  "market": "pass_attempts",
+  "line": 30.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -122,
+    "under": -104,
+    "line": 30.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jared Goff",
+  "player_key": "jared goff",
+  "team": "DET",
+  "game": "DET @ BUF",
+  "market": "pass_tds",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -143,
+    "under": 112,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": -130,
+    "under": -102,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Amon-Ra St. Brown",
+  "player_key": "amonra st brown",
+  "team": "DET",
+  "game": "DET @ BUF",
+  "market": "receptions",
+  "line": 7.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -111,
+    "under": -115,
+    "line": 7.5
+   },
+   {
+    "book": "fd",
+    "over": -106,
+    "under": -125,
+    "line": 7.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "DJ Moore",
+  "player_key": "dj moore",
+  "team": "BUF",
+  "game": "DET @ BUF",
+  "market": "receptions",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 106,
+    "under": -135,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": -112,
+    "under": -118,
+    "line": 4.5
+   }
+  ],
+  "aliases": [
+   "DJ Moore",
+   "D.J. Moore"
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Sam LaPorta",
+  "player_key": "sam laporta",
+  "team": "DET",
+  "game": "DET @ BUF",
+  "market": "receptions",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -103,
+    "under": -124,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": 102,
+    "under": -136,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jahmyr Gibbs",
+  "player_key": "jahmyr gibbs",
+  "team": "DET",
+  "game": "DET @ BUF",
+  "market": "rush_attempts",
+  "line": 19.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -102,
+    "under": -125,
+    "line": 19.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Lamar Jackson",
+  "player_key": "lamar jackson",
+  "team": "BAL",
+  "game": "NO @ BAL",
+  "market": "pass_tds",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -128,
+    "under": 101,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -122,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Drake Maye",
+  "player_key": "drake maye",
+  "team": "NE",
+  "game": "PIT @ NE",
+  "market": "completions",
+  "line": 20.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -112,
+    "under": -114,
+    "line": 20.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ }
+]

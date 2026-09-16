@@ -1,0 +1,14 @@
+player,game,market,line,side,true_p,spread,books,opportunity,pref,one_sided
+Jared Goff,DET @ BUF,pass_tds,1.5,over,0.5416,0.0269,2,32,2,0
+Josh Allen,DET @ BUF,completions,20.5,over,0.5360,0.0000,1,22,7,0
+Jared Goff,DET @ BUF,completions,24.5,under,0.5351,0.0000,1,22,7,0
+Josh Allen,DET @ BUF,anytime_td,0.5,over,0.5319,0.0000,2,6,4,1
+Sam LaPorta,DET @ BUF,receptions,4.5,under,0.5298,0.0161,2,6,1,0
+Joe Burrow,CIN @ HOU,pass_tds,1.5,over,0.5247,0.0210,2,32,2,0
+DJ Moore,DET @ BUF,receptions,4.5,under,0.5240,0.0359,2,6,1,0
+Jahmyr Gibbs,DET @ BUF,rush_attempts,19.5,under,0.5239,0.0000,1,15,6,0
+Josh Allen,DET @ BUF,pass_attempts,30.5,over,0.5188,0.0000,1,32,5,0
+Jared Goff,DET @ BUF,pass_attempts,35.5,over,0.5146,0.0000,1,32,5,0
+Amon-Ra St. Brown,DET @ BUF,receptions,7.5,under,0.5117,0.0150,2,6,1,0
+Lamar Jackson,NO @ BAL,pass_tds,1.5,over,0.5080,0.0444,2,32,2,0
+Drake Maye,PIT @ NE,completions,20.5,under,0.5021,0.0000,1,22,7,0
