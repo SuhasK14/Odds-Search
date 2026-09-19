@@ -88,7 +88,8 @@ NON_VOCAB = [
     "rushing + receiving", "game high",
     "in 1st",            # "Completions in 1st 10 Attempts", "Rec Yds in 1st 2 Receptions", ...
     "first reception", "first rush", "first pass", "first catch", "first carry",
-    "kicker points", "kicking points", "punts", "sacks", "tackles",
+    "kicker points", "kicking points", "extra points made", "punts", "sacks",
+    "tackles", "assists",
 ]
 VOCAB = set(MARKETS) | {"anytime_td", "targets"}
 

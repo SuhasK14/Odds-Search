@@ -1,29 +1,36 @@
-90 legs priced; top 20 shown. Tickets use legs at or above 56% (break-even 53.0%, multiplier 6.70x).
+5 hand-picked legs (break-even 53.0%, multiplier 6.70x).
 1-sided legs: true_p = implied(yes price) / 1.08. That divisor is an assumption (--one-sided-overround), not a measurement.
 pref = Suhas's market preference rank: 1=receptions, 2=pass_tds, 3=targets, 4=anytime_td, 5=pass_attempts, 6=rush_attempts, 7=interceptions, 8=field_goals_made, 9=completions
 
 #  leg                                            true   spr  bk  opp  pref  flags
 ----------------------------------------------------------------------------------
-1  Kyren Williams OVER 0.5 anytime_td            56.6%  2.1   2    6     4  1-sided
-2  D'Andre Swift OVER 0.5 anytime_td             56.3%  0.0   2    6     4  1-sided
-3  Jonathan Taylor OVER 0.5 anytime_td           55.9%  2.2   2    6     4  1-sided
-4  Justin Jefferson OVER 5.5 receptions          55.9%  0.0   1    6     1  1 book
-5  Xavier Worthy UNDER 3.5 receptions            55.6%  2.0   2    6     1  
-6  Omarion Hampton OVER 0.5 anytime_td           54.8%  0.0   2    6     4  1-sided
-7  David Montgomery OVER 0.5 anytime_td          54.8%  1.5   2    6     4  1-sided
-8  Ja'Marr Chase UNDER 6.5 receptions            54.6%  0.0   1    6     1  1 book
-9  Luther Burden III UNDER 4.5 receptions        54.6%  0.0   1    6     1  1 book
-10 Bo Nix UNDER 1.5 pass_tds                     54.4%  4.0   2   32     2  thin
-11 Aaron Jones OVER 0.5 anytime_td               54.3%  3.9   2    6     4  1-sided thin
-12 Davante Adams OVER 3.5 receptions             54.2%  0.9   2    6     1  
-13 Jared Goff OVER 1.5 pass_tds                  54.2%  2.7   2   32     2  
-14 Puka Nacua OVER 6.5 receptions                54.2%  2.7   2    6     1  
-15 Caleb Williams OVER 1.5 pass_tds              53.8%  0.1   2   32     2  
-16 Ashton Jeanty OVER 0.5 anytime_td             53.6%  0.8   2    6     4  1-sided
-17 Josh Allen OVER 20.5 completions              53.6%  0.0   1   22     9  1 book
-18 JK Dobbins OVER 12.5 rush_attempts            53.6%  0.0   1   15     6  1 book
-19 Caleb Williams OVER 19.5 completions          53.6%  0.0   1   22     9  1 book
-20 Bhayshul Tuten UNDER 13.5 rush_attempts       53.6%  0.0   1   15     6  1 book
+1  Omarion Hampton OVER 0.5 anytime_td           57.3%  0.7   2    6     4  1-sided
+2  Jalen Nailor OVER 2.5 receptions              56.7%  1.6   2    6     1  
+3  Demarcus Robinson OVER 1.5 receptions         56.3%  2.4   2    6     1  
+4  D'Andre Swift OVER 1.5 receptions             56.0%  0.2   2    6     1  
+5  Jonathan Taylor OVER 0.5 anytime_td           55.9%  0.7   2    6     4  1-sided
 
-STRUCTURE: only 2 qualifying legs -- do not force entries
-No slate. Unused entries cost nothing; bad legs cost money.
+STRUCTURE: leave-two-out on top 5
+
+TICKETS (10)
+   1. Omarion Hampton OVER 0.5 any  |  Jalen Nailor OVER 2.5 recept  |  Demarcus Robinson OVER 1.5 r
+   2. Omarion Hampton OVER 0.5 any  |  Jalen Nailor OVER 2.5 recept  |  D'Andre Swift OVER 1.5 recep
+   3. Omarion Hampton OVER 0.5 any  |  Jalen Nailor OVER 2.5 recept  |  Jonathan Taylor OVER 0.5 any
+   4. Omarion Hampton OVER 0.5 any  |  Demarcus Robinson OVER 1.5 r  |  D'Andre Swift OVER 1.5 recep
+   5. Omarion Hampton OVER 0.5 any  |  Demarcus Robinson OVER 1.5 r  |  Jonathan Taylor OVER 0.5 any
+   6. Omarion Hampton OVER 0.5 any  |  D'Andre Swift OVER 1.5 recep  |  Jonathan Taylor OVER 0.5 any
+   7. Jalen Nailor OVER 2.5 recept  |  Demarcus Robinson OVER 1.5 r  |  D'Andre Swift OVER 1.5 recep
+   8. Jalen Nailor OVER 2.5 recept  |  Demarcus Robinson OVER 1.5 r  |  Jonathan Taylor OVER 0.5 any
+   9. Jalen Nailor OVER 2.5 recept  |  D'Andre Swift OVER 1.5 recep  |  Jonathan Taylor OVER 0.5 any
+  10. Demarcus Robinson OVER 1.5 r  |  D'Andre Swift OVER 1.5 recep  |  Jonathan Taylor OVER 0.5 any
+
+EV per entry      +20.4%
+P(zero return)    38.1%
+P(profit)         27.8%
+Kelly (quarter)   2.3% of bankroll  <-- use this
+
+outcome distribution (tickets cashing -> probability)
+   0 cash   38.1%   return    0.0 on 10 staked
+   1 cash   34.1%   return    6.7 on 10 staked
+   4 cash   22.1%   return   26.8 on 10 staked
+  10 cash    5.7%   return   67.0 on 10 staked

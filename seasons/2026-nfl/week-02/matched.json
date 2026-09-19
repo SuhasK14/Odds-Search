@@ -9,19 +9,99 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -125,
+    "over": -115,
     "under": null,
     "line": 0.5
    },
    {
     "book": "fd",
-    "over": -130,
+    "over": -105,
     "under": null,
     "line": 0.5
    }
   ],
   "app_sides": [
    "over"
+  ]
+ },
+ {
+  "player": "Bryce Young",
+  "player_key": "bryce young",
+  "team": "CAR",
+  "game": "CAR @ ATL",
+  "market": "completions",
+  "line": 19.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -118,
+    "under": -108,
+    "line": 19.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Ryan Fitzgerald",
+  "player_key": "ryan fitzgerald",
+  "team": "CAR",
+  "game": "CAR @ ATL",
+  "market": "field_goals_made",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -111,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Bryce Young",
+  "player_key": "bryce young",
+  "team": "CAR",
+  "game": "CAR @ ATL",
+  "market": "interceptions",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -111,
+    "under": -115,
+    "line": 0.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Bryce Young",
+  "player_key": "bryce young",
+  "team": "CAR",
+  "game": "CAR @ ATL",
+  "market": "pass_attempts",
+  "line": 31.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -110,
+    "under": -116,
+    "line": 31.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
   ]
  },
  {
@@ -32,6 +112,12 @@
   "market": "receptions",
   "line": 4.5,
   "quotes": [
+   {
+    "book": "dk",
+    "over": -128,
+    "under": 100,
+    "line": 4.5
+   },
    {
     "book": "fd",
     "over": -132,
@@ -45,18 +131,18 @@
   ]
  },
  {
-  "player": "Jalen Coker",
-  "player_key": "jalen coker",
-  "team": "CAR",
+  "player": "Bijan Robinson",
+  "player_key": "bijan robinson",
+  "team": "ATL",
   "game": "CAR @ ATL",
-  "market": "receptions",
-  "line": 4.5,
+  "market": "rush_attempts",
+  "line": 18.5,
   "quotes": [
    {
-    "book": "fd",
+    "book": "dk",
     "over": -122,
-    "under": -108,
-    "line": 4.5
+    "under": -104,
+    "line": 18.5
    }
   ],
   "app_sides": [
@@ -65,18 +151,18 @@
   ]
  },
  {
-  "player": "Tetairoa McMillan",
-  "player_key": "tetairoa mcmillan",
+  "player": "Chuba Hubbard",
+  "player_key": "chuba hubbard",
   "team": "CAR",
   "game": "CAR @ ATL",
-  "market": "receptions",
-  "line": 4.5,
+  "market": "rush_attempts",
+  "line": 13.5,
   "quotes": [
    {
-    "book": "fd",
-    "over": -102,
-    "under": -130,
-    "line": 4.5
+    "book": "dk",
+    "over": -126,
+    "under": -101,
+    "line": 13.5
    }
   ],
   "app_sides": [
@@ -94,38 +180,13 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 105,
-    "under": null,
-    "line": 0.5
-   },
-   {
-    "book": "fd",
     "over": 100,
     "under": null,
     "line": 0.5
-   }
-  ],
-  "app_sides": [
-   "over"
-  ]
- },
- {
-  "player": "David Montgomery",
-  "player_key": "david montgomery",
-  "team": "HOU",
-  "game": "CIN @ HOU",
-  "market": "anytime_td",
-  "line": 0.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -140,
-    "under": null,
-    "line": 0.5
    },
    {
     "book": "fd",
-    "over": -150,
+    "over": 105,
     "under": null,
     "line": 0.5
    }
@@ -139,19 +200,159 @@
   "player_key": "cj stroud",
   "team": "HOU",
   "game": "CIN @ HOU",
+  "market": "completions",
+  "line": 19.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -119,
+    "under": -107,
+    "line": 19.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Joe Burrow",
+  "player_key": "joe burrow",
+  "team": "CIN",
+  "game": "CIN @ HOU",
+  "market": "completions",
+  "line": 23.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -101,
+    "under": -126,
+    "line": 23.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Evan McPherson",
+  "player_key": "evan mcpherson",
+  "team": "CIN",
+  "game": "CIN @ HOU",
+  "market": "field_goals_made",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -110,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "C.J. Stroud",
+  "player_key": "cj stroud",
+  "team": "HOU",
+  "game": "CIN @ HOU",
+  "market": "interceptions",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -116,
+    "under": -110,
+    "line": 0.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Joe Burrow",
+  "player_key": "joe burrow",
+  "team": "CIN",
+  "game": "CIN @ HOU",
+  "market": "interceptions",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -143,
+    "under": 112,
+    "line": 0.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "C.J. Stroud",
+  "player_key": "cj stroud",
+  "team": "HOU",
+  "game": "CIN @ HOU",
+  "market": "pass_attempts",
+  "line": 31.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -102,
+    "under": -125,
+    "line": 31.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Joe Burrow",
+  "player_key": "joe burrow",
+  "team": "CIN",
+  "game": "CIN @ HOU",
+  "market": "pass_attempts",
+  "line": 35.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -105,
+    "under": -122,
+    "line": 35.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "C.J. Stroud",
+  "player_key": "cj stroud",
+  "team": "HOU",
+  "game": "CIN @ HOU",
   "market": "pass_tds",
   "line": 1.5,
   "quotes": [
    {
     "book": "dk",
-    "over": -126,
-    "under": -101,
+    "over": 103,
+    "under": -131,
     "line": 1.5
    },
    {
     "book": "fd",
-    "over": -114,
-    "under": -114,
+    "over": 108,
+    "under": -140,
     "line": 1.5
    }
   ],
@@ -170,14 +371,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -131,
-    "under": 103,
+    "over": -117,
+    "under": -109,
     "line": 1.5
    },
    {
     "book": "fd",
-    "over": -122,
-    "under": -108,
+    "over": -120,
+    "under": -110,
     "line": 1.5
    }
   ],
@@ -187,17 +388,23 @@
   ]
  },
  {
-  "player": "Dalton Schultz",
-  "player_key": "dalton schultz",
-  "team": "HOU",
+  "player": "Chase Brown",
+  "player_key": "chase brown",
+  "team": "CIN",
   "game": "CIN @ HOU",
   "market": "receptions",
   "line": 3.5,
   "quotes": [
    {
+    "book": "dk",
+    "over": 105,
+    "under": -133,
+    "line": 3.5
+   },
+   {
     "book": "fd",
-    "over": -130,
-    "under": -102,
+    "over": -108,
+    "under": -122,
     "line": 3.5
    }
   ],
@@ -215,9 +422,15 @@
   "line": 6.5,
   "quotes": [
    {
+    "book": "dk",
+    "over": -110,
+    "under": -115,
+    "line": 6.5
+   },
+   {
     "book": "fd",
-    "over": 106,
-    "under": -140,
+    "over": -114,
+    "under": -114,
     "line": 6.5
    }
   ],
@@ -227,17 +440,37 @@
   ]
  },
  {
-  "player": "Mike Gesicki",
-  "player_key": "mike gesicki",
+  "player": "Chase Brown",
+  "player_key": "chase brown",
   "team": "CIN",
   "game": "CIN @ HOU",
-  "market": "receptions",
+  "market": "rush_attempts",
+  "line": 14.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -127,
+    "under": -101,
+    "line": 14.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Joe Burrow",
+  "player_key": "joe burrow",
+  "team": "CIN",
+  "game": "CIN @ HOU",
+  "market": "rush_attempts",
   "line": 2.5,
   "quotes": [
    {
-    "book": "fd",
-    "over": -102,
-    "under": -130,
+    "book": "dk",
+    "over": -118,
+    "under": -108,
     "line": 2.5
    }
   ],
@@ -256,32 +489,13 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -105,
-    "under": null,
-    "line": 0.5
-   }
-  ],
-  "app_sides": [
-   "over"
-  ]
- },
- {
-  "player": "Josh Allen",
-  "player_key": "josh allen",
-  "team": "BUF",
-  "game": "DET @ BUF",
-  "market": "anytime_td",
-  "line": 0.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -135,
+    "over": -130,
     "under": null,
     "line": 0.5
    },
    {
     "book": "fd",
-    "over": -135,
+    "over": -130,
     "under": null,
     "line": 0.5
    }
@@ -291,58 +505,18 @@
   ]
  },
  {
-  "player": "Jared Goff",
-  "player_key": "jared goff",
-  "team": "DET",
-  "game": "DET @ BUF",
+  "player": "Baker Mayfield",
+  "player_key": "baker mayfield",
+  "team": "TB",
+  "game": "CLE @ TB",
   "market": "completions",
-  "line": 24.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": 103,
-    "under": -131,
-    "line": 24.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Josh Allen",
-  "player_key": "josh allen",
-  "team": "BUF",
-  "game": "DET @ BUF",
-  "market": "completions",
-  "line": 20.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -132,
-    "under": 103,
-    "line": 20.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Jared Goff",
-  "player_key": "jared goff",
-  "team": "DET",
-  "game": "DET @ BUF",
-  "market": "pass_attempts",
-  "line": 35.5,
+  "line": 18.5,
   "quotes": [
    {
     "book": "dk",
     "over": -120,
     "under": -106,
-    "line": 35.5
+    "line": 18.5
    }
   ],
   "app_sides": [
@@ -351,18 +525,18 @@
   ]
  },
  {
-  "player": "Josh Allen",
-  "player_key": "josh allen",
-  "team": "BUF",
-  "game": "DET @ BUF",
-  "market": "pass_attempts",
-  "line": 30.5,
+  "player": "Deshaun Watson",
+  "player_key": "deshaun watson",
+  "team": "CLE",
+  "game": "CLE @ TB",
+  "market": "completions",
+  "line": 16.5,
   "quotes": [
    {
     "book": "dk",
-    "over": -122,
-    "under": -104,
-    "line": 30.5
+    "over": -133,
+    "under": 104,
+    "line": 16.5
    }
   ],
   "app_sides": [
@@ -371,23 +545,82 @@
   ]
  },
  {
-  "player": "Jared Goff",
-  "player_key": "jared goff",
-  "team": "DET",
-  "game": "DET @ BUF",
+  "player": "Deshaun Watson",
+  "player_key": "deshaun watson",
+  "team": "CLE",
+  "game": "CLE @ TB",
+  "market": "interceptions",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -144,
+    "under": 113,
+    "line": 0.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Baker Mayfield",
+  "player_key": "baker mayfield",
+  "team": "TB",
+  "game": "CLE @ TB",
+  "market": "pass_attempts",
+  "line": 27.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -121,
+    "under": -105,
+    "line": 27.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Deshaun Watson",
+  "player_key": "deshaun watson",
+  "team": "CLE",
+  "game": "CLE @ TB",
+  "market": "pass_attempts",
+  "line": 29.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -107,
+    "under": -119,
+    "line": 29.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Baker Mayfield",
+  "player_key": "baker mayfield",
+  "team": "TB",
+  "game": "CLE @ TB",
   "market": "pass_tds",
   "line": 1.5,
   "quotes": [
    {
     "book": "dk",
-    "over": -143,
-    "under": 112,
+    "over": -121,
+    "under": -106,
     "line": 1.5
    },
    {
     "book": "fd",
-    "over": -130,
-    "under": -102,
+    "over": -118,
+    "under": -110,
     "line": 1.5
    }
   ],
@@ -397,80 +630,18 @@
   ]
  },
  {
-  "player": "Amon-Ra St. Brown",
-  "player_key": "amonra st brown",
-  "team": "DET",
-  "game": "DET @ BUF",
-  "market": "receptions",
-  "line": 7.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -111,
-    "under": -115,
-    "line": 7.5
-   },
-   {
-    "book": "fd",
-    "over": -106,
-    "under": -125,
-    "line": 7.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "DJ Moore",
-  "player_key": "dj moore",
-  "team": "BUF",
-  "game": "DET @ BUF",
-  "market": "receptions",
-  "line": 4.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": 106,
-    "under": -135,
-    "line": 4.5
-   },
-   {
-    "book": "fd",
-    "over": -112,
-    "under": -118,
-    "line": 4.5
-   }
-  ],
-  "aliases": [
-   "DJ Moore",
-   "D.J. Moore"
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Sam LaPorta",
-  "player_key": "sam laporta",
-  "team": "DET",
-  "game": "DET @ BUF",
-  "market": "receptions",
-  "line": 4.5,
+  "player": "Bucky Irving",
+  "player_key": "bucky irving",
+  "team": "TB",
+  "game": "CLE @ TB",
+  "market": "rush_attempts",
+  "line": 15.5,
   "quotes": [
    {
     "book": "dk",
     "over": -103,
     "under": -124,
-    "line": 4.5
-   },
-   {
-    "book": "fd",
-    "over": 102,
-    "under": -136,
-    "line": 4.5
+    "line": 15.5
    }
   ],
   "app_sides": [
@@ -479,18 +650,18 @@
   ]
  },
  {
-  "player": "Jahmyr Gibbs",
-  "player_key": "jahmyr gibbs",
-  "team": "DET",
-  "game": "DET @ BUF",
+  "player": "Quinshon Judkins",
+  "player_key": "quinshon judkins",
+  "team": "CLE",
+  "game": "CLE @ TB",
   "market": "rush_attempts",
-  "line": 19.5,
+  "line": 13.5,
   "quotes": [
    {
     "book": "dk",
-    "over": -102,
-    "under": -125,
-    "line": 19.5
+    "over": -125,
+    "under": -102,
+    "line": 13.5
    }
   ],
   "app_sides": [
@@ -508,13 +679,237 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -130,
+    "over": -110,
+    "under": null,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": -110,
     "under": null,
     "line": 0.5
    }
   ],
   "app_sides": [
    "over"
+  ]
+ },
+ {
+  "player": "Geno Smith",
+  "player_key": "geno smith",
+  "team": "NYJ",
+  "game": "GB @ NYJ",
+  "market": "completions",
+  "line": 20.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -103,
+    "under": -124,
+    "line": 20.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jordan Love",
+  "player_key": "jordan love",
+  "team": "GB",
+  "game": "GB @ NYJ",
+  "market": "completions",
+  "line": 20.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -128,
+    "under": 100,
+    "line": 20.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Trey Smack",
+  "player_key": "trey smack",
+  "team": "GB",
+  "game": "GB @ NYJ",
+  "market": "field_goals_made",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -107,
+    "under": -119,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Geno Smith",
+  "player_key": "geno smith",
+  "team": "NYJ",
+  "game": "GB @ NYJ",
+  "market": "interceptions",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -101,
+    "under": -127,
+    "line": 0.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jordan Love",
+  "player_key": "jordan love",
+  "team": "GB",
+  "game": "GB @ NYJ",
+  "market": "interceptions",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 101,
+    "under": -129,
+    "line": 0.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Geno Smith",
+  "player_key": "geno smith",
+  "team": "NYJ",
+  "game": "GB @ NYJ",
+  "market": "pass_attempts",
+  "line": 30.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -105,
+    "under": -122,
+    "line": 30.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jordan Love",
+  "player_key": "jordan love",
+  "team": "GB",
+  "game": "GB @ NYJ",
+  "market": "pass_tds",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -130,
+    "under": 102,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -110,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Breece Hall",
+  "player_key": "breece hall",
+  "team": "NYJ",
+  "game": "GB @ NYJ",
+  "market": "receptions",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -131,
+    "under": 102,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -130,
+    "under": -102,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Garrett Wilson",
+  "player_key": "garrett wilson",
+  "team": "NYJ",
+  "game": "GB @ NYJ",
+  "market": "receptions",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -137,
+    "under": 107,
+    "line": 5.5
+   },
+   {
+    "book": "fd",
+    "over": -132,
+    "under": 100,
+    "line": 5.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Breece Hall",
+  "player_key": "breece hall",
+  "team": "NYJ",
+  "game": "GB @ NYJ",
+  "market": "rush_attempts",
+  "line": 16.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -101,
+    "under": -126,
+    "line": 16.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
   ]
  },
  {
@@ -527,13 +922,13 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -160,
+    "over": -150,
     "under": null,
     "line": 0.5
    },
    {
     "book": "fd",
-    "over": -145,
+    "over": -155,
     "under": null,
     "line": 0.5
    }
@@ -552,8 +947,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -106,
-    "under": -121,
+    "over": 104,
+    "under": -132,
     "line": 21.5
    }
   ],
@@ -568,13 +963,53 @@
   "team": "KC",
   "game": "IND @ KC",
   "market": "completions",
-  "line": 20.5,
+  "line": 19.5,
   "quotes": [
    {
     "book": "dk",
-    "over": -114,
-    "under": -112,
-    "line": 20.5
+    "over": -130,
+    "under": 102,
+    "line": 19.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Harrison Butker",
+  "player_key": "harrison butker",
+  "team": "KC",
+  "game": "IND @ KC",
+  "market": "field_goals_made",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -131,
+    "under": 103,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Daniel Jones",
+  "player_key": "daniel jones",
+  "team": "IND",
+  "game": "IND @ KC",
+  "market": "interceptions",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -126,
+    "under": -101,
+    "line": 0.5
    }
   ],
   "app_sides": [
@@ -588,13 +1023,13 @@
   "team": "IND",
   "game": "IND @ KC",
   "market": "pass_attempts",
-  "line": 32.5,
+  "line": 31.5,
   "quotes": [
    {
     "book": "dk",
-    "over": -112,
-    "under": -114,
-    "line": 32.5
+    "over": -116,
+    "under": -110,
+    "line": 31.5
    }
   ],
   "app_sides": [
@@ -612,8 +1047,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -109,
-    "under": -117,
+    "over": -120,
+    "under": -106,
     "line": 30.5
    }
   ],
@@ -632,14 +1067,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -106,
-    "under": -120,
+    "over": -115,
+    "under": -111,
     "line": 1.5
    },
    {
     "book": "fd",
-    "over": -120,
-    "under": -110,
+    "over": -128,
+    "under": -104,
     "line": 1.5
    }
   ],
@@ -664,35 +1099,9 @@
    },
    {
     "book": "fd",
-    "over": -120,
-    "under": -110,
+    "over": -136,
+    "under": 102,
     "line": 2.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Josh Downs",
-  "player_key": "josh downs",
-  "team": "IND",
-  "game": "IND @ KC",
-  "market": "receptions",
-  "line": 3.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -142,
-    "under": 111,
-    "line": 3.5
-   },
-   {
-    "book": "fd",
-    "over": -122,
-    "under": -106,
-    "line": 3.5
    }
   ],
   "app_sides": [
@@ -710,8 +1119,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -117,
-    "under": -109,
+    "over": -119,
+    "under": -107,
     "line": 3.5
    },
    {
@@ -727,6 +1136,57 @@
   ]
  },
  {
+  "player": "Rashee Rice",
+  "player_key": "rashee rice",
+  "team": "KC",
+  "game": "IND @ KC",
+  "market": "receptions",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -132,
+    "under": 104,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": -138,
+    "under": 104,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Travis Kelce",
+  "player_key": "travis kelce",
+  "team": "KC",
+  "game": "IND @ KC",
+  "market": "receptions",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -133,
+    "under": 104,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -154,
+    "under": 116,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
   "player": "Tyler Warren",
   "player_key": "tyler warren",
   "team": "IND",
@@ -736,8 +1196,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -135,
-    "under": 106,
+    "over": -131,
+    "under": 103,
     "line": 4.5
    },
    {
@@ -762,8 +1222,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 117,
-    "under": -150,
+    "over": 111,
+    "under": -141,
     "line": 3.5
    },
    {
@@ -784,13 +1244,13 @@
   "team": "IND",
   "game": "IND @ KC",
   "market": "rush_attempts",
-  "line": 19.5,
+  "line": 18.5,
   "quotes": [
    {
     "book": "dk",
-    "over": -104,
-    "under": -122,
-    "line": 19.5
+    "over": -118,
+    "under": -108,
+    "line": 18.5
    }
   ],
   "app_sides": [
@@ -808,8 +1268,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -121,
-    "under": -105,
+    "over": -114,
+    "under": -112,
     "line": 18.5
    }
   ],
@@ -819,104 +1279,96 @@
   ]
  },
  {
-  "player": "Bo Nix",
-  "player_key": "bo nix",
-  "team": "DEN",
-  "game": "JAX @ DEN",
-  "market": "completions",
-  "line": 21.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -125,
-    "under": -102,
-    "line": 21.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Trevor Lawrence",
-  "player_key": "trevor lawrence",
+  "player": "Cam Little",
+  "player_key": "cam little",
   "team": "JAX",
   "game": "JAX @ DEN",
-  "market": "completions",
-  "line": 19.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -107,
-    "under": -119,
-    "line": 19.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Bo Nix",
-  "player_key": "bo nix",
-  "team": "DEN",
-  "game": "JAX @ DEN",
-  "market": "pass_attempts",
-  "line": 33.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -117,
-    "under": -109,
-    "line": 33.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Trevor Lawrence",
-  "player_key": "trevor lawrence",
-  "team": "JAX",
-  "game": "JAX @ DEN",
-  "market": "pass_attempts",
-  "line": 32.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -109,
-    "under": -117,
-    "line": 32.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Bo Nix",
-  "player_key": "bo nix",
-  "team": "DEN",
-  "game": "JAX @ DEN",
-  "market": "pass_tds",
+  "market": "field_goals_made",
   "line": 1.5,
   "quotes": [
    {
     "book": "dk",
-    "over": -102,
-    "under": -125,
+    "over": -140,
+    "under": 109,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Bhayshul Tuten",
+  "player_key": "bhayshul tuten",
+  "team": "JAX",
+  "game": "JAX @ DEN",
+  "market": "receptions",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -112,
+    "under": -114,
     "line": 1.5
    },
    {
     "book": "fd",
-    "over": 114,
-    "under": -152,
+    "over": 100,
+    "under": -132,
     "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Brenton Strange",
+  "player_key": "brenton strange",
+  "team": "JAX",
+  "game": "JAX @ DEN",
+  "market": "receptions",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 105,
+    "under": -133,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": 106,
+    "under": -140,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Brian Thomas Jr.",
+  "player_key": "brian thomas",
+  "team": "JAX",
+  "game": "JAX @ DEN",
+  "market": "receptions",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -121,
+    "under": -106,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -122,
+    "under": -108,
+    "line": 2.5
    }
   ],
   "app_sides": [
@@ -934,8 +1386,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -117,
-    "under": -109,
+    "over": -103,
+    "under": -123,
     "line": 3.5
    },
    {
@@ -951,18 +1403,96 @@
   ]
  },
  {
+  "player": "Jakobi Meyers",
+  "player_key": "jakobi meyers",
+  "team": "JAX",
+  "game": "JAX @ DEN",
+  "market": "receptions",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -122,
+    "under": -105,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -132,
+    "under": 100,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jaylen Waddle",
+  "player_key": "jaylen waddle",
+  "team": "DEN",
+  "game": "JAX @ DEN",
+  "market": "receptions",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 105,
+    "under": -134,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": 110,
+    "under": -146,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Parker Washington",
+  "player_key": "parker washington",
+  "team": "JAX",
+  "game": "JAX @ DEN",
+  "market": "receptions",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -113,
+    "under": -112,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
   "player": "Bhayshul Tuten",
   "player_key": "bhayshul tuten",
   "team": "JAX",
   "game": "JAX @ DEN",
   "market": "rush_attempts",
-  "line": 13.5,
+  "line": 11.5,
   "quotes": [
    {
     "book": "dk",
-    "over": 103,
-    "under": -132,
-    "line": 13.5
+    "over": -122,
+    "under": -105,
+    "line": 11.5
    }
   ],
   "app_sides": [
@@ -976,13 +1506,13 @@
   "team": "DEN",
   "game": "JAX @ DEN",
   "market": "rush_attempts",
-  "line": 12.5,
+  "line": 13.5,
   "quotes": [
    {
     "book": "dk",
-    "over": -132,
-    "under": 103,
-    "line": 12.5
+    "over": -108,
+    "under": -118,
+    "line": 13.5
    }
   ],
   "aliases": [
@@ -1004,13 +1534,13 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -135,
+    "over": -120,
     "under": null,
     "line": 0.5
    },
    {
     "book": "fd",
-    "over": -140,
+    "over": -110,
     "under": null,
     "line": 0.5
    }
@@ -1029,13 +1559,13 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -145,
+    "over": -165,
     "under": null,
     "line": 0.5
    },
    {
     "book": "fd",
-    "over": -145,
+    "over": -160,
     "under": null,
     "line": 0.5
    }
@@ -1045,17 +1575,191 @@
   ]
  },
  {
-  "player": "Justin Herbert",
-  "player_key": "justin herbert",
+  "player": "Kirk Cousins",
+  "player_key": "kirk cousins",
+  "team": "LV",
+  "game": "LV @ LAC",
+  "market": "pass_attempts",
+  "line": 29.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -122,
+    "under": -104,
+    "line": 29.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "David Njoku",
+  "player_key": "david njoku",
   "team": "LAC",
   "game": "LV @ LAC",
-  "market": "pass_tds",
+  "market": "receptions",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -149,
+    "under": 117,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -146,
+    "under": 110,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Jalen Nailor",
+  "player_key": "jalen nailor",
+  "team": "LV",
+  "game": "LV @ LAC",
+  "market": "receptions",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -156,
+    "under": 122,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -148,
+    "under": 112,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Ashton Jeanty",
+  "player_key": "ashton jeanty",
+  "team": "LV",
+  "game": "LV @ LAC",
+  "market": "rush_attempts",
+  "line": 16.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -128,
+    "under": 100,
+    "line": 16.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Mike Washington",
+  "player_key": "mike washington",
+  "team": "LV",
+  "game": "LV @ LAC",
+  "market": "rush_attempts",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -103,
+    "under": -124,
+    "line": 5.5
+   }
+  ],
+  "aliases": [
+   "Mike Washington",
+   "Mike Washington Jr."
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Omarion Hampton",
+  "player_key": "omarion hampton",
+  "team": "LAC",
+  "game": "LV @ LAC",
+  "market": "rush_attempts",
+  "line": 16.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -117,
+    "under": -109,
+    "line": 16.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Brock Purdy",
+  "player_key": "brock purdy",
+  "team": "SF",
+  "game": "MIA @ SF",
+  "market": "completions",
+  "line": 19.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -129,
+    "under": 101,
+    "line": 19.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Malik Willis",
+  "player_key": "malik willis",
+  "team": "MIA",
+  "game": "MIA @ SF",
+  "market": "completions",
+  "line": 16.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -113,
+    "under": -113,
+    "line": 16.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Eddy Pineiro",
+  "player_key": "eddy pineiro",
+  "team": "SF",
+  "game": "MIA @ SF",
+  "market": "field_goals_made",
   "line": 1.5,
   "quotes": [
    {
-    "book": "fd",
-    "over": -108,
-    "under": -122,
+    "book": "dk",
+    "over": -136,
+    "under": 107,
     "line": 1.5
    }
   ],
@@ -1065,28 +1769,276 @@
   ]
  },
  {
-  "player": "Aaron Jones",
-  "player_key": "aaron jones",
-  "team": "MIN",
-  "game": "MIN @ CHI",
-  "market": "anytime_td",
+  "player": "Malik Willis",
+  "player_key": "malik willis",
+  "team": "MIA",
+  "game": "MIA @ SF",
+  "market": "interceptions",
   "line": 0.5,
   "quotes": [
    {
     "book": "dk",
-    "over": -130,
-    "under": null,
-    "line": 0.5
-   },
-   {
-    "book": "fd",
-    "over": -155,
-    "under": null,
+    "over": -133,
+    "under": 104,
     "line": 0.5
    }
   ],
   "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Brock Purdy",
+  "player_key": "brock purdy",
+  "team": "SF",
+  "game": "MIA @ SF",
+  "market": "pass_attempts",
+  "line": 28.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -114,
+    "under": -111,
+    "line": 28.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Malik Willis",
+  "player_key": "malik willis",
+  "team": "MIA",
+  "game": "MIA @ SF",
+  "market": "pass_attempts",
+  "line": 27.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -103,
+    "under": -124,
+    "line": 27.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Christian McCaffrey",
+  "player_key": "christian mccaffrey",
+  "team": "SF",
+  "game": "MIA @ SF",
+  "market": "receptions",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -140,
+    "under": 109,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": -132,
+    "under": 100,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Demarcus Robinson",
+  "player_key": "demarcus robinson",
+  "team": "SF",
+  "game": "MIA @ SF",
+  "market": "receptions",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -156,
+    "under": 122,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": -144,
+    "under": 108,
+    "line": 1.5
+   }
+  ],
+  "aliases": [
+   "Demarcus Robinson",
+   "DeMarcus Robinson"
+  ],
+  "app_sides": [
    "over"
+  ]
+ },
+ {
+  "player": "George Kittle",
+  "player_key": "george kittle",
+  "team": "SF",
+  "game": "MIA @ SF",
+  "market": "receptions",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -130,
+    "under": 102,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -125,
+    "under": -106,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Malik Washington",
+  "player_key": "malik washington",
+  "team": "MIA",
+  "game": "MIA @ SF",
+  "market": "receptions",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 109,
+    "under": -139,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -102,
+    "under": -130,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Mike Evans",
+  "player_key": "mike evans",
+  "team": "SF",
+  "game": "MIA @ SF",
+  "market": "receptions",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -131,
+    "under": 102,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -132,
+    "under": 100,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Christian McCaffrey",
+  "player_key": "christian mccaffrey",
+  "team": "SF",
+  "game": "MIA @ SF",
+  "market": "rush_attempts",
+  "line": 14.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -108,
+    "under": -118,
+    "line": 14.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "De'Von Achane",
+  "player_key": "devon achane",
+  "team": "MIA",
+  "game": "MIA @ SF",
+  "market": "rush_attempts",
+  "line": 14.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -109,
+    "under": -117,
+    "line": 14.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kaelon Black",
+  "player_key": "kaelon black",
+  "team": "SF",
+  "game": "MIA @ SF",
+  "market": "rush_attempts",
+  "line": 8.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -120,
+    "under": -106,
+    "line": 8.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Malik Willis",
+  "player_key": "malik willis",
+  "team": "MIA",
+  "game": "MIA @ SF",
+  "market": "rush_attempts",
+  "line": 7.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 105,
+    "under": -134,
+    "line": 7.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
   ]
  },
  {
@@ -1099,13 +2051,13 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -155,
+    "over": -150,
     "under": null,
     "line": 0.5
    },
    {
     "book": "fd",
-    "over": -155,
+    "over": -150,
     "under": null,
     "line": 0.5
    }
@@ -1124,8 +2076,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -132,
-    "under": 103,
+    "over": -123,
+    "under": -104,
     "line": 19.5
    }
   ],
@@ -1140,13 +2092,13 @@
   "team": "CHI",
   "game": "MIN @ CHI",
   "market": "pass_attempts",
-  "line": 30.5,
+  "line": 31.5,
   "quotes": [
    {
     "book": "dk",
-    "over": -123,
-    "under": -104,
-    "line": 30.5
+    "over": -109,
+    "under": -116,
+    "line": 31.5
    }
   ],
   "app_sides": [
@@ -1164,13 +2116,13 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -132,
+    "over": -133,
     "under": 104,
     "line": 1.5
    },
    {
     "book": "fd",
-    "over": -136,
+    "over": -132,
     "under": 102,
     "line": 1.5
    }
@@ -1181,18 +2133,24 @@
   ]
  },
  {
-  "player": "Justin Jefferson",
-  "player_key": "justin jefferson",
-  "team": "MIN",
+  "player": "D'Andre Swift",
+  "player_key": "dandre swift",
+  "team": "CHI",
   "game": "MIN @ CHI",
   "market": "receptions",
-  "line": 5.5,
+  "line": 1.5,
   "quotes": [
+   {
+    "book": "dk",
+    "over": -146,
+    "under": 115,
+    "line": 1.5
+   },
    {
     "book": "fd",
     "over": -148,
     "under": 112,
-    "line": 5.5
+    "line": 1.5
    }
   ],
   "app_sides": [
@@ -1200,18 +2158,44 @@
   ]
  },
  {
-  "player": "Luther Burden III",
-  "player_key": "luther burden",
-  "team": "CHI",
+  "player": "Justin Jefferson",
+  "player_key": "justin jefferson",
+  "team": "MIN",
   "game": "MIN @ CHI",
   "market": "receptions",
-  "line": 4.5,
+  "line": 6.5,
   "quotes": [
    {
+    "book": "dk",
+    "over": -112,
+    "under": -113,
+    "line": 6.5
+   },
+   {
     "book": "fd",
-    "over": 106,
-    "under": -140,
-    "line": 4.5
+    "over": -108,
+    "under": -122,
+    "line": 6.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "D'Andre Swift",
+  "player_key": "dandre swift",
+  "team": "CHI",
+  "game": "MIN @ CHI",
+  "market": "rush_attempts",
+  "line": 14.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -106,
+    "under": -120,
+    "line": 14.5
    }
   ],
   "app_sides": [
@@ -1225,13 +2209,13 @@
   "team": "BAL",
   "game": "NO @ BAL",
   "market": "completions",
-  "line": 19.5,
+  "line": 17.5,
   "quotes": [
    {
     "book": "dk",
-    "over": -104,
-    "under": -122,
-    "line": 19.5
+    "over": -133,
+    "under": 104,
+    "line": 17.5
    }
   ],
   "app_sides": [
@@ -1249,9 +2233,29 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -124,
-    "under": -102,
+    "over": -120,
+    "under": -106,
     "line": 21.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Tyler Shough",
+  "player_key": "tyler shough",
+  "team": "NO",
+  "game": "NO @ BAL",
+  "market": "interceptions",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -122,
+    "under": -105,
+    "line": 0.5
    }
   ],
   "app_sides": [
@@ -1265,13 +2269,13 @@
   "team": "BAL",
   "game": "NO @ BAL",
   "market": "pass_attempts",
-  "line": 28.5,
+  "line": 27.5,
   "quotes": [
    {
     "book": "dk",
-    "over": -121,
-    "under": -105,
-    "line": 28.5
+    "over": -109,
+    "under": -117,
+    "line": 27.5
    }
   ],
   "app_sides": [
@@ -1289,8 +2293,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -109,
-    "under": -116,
+    "over": -113,
+    "under": -113,
     "line": 34.5
    }
   ],
@@ -1309,14 +2313,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -128,
-    "under": 101,
+    "over": 103,
+    "under": -132,
     "line": 1.5
    },
    {
     "book": "fd",
-    "over": -108,
-    "under": -122,
+    "over": -102,
+    "under": -128,
     "line": 1.5
    }
   ],
@@ -1334,9 +2338,15 @@
   "line": 5.5,
   "quotes": [
    {
+    "book": "dk",
+    "over": -109,
+    "under": -117,
+    "line": 5.5
+   },
+   {
     "book": "fd",
-    "over": -118,
-    "under": -112,
+    "over": -122,
+    "under": -108,
     "line": 5.5
    }
   ],
@@ -1346,52 +2356,23 @@
   ]
  },
  {
-  "player": "DeVaughn Vele",
-  "player_key": "devaughn vele",
-  "team": "NO",
+  "player": "Lamar Jackson",
+  "player_key": "lamar jackson",
+  "team": "BAL",
   "game": "NO @ BAL",
-  "market": "receptions",
-  "line": 3.5,
+  "market": "rush_attempts",
+  "line": 7.5,
   "quotes": [
    {
-    "book": "fd",
-    "over": -114,
-    "under": -114,
-    "line": 3.5
+    "book": "dk",
+    "over": -135,
+    "under": 106,
+    "line": 7.5
    }
-  ],
-  "aliases": [
-   "DeVaughn Vele",
-   "Devaughn Vele"
   ],
   "app_sides": [
    "over",
    "under"
-  ]
- },
- {
-  "player": "Kyren Williams",
-  "player_key": "kyren williams",
-  "team": "LAR",
-  "game": "NYG @ LAR",
-  "market": "anytime_td",
-  "line": 0.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -150,
-    "under": null,
-    "line": 0.5
-   },
-   {
-    "book": "fd",
-    "over": -165,
-    "under": null,
-    "line": 0.5
-   }
-  ],
-  "app_sides": [
-   "over"
   ]
  },
  {
@@ -1410,7 +2391,7 @@
    },
    {
     "book": "fd",
-    "over": -115,
+    "over": -105,
     "under": null,
     "line": 0.5
    }
@@ -1425,13 +2406,13 @@
   "team": "NYG",
   "game": "NYG @ LAR",
   "market": "completions",
-  "line": 20.5,
+  "line": 19.5,
   "quotes": [
    {
     "book": "dk",
-    "over": -105,
-    "under": -122,
-    "line": 20.5
+    "over": -130,
+    "under": 102,
+    "line": 19.5
    }
   ],
   "app_sides": [
@@ -1449,8 +2430,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -118,
-    "under": -108,
+    "over": -115,
+    "under": -111,
     "line": 21.5
    }
   ],
@@ -1460,18 +2441,18 @@
   ]
  },
  {
-  "player": "Jaxson Dart",
-  "player_key": "jaxson dart",
-  "team": "NYG",
+  "player": "Harrison Mevis",
+  "player_key": "harrison mevis",
+  "team": "LAR",
   "game": "NYG @ LAR",
-  "market": "pass_attempts",
-  "line": 31.5,
+  "market": "field_goals_made",
+  "line": 1.5,
   "quotes": [
    {
     "book": "dk",
-    "over": -103,
-    "under": -124,
-    "line": 31.5
+    "over": -133,
+    "under": 104,
+    "line": 1.5
    }
   ],
   "app_sides": [
@@ -1484,40 +2465,14 @@
   "player_key": "matthew stafford",
   "team": "LAR",
   "game": "NYG @ LAR",
-  "market": "pass_attempts",
-  "line": 32.5,
+  "market": "interceptions",
+  "line": 0.5,
   "quotes": [
    {
     "book": "dk",
-    "over": -101,
-    "under": -126,
-    "line": 32.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Davante Adams",
-  "player_key": "davante adams",
-  "team": "LAR",
-  "game": "NYG @ LAR",
-  "market": "receptions",
-  "line": 3.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -138,
-    "under": 108,
-    "line": 3.5
-   },
-   {
-    "book": "fd",
-    "over": -136,
-    "under": 102,
-    "line": 3.5
+    "over": -104,
+    "under": -123,
+    "line": 0.5
    }
   ],
   "app_sides": [
@@ -1535,14 +2490,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -119,
-    "under": -107,
+    "over": -103,
+    "under": -124,
     "line": 4.5
    },
    {
     "book": "fd",
-    "over": -138,
-    "under": 104,
+    "over": -108,
+    "under": -122,
     "line": 4.5
    }
   ],
@@ -1561,8 +2516,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -122,
-    "under": -105,
+    "over": -124,
+    "under": -103,
     "line": 5.5
    },
    {
@@ -1587,8 +2542,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -143,
-    "under": 112,
+    "over": -123,
+    "under": -103,
     "line": 6.5
    },
    {
@@ -1613,8 +2568,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 103,
-    "under": -132,
+    "over": -133,
+    "under": 104,
     "line": 10.5
    }
   ],
@@ -1633,8 +2588,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -129,
-    "under": 101,
+    "over": -121,
+    "under": -105,
     "line": 12.5
    }
   ],
@@ -1648,18 +2603,18 @@
   ]
  },
  {
-  "player": "Kyren Williams",
-  "player_key": "kyren williams",
-  "team": "LAR",
+  "player": "Jaxson Dart",
+  "player_key": "jaxson dart",
+  "team": "NYG",
   "game": "NYG @ LAR",
   "market": "rush_attempts",
-  "line": 14.5,
+  "line": 6.5,
   "quotes": [
    {
     "book": "dk",
-    "over": -103,
-    "under": -123,
-    "line": 14.5
+    "over": -106,
+    "under": -121,
+    "line": 6.5
    }
   ],
   "app_sides": [
@@ -1680,25 +2635,6 @@
     "over": -115,
     "under": null,
     "line": 0.5
-   }
-  ],
-  "app_sides": [
-   "over"
-  ]
- },
- {
-  "player": "Rhamondre Stevenson",
-  "player_key": "rhamondre stevenson",
-  "team": "NE",
-  "game": "PIT @ NE",
-  "market": "anytime_td",
-  "line": 0.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -105,
-    "under": null,
-    "line": 0.5
    },
    {
     "book": "fd",
@@ -1712,117 +2648,17 @@
   ]
  },
  {
-  "player": "Aaron Rodgers",
-  "player_key": "aaron rodgers",
-  "team": "PIT",
-  "game": "PIT @ NE",
-  "market": "completions",
-  "line": 20.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -119,
-    "under": -107,
-    "line": 20.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Drake Maye",
-  "player_key": "drake maye",
-  "team": "NE",
-  "game": "PIT @ NE",
-  "market": "completions",
-  "line": 20.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -112,
-    "under": -114,
-    "line": 20.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Aaron Rodgers",
-  "player_key": "aaron rodgers",
-  "team": "PIT",
-  "game": "PIT @ NE",
-  "market": "pass_attempts",
-  "line": 34.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -103,
-    "under": -124,
-    "line": 34.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Drake Maye",
-  "player_key": "drake maye",
-  "team": "NE",
-  "game": "PIT @ NE",
-  "market": "pass_attempts",
-  "line": 29.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -120,
-    "under": -106,
-    "line": 29.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Dak Prescott",
-  "player_key": "dak prescott",
-  "team": "DAL",
-  "game": "WAS @ DAL",
-  "market": "completions",
-  "line": 22.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -112,
-    "under": -114,
-    "line": 22.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Jayden Daniels",
-  "player_key": "jayden daniels",
-  "team": "WAS",
-  "game": "WAS @ DAL",
+  "player": "Jalen Hurts",
+  "player_key": "jalen hurts",
+  "team": "PHI",
+  "game": "PHI @ TEN",
   "market": "completions",
   "line": 18.5,
   "quotes": [
    {
     "book": "dk",
-    "over": -131,
-    "under": 103,
+    "over": 104,
+    "under": -132,
     "line": 18.5
    }
   ],
@@ -1832,18 +2668,18 @@
   ]
  },
  {
-  "player": "Dak Prescott",
-  "player_key": "dak prescott",
-  "team": "DAL",
-  "game": "WAS @ DAL",
-  "market": "pass_attempts",
-  "line": 34.5,
+  "player": "Jake Elliott",
+  "player_key": "jake elliott",
+  "team": "PHI",
+  "game": "PHI @ TEN",
+  "market": "field_goals_made",
+  "line": 1.5,
   "quotes": [
    {
     "book": "dk",
-    "over": -107,
-    "under": -119,
-    "line": 34.5
+    "over": -118,
+    "under": -108,
+    "line": 1.5
    }
   ],
   "app_sides": [
@@ -1852,17 +2688,183 @@
   ]
  },
  {
-  "player": "Jayden Daniels",
-  "player_key": "jayden daniels",
-  "team": "WAS",
-  "game": "WAS @ DAL",
+  "player": "Jalen Hurts",
+  "player_key": "jalen hurts",
+  "team": "PHI",
+  "game": "PHI @ TEN",
   "market": "pass_attempts",
-  "line": 29.5,
+  "line": 27.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -118,
+    "under": -108,
+    "line": 27.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "DeVonta Smith",
+  "player_key": "devonta smith",
+  "team": "PHI",
+  "game": "PHI @ TEN",
+  "market": "receptions",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -137,
+    "under": 108,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": -136,
+    "under": 102,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jalen Hurts",
+  "player_key": "jalen hurts",
+  "team": "PHI",
+  "game": "PHI @ TEN",
+  "market": "rush_attempts",
+  "line": 7.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -104,
+    "under": -122,
+    "line": 7.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Saquon Barkley",
+  "player_key": "saquon barkley",
+  "team": "PHI",
+  "game": "PHI @ TEN",
+  "market": "rush_attempts",
+  "line": 18.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -105,
+    "under": -121,
+    "line": 18.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Aaron Rodgers",
+  "player_key": "aaron rodgers",
+  "team": "PIT",
+  "game": "PIT @ NE",
+  "market": "completions",
+  "line": 20.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -122,
+    "under": -104,
+    "line": 20.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Drake Maye",
+  "player_key": "drake maye",
+  "team": "NE",
+  "game": "PIT @ NE",
+  "market": "completions",
+  "line": 20.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -119,
+    "under": -107,
+    "line": 20.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Chris Boswell",
+  "player_key": "chris boswell",
+  "team": "PIT",
+  "game": "PIT @ NE",
+  "market": "field_goals_made",
+  "line": 1.5,
   "quotes": [
    {
     "book": "dk",
     "over": -103,
     "under": -124,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Aaron Rodgers",
+  "player_key": "aaron rodgers",
+  "team": "PIT",
+  "game": "PIT @ NE",
+  "market": "interceptions",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 105,
+    "under": -134,
+    "line": 0.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Drake Maye",
+  "player_key": "drake maye",
+  "team": "NE",
+  "game": "PIT @ NE",
+  "market": "pass_attempts",
+  "line": 29.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -111,
     "line": 29.5
    }
   ],
@@ -1872,102 +2874,245 @@
   ]
  },
  {
-  "player": "CeeDee Lamb",
-  "player_key": "ceedee lamb",
-  "team": "DAL",
-  "game": "WAS @ DAL",
-  "market": "receptions",
-  "line": 5.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -122,
-    "under": -104,
-    "line": 5.5
-   },
-   {
-    "book": "fd",
-    "over": -138,
-    "under": 104,
-    "line": 5.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "George Pickens",
-  "player_key": "george pickens",
-  "team": "DAL",
-  "game": "WAS @ DAL",
-  "market": "receptions",
-  "line": 4.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -126,
-    "under": -101,
-    "line": 4.5
-   },
-   {
-    "book": "fd",
-    "over": -114,
-    "under": -114,
-    "line": 4.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Javonte Williams",
-  "player_key": "javonte williams",
-  "team": "DAL",
-  "game": "WAS @ DAL",
-  "market": "receptions",
-  "line": 2.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -112,
-    "under": -113,
-    "line": 2.5
-   },
-   {
-    "book": "fd",
-    "over": -110,
-    "under": -120,
-    "line": 2.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Stefon Diggs",
-  "player_key": "stefon diggs",
-  "team": "WAS",
-  "game": "WAS @ DAL",
-  "market": "receptions",
-  "line": 4.5,
+  "player": "Drew Lock",
+  "player_key": "drew lock",
+  "team": "SEA",
+  "game": "SEA @ ARI",
+  "market": "completions",
+  "line": 18.5,
   "quotes": [
    {
     "book": "dk",
     "over": -119,
     "under": -107,
-    "line": 4.5
+    "line": 18.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jacoby Brissett",
+  "player_key": "jacoby brissett",
+  "team": "ARI",
+  "game": "SEA @ ARI",
+  "market": "completions",
+  "line": 21.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -103,
+    "under": -124,
+    "line": 21.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jason Myers",
+  "player_key": "jason myers",
+  "team": "SEA",
+  "game": "SEA @ ARI",
+  "market": "field_goals_made",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -131,
+    "under": 103,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Drew Lock",
+  "player_key": "drew lock",
+  "team": "SEA",
+  "game": "SEA @ ARI",
+  "market": "interceptions",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -111,
+    "under": -115,
+    "line": 0.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jacoby Brissett",
+  "player_key": "jacoby brissett",
+  "team": "ARI",
+  "game": "SEA @ ARI",
+  "market": "interceptions",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -140,
+    "under": 110,
+    "line": 0.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Drew Lock",
+  "player_key": "drew lock",
+  "team": "SEA",
+  "game": "SEA @ ARI",
+  "market": "pass_attempts",
+  "line": 29.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -121,
+    "under": -105,
+    "line": 29.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jacoby Brissett",
+  "player_key": "jacoby brissett",
+  "team": "ARI",
+  "game": "SEA @ ARI",
+  "market": "pass_attempts",
+  "line": 34.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -118,
+    "under": -108,
+    "line": 34.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "AJ Barner",
+  "player_key": "aj barner",
+  "team": "SEA",
+  "game": "SEA @ ARI",
+  "market": "receptions",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -111,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -122,
+    "under": -108,
+    "line": 2.5
+   }
+  ],
+  "aliases": [
+   "AJ Barner",
+   "A.J. Barner"
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jadarian Price",
+  "player_key": "jadarian price",
+  "team": "SEA",
+  "game": "SEA @ ARI",
+  "market": "receptions",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -112,
+    "under": -114,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jaxon Smith-Njigba",
+  "player_key": "jaxon smithnjigba",
+  "team": "SEA",
+  "game": "SEA @ ARI",
+  "market": "receptions",
+  "line": 6.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 100,
+    "under": -128,
+    "line": 6.5
+   },
+   {
+    "book": "fd",
+    "over": -106,
+    "under": -125,
+    "line": 6.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jeremiyah Love",
+  "player_key": "jeremiyah love",
+  "team": "ARI",
+  "game": "SEA @ ARI",
+  "market": "receptions",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -154,
+    "under": 120,
+    "line": 2.5
    },
    {
     "book": "fd",
     "over": -132,
     "under": 100,
-    "line": 4.5
+    "line": 2.5
    }
   ],
   "app_sides": [
@@ -1976,18 +3121,24 @@
   ]
  },
  {
-  "player": "Jacory Croskey-Merritt",
-  "player_key": "jacory croskeymerritt",
-  "team": "WAS",
-  "game": "WAS @ DAL",
-  "market": "rush_attempts",
-  "line": 13.5,
+  "player": "Kendrick Bourne",
+  "player_key": "kendrick bourne",
+  "team": "ARI",
+  "game": "SEA @ ARI",
+  "market": "receptions",
+  "line": 2.5,
   "quotes": [
    {
     "book": "dk",
-    "over": -105,
-    "under": -121,
-    "line": 13.5
+    "over": -115,
+    "under": -110,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -130,
+    "under": -102,
+    "line": 2.5
    }
   ],
   "app_sides": [
@@ -1996,18 +3147,110 @@
   ]
  },
  {
-  "player": "Javonte Williams",
-  "player_key": "javonte williams",
-  "team": "DAL",
-  "game": "WAS @ DAL",
+  "player": "Michael Wilson",
+  "player_key": "michael wilson",
+  "team": "ARI",
+  "game": "SEA @ ARI",
+  "market": "receptions",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -133,
+    "under": 104,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -132,
+    "under": 100,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Trey McBride",
+  "player_key": "trey mcbride",
+  "team": "ARI",
+  "game": "SEA @ ARI",
+  "market": "receptions",
+  "line": 6.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 104,
+    "under": -133,
+    "line": 6.5
+   },
+   {
+    "book": "fd",
+    "over": 102,
+    "under": -136,
+    "line": 6.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jadarian Price",
+  "player_key": "jadarian price",
+  "team": "SEA",
+  "game": "SEA @ ARI",
   "market": "rush_attempts",
-  "line": 17.5,
+  "line": 14.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -111,
+    "under": -115,
+    "line": 14.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jeremiyah Love",
+  "player_key": "jeremiyah love",
+  "team": "ARI",
+  "game": "SEA @ ARI",
+  "market": "rush_attempts",
+  "line": 9.5,
   "quotes": [
    {
     "book": "dk",
     "over": -108,
     "under": -118,
-    "line": 17.5
+    "line": 9.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Tyler Allgeier",
+  "player_key": "tyler allgeier",
+  "team": "ARI",
+  "game": "SEA @ ARI",
+  "market": "rush_attempts",
+  "line": 9.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -130,
+    "under": 102,
+    "line": 9.5
    }
   ],
   "app_sides": [

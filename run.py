@@ -135,6 +135,50 @@ def match(avail: list, records: list):
     return matched, unmatched
 
 
+def load_picks(path: str) -> list:
+    """
+    Hand-picked legs, one per line:  Player | market | line
+    The line is optional; leave it off and the only priced line for that
+    player and market is used. Anything else is a hard error, never a guess.
+    """
+    picks = []
+    with open(path, encoding="utf-8") as fh:
+        for ln in fh:
+            ln = ln.strip()
+            if not ln or ln.startswith("#"):
+                continue
+            parts = [p.strip() for p in ln.split("|")]
+            if len(parts) < 2:
+                stop(f"picks file: cannot read {ln!r}; want 'Player | market | line'")
+            market, cleaned = video.normalize_market(parts[1])
+            if market in (None, "skip"):
+                stop(f"picks file: unknown market {cleaned!r} on {parts[0]!r}")
+            line = float(parts[2]) if len(parts) > 2 and parts[2] else None
+            picks.append({"raw": ln, "key": fetchers.normalize_player(parts[0]),
+                          "player": parts[0], "market": market, "line": line})
+    return picks
+
+
+def select_picks(legs: list, picks: list):
+    """Match each pick to exactly one priced leg. Ambiguity is an error."""
+    chosen, problems = [], []
+    for p in picks:
+        cands = [l for l in legs
+                 if fetchers.normalize_player(l.player) == p["key"] and l.market == p["market"]
+                 and (p["line"] is None or abs(l.line - p["line"]) < 1e-9)]
+        if not cands:
+            near = [f"{l.market} {l.line}" for l in legs
+                    if fetchers.normalize_player(l.player) == p["key"]]
+            problems.append(f"{p['raw']}  -> not on the priced board"
+                            + (f"; that player has {near}" if near else ""))
+        elif len(cands) > 1:
+            problems.append(f"{p['raw']}  -> matches {len(cands)} lines "
+                            f"{[l.line for l in cands]}; add the line to the pick")
+        else:
+            chosen.append(cands[0])
+    return chosen, problems
+
+
 def unmatched_bucket(p, why: str) -> str:
     if p["market"] in UNPRICED:
         return f"{p['market']}: not priced at DK or FD"
@@ -171,9 +215,13 @@ def pref_rank(market: str) -> int:
 def print_board(ranked, tickets, name, res, promo, a):
     """Top BOARD_ROWS legs by true probability, then the tickets wheel.py chose."""
     one_sided = any(l.notes == "1-sided" for l in ranked)
-    print(f"{len(ranked)} legs priced; top {min(BOARD_ROWS, len(ranked))} shown. "
-          f"Tickets use legs at or above {a.threshold*100:.0f}% "
-          f"(break-even {promo.breakeven_leg*100:.1f}%, multiplier {promo.multiplier:.2f}x).")
+    if a.picks:
+        print(f"{len(ranked)} hand-picked legs "
+              f"(break-even {promo.breakeven_leg*100:.1f}%, multiplier {promo.multiplier:.2f}x).")
+    else:
+        print(f"{len(ranked)} legs priced; top {min(BOARD_ROWS, len(ranked))} shown. "
+              f"Tickets use legs at or above {a.threshold*100:.0f}% "
+              f"(break-even {promo.breakeven_leg*100:.1f}%, multiplier {promo.multiplier:.2f}x).")
     if one_sided:
         print(f"1-sided legs: true_p = implied(yes price) / {a.one_sided_overround:.2f}. "
               f"That divisor is an assumption (--one-sided-overround), not a measurement.")
@@ -238,6 +286,8 @@ def main():
     ap.add_argument("--entries", type=int, default=10)
     ap.add_argument("--include-yardage", action="store_true",
                     help="also price pass/rush/receiving yards (skipped by default: no edge)")
+    ap.add_argument("--picks", help="file of hand-picked legs (Player | market | line); "
+                                    "builds tickets from exactly these, ignoring --threshold")
     ap.add_argument("--one-sided-overround", type=float, default=1.08,
                     help="vig assumed baked into a one-sided price: true_p = implied / this. "
                          "An assumption, not a measurement; shown on the board.")
@@ -392,8 +442,16 @@ def main():
                      f"{l.true_p:.4f},{l.spread:.4f},{l.books},{l.opportunity},"
                      f"{pref_rank(l.market)},{int(l.notes == '1-sided')}\n")
 
-    pool = [l for l in legs if l.true_p >= a.threshold and l.spread <= a.max_spread
-            and l.opportunity >= a.min_opportunity]
+    if a.picks:
+        pool, problems = select_picks(legs, load_picks(a.picks))
+        for msg in problems:
+            print(f"   PICK  {msg}")
+        if problems:
+            stop("some picks could not be resolved; fix the picks file and rerun")
+        print(f"using {len(pool)} hand-picked legs from {a.picks}")
+    else:
+        pool = [l for l in legs if l.true_p >= a.threshold and l.spread <= a.max_spread
+                and l.opportunity >= a.min_opportunity]
     pool.sort(key=lambda x: -x.true_p)
     name, tickets = choose_structure(pool, promo)
     res = None
@@ -403,7 +461,7 @@ def main():
 
     buf = io.StringIO()
     with contextlib.redirect_stdout(buf):
-        print_board(ranked, tickets, name, res, promo, a)
+        print_board(pool if a.picks else ranked, tickets, name, res, promo, a)
     board = buf.getvalue()
     print(board)
     with open(os.path.join(wk, "board.txt"), "w", encoding="utf-8") as fh:
