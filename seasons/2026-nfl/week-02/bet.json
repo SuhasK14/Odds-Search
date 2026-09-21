@@ -30,7 +30,7 @@
      "line": 1.5
     }
    ],
-   "result": null
+   "result": true
   },
   {
    "player": "Omarion Hampton",
@@ -56,7 +56,7 @@
      "line": 0.5
     }
    ],
-   "result": null
+   "result": true
   },
   {
    "player": "Jalen Nailor",
@@ -82,7 +82,7 @@
      "line": 2.5
     }
    ],
-   "result": null
+   "result": false
   },
   {
    "player": "Demarcus Robinson",
@@ -108,7 +108,7 @@
      "line": 1.5
     }
    ],
-   "result": null
+   "result": true
   },
   {
    "player": "Jonathan Taylor",
@@ -134,7 +134,7 @@
      "line": 0.5
     }
    ],
-   "result": null
+   "result": true
   }
  ],
  "tickets": [
@@ -195,5 +195,15 @@
   "kelly_quarter": 0.023018269260440982
  },
  "resolves": "Sun 2026-09-20 slate + Mon 2026-09-21 NYG @ LAR",
- "note": "Set each leg's result to true/false after the games, then grade."
+ "note": "Set each leg's result to true/false after the games, then grade.",
+ "outcome": {
+  "graded_on": "proposed slate",
+  "legs_hit": "4/5",
+  "expected_legs_hit": 2.82,
+  "tickets_cashed": "4/10",
+  "missed": [
+   "Jalen Nailor"
+  ]
+ },
+ "deviation": "Actual play swapped Swift receptions for Swift anytime TD on some entries (user error, TD missed); 3/10 cashed. Excluded from model grading."
 }
