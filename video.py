@@ -45,7 +45,7 @@ import sys
 from collections import Counter, defaultdict
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from fetchers import MARKETS, normalize_player  # noqa: E402
+from fetchers import ALL_MARKETS, normalize_player  # noqa: E402
 
 FFMPEG_CANDIDATES = [
     os.environ.get("FFMPEG", ""),
@@ -77,6 +77,23 @@ MARKET_SYNONYMS = {
                       "int thrown", "ints thrown"],
     "field_goals_made": ["field_goals_made", "field goals made", "fg made", "field goals",
                          "fgs made", "fgm"],
+    # ---- MLB ----
+    "strikeouts": ["strikeouts", "strikeout", "ks", "pitcher strikeouts",
+                   "strikeouts thrown", "total strikeouts", "so"],
+    # ---- WNBA ----
+    "points": ["points", "pts", "total points"],
+    "rebounds": ["rebounds", "reb", "rebs", "total rebounds"],
+    "assists": ["assists", "ast", "asts", "total assists"],
+    "threes": ["threes", "3pt made", "three pointers made", "made threes",
+               "3 pointers made", "threes made", "3s"],
+    "pts_ast": ["pts_ast", "pts + ast", "points + assists", "pts+ast", "p+a",
+                "points assists"],
+    "pts_reb": ["pts_reb", "pts + reb", "points + rebounds", "pts+reb", "p+r",
+                "points rebounds"],
+    "reb_ast": ["reb_ast", "reb + ast", "rebounds + assists", "reb+ast", "r+a",
+                "ast + reb", "assists + rebounds"],
+    "pra": ["pra", "pts + reb + ast", "points + rebounds + assists", "pts+reb+ast",
+            "p+r+a", "pts reb ast"],
 }
 _SYN = {s: m for m, ss in MARKET_SYNONYMS.items() for s in ss}
 
@@ -91,7 +108,7 @@ NON_VOCAB = [
     "kicker points", "kicking points", "extra points made", "punts", "sacks",
     "tackles", "assists",
 ]
-VOCAB = set(MARKETS) | {"anytime_td", "targets"}
+VOCAB = set(ALL_MARKETS) | {"anytime_td", "targets"}
 
 
 def normalize_market(raw: str):

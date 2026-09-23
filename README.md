@@ -35,6 +35,24 @@ Everything for the week lands in `seasons/<season>/week-NN/`.
 | `sanity.py` | pre-bet checks on a props file |
 | `fixtures/week-01/` | acceptance fixture: `python wheel.py --json fixtures/week-01/props.json --threshold 0.55 --entries 10` |
 
+## Sports
+
+| sport | markets priced | notes |
+|---|---|---|
+| `nfl` | receptions, pass TDs, rush/pass attempts, completions, interceptions, field goals made, anytime TD | yardage ignored by default |
+| `mlb` | pitcher strikeouts | batter props are 4-event markets, too noisy for a 56% leg |
+| `wnba` | points, rebounds, assists, threes, Pts+Reb, Pts+Ast, Reb+Ast, PRA | |
+
+```bash
+python fetchers.py --sport wnba --days 2 --out wnba.json
+python run.py --week 1 --season 2026-wnba --video REC.mp4
+```
+
+League and subcategory ids were discovered live (NFL 2026-09-16, MLB and WNBA
+2026-09-23) and are in `fetchers.py`. DraftKings abbreviates a few clubs
+differently from FanDuel (Athletics, Giants, Nationals, Liberty); `DK_TEAM_ALIAS`
+reconciles them and any new mismatch is logged rather than silently split.
+
 ## Rules encoded in run.py
 
 - Merge and match on player **and exact line**. A nearby line is never substituted.

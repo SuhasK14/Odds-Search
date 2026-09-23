@@ -58,15 +58,33 @@ import requests
 # shared vocabulary
 # --------------------------------------------------------------------------
 
-MARKETS = (
+NFL_MARKETS = (
     "receptions", "pass_tds", "rush_attempts", "pass_yards",
     "receiving_yards", "completions", "pass_attempts", "rush_yards",
     "anytime_td", "interceptions", "field_goals_made",
 )
+# MLB: only the pitcher line is worth pricing. Batter props are 4-event
+# markets, far too noisy for a 3-leg parlay that needs 56% a leg.
+MLB_MARKETS = ("strikeouts",)
+# WNBA: the counting stats and the combos the books post two-way.
+WNBA_MARKETS = ("points", "rebounds", "assists", "threes",
+                "pts_ast", "pts_reb", "reb_ast", "pra")
+
+SPORT_MARKETS = {"nfl": NFL_MARKETS, "mlb": MLB_MARKETS, "wnba": WNBA_MARKETS}
+MARKETS = NFL_MARKETS          # back-compat default for NFL-only callers
+ALL_MARKETS = tuple(dict.fromkeys(sum(SPORT_MARKETS.values(), ())))
+
 # Markets the books price on ONE side only ("yes" / over 0.5). Their quotes
 # carry only that side: {"book": "dk", "over": -150, "under": None}. A
 # one-sided price says nothing about the other side and is never mirrored.
 ONE_SIDED = {"anytime_td"}
+
+
+def markets_for(sport: str) -> tuple:
+    s = sport.lower()
+    if s not in SPORT_MARKETS:
+        raise NotImplementedError(f"unknown sport {sport!r}; known: {list(SPORT_MARKETS)}")
+    return SPORT_MARKETS[s]
 
 # The Odds API market keys -> shared vocabulary (used by the fallback path).
 ODDS_API_MARKET = {
@@ -94,8 +112,39 @@ NFL_TEAMS = {
     "San Francisco 49ers": "SF", "Seattle Seahawks": "SEA", "Tampa Bay Buccaneers": "TB",
     "Tennessee Titans": "TEN", "Washington Commanders": "WAS",
 }
+MLB_TEAMS = {
+    "Arizona Diamondbacks": "ARI", "Atlanta Braves": "ATL", "Baltimore Orioles": "BAL",
+    "Boston Red Sox": "BOS", "Chicago Cubs": "CHC", "Chicago White Sox": "CWS",
+    "Cincinnati Reds": "CIN", "Cleveland Guardians": "CLE", "Colorado Rockies": "COL",
+    "Detroit Tigers": "DET", "Houston Astros": "HOU", "Kansas City Royals": "KC",
+    "Los Angeles Angels": "LAA", "Los Angeles Dodgers": "LAD", "Miami Marlins": "MIA",
+    "Milwaukee Brewers": "MIL", "Minnesota Twins": "MIN", "New York Mets": "NYM",
+    "New York Yankees": "NYY", "Athletics": "ATH", "Oakland Athletics": "ATH",
+    "Philadelphia Phillies": "PHI", "Pittsburgh Pirates": "PIT", "San Diego Padres": "SD",
+    "San Francisco Giants": "SF", "Seattle Mariners": "SEA", "St. Louis Cardinals": "STL",
+    "Tampa Bay Rays": "TB", "Texas Rangers": "TEX", "Toronto Blue Jays": "TOR",
+    "Washington Nationals": "WSH",
+}
+WNBA_TEAMS = {
+    "Atlanta Dream": "ATL", "Chicago Sky": "CHI", "Connecticut Sun": "CON",
+    "Dallas Wings": "DAL", "Golden State Valkyries": "GSV", "Indiana Fever": "IND",
+    "Las Vegas Aces": "LVA", "Los Angeles Sparks": "LAS", "Minnesota Lynx": "MIN",
+    "New York Liberty": "NYL", "Phoenix Mercury": "PHX", "Seattle Storm": "SEA",
+    "Washington Mystics": "WAS",
+}
+TEAMS = {"nfl": NFL_TEAMS, "mlb": MLB_TEAMS, "wnba": WNBA_TEAMS}
+# DraftKings' own shortName differs from FanDuel's for a few clubs. Left
+# unmapped these produce two different game strings for one game, which breaks
+# the per-game fetch filter. merge_records logs any pair that is still adrift.
+DK_TEAM_ALIAS = {
+    "nfl": {},
+    "mlb": {"A's": "ATH", "SFG": "SF", "WAS": "WSH"},
+    "wnba": {"NY": "NYL", "LV": "LVA", "LA": "LAS", "GS": "GSV", "CONN": "CON"},
+}
 # FanDuel logo slugs: ".../images/team/nfl/buffalo_bills_jersey.png"
 NFL_SLUG = {k.lower().replace(" ", "_"): v for k, v in NFL_TEAMS.items()}
+TEAM_SLUG = {sp: {k.lower().replace(" ", "_").replace(".", ""): v for k, v in t.items()}
+             for sp, t in TEAMS.items()}
 
 _SUFFIXES = {"jr", "sr", "ii", "iii", "iv", "v"}
 
@@ -246,7 +295,7 @@ def parse_iso(s: str) -> dt.datetime:
 
 DK_BASE = "https://sportsbook-nash.draftkings.com/api/sportscontent/dkusva/v1"
 DK_ORIGIN = "https://sportsbook.draftkings.com"
-DK_LEAGUE = {"nfl": "88808"}
+DK_LEAGUE = {"nfl": "88808", "mlb": "84240", "wnba": "94682"}
 
 # Resolved by subcategory NAME from the league payload at run time; the ids
 # below are the values observed 2026-09-16 and are only a fallback.
@@ -263,16 +312,36 @@ DK_SUBCAT = {
     "interceptions":   ("Interceptions O/U",  (1000, 15937)),
     "field_goals_made": ("FG Made O/U",       (1743, 17061)),   # Special Teams Props
 }
+# Only the "... O/U" subcategories are two-way; the bare ones are N+ ladders.
+DK_SUBCAT_MLB = {
+    "strikeouts":      ("Strikeouts Thrown O/U", (1031, 15221)),   # Pitcher Props
+}
+DK_SUBCAT_WNBA = {
+    "points":          ("Points O/U",          (1215, 12488)),
+    "rebounds":        ("Rebounds O/U",        (1216, 12492)),
+    "assists":         ("Assists O/U",         (1217, 12495)),
+    "threes":          ("Threes O/U",          (1218, 12497)),
+    "pts_ast":         ("Pts + Ast O/U",       (583, 9973)),
+    "pts_reb":         ("Pts + Reb O/U",       (583, 9976)),
+    "reb_ast":         ("Ast + Reb O/U",       (583, 9974)),
+    "pra":             ("Pts + Reb + Ast O/U", (583, 5001)),
+}
+DK_SUBCATS = {"nfl": DK_SUBCAT, "mlb": DK_SUBCAT_MLB, "wnba": DK_SUBCAT_WNBA}
 DK_ONE_SIDED_MARKET_NAME = {"anytime_td": "anytime td scorer"}   # market.name to keep in that subcategory
 
 
-def _dk_events(payload: dict) -> dict:
+def _dk_events(payload: dict, sport: str = "nfl") -> dict:
     """event id -> {"game": "DET @ BUF", "home": "BUF", "away": "DET", "start": datetime}"""
+    alias = DK_TEAM_ALIAS.get(sport.lower(), {})
+    canon = set(TEAMS.get(sport.lower(), {}).values())
     out = {}
     for e in payload.get("events", []):
         home = away = ""
         for p in e.get("participants", []):
             abbr = (p.get("metadata") or {}).get("shortName") or p.get("name", "").split()[0]
+            abbr = alias.get(abbr, abbr)
+            if canon and abbr not in canon:
+                _dk_unknown_abbr.add((sport.lower(), abbr, p.get("name", "")))
             if p.get("venueRole") == "Home":
                 home = abbr
             elif p.get("venueRole") == "Away":
@@ -297,25 +366,26 @@ def fetch_dk(sport: str, markets=MARKETS, days: float = 7, max_age_min: float = 
     league = DK_LEAGUE.get(sport.lower())
     if not league:
         raise NotImplementedError(f"DK: no league id for sport {sport!r}; add it to DK_LEAGUE")
+    subcats = DK_SUBCATS.get(sport.lower(), {})
     c = Client("dk", DK_ORIGIN, max_age_min, refresh)
 
     nav = c.get_json(f"{DK_BASE}/leagues/{league}")
-    events = _dk_events(nav)
+    events = _dk_events(nav, sport)
     by_name = {}
     for s in nav.get("subcategories", []):
         by_name[s.get("name", "").strip().lower()] = (s.get("categoryId"), s.get("id"))
 
     records = []
     for mkt in markets:
-        if mkt not in DK_SUBCAT:
-            log(f"dk: no subcategory mapping for market {mkt!r}, skipping")
+        if mkt not in subcats:
+            log(f"dk: no subcategory mapping for {sport} market {mkt!r}, skipping")
             continue
-        name, fallback = DK_SUBCAT[mkt]
+        name, fallback = subcats[mkt]
         cat, sub = by_name.get(name.lower(), fallback)
         if name.lower() not in by_name:
             log(f"dk: subcategory {name!r} not in nav payload; using fallback ids {fallback}")
         data = c.get_json(f"{DK_BASE}/leagues/{league}/categories/{cat}/subcategories/{sub}")
-        events.update(_dk_events(data))
+        events.update(_dk_events(data, sport))
 
         mk_by_id = {m["id"]: m for m in data.get("markets", [])
                     if str(m.get("subcategoryId")) == str(sub)}
@@ -392,6 +462,8 @@ def fetch_dk(sport: str, markets=MARKETS, days: float = 7, max_age_min: float = 
             })
             n += 1
         log(f"dk: {mkt:<16} {n:4d} two-way lines  (subcategory {sub})")
+    for sp, ab, nm in sorted(_dk_unknown_abbr):
+        log(f"dk: unmapped {sp} team abbreviation {ab!r} ({nm}); add it to DK_TEAM_ALIAS")
     log(f"dk: {c.hits} requests, {c.cached} served from cache")
     return records
 
@@ -404,8 +476,8 @@ FD_ORIGIN = "https://sportsbook.fanduel.com"
 # _ak is the public app key embedded in FanDuel's web client. If requests start
 # failing with 401/403, open the site, watch the sbapi XHRs, and update it.
 FD_AK = "FhMFpcPWXMeyZxOx"
-FD_PAGE = {"nfl": "nfl"}
-FD_TAB = {
+FD_PAGE = {"nfl": "nfl", "mlb": "mlb", "wnba": "wnba"}
+FD_TAB_NFL = {
     "pass_yards": "passing-props", "pass_tds": "passing-props",
     "completions": "passing-props", "pass_attempts": "passing-props",
     "receptions": "receiving-props", "receiving_yards": "receiving-props",
@@ -415,6 +487,64 @@ FD_TAB = {
     # field_goals_made: FD had no player FG line as of 2026-09-16 (its "kicking-props"
     # tab serves 4th-quarter markets), so it is DK-only until a type name is seen.
 }
+FD_TAB_MLB = {"strikeouts": "pitcher-props"}
+FD_TAB_WNBA = {
+    "points": "player-points", "rebounds": "player-rebounds",
+    "assists": "player-assists", "threes": "player-threes",
+    "pts_ast": "player-combos", "pts_reb": "player-combos",
+    "reb_ast": "player-combos", "pra": "player-combos",
+}
+FD_TABS = {"nfl": FD_TAB_NFL, "mlb": FD_TAB_MLB, "wnba": FD_TAB_WNBA}
+FD_TAB = FD_TAB_NFL          # back-compat
+
+# Per-sport marketType -> our market. NFL uses PLAYER_X_<STAT>_<TIER>; MLB and
+# WNBA use a per-player slot letter, PITCHER_<L>_... / PLAYER_<L>_..._WNBA.
+# Discovered live 2026-09-23; anything unmatched is reported, never guessed.
+FD_TYPE_MLB = {
+    "TOTAL_STRIKEOUTS": "strikeouts",
+}
+FD_TYPE_WNBA = {
+    "TOTAL_POINTS": "points", "TOTAL_REBOUNDS": "rebounds",
+    "TOTAL_ASSISTS": "assists", "TOTAL_THREES": "threes",
+    "TOTAL_MADE_3_POINT_FIELD_GOALS": "threes",
+    "TOTAL_THREE_POINTERS": "threes", "TOTAL_MADE_THREES": "threes",
+    "TOTAL_POINTS_+_ASSISTS": "pts_ast", "TOTAL_POINTS_+_REBOUNDS": "pts_reb",
+    "TOTAL_REBOUNDS_+_ASSISTS": "reb_ast",
+    "TOTAL_POINTS_+_REBOUNDS_+_ASSISTS": "pra",
+}
+_FD_SLOT_MLB = re.compile(r"^PITCHER_[A-Z]_(?P<stat>[A-Z0-9_+]+)$")
+_FD_SLOT_WNBA = re.compile(r"^PLAYER_[A-Z]_(?P<stat>[A-Z0-9_+]+)_WNBA$")
+# Known player-shaped types we deliberately skip: one-sided "N+" ladders and
+# stats outside the vocabulary. Listing them keeps the unmapped report useful.
+FD_IGNORE_STAT = {"STRIKEOUTS", "OUTS_RECORDED_SB", "HITS_ALLOWED", "WALKS_ALLOWED",
+                  "EARNED_RUNS_ALLOWED", "TOTAL_STEALS", "TOTAL_BLOCKS",
+                  "TOTAL_TURNOVERS", "TOTAL_STEALS_+_BLOCKS"}
+_dk_unknown_abbr: set = set()
+
+
+def _fd_market_from_type(sport: str, mt: str):
+    """(market | None, is_candidate). is_candidate marks player-shaped types."""
+    s = sport.lower()
+    if s == "mlb":
+        g = _FD_SLOT_MLB.match(mt)
+        if not g:
+            return None, False
+        stat = g.group("stat")
+        return FD_TYPE_MLB.get(stat), stat not in FD_IGNORE_STAT
+    if s == "wnba":
+        g = _FD_SLOT_WNBA.match(mt)
+        if not g:
+            return None, False
+        stat = g.group("stat")
+        if "QUARTER" in stat or "HALF" in stat:      # period props, not full game
+            return None, False
+        return FD_TYPE_WNBA.get(stat), stat not in FD_IGNORE_STAT
+    g = _FD_TYPE.match(mt)
+    if not g:
+        return None, mt.startswith("PLAYER_X_")
+    return FD_STAT.get(g.group("stat")), True
+
+
 FD_ONE_SIDED_TYPE = {"ANY_TIME_TOUCHDOWN_SCORER": "anytime_td"}
 # PLAYER_X_<STAT>_<TIER>  ->  shared vocabulary. Anything else that matches the
 # PLAYER_X_ pattern is reported as unmapped so new stat names are noticed.
@@ -432,22 +562,29 @@ FD_STAT = {
 _FD_TYPE = re.compile(r"^PLAYER_X_(?P<stat>[A-Z_]+?)_(?P<tier>HIGH|MEDIUM|LOW)$")
 
 
-def _fd_game(name: str) -> tuple:
-    """'Detroit Lions @ Buffalo Bills' -> ('DET @ BUF', 'DET', 'BUF')"""
+def _fd_game(name: str, sport: str = "nfl") -> tuple:
+    """
+    'Detroit Lions @ Buffalo Bills' -> ('DET @ BUF', 'DET', 'BUF')
+    MLB event names carry the probable starter, which is stripped:
+    'Toronto Blue Jays (M Scherzer) @ Baltimore Orioles (C Bassitt)'.
+    """
+    name = re.sub(r"\s*\([^)]*\)", "", name).strip()
     if " @ " in name:
         a, h = name.split(" @ ", 1)
     elif " v " in name:
         h, a = name.split(" v ", 1)
     else:
         return name, "", ""
-    aa, hh = NFL_TEAMS.get(a.strip(), a.strip()), NFL_TEAMS.get(h.strip(), h.strip())
+    tm = TEAMS.get(sport.lower(), NFL_TEAMS)
+    aa, hh = tm.get(a.strip(), a.strip()), tm.get(h.strip(), h.strip())
     return f"{aa} @ {hh}", aa, hh
 
 
-def _fd_team(runner: dict) -> str:
+def _fd_team(runner: dict, sport: str = "nfl") -> str:
     logo = runner.get("logo") or runner.get("secondaryLogo") or ""
-    m = re.search(r"/team/nfl/([a-z0-9_]+?)(?:_jersey)?\.png", logo)
-    return NFL_SLUG.get(m.group(1), "") if m else ""
+    s = sport.lower()
+    m = re.search(rf"/team/{s}/([a-z0-9_]+?)(?:_jersey)?\.png", logo)
+    return TEAM_SLUG.get(s, {}).get(m.group(1), "") if m else ""
 
 
 def fetch_fd(sport: str, markets=MARKETS, days: float = 7, max_age_min: float = 30,
@@ -476,18 +613,19 @@ def fetch_fd(sport: str, markets=MARKETS, days: float = 7, max_age_min: float = 
             continue
         if not in_window(start, days):
             continue
-        if games is not None and _fd_game(nm)[0] not in games:
+        if games is not None and _fd_game(nm, sport)[0] not in games:
             continue
         wanted_games.append((start, e["eventId"], nm))
     wanted_games.sort()
     log(f"fd: {len(wanted_games)} games in the next {days:g} days"
         + (f" (restricted to {sorted(games)})" if games is not None else ""))
 
-    tabs = sorted({FD_TAB[m] for m in markets if m in FD_TAB})
+    tab_map = FD_TABS.get(sport.lower(), {})
+    tabs = sorted({tab_map[m] for m in markets if m in tab_map})
     wanted = set(markets)
     records, unmapped, counts = [], set(), {}
     for start, eid, nm in wanted_games:
-        game, away, home = _fd_game(nm)
+        game, away, home = _fd_game(nm, sport)
         for tab in tabs:
             data = c.get_json(f"{base}/event-page?_ak={FD_AK}&eventId={eid}&tab={tab}"
                               f"&useCombinedTouchdownsVirtualMarket=true&usePulse=true&useQuickBets=true")
@@ -509,20 +647,17 @@ def fetch_fd(sport: str, markets=MARKETS, days: float = 7, max_age_min: float = 
                             continue
                         records.append({
                             "player": player, "player_key": normalize_player(player),
-                            "team": _fd_team(r), "game": game, "market": mkt, "line": 0.5,
+                            "team": _fd_team(r, sport), "game": game, "market": mkt, "line": 0.5,
                             "quotes": [{"book": "fd", "over": price, "under": None, "line": 0.5}],
                         })
                         counts[mkt] = counts.get(mkt, 0) + 1
                     continue
-                if not mt.startswith("PLAYER_X_") or "_ALT_" in mt:
+                if "_ALT_" in mt:
                     continue
-                g = _FD_TYPE.match(mt)
-                if not g:
-                    unmapped.add(mt)
-                    continue
-                mkt = FD_STAT.get(g.group("stat"))
+                mkt, candidate = _fd_market_from_type(sport, mt)
                 if mkt is None:
-                    unmapped.add(mt)
+                    if candidate:
+                        unmapped.add(mt)
                     continue
                 if mkt not in wanted:
                     continue
@@ -555,7 +690,7 @@ def fetch_fd(sport: str, markets=MARKETS, days: float = 7, max_age_min: float = 
                         player = re.sub(r"\s+(Over|Under)$", "", sides["over"].get("runnerName", ""))
                     records.append({
                         "player": player, "player_key": normalize_player(player),
-                        "team": _fd_team(sides["over"]), "game": game, "market": mkt,
+                        "team": _fd_team(sides["over"], sport), "game": game, "market": mkt,
                         "line": line,
                         "quotes": [{"book": "fd", "over": o, "under": u, "line": line}],
                     })
@@ -723,7 +858,7 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--sport", default="nfl")
     ap.add_argument("--books", default="dk,fd", help="comma list of dk,fd")
-    ap.add_argument("--markets", default=",".join(MARKETS))
+    ap.add_argument("--markets", default="", help="default: every market for --sport")
     ap.add_argument("--days", type=float, default=7, help="only games starting within N days")
     ap.add_argument("--max-age", type=float, default=30, help="reuse cached responses younger than N minutes")
     ap.add_argument("--refresh", action="store_true", help="ignore the cache")
@@ -733,10 +868,13 @@ def main():
     ap.add_argument("--out", default="props.json")
     a = ap.parse_args()
 
-    markets = [m.strip() for m in a.markets.split(",") if m.strip()]
-    bad = [m for m in markets if m not in MARKETS]
+    if a.sport.lower() not in SPORT_MARKETS:
+        ap.error(f"unknown sport {a.sport!r}; choose from {list(SPORT_MARKETS)}")
+    allowed = markets_for(a.sport)
+    markets = [m.strip() for m in a.markets.split(",") if m.strip()] or list(allowed)
+    bad = [m for m in markets if m not in allowed]
     if bad:
-        ap.error(f"unknown markets {bad}; choose from {list(MARKETS)}")
+        ap.error(f"unknown {a.sport} markets {bad}; choose from {list(allowed)}")
     books = [b.strip() for b in a.books.split(",") if b.strip()]
 
     lists = []

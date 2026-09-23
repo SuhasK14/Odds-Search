@@ -44,7 +44,8 @@ from wheel import (Promo, Leg, Quote, auto_side, choose_structure,  # noqa: E402
 
 # Yardage lines are set by moving the number, not the price (FanDuel is -114
 # both ways on every one), so they devig to ~50% and carry no information.
-# The count markets are where the price carries the skew.
+# The count markets are where the price carries the skew. NFL only; MLB and
+# WNBA have no yardage equivalent.
 YARDAGE = {"pass_yards", "rush_yards", "receiving_yards"}
 # Priced on one side only at the books ("yes" = over 0.5). Rule: the quoted
 # side can be used, and only if the app offers that same side. The other side
@@ -52,10 +53,16 @@ YARDAGE = {"pass_yards", "rush_yards", "receiving_yards"}
 ONE_SIDED = fetchers.ONE_SIDED
 # In the app's vocabulary but not priced by DK or FD; reported, not fetched.
 UNPRICED = {"targets": "targets are not priced at DK or FD"}
-# Suhas's preference order; shown as a column, the board is still sorted by
-# true probability.
-PREF = ["receptions", "pass_tds", "targets", "anytime_td", "pass_attempts",
-        "rush_attempts", "interceptions", "field_goals_made", "completions"]
+# Suhas's preference order per sport; shown as a column, the board is still
+# sorted by true probability. MLB and WNBA orders are a starting guess.
+PREF_BY_SPORT = {
+    "nfl": ["receptions", "pass_tds", "targets", "anytime_td", "pass_attempts",
+            "rush_attempts", "interceptions", "field_goals_made", "completions"],
+    "mlb": ["strikeouts"],
+    "wnba": ["points", "rebounds", "assists", "pts_reb", "pts_ast",
+             "reb_ast", "pra", "threes"],
+}
+PREF = PREF_BY_SPORT["nfl"]      # rebound to the running sport in main()
 BOARD_ROWS = 20
 
 
@@ -268,6 +275,7 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--week", type=int, required=True)
     ap.add_argument("--season", default="2026-nfl")
+    ap.add_argument("--sport", help="nfl | mlb | wnba (default: taken from --season)")
     ap.add_argument("--video", help="screen recording of the promo app")
     ap.add_argument("--available", help="use this availability file instead of the video")
     ap.add_argument("--fps", type=float, default=1.0)
@@ -293,7 +301,11 @@ def main():
                          "An assumption, not a measurement; shown on the board.")
     a = ap.parse_args()
 
-    sport = a.season.split("-", 1)[1] if "-" in a.season else "nfl"
+    sport = (a.sport or (a.season.split("-", 1)[1] if "-" in a.season else "nfl")).lower()
+    if sport not in fetchers.SPORT_MARKETS:
+        stop(f"unknown sport {sport!r}; known: {list(fetchers.SPORT_MARKETS)}")
+    global PREF
+    PREF = PREF_BY_SPORT[sport]
     wk = os.path.join(HERE, "seasons", a.season, f"week-{a.week:02d}")
     os.makedirs(wk, exist_ok=True)
     print(f"week folder: {wk}")
@@ -331,7 +343,7 @@ def main():
 
     # ---- stage 2: what do we need -----------------------------------------
     stage(2, "what to fetch")
-    markets = sorted({x["market"] for x in avail if x["market"] in fetchers.MARKETS})
+    markets = sorted({x["market"] for x in avail if x["market"] in fetchers.markets_for(sport)})
     app_games = {x["game"] for x in avail if x["game"]}
     if a.games:
         app_games |= {g.strip() for g in a.games.split(",") if g.strip()}

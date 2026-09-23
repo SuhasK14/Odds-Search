@@ -106,6 +106,7 @@ OPPORTUNITY = {
     "passes": 45, "touches": 60, "passes_completed": 45,
     # basketball
     "points": 20, "rebounds": 10, "assists": 8, "pra": 30, "threes": 7,
+    "pts_ast": 28, "pts_reb": 30, "reb_ast": 18,
     # tennis
     "games": 22, "aces": 8,
     # football
