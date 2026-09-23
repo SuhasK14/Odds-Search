@@ -1,0 +1,970 @@
+[
+ {
+  "player": "Mason Adams",
+  "player_key": "mason adams",
+  "team": "COL",
+  "game": "ARI @ COL",
+  "market": "hits_allowed",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -108,
+    "under": -123,
+    "line": 5.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Mason Adams",
+  "player_key": "mason adams",
+  "team": "COL",
+  "game": "ARI @ COL",
+  "market": "pitching_outs",
+  "line": 13.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -127,
+    "under": -105,
+    "line": 13.5
+   },
+   {
+    "book": "fd",
+    "over": -136,
+    "under": 102,
+    "line": 13.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Merrill Kelly",
+  "player_key": "merrill kelly",
+  "team": "ARI",
+  "game": "ARI @ COL",
+  "market": "pitching_outs",
+  "line": 15.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -112,
+    "under": -118,
+    "line": 15.5
+   },
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -128,
+    "line": 15.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Mason Adams",
+  "player_key": "mason adams",
+  "team": "COL",
+  "game": "ARI @ COL",
+  "market": "strikeouts",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 105,
+    "under": -134,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": 106,
+    "under": -136,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Merrill Kelly",
+  "player_key": "merrill kelly",
+  "team": "ARI",
+  "game": "ARI @ COL",
+  "market": "strikeouts",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -152,
+    "under": 119,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -138,
+    "under": 108,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Chris Sale",
+  "player_key": "chris sale",
+  "team": "ATL",
+  "game": "CIN @ ATL",
+  "market": "hits_allowed",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -132,
+    "under": 100,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Chris Sale",
+  "player_key": "chris sale",
+  "team": "ATL",
+  "game": "CIN @ ATL",
+  "market": "pitching_outs",
+  "line": 15.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 102,
+    "under": -136,
+    "line": 15.5
+   },
+   {
+    "book": "fd",
+    "over": 120,
+    "under": -168,
+    "line": 15.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Andrew Abbott",
+  "player_key": "andrew abbott",
+  "team": "CIN",
+  "game": "CIN @ ATL",
+  "market": "strikeouts",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -146,
+    "under": 115,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -142,
+    "under": 112,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Foster Griffin",
+  "player_key": "foster griffin",
+  "team": "CLE",
+  "game": "CLE @ BOS",
+  "market": "hits_allowed",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -137,
+    "under": 103,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Sonny Gray",
+  "player_key": "sonny gray",
+  "team": "BOS",
+  "game": "CLE @ BOS",
+  "market": "hits_allowed",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -145,
+    "under": 109,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Sonny Gray",
+  "player_key": "sonny gray",
+  "team": "BOS",
+  "game": "CLE @ BOS",
+  "market": "pitching_outs",
+  "line": 17.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -135,
+    "under": 102,
+    "line": 17.5
+   },
+   {
+    "book": "fd",
+    "over": -136,
+    "under": 100,
+    "line": 17.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Foster Griffin",
+  "player_key": "foster griffin",
+  "team": "CLE",
+  "game": "CLE @ BOS",
+  "market": "strikeouts",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -107,
+    "under": -119,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": 102,
+    "under": -130,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Sonny Gray",
+  "player_key": "sonny gray",
+  "team": "BOS",
+  "game": "CLE @ BOS",
+  "market": "strikeouts",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -126,
+    "under": -101,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": -115,
+    "under": -111,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Seth Lugo",
+  "player_key": "seth lugo",
+  "team": "KC",
+  "game": "CWS @ KC",
+  "market": "hits_allowed",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -150,
+    "under": 113,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Seth Lugo",
+  "player_key": "seth lugo",
+  "team": "KC",
+  "game": "CWS @ KC",
+  "market": "strikeouts",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 104,
+    "under": -133,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": -102,
+    "under": -125,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Ethan Pecko",
+  "player_key": "ethan pecko",
+  "team": "HOU",
+  "game": "HOU @ SEA",
+  "market": "pitching_outs",
+  "line": 14.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -135,
+    "under": 102,
+    "line": 14.5
+   },
+   {
+    "book": "fd",
+    "over": -140,
+    "under": 104,
+    "line": 14.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "George Kirby",
+  "player_key": "george kirby",
+  "team": "SEA",
+  "game": "HOU @ SEA",
+  "market": "strikeouts",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -127,
+    "under": -101,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": -130,
+    "under": 102,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jeffrey Springs",
+  "player_key": "jeffrey springs",
+  "team": "ATH",
+  "game": "LAA @ ATH",
+  "market": "hits_allowed",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -142,
+    "under": 107,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Walbert Urena",
+  "player_key": "walbert urena",
+  "team": "LAA",
+  "game": "LAA @ ATH",
+  "market": "pitching_outs",
+  "line": 17.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -105,
+    "under": -127,
+    "line": 17.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jeffrey Springs",
+  "player_key": "jeffrey springs",
+  "team": "ATH",
+  "game": "LAA @ ATH",
+  "market": "strikeouts",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -136,
+    "under": 107,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": -130,
+    "under": 102,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Walbert Urena",
+  "player_key": "walbert urena",
+  "team": "LAA",
+  "game": "LAA @ ATH",
+  "market": "strikeouts",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -130,
+    "under": 102,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": -132,
+    "under": 104,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Kevin Gausman",
+  "player_key": "kevin gausman",
+  "team": "CHC",
+  "game": "MIA @ CHC",
+  "market": "hits_allowed",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 110,
+    "under": -146,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Ryan Gusto",
+  "player_key": "ryan gusto",
+  "team": "MIA",
+  "game": "MIA @ CHC",
+  "market": "hits_allowed",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -135,
+    "under": 102,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kevin Gausman",
+  "player_key": "kevin gausman",
+  "team": "CHC",
+  "game": "MIA @ CHC",
+  "market": "strikeouts",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -151,
+    "under": 118,
+    "line": 5.5
+   },
+   {
+    "book": "fd",
+    "over": -138,
+    "under": 108,
+    "line": 5.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Ryan Gusto",
+  "player_key": "ryan gusto",
+  "team": "MIA",
+  "game": "MIA @ CHC",
+  "market": "strikeouts",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -133,
+    "under": 104,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -132,
+    "under": 104,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Aaron Nola",
+  "player_key": "aaron nola",
+  "team": "PHI",
+  "game": "MIL @ PHI",
+  "market": "hits_allowed",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -129,
+    "under": -103,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Logan Henderson",
+  "player_key": "logan henderson",
+  "team": "MIL",
+  "game": "MIL @ PHI",
+  "market": "hits_allowed",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -142,
+    "under": 107,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Aaron Nola",
+  "player_key": "aaron nola",
+  "team": "PHI",
+  "game": "MIL @ PHI",
+  "market": "pitching_outs",
+  "line": 15.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -145,
+    "under": 109,
+    "line": 15.5
+   },
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -122,
+    "line": 15.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Aaron Nola",
+  "player_key": "aaron nola",
+  "team": "PHI",
+  "game": "MIL @ PHI",
+  "market": "strikeouts",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -102,
+    "under": -125,
+    "line": 5.5
+   },
+   {
+    "book": "fd",
+    "over": 102,
+    "under": -130,
+    "line": 5.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Logan Henderson",
+  "player_key": "logan henderson",
+  "team": "MIL",
+  "game": "MIL @ PHI",
+  "market": "strikeouts",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -105,
+    "under": -121,
+    "line": 5.5
+   },
+   {
+    "book": "fd",
+    "over": -106,
+    "under": -120,
+    "line": 5.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Cody Bradford",
+  "player_key": "cody bradford",
+  "team": "",
+  "game": "NYM @ TEX",
+  "market": "pitching_outs",
+  "line": 12.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -120,
+    "under": -112,
+    "line": 12.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Nolan McLean",
+  "player_key": "nolan mclean",
+  "team": "NYM",
+  "game": "NYM @ TEX",
+  "market": "pitching_outs",
+  "line": 17.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -111,
+    "under": -119,
+    "line": 17.5
+   },
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -125,
+    "line": 17.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Nolan McLean",
+  "player_key": "nolan mclean",
+  "team": "NYM",
+  "game": "NYM @ TEX",
+  "market": "strikeouts",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -130,
+    "under": 102,
+    "line": 5.5
+   },
+   {
+    "book": "fd",
+    "over": -125,
+    "under": -102,
+    "line": 5.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Robbie Ray",
+  "player_key": "robbie ray",
+  "team": "SD",
+  "game": "SD @ LAD",
+  "market": "hits_allowed",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -124,
+    "under": -107,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Yoshinobu Yamamoto",
+  "player_key": "yoshinobu yamamoto",
+  "team": "LAD",
+  "game": "SD @ LAD",
+  "market": "hits_allowed",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -143,
+    "under": 108,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Robbie Ray",
+  "player_key": "robbie ray",
+  "team": "SD",
+  "game": "SD @ LAD",
+  "market": "pitching_outs",
+  "line": 14.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -141,
+    "under": 106,
+    "line": 14.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Robbie Ray",
+  "player_key": "robbie ray",
+  "team": "SD",
+  "game": "SD @ LAD",
+  "market": "strikeouts",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -143,
+    "under": 112,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -128,
+    "under": 100,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Yoshinobu Yamamoto",
+  "player_key": "yoshinobu yamamoto",
+  "team": "LAD",
+  "game": "SD @ LAD",
+  "market": "strikeouts",
+  "line": 6.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -109,
+    "under": -117,
+    "line": 6.5
+   },
+   {
+    "book": "fd",
+    "over": -104,
+    "under": -122,
+    "line": 6.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Matthew Liberatore",
+  "player_key": "matthew liberatore",
+  "team": "STL",
+  "game": "STL @ PIT",
+  "market": "hits_allowed",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -135,
+    "under": 102,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Gerrit Cole",
+  "player_key": "gerrit cole",
+  "team": "NYY",
+  "game": "TB @ NYY",
+  "market": "hits_allowed",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -121,
+    "under": -109,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Gerrit Cole",
+  "player_key": "gerrit cole",
+  "team": "",
+  "game": "TB @ NYY",
+  "market": "pitching_outs",
+  "line": 17.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": 102,
+    "under": -138,
+    "line": 17.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Mason Englert",
+  "player_key": "mason englert",
+  "team": "TB",
+  "game": "TB @ NYY",
+  "market": "strikeouts",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -134,
+    "under": 105,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ }
+]

@@ -1,0 +1,46 @@
+# Boom Pick & Spin, MLB tab (P SO / Outs / Hits Allwd). Recorded 2026-09-23 15:32.
+# Read by Claude from 4x2 tiles of 1 fps frames. Game written AWAY @ HOME; app's AZ -> ARI.
+# Only the three pitcher markets the app showed.
+{"frame": "m001", "player": "Logan Henderson", "market": "Strikeouts", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "MIL @ PHI"}
+{"frame": "m001", "player": "Aaron Nola", "market": "Strikeouts", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "MIL @ PHI"}
+{"frame": "m001", "player": "Mason Englert", "market": "Strikeouts", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "TB @ NYY"}
+{"frame": "m001", "player": "Foster Griffin", "market": "Strikeouts", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "CLE @ BOS"}
+{"frame": "m001", "player": "Sonny Gray", "market": "Strikeouts", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "CLE @ BOS"}
+{"frame": "m001", "player": "Andrew Abbott", "market": "Strikeouts", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "CIN @ ATL"}
+{"frame": "m001", "player": "Kevin Gausman", "market": "Strikeouts", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "MIA @ CHC"}
+{"frame": "m001", "player": "Seth Lugo", "market": "Strikeouts", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "CWS @ KC"}
+{"frame": "m001", "player": "Ryan Gusto", "market": "Strikeouts", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "MIA @ CHC"}
+{"frame": "m001", "player": "Nolan McLean", "market": "Strikeouts", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "NYM @ TEX"}
+{"frame": "m001", "player": "Merrill Kelly", "market": "Strikeouts", "line": 3.5, "sides": "over", "confidence": "high", "game": "ARI @ COL"}
+{"frame": "m001", "player": "Mason Adams", "market": "Strikeouts", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "ARI @ COL"}
+{"frame": "m001", "player": "Walbert Urena", "market": "Strikeouts", "line": 4.5, "sides": "over", "confidence": "high", "game": "LAA @ ATH"}
+{"frame": "m001", "player": "Jeffrey Springs", "market": "Strikeouts", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "LAA @ ATH"}
+{"frame": "m001", "player": "Robbie Ray", "market": "Strikeouts", "line": 3.5, "sides": "over", "confidence": "high", "game": "SD @ LAD"}
+{"frame": "m001", "player": "Yoshinobu Yamamoto", "market": "Strikeouts", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "SD @ LAD"}
+{"frame": "m001", "player": "George Kirby", "market": "Strikeouts", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "HOU @ SEA"}
+{"frame": "m003", "player": "Aaron Nola", "market": "Pitching Outs", "line": 15.5, "sides": "over,under", "confidence": "high", "game": "MIL @ PHI"}
+{"frame": "m003", "player": "Gerrit Cole", "market": "Pitching Outs", "line": 17.5, "sides": "over,under", "confidence": "high", "game": "TB @ NYY"}
+{"frame": "m003", "player": "Sonny Gray", "market": "Pitching Outs", "line": 17.5, "sides": "over,under", "confidence": "high", "game": "CLE @ BOS"}
+{"frame": "m003", "player": "Chris Sale", "market": "Pitching Outs", "line": 15.5, "sides": "over,under", "confidence": "high", "game": "CIN @ ATL"}
+{"frame": "m003", "player": "Nolan McLean", "market": "Pitching Outs", "line": 17.5, "sides": "over,under", "confidence": "high", "game": "NYM @ TEX"}
+{"frame": "m003", "player": "Cody Bradford", "market": "Pitching Outs", "line": 12.5, "sides": "over,under", "confidence": "high", "game": "NYM @ TEX"}
+{"frame": "m003", "player": "Merrill Kelly", "market": "Pitching Outs", "line": 15.5, "sides": "over,under", "confidence": "high", "game": "ARI @ COL"}
+{"frame": "m003", "player": "Mason Adams", "market": "Pitching Outs", "line": 13.5, "sides": "over,under", "confidence": "high", "game": "ARI @ COL"}
+{"frame": "m003", "player": "Walbert Urena", "market": "Pitching Outs", "line": 17.5, "sides": "over,under", "confidence": "high", "game": "LAA @ ATH"}
+{"frame": "m003", "player": "Robbie Ray", "market": "Pitching Outs", "line": 14.5, "sides": "over,under", "confidence": "high", "game": "SD @ LAD"}
+{"frame": "m003", "player": "Ethan Pecko", "market": "Pitching Outs", "line": 14.5, "sides": "over,under", "confidence": "high", "game": "HOU @ SEA"}
+{"frame": "m004", "player": "Logan Henderson", "market": "Hits Allowed", "line": 3.5, "sides": "over", "confidence": "high", "game": "MIL @ PHI"}
+{"frame": "m004", "player": "Matthew Liberatore", "market": "Hits Allowed", "line": 4.5, "sides": "over", "confidence": "high", "game": "STL @ PIT"}
+{"frame": "m004", "player": "Aaron Nola", "market": "Hits Allowed", "line": 4.5, "sides": "over", "confidence": "high", "game": "MIL @ PHI"}
+{"frame": "m004", "player": "Gerrit Cole", "market": "Hits Allowed", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "TB @ NYY"}
+{"frame": "m004", "player": "Ian Seymour", "market": "Hits Allowed", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "TB @ NYY"}
+{"frame": "m004", "player": "Foster Griffin", "market": "Hits Allowed", "line": 4.5, "sides": "over", "confidence": "high", "game": "CLE @ BOS"}
+{"frame": "m004", "player": "Sonny Gray", "market": "Hits Allowed", "line": 4.5, "sides": "over", "confidence": "high", "game": "CLE @ BOS"}
+{"frame": "m004", "player": "Chris Sale", "market": "Hits Allowed", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "CIN @ ATL"}
+{"frame": "m004", "player": "Kevin Gausman", "market": "Hits Allowed", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "MIA @ CHC"}
+{"frame": "m004", "player": "Seth Lugo", "market": "Hits Allowed", "line": 4.5, "sides": "over", "confidence": "high", "game": "CWS @ KC"}
+{"frame": "m004", "player": "Ryan Gusto", "market": "Hits Allowed", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "MIA @ CHC"}
+{"frame": "m004", "player": "Mason Adams", "market": "Hits Allowed", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "ARI @ COL"}
+{"frame": "m004", "player": "Jeffrey Springs", "market": "Hits Allowed", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "LAA @ ATH"}
+{"frame": "m004", "player": "Robbie Ray", "market": "Hits Allowed", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "SD @ LAD"}
+{"frame": "m004", "player": "Yoshinobu Yamamoto", "market": "Hits Allowed", "line": 4.5, "sides": "over", "confidence": "high", "game": "SD @ LAD"}

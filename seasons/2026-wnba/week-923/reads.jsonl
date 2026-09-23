@@ -1,0 +1,114 @@
+# Boom Pick & Spin, WNBA tab, every View more sheet opened. Recorded 2026-09-23 15:36.
+# Read by Claude from 4x2 tiles of 1 fps frames. Game written AWAY @ HOME; app's NY -> NYL.
+# Count markets only; fantasy points, field goals made/attempted and double-double skipped.
+# Many DAL @ SEA props are Over-only in the app; recorded as such.
+{"frame": "w001", "player": "Breanna Stewart", "market": "Points", "line": 18.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w001", "player": "Breanna Stewart", "market": "Pts + Rebs + Asts", "line": 30.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w001", "player": "Breanna Stewart", "market": "Rebounds", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w001", "player": "Breanna Stewart", "market": "Pts + Rebs", "line": 27.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w001", "player": "Breanna Stewart", "market": "Pts + Asts", "line": 21.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w001", "player": "Breanna Stewart", "market": "Asts + Rebs", "line": 11.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w001", "player": "Breanna Stewart", "market": "3-Pointers Made", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w001", "player": "Allisha Gray", "market": "Points", "line": 17.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w001", "player": "Allisha Gray", "market": "Pts + Rebs + Asts", "line": 23.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w001", "player": "Allisha Gray", "market": "Pts + Rebs", "line": 21.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w001", "player": "Allisha Gray", "market": "Pts + Asts", "line": 19.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w001", "player": "Allisha Gray", "market": "Asts + Rebs", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w001", "player": "Allisha Gray", "market": "3-Pointers Attempted", "line": 5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w002", "player": "Sabrina Ionescu", "market": "Points", "line": 14.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w002", "player": "Sabrina Ionescu", "market": "Pts + Rebs + Asts", "line": 23.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w002", "player": "Sabrina Ionescu", "market": "Assists", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w002", "player": "Sabrina Ionescu", "market": "Rebounds", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w002", "player": "Sabrina Ionescu", "market": "Pts + Rebs", "line": 18.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w002", "player": "Sabrina Ionescu", "market": "Pts + Asts", "line": 19.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w002", "player": "Sabrina Ionescu", "market": "Asts + Rebs", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w002", "player": "Sabrina Ionescu", "market": "3-Pointers Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w002", "player": "Sabrina Ionescu", "market": "3-Pointers Attempted", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w002", "player": "Angel Reese", "market": "Points", "line": 15.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w002", "player": "Angel Reese", "market": "Pts + Rebs + Asts", "line": 30.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w002", "player": "Angel Reese", "market": "Rebounds", "line": 11.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w002", "player": "Angel Reese", "market": "Assists", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w002", "player": "Angel Reese", "market": "Pts + Rebs", "line": 27.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w002", "player": "Angel Reese", "market": "Pts + Asts", "line": 18.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w002", "player": "Angel Reese", "market": "Asts + Rebs", "line": 14.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w003", "player": "Rhyne Howard", "market": "Points", "line": 16.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w003", "player": "Rhyne Howard", "market": "Pts + Rebs + Asts", "line": 23.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w003", "player": "Rhyne Howard", "market": "Rebounds", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w003", "player": "Rhyne Howard", "market": "Pts + Rebs", "line": 20.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w003", "player": "Rhyne Howard", "market": "Pts + Asts", "line": 20.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w003", "player": "Rhyne Howard", "market": "Asts + Rebs", "line": 6.5, "sides": "over", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w003", "player": "Rhyne Howard", "market": "3-Pointers Attempted", "line": 9, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w003", "player": "Jonquel Jones", "market": "Points", "line": 14.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w003", "player": "Jonquel Jones", "market": "Pts + Rebs + Asts", "line": 26.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w003", "player": "Jonquel Jones", "market": "Rebounds", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w003", "player": "Jonquel Jones", "market": "Assists", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w003", "player": "Jonquel Jones", "market": "Pts + Rebs", "line": 23.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w003", "player": "Jonquel Jones", "market": "Pts + Asts", "line": 17.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w003", "player": "Jonquel Jones", "market": "Asts + Rebs", "line": 11.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w003", "player": "Jonquel Jones", "market": "3-Pointers Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w003", "player": "Jonquel Jones", "market": "3-Pointers Attempted", "line": 5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w004", "player": "Jordin Canada", "market": "Points", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w004", "player": "Jordin Canada", "market": "Pts + Rebs + Asts", "line": 21.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w004", "player": "Jordin Canada", "market": "Pts + Rebs", "line": 13.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w004", "player": "Jordin Canada", "market": "Pts + Asts", "line": 17.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w004", "player": "Jordin Canada", "market": "Asts + Rebs", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w004", "player": "Jordin Canada", "market": "3-Pointers Made", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w004", "player": "DeWanna Bonner", "market": "Points", "line": 7.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w004", "player": "DeWanna Bonner", "market": "Rebounds", "line": 4.5, "sides": "over", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w004", "player": "DeWanna Bonner", "market": "Assists", "line": 1.5, "sides": "over", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w005", "player": "Leonie Fiebich", "market": "Points", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w005", "player": "Leonie Fiebich", "market": "Pts + Rebs + Asts", "line": 13.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w005", "player": "Leonie Fiebich", "market": "Pts + Rebs", "line": 11.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w005", "player": "Leonie Fiebich", "market": "Pts + Asts", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w005", "player": "Leonie Fiebich", "market": "Asts + Rebs", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w005", "player": "Pauline Astier", "market": "Points", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w005", "player": "Pauline Astier", "market": "Pts + Rebs + Asts", "line": 14.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w005", "player": "Pauline Astier", "market": "Pts + Rebs", "line": 11.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w005", "player": "Pauline Astier", "market": "Pts + Asts", "line": 11.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w005", "player": "Marine Johannes", "market": "Points", "line": 7.5, "sides": "over", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w005", "player": "Marine Johannes", "market": "3-Pointers Made", "line": 1.5, "sides": "over", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w006", "player": "Naz Hillmon", "market": "Points", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w006", "player": "Naz Hillmon", "market": "Pts + Rebs + Asts", "line": 12.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w006", "player": "Naz Hillmon", "market": "Rebounds", "line": 3.5, "sides": "over", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w006", "player": "Naz Hillmon", "market": "Pts + Rebs", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w006", "player": "Naz Hillmon", "market": "Pts + Asts", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w006", "player": "Naz Hillmon", "market": "Asts + Rebs", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NYL"}
+{"frame": "w006", "player": "Paige Bueckers", "market": "Points", "line": 21.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w006", "player": "Paige Bueckers", "market": "Pts + Rebs + Asts", "line": 31.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w006", "player": "Paige Bueckers", "market": "Assists", "line": 5.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w006", "player": "Paige Bueckers", "market": "Pts + Rebs", "line": 25.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w006", "player": "Paige Bueckers", "market": "Pts + Asts", "line": 27.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w006", "player": "Paige Bueckers", "market": "Asts + Rebs", "line": 9.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w006", "player": "Paige Bueckers", "market": "3-Pointers Made", "line": 1.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w006", "player": "Paige Bueckers", "market": "3-Pointers Attempted", "line": 5, "sides": "over,under", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w007", "player": "Arike Ogunbowale", "market": "Points", "line": 15.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w007", "player": "Arike Ogunbowale", "market": "Pts + Rebs + Asts", "line": 22.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w007", "player": "Arike Ogunbowale", "market": "Pts + Rebs", "line": 19.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w007", "player": "Arike Ogunbowale", "market": "Pts + Asts", "line": 19.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w007", "player": "Arike Ogunbowale", "market": "Asts + Rebs", "line": 6.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w007", "player": "Arike Ogunbowale", "market": "3-Pointers Made", "line": 1.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w007", "player": "Arike Ogunbowale", "market": "3-Pointers Attempted", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w007", "player": "Dominique Malonga", "market": "Points", "line": 15.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w007", "player": "Dominique Malonga", "market": "Pts + Rebs + Asts", "line": 25.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w007", "player": "Dominique Malonga", "market": "Pts + Rebs", "line": 23.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w007", "player": "Dominique Malonga", "market": "Pts + Asts", "line": 17.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w007", "player": "Dominique Malonga", "market": "Asts + Rebs", "line": 9.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w007", "player": "Dominique Malonga", "market": "3-Pointers Made", "line": 0.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w008", "player": "Flau'jae Johnson", "market": "Points", "line": 17.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w008", "player": "Flau'jae Johnson", "market": "Pts + Rebs + Asts", "line": 26.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w008", "player": "Flau'jae Johnson", "market": "Rebounds", "line": 4.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w008", "player": "Flau'jae Johnson", "market": "Pts + Rebs", "line": 22.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w008", "player": "Flau'jae Johnson", "market": "Pts + Asts", "line": 21.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w008", "player": "Flau'jae Johnson", "market": "Asts + Rebs", "line": 7.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w008", "player": "Flau'jae Johnson", "market": "3-Pointers Made", "line": 1.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w008", "player": "Natisha Hiedeman", "market": "Points", "line": 12.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w008", "player": "Natisha Hiedeman", "market": "Pts + Rebs + Asts", "line": 20.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w008", "player": "Natisha Hiedeman", "market": "Assists", "line": 4.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w008", "player": "Natisha Hiedeman", "market": "Pts + Rebs", "line": 15.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w008", "player": "Natisha Hiedeman", "market": "Pts + Asts", "line": 17.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w008", "player": "Natisha Hiedeman", "market": "Asts + Rebs", "line": 6.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w009", "player": "Jessica Shepard", "market": "Pts + Rebs + Asts", "line": 29.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w009", "player": "Jessica Shepard", "market": "Rebounds", "line": 10.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w009", "player": "Jessica Shepard", "market": "Pts + Rebs", "line": 24.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w009", "player": "Jessica Shepard", "market": "Pts + Asts", "line": 19.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}
+{"frame": "w009", "player": "Jessica Shepard", "market": "Asts + Rebs", "line": 15.5, "sides": "over", "confidence": "high", "game": "DAL @ SEA"}

@@ -97,8 +97,21 @@ MARKET_SYNONYMS = {
     "reb_ast": ["reb_ast", "reb + ast", "rebounds + assists", "reb+ast", "r+a",
                 "ast + reb", "assists + rebounds"],
     "pra": ["pra", "pts + reb + ast", "points + rebounds + assists", "pts+reb+ast",
-            "p+r+a", "pts reb ast"],
+            "p+r+a", "pts reb ast", "pts + rebs + asts", "pts+rebs+asts"],
+    # Boom's WNBA wording, captured 2026-09-23
+    "three_attempts": ["three_attempts", "3 pointers attempted", "3pointers attempted",
+                       "three pointers attempted", "3pt attempted", "3pa",
+                       "threes attempted"],
+    "field_goals_attempted": ["field_goals_attempted", "field goals attempted", "fga",
+                              "fg attempted"],
 }
+# Boom writes the WNBA combos with plural stems; fold them onto the same markets.
+for _m, _extra in (("pts_reb", ["pts + rebs", "pts+rebs"]),
+                   ("pts_ast", ["pts + asts", "pts+asts"]),
+                   ("reb_ast", ["asts + rebs", "asts+rebs", "rebs + asts"]),
+                   ("threes", ["3 pointers made", "3pointers made", "3pt made",
+                               "three pointers made"])):
+    MARKET_SYNONYMS[_m].extend(_extra)
 _SYN = {s: m for m, ss in MARKET_SYNONYMS.items() for s in ss}
 
 # Props the app offers that no book prices two-way in our vocabulary. They are
@@ -110,9 +123,10 @@ NON_VOCAB = [
     "in 1st",            # "Completions in 1st 10 Attempts", "Rec Yds in 1st 2 Receptions", ...
     "first reception", "first rush", "first pass", "first catch", "first carry",
     "kicker points", "kicking points", "extra points made", "punts", "sacks",
-    "tackles", "assists",
+    "tackles", "double-double", "double double",
 ]
-VOCAB = set(ALL_MARKETS) | {"anytime_td", "targets"}
+VOCAB = set(ALL_MARKETS) | {"anytime_td", "targets", "three_attempts",
+                           "field_goals_attempted"}
 
 
 def normalize_market(raw: str):

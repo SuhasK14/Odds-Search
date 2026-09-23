@@ -1,0 +1,320 @@
+{
+ "week": 923,
+ "season": "2026-mlb",
+ "props_in_app": 43,
+ "book_records": 69,
+ "matched": 42,
+ "matched_two_books": 23,
+ "unmatched": [
+  [
+   "Ian Seymour",
+   "hits_allowed",
+   3.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ]
+ ],
+ "legs_priced": 42,
+ "legs_clear": 1,
+ "threshold": 0.56,
+ "structure": "only 1 qualifying legs -- do not force entries",
+ "tickets": [],
+ "p_zero": null,
+ "roi": null,
+ "kelly_quarter": null,
+ "board": [
+  {
+   "leg": "Seth Lugo OVER 4.5 hits_allowed",
+   "true_p": 0.561,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 22
+  },
+  {
+   "leg": "Chris Sale UNDER 15.5 pitching_outs",
+   "true_p": 0.5588,
+   "spread": 0.0418,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Merrill Kelly OVER 3.5 strikeouts",
+   "true_p": 0.5579,
+   "spread": 0.0224,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Andrew Abbott OVER 3.5 strikeouts",
+   "true_p": 0.5575,
+   "spread": 0.0063,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Kevin Gausman OVER 5.5 strikeouts",
+   "true_p": 0.557,
+   "spread": 0.0207,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Kevin Gausman UNDER 4.5 hits_allowed",
+   "true_p": 0.5548,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 22
+  },
+  {
+   "leg": "Sonny Gray OVER 4.5 hits_allowed",
+   "true_p": 0.553,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 22
+  },
+  {
+   "leg": "Yoshinobu Yamamoto OVER 4.5 hits_allowed",
+   "true_p": 0.5504,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 22
+  },
+  {
+   "leg": "Jeffrey Springs OVER 4.5 hits_allowed",
+   "true_p": 0.5485,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 22
+  },
+  {
+   "leg": "Logan Henderson OVER 3.5 hits_allowed",
+   "true_p": 0.5485,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 22
+  },
+  {
+   "leg": "Robbie Ray OVER 14.5 pitching_outs",
+   "true_p": 0.5465,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  },
+  {
+   "leg": "Robbie Ray OVER 3.5 strikeouts",
+   "true_p": 0.542,
+   "spread": 0.0261,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Mason Adams UNDER 3.5 strikeouts",
+   "true_p": 0.5414,
+   "spread": 0.0028,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Ethan Pecko OVER 14.5 pitching_outs",
+   "true_p": 0.5403,
+   "spread": 0.0063,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Mason Englert OVER 4.5 strikeouts",
+   "true_p": 0.54,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  },
+  {
+   "leg": "Foster Griffin OVER 4.5 hits_allowed",
+   "true_p": 0.5399,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 22
+  },
+  {
+   "leg": "Gerrit Cole UNDER 17.5 pitching_outs",
+   "true_p": 0.5394,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  },
+  {
+   "leg": "Jeffrey Springs OVER 4.5 strikeouts",
+   "true_p": 0.5385,
+   "spread": 0.0109,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Ryan Gusto OVER 3.5 strikeouts",
+   "true_p": 0.5376,
+   "spread": 0.0008,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Ryan Gusto OVER 4.5 hits_allowed",
+   "true_p": 0.5371,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 22
+  },
+  {
+   "leg": "Matthew Liberatore OVER 4.5 hits_allowed",
+   "true_p": 0.5371,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 22
+  },
+  {
+   "leg": "Sonny Gray OVER 17.5 pitching_outs",
+   "true_p": 0.5363,
+   "spread": 0.0017,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Walbert Urena OVER 4.5 strikeouts",
+   "true_p": 0.5351,
+   "spread": 0.0041,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Chris Sale OVER 3.5 hits_allowed",
+   "true_p": 0.5323,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 22
+  },
+  {
+   "leg": "Seth Lugo UNDER 4.5 strikeouts",
+   "true_p": 0.5309,
+   "spread": 0.0141,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Mason Adams OVER 13.5 pitching_outs",
+   "true_p": 0.53,
+   "spread": 0.0158,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "George Kirby OVER 4.5 strikeouts",
+   "true_p": 0.53,
+   "spread": 0.0063,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Aaron Nola UNDER 5.5 strikeouts",
+   "true_p": 0.5285,
+   "spread": 0.0092,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Nolan McLean OVER 5.5 strikeouts",
+   "true_p": 0.5285,
+   "spread": 0.0092,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Aaron Nola OVER 4.5 hits_allowed",
+   "true_p": 0.5261,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 22
+  },
+  {
+   "leg": "Foster Griffin UNDER 4.5 strikeouts",
+   "true_p": 0.5228,
+   "spread": 0.0206,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Walbert Urena UNDER 17.5 pitching_outs",
+   "true_p": 0.5221,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  },
+  {
+   "leg": "Aaron Nola OVER 15.5 pitching_outs",
+   "true_p": 0.5194,
+   "spread": 0.0671,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Robbie Ray OVER 4.5 hits_allowed",
+   "true_p": 0.5171,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 22
+  },
+  {
+   "leg": "Logan Henderson UNDER 5.5 strikeouts",
+   "true_p": 0.5156,
+   "spread": 0.0021,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Mason Adams UNDER 5.5 hits_allowed",
+   "true_p": 0.5151,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 22
+  },
+  {
+   "leg": "Sonny Gray OVER 4.5 strikeouts",
+   "true_p": 0.5151,
+   "spread": 0.0218,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Yoshinobu Yamamoto UNDER 6.5 strikeouts",
+   "true_p": 0.5135,
+   "spread": 0.0104,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Merrill Kelly UNDER 15.5 pitching_outs",
+   "true_p": 0.5128,
+   "spread": 0.0134,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Nolan McLean UNDER 17.5 pitching_outs",
+   "true_p": 0.5125,
+   "spread": 0.0088,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Gerrit Cole OVER 4.5 hits_allowed",
+   "true_p": 0.5122,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 22
+  },
+  {
+   "leg": "Cody Bradford OVER 12.5 pitching_outs",
+   "true_p": 0.508,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  }
+ ]
+}

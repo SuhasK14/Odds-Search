@@ -4,3 +4,4 @@ seasons/**/frames/
 /ranked*.csv
 /wk[2-9]*.json
 /props.json
+seasons/**/props.json

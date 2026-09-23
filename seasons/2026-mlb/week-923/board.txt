@@ -1,0 +1,28 @@
+42 legs priced; top 20 shown. Tickets use legs at or above 56% (break-even 53.0%, multiplier 6.70x).
+pref = Suhas's market preference rank: 1=strikeouts, 2=pitching_outs, 3=hits_allowed
+
+#  leg                                            true   spr  bk  opp  pref  flags
+----------------------------------------------------------------------------------
+1  Seth Lugo OVER 4.5 hits_allowed               56.1%  0.0   1   22     3  1 book
+2  Chris Sale UNDER 15.5 pitching_outs           55.9%  4.2   2   18     2  thin
+3  Merrill Kelly OVER 3.5 strikeouts             55.8%  2.2   2   18     1  
+4  Andrew Abbott OVER 3.5 strikeouts             55.7%  0.6   2   18     1  
+5  Kevin Gausman OVER 5.5 strikeouts             55.7%  2.1   2   18     1  
+6  Kevin Gausman UNDER 4.5 hits_allowed          55.5%  0.0   1   22     3  1 book
+7  Sonny Gray OVER 4.5 hits_allowed              55.3%  0.0   1   22     3  1 book
+8  Yoshinobu Yamamoto OVER 4.5 hits_allowed      55.0%  0.0   1   22     3  1 book
+9  Jeffrey Springs OVER 4.5 hits_allowed         54.8%  0.0   1   22     3  1 book
+10 Logan Henderson OVER 3.5 hits_allowed         54.8%  0.0   1   22     3  1 book
+11 Robbie Ray OVER 14.5 pitching_outs            54.7%  0.0   1   18     2  1 book
+12 Robbie Ray OVER 3.5 strikeouts                54.2%  2.6   2   18     1  
+13 Mason Adams UNDER 3.5 strikeouts              54.1%  0.3   2   18     1  
+14 Ethan Pecko OVER 14.5 pitching_outs           54.0%  0.6   2   18     2  
+15 Mason Englert OVER 4.5 strikeouts             54.0%  0.0   1   18     1  1 book
+16 Foster Griffin OVER 4.5 hits_allowed          54.0%  0.0   1   22     3  1 book
+17 Gerrit Cole UNDER 17.5 pitching_outs          53.9%  0.0   1   18     2  1 book
+18 Jeffrey Springs OVER 4.5 strikeouts           53.9%  1.1   2   18     1  
+19 Ryan Gusto OVER 3.5 strikeouts                53.8%  0.1   2   18     1  
+20 Ryan Gusto OVER 4.5 hits_allowed              53.7%  0.0   1   22     3  1 book
+
+STRUCTURE: only 1 qualifying legs -- do not force entries
+No slate. Unused entries cost nothing; bad legs cost money.

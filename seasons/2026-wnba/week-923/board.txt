@@ -1,0 +1,28 @@
+63 legs priced; top 20 shown. Tickets use legs at or above 56% (break-even 53.0%, multiplier 6.70x).
+pref = Suhas's market preference rank: 1=points, 2=rebounds, 3=assists, 4=pts_reb, 5=pts_ast, 6=reb_ast, 7=pra, 8=threes
+
+#  leg                                            true   spr  bk  opp  pref  flags
+----------------------------------------------------------------------------------
+1  Jordin Canada OVER 0.5 threes                 55.9%  0.0   1    7     8  1 book
+2  Naz Hillmon OVER 3.5 rebounds                 55.8%  0.2   2   10     2  
+3  Rhyne Howard OVER 6.5 reb_ast                 55.7%  0.5   2   18     6  
+4  Breanna Stewart UNDER 8.5 rebounds            54.7%  0.0   1   10     2  1 book
+5  Sabrina Ionescu OVER 1.5 threes               54.3%  0.6   2    7     8  
+6  Angel Reese OVER 2.5 assists                  54.1%  1.0   2    8     3  
+7  Naz Hillmon OVER 6.5 points                   53.6%  0.7   2   20     1  
+8  Leonie Fiebich UNDER 5.5 reb_ast              53.5%  0.0   1   18     6  1 book
+9  Sabrina Ionescu UNDER 8.5 reb_ast             53.3%  0.1   2   18     6  
+10 Naz Hillmon OVER 10.5 pts_reb                 52.8%  0.0   2   30     4  
+11 Jonquel Jones UNDER 2.5 assists               52.8%  2.8   2    8     3  
+12 Leonie Fiebich UNDER 8.5 points               52.8%  0.0   1   20     1  1 book
+13 Allisha Gray UNDER 21.5 pts_reb               52.8%  0.0   1   30     4  1 book
+14 Jordin Canada OVER 13.5 pts_reb               52.7%  0.2   2   30     4  
+15 Naz Hillmon UNDER 5.5 reb_ast                 52.7%  4.3   2   18     6  thin
+16 Jonquel Jones UNDER 17.5 pts_ast              52.5%  0.6   2   28     5  
+17 Pauline Astier UNDER 8.5 points               52.5%  1.1   2   20     1  
+18 Allisha Gray OVER 19.5 pts_ast                52.5%  0.0   1   28     5  1 book
+19 Breanna Stewart UNDER 11.5 reb_ast            52.5%  0.0   1   18     6  1 book
+20 Sabrina Ionescu OVER 4.5 assists              52.4%  1.6   2    8     3  
+
+STRUCTURE: only 0 qualifying legs -- do not force entries
+No slate. Unused entries cost nothing; bad legs cost money.

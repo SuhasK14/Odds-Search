@@ -1,0 +1,1524 @@
+[
+ {
+  "player": "Angel Reese",
+  "player_key": "angel reese",
+  "team": "ATL",
+  "game": "ATL @ NYL",
+  "market": "assists",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -136,
+    "under": 100,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -140,
+    "under": 106,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jonquel Jones",
+  "player_key": "jonquel jones",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "assists",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 103,
+    "under": -140,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -122,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Sabrina Ionescu",
+  "player_key": "sabrina ionescu",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "assists",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -125,
+    "under": -109,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": -132,
+    "under": 100,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Allisha Gray",
+  "player_key": "allisha gray",
+  "team": "ATL",
+  "game": "ATL @ NYL",
+  "market": "points",
+  "line": 17.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -115,
+    "line": 17.5
+   },
+   {
+    "book": "fd",
+    "over": -120,
+    "under": -108,
+    "line": 17.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Angel Reese",
+  "player_key": "angel reese",
+  "team": "",
+  "game": "ATL @ NYL",
+  "market": "points",
+  "line": 15.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -122,
+    "under": -106,
+    "line": 15.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Breanna Stewart",
+  "player_key": "breanna stewart",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "points",
+  "line": 18.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -122,
+    "under": -109,
+    "line": 18.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "DeWanna Bonner",
+  "player_key": "dewanna bonner",
+  "team": "ATL",
+  "game": "ATL @ NYL",
+  "market": "points",
+  "line": 7.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -135,
+    "under": 102,
+    "line": 7.5
+   },
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -110,
+    "line": 7.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jonquel Jones",
+  "player_key": "jonquel jones",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "points",
+  "line": 14.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -115,
+    "line": 14.5
+   },
+   {
+    "book": "fd",
+    "over": -110,
+    "under": -118,
+    "line": 14.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jordin Canada",
+  "player_key": "jordin canada",
+  "team": "ATL",
+  "game": "ATL @ NYL",
+  "market": "points",
+  "line": 10.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -113,
+    "under": -117,
+    "line": 10.5
+   },
+   {
+    "book": "fd",
+    "over": -110,
+    "under": -118,
+    "line": 10.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Leonie Fiebich",
+  "player_key": "leonie fiebich",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "points",
+  "line": 8.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -102,
+    "under": -130,
+    "line": 8.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Naz Hillmon",
+  "player_key": "naz hillmon",
+  "team": "ATL",
+  "game": "ATL @ NYL",
+  "market": "points",
+  "line": 6.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -132,
+    "under": 100,
+    "line": 6.5
+   },
+   {
+    "book": "fd",
+    "over": -135,
+    "under": 104,
+    "line": 6.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Pauline Astier",
+  "player_key": "pauline astier",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "points",
+  "line": 8.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -106,
+    "under": -125,
+    "line": 8.5
+   },
+   {
+    "book": "fd",
+    "over": 100,
+    "under": -130,
+    "line": 8.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Rhyne Howard",
+  "player_key": "rhyne howard",
+  "team": "ATL",
+  "game": "ATL @ NYL",
+  "market": "points",
+  "line": 16.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -120,
+    "under": -110,
+    "line": 16.5
+   },
+   {
+    "book": "fd",
+    "over": -115,
+    "under": -113,
+    "line": 16.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Sabrina Ionescu",
+  "player_key": "sabrina ionescu",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "points",
+  "line": 14.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -126,
+    "under": -105,
+    "line": 14.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Allisha Gray",
+  "player_key": "allisha gray",
+  "team": "ATL",
+  "game": "ATL @ NYL",
+  "market": "pra",
+  "line": 23.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -109,
+    "under": -124,
+    "line": 23.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 23.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Angel Reese",
+  "player_key": "angel reese",
+  "team": "ATL",
+  "game": "ATL @ NYL",
+  "market": "pra",
+  "line": 30.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -125,
+    "under": -108,
+    "line": 30.5
+   },
+   {
+    "book": "fd",
+    "over": -110,
+    "under": -120,
+    "line": 30.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Breanna Stewart",
+  "player_key": "breanna stewart",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "pra",
+  "line": 30.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -111,
+    "under": -122,
+    "line": 30.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jonquel Jones",
+  "player_key": "jonquel jones",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "pra",
+  "line": 26.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -109,
+    "under": -124,
+    "line": 26.5
+   },
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -122,
+    "line": 26.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jordin Canada",
+  "player_key": "jordin canada",
+  "team": "ATL",
+  "game": "ATL @ NYL",
+  "market": "pra",
+  "line": 21.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -109,
+    "under": -125,
+    "line": 21.5
+   },
+   {
+    "book": "fd",
+    "over": -106,
+    "under": -125,
+    "line": 21.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Leonie Fiebich",
+  "player_key": "leonie fiebich",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "pra",
+  "line": 13.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -119,
+    "under": -114,
+    "line": 13.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Naz Hillmon",
+  "player_key": "naz hillmon",
+  "team": "ATL",
+  "game": "ATL @ NYL",
+  "market": "pra",
+  "line": 12.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -107,
+    "under": -127,
+    "line": 12.5
+   },
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -112,
+    "line": 12.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Pauline Astier",
+  "player_key": "pauline astier",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "pra",
+  "line": 14.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -122,
+    "under": -111,
+    "line": 14.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Rhyne Howard",
+  "player_key": "rhyne howard",
+  "team": "ATL",
+  "game": "ATL @ NYL",
+  "market": "pra",
+  "line": 23.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -129,
+    "under": -106,
+    "line": 23.5
+   },
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -112,
+    "line": 23.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Sabrina Ionescu",
+  "player_key": "sabrina ionescu",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "pra",
+  "line": 23.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -118,
+    "line": 23.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 23.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Allisha Gray",
+  "player_key": "allisha gray",
+  "team": "ATL",
+  "game": "ATL @ NYL",
+  "market": "pts_ast",
+  "line": 19.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -130,
+    "under": -105,
+    "line": 19.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Angel Reese",
+  "player_key": "angel reese",
+  "team": "ATL",
+  "game": "ATL @ NYL",
+  "market": "pts_ast",
+  "line": 18.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -130,
+    "under": -104,
+    "line": 18.5
+   },
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -112,
+    "line": 18.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Breanna Stewart",
+  "player_key": "breanna stewart",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "pts_ast",
+  "line": 21.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -125,
+    "under": -108,
+    "line": 21.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jonquel Jones",
+  "player_key": "jonquel jones",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "pts_ast",
+  "line": 17.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -106,
+    "under": -128,
+    "line": 17.5
+   },
+   {
+    "book": "fd",
+    "over": -102,
+    "under": -130,
+    "line": 17.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jordin Canada",
+  "player_key": "jordin canada",
+  "team": "ATL",
+  "game": "ATL @ NYL",
+  "market": "pts_ast",
+  "line": 17.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -128,
+    "under": -106,
+    "line": 17.5
+   },
+   {
+    "book": "fd",
+    "over": -128,
+    "under": -104,
+    "line": 17.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Leonie Fiebich",
+  "player_key": "leonie fiebich",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "pts_ast",
+  "line": 10.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -109,
+    "under": -125,
+    "line": 10.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Naz Hillmon",
+  "player_key": "naz hillmon",
+  "team": "ATL",
+  "game": "ATL @ NYL",
+  "market": "pts_ast",
+  "line": 8.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -108,
+    "under": -125,
+    "line": 8.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Pauline Astier",
+  "player_key": "pauline astier",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "pts_ast",
+  "line": 11.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -123,
+    "under": -110,
+    "line": 11.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Rhyne Howard",
+  "player_key": "rhyne howard",
+  "team": "ATL",
+  "game": "ATL @ NYL",
+  "market": "pts_ast",
+  "line": 20.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -109,
+    "under": -124,
+    "line": 20.5
+   },
+   {
+    "book": "fd",
+    "over": 100,
+    "under": -132,
+    "line": 20.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Sabrina Ionescu",
+  "player_key": "sabrina ionescu",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "pts_ast",
+  "line": 19.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -123,
+    "under": -110,
+    "line": 19.5
+   },
+   {
+    "book": "fd",
+    "over": -130,
+    "under": -102,
+    "line": 19.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Allisha Gray",
+  "player_key": "allisha gray",
+  "team": "",
+  "game": "ATL @ NYL",
+  "market": "pts_reb",
+  "line": 21.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -102,
+    "under": -130,
+    "line": 21.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Angel Reese",
+  "player_key": "angel reese",
+  "team": "ATL",
+  "game": "ATL @ NYL",
+  "market": "pts_reb",
+  "line": 27.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -128,
+    "under": -106,
+    "line": 27.5
+   },
+   {
+    "book": "fd",
+    "over": -112,
+    "under": -118,
+    "line": 27.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Breanna Stewart",
+  "player_key": "breanna stewart",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "pts_reb",
+  "line": 27.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -107,
+    "under": -127,
+    "line": 27.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jonquel Jones",
+  "player_key": "jonquel jones",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "pts_reb",
+  "line": 23.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -120,
+    "under": -113,
+    "line": 23.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 23.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jordin Canada",
+  "player_key": "jordin canada",
+  "team": "ATL",
+  "game": "ATL @ NYL",
+  "market": "pts_reb",
+  "line": 13.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -131,
+    "under": -104,
+    "line": 13.5
+   },
+   {
+    "book": "fd",
+    "over": -130,
+    "under": -102,
+    "line": 13.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Leonie Fiebich",
+  "player_key": "leonie fiebich",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "pts_reb",
+  "line": 11.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -112,
+    "under": -121,
+    "line": 11.5
+   },
+   {
+    "book": "fd",
+    "over": -102,
+    "under": -130,
+    "line": 11.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Naz Hillmon",
+  "player_key": "naz hillmon",
+  "team": "ATL",
+  "game": "ATL @ NYL",
+  "market": "pts_reb",
+  "line": 10.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -132,
+    "under": -103,
+    "line": 10.5
+   },
+   {
+    "book": "fd",
+    "over": -130,
+    "under": -102,
+    "line": 10.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Pauline Astier",
+  "player_key": "pauline astier",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "pts_reb",
+  "line": 11.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -118,
+    "line": 11.5
+   },
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -122,
+    "line": 11.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Rhyne Howard",
+  "player_key": "rhyne howard",
+  "team": "ATL",
+  "game": "ATL @ NYL",
+  "market": "pts_reb",
+  "line": 20.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -116,
+    "under": -117,
+    "line": 20.5
+   },
+   {
+    "book": "fd",
+    "over": -104,
+    "under": -128,
+    "line": 20.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Sabrina Ionescu",
+  "player_key": "sabrina ionescu",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "pts_reb",
+  "line": 18.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -119,
+    "under": -114,
+    "line": 18.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 18.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Allisha Gray",
+  "player_key": "allisha gray",
+  "team": "ATL",
+  "game": "ATL @ NYL",
+  "market": "reb_ast",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -122,
+    "under": -111,
+    "line": 5.5
+   },
+   {
+    "book": "fd",
+    "over": -122,
+    "under": -108,
+    "line": 5.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Angel Reese",
+  "player_key": "angel reese",
+  "team": "ATL",
+  "game": "ATL @ NYL",
+  "market": "reb_ast",
+  "line": 14.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -119,
+    "under": -114,
+    "line": 14.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 14.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Breanna Stewart",
+  "player_key": "breanna stewart",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "reb_ast",
+  "line": 11.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -105,
+    "under": -130,
+    "line": 11.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jonquel Jones",
+  "player_key": "jonquel jones",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "reb_ast",
+  "line": 11.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -110,
+    "under": -123,
+    "line": 11.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 11.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jordin Canada",
+  "player_key": "jordin canada",
+  "team": "ATL",
+  "game": "ATL @ NYL",
+  "market": "reb_ast",
+  "line": 10.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -117,
+    "under": -116,
+    "line": 10.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 10.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Leonie Fiebich",
+  "player_key": "leonie fiebich",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "reb_ast",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 100,
+    "under": -136,
+    "line": 5.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Naz Hillmon",
+  "player_key": "naz hillmon",
+  "team": "ATL",
+  "game": "ATL @ NYL",
+  "market": "reb_ast",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 106,
+    "under": -144,
+    "line": 5.5
+   },
+   {
+    "book": "fd",
+    "over": -112,
+    "under": -118,
+    "line": 5.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Rhyne Howard",
+  "player_key": "rhyne howard",
+  "team": "ATL",
+  "game": "ATL @ NYL",
+  "market": "reb_ast",
+  "line": 6.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -152,
+    "under": 111,
+    "line": 6.5
+   },
+   {
+    "book": "fd",
+    "over": -146,
+    "under": 110,
+    "line": 6.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Sabrina Ionescu",
+  "player_key": "sabrina ionescu",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "reb_ast",
+  "line": 8.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -101,
+    "under": -135,
+    "line": 8.5
+   },
+   {
+    "book": "fd",
+    "over": 100,
+    "under": -132,
+    "line": 8.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Angel Reese",
+  "player_key": "angel reese",
+  "team": "ATL",
+  "game": "ATL @ NYL",
+  "market": "rebounds",
+  "line": 11.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -125,
+    "under": -109,
+    "line": 11.5
+   },
+   {
+    "book": "fd",
+    "over": -122,
+    "under": -108,
+    "line": 11.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Breanna Stewart",
+  "player_key": "breanna stewart",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "rebounds",
+  "line": 8.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 105,
+    "under": -143,
+    "line": 8.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jonquel Jones",
+  "player_key": "jonquel jones",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "rebounds",
+  "line": 8.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -133,
+    "under": -102,
+    "line": 8.5
+   },
+   {
+    "book": "fd",
+    "over": -122,
+    "under": -108,
+    "line": 8.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Naz Hillmon",
+  "player_key": "naz hillmon",
+  "team": "ATL",
+  "game": "ATL @ NYL",
+  "market": "rebounds",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -149,
+    "under": 110,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -148,
+    "under": 112,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Rhyne Howard",
+  "player_key": "rhyne howard",
+  "team": "ATL",
+  "game": "ATL @ NYL",
+  "market": "rebounds",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -124,
+    "under": -110,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -112,
+    "under": -118,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Sabrina Ionescu",
+  "player_key": "sabrina ionescu",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "rebounds",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -110,
+    "under": -123,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -102,
+    "under": -130,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Breanna Stewart",
+  "player_key": "breanna stewart",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "threes",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -110,
+    "under": -124,
+    "line": 0.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jonquel Jones",
+  "player_key": "jonquel jones",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "threes",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -132,
+    "under": -103,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": -125,
+    "under": -106,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jordin Canada",
+  "player_key": "jordin canada",
+  "team": "ATL",
+  "game": "ATL @ NYL",
+  "market": "threes",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -151,
+    "under": 111,
+    "line": 0.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Sabrina Ionescu",
+  "player_key": "sabrina ionescu",
+  "team": "NYL",
+  "game": "ATL @ NYL",
+  "market": "threes",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -139,
+    "under": 102,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": -140,
+    "under": 106,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ }
+]

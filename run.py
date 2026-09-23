@@ -52,7 +52,14 @@ YARDAGE = {"pass_yards", "rush_yards", "receiving_yards"}
 # is never inferred from it.
 ONE_SIDED = fetchers.ONE_SIDED
 # In the app's vocabulary but not priced by DK or FD; reported, not fetched.
-UNPRICED = {"targets": "targets are not priced at DK or FD"}
+UNPRICED_BY_SPORT = {
+    "nfl": {"targets": "targets are not priced at DK or FD"},
+    "mlb": {},
+    "wnba": {"three_attempts": "three-point attempts are not priced at DK or FD",
+             "field_goals_attempted": "field-goal attempts are not priced at DK or FD",
+             "field_goals_made": "WNBA field goals made is not priced at DK or FD"},
+}
+UNPRICED = UNPRICED_BY_SPORT["nfl"]   # rebound to the running sport in main()
 # Suhas's preference order per sport; shown as a column, the board is still
 # sorted by true probability. MLB and WNBA orders are a starting guess.
 PREF_BY_SPORT = {
@@ -304,8 +311,9 @@ def main():
     sport = (a.sport or (a.season.split("-", 1)[1] if "-" in a.season else "nfl")).lower()
     if sport not in fetchers.SPORT_MARKETS:
         stop(f"unknown sport {sport!r}; known: {list(fetchers.SPORT_MARKETS)}")
-    global PREF
+    global PREF, UNPRICED
     PREF = PREF_BY_SPORT[sport]
+    UNPRICED = UNPRICED_BY_SPORT[sport]
     wk = os.path.join(HERE, "seasons", a.season, f"week-{a.week:02d}")
     os.makedirs(wk, exist_ok=True)
     print(f"week folder: {wk}")

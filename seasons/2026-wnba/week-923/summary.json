@@ -1,0 +1,743 @@
+{
+ "week": 923,
+ "season": "2026-wnba",
+ "props_in_app": 110,
+ "book_records": 84,
+ "matched": 63,
+ "matched_two_books": 44,
+ "unmatched": [
+  [
+   "DeWanna Bonner",
+   "assists",
+   1.5,
+   "player found but not for assists (books have ['points'])"
+  ],
+  [
+   "Marine Johannes",
+   "points",
+   7.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "DeWanna Bonner",
+   "rebounds",
+   4.5,
+   "player found but not for rebounds (books have ['points'])"
+  ],
+  [
+   "Allisha Gray",
+   "three_attempts",
+   5.0,
+   "three-point attempts are not priced at DK or FD"
+  ],
+  [
+   "Jonquel Jones",
+   "three_attempts",
+   5.0,
+   "three-point attempts are not priced at DK or FD"
+  ],
+  [
+   "Rhyne Howard",
+   "three_attempts",
+   9.0,
+   "three-point attempts are not priced at DK or FD"
+  ],
+  [
+   "Sabrina Ionescu",
+   "three_attempts",
+   6.5,
+   "three-point attempts are not priced at DK or FD"
+  ],
+  [
+   "Marine Johannes",
+   "threes",
+   1.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Natisha Hiedeman",
+   "assists",
+   4.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Paige Bueckers",
+   "assists",
+   5.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Arike Ogunbowale",
+   "points",
+   15.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Dominique Malonga",
+   "points",
+   15.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Flau'jae Johnson",
+   "points",
+   17.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Natisha Hiedeman",
+   "points",
+   12.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Paige Bueckers",
+   "points",
+   21.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Arike Ogunbowale",
+   "pra",
+   22.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Dominique Malonga",
+   "pra",
+   25.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Flau'jae Johnson",
+   "pra",
+   26.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Jessica Shepard",
+   "pra",
+   29.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Natisha Hiedeman",
+   "pra",
+   20.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Paige Bueckers",
+   "pra",
+   31.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Arike Ogunbowale",
+   "pts_ast",
+   19.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Dominique Malonga",
+   "pts_ast",
+   17.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Flau'jae Johnson",
+   "pts_ast",
+   21.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Jessica Shepard",
+   "pts_ast",
+   19.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Natisha Hiedeman",
+   "pts_ast",
+   17.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Paige Bueckers",
+   "pts_ast",
+   27.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Arike Ogunbowale",
+   "pts_reb",
+   19.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Dominique Malonga",
+   "pts_reb",
+   23.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Flau'jae Johnson",
+   "pts_reb",
+   22.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Jessica Shepard",
+   "pts_reb",
+   24.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Natisha Hiedeman",
+   "pts_reb",
+   15.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Paige Bueckers",
+   "pts_reb",
+   25.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Arike Ogunbowale",
+   "reb_ast",
+   6.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Dominique Malonga",
+   "reb_ast",
+   9.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Flau'jae Johnson",
+   "reb_ast",
+   7.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Jessica Shepard",
+   "reb_ast",
+   15.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Natisha Hiedeman",
+   "reb_ast",
+   6.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Paige Bueckers",
+   "reb_ast",
+   9.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Flau'jae Johnson",
+   "rebounds",
+   4.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Jessica Shepard",
+   "rebounds",
+   10.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Arike Ogunbowale",
+   "three_attempts",
+   5.5,
+   "three-point attempts are not priced at DK or FD"
+  ],
+  [
+   "Paige Bueckers",
+   "three_attempts",
+   5.0,
+   "three-point attempts are not priced at DK or FD"
+  ],
+  [
+   "Arike Ogunbowale",
+   "threes",
+   1.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Dominique Malonga",
+   "threes",
+   0.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Flau'jae Johnson",
+   "threes",
+   1.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Paige Bueckers",
+   "threes",
+   1.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ]
+ ],
+ "legs_priced": 63,
+ "legs_clear": 0,
+ "threshold": 0.56,
+ "structure": "only 0 qualifying legs -- do not force entries",
+ "tickets": [],
+ "p_zero": null,
+ "roi": null,
+ "kelly_quarter": null,
+ "board": [
+  {
+   "leg": "Jordin Canada OVER 0.5 threes",
+   "true_p": 0.5593,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 7
+  },
+  {
+   "leg": "Naz Hillmon OVER 3.5 rebounds",
+   "true_p": 0.5577,
+   "spread": 0.0017,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Rhyne Howard OVER 6.5 reb_ast",
+   "true_p": 0.5574,
+   "spread": 0.0052,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Breanna Stewart UNDER 8.5 rebounds",
+   "true_p": 0.5468,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 10
+  },
+  {
+   "leg": "Sabrina Ionescu OVER 1.5 threes",
+   "true_p": 0.543,
+   "spread": 0.0056,
+   "books": 2,
+   "opportunity": 7
+  },
+  {
+   "leg": "Angel Reese OVER 2.5 assists",
+   "true_p": 0.5406,
+   "spread": 0.0104,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Naz Hillmon OVER 6.5 points",
+   "true_p": 0.5359,
+   "spread": 0.0073,
+   "books": 2,
+   "opportunity": 20
+  },
+  {
+   "leg": "Leonie Fiebich UNDER 5.5 reb_ast",
+   "true_p": 0.5354,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  },
+  {
+   "leg": "Sabrina Ionescu UNDER 8.5 reb_ast",
+   "true_p": 0.5328,
+   "spread": 0.0012,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Naz Hillmon OVER 10.5 pts_reb",
+   "true_p": 0.5284,
+   "spread": 0.0004,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Jonquel Jones UNDER 2.5 assists",
+   "true_p": 0.5282,
+   "spread": 0.028,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Leonie Fiebich UNDER 8.5 points",
+   "true_p": 0.5282,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 20
+  },
+  {
+   "leg": "Allisha Gray UNDER 21.5 pts_reb",
+   "true_p": 0.5282,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 30
+  },
+  {
+   "leg": "Jordin Canada OVER 13.5 pts_reb",
+   "true_p": 0.5274,
+   "spread": 0.0016,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Naz Hillmon UNDER 5.5 reb_ast",
+   "true_p": 0.5274,
+   "spread": 0.0426,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Jonquel Jones UNDER 17.5 pts_ast",
+   "true_p": 0.525,
+   "spread": 0.0064,
+   "books": 2,
+   "opportunity": 28
+  },
+  {
+   "leg": "Pauline Astier UNDER 8.5 points",
+   "true_p": 0.5249,
+   "spread": 0.0115,
+   "books": 2,
+   "opportunity": 20
+  },
+  {
+   "leg": "Allisha Gray OVER 19.5 pts_ast",
+   "true_p": 0.5246,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 28
+  },
+  {
+   "leg": "Breanna Stewart UNDER 11.5 reb_ast",
+   "true_p": 0.5246,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  },
+  {
+   "leg": "Sabrina Ionescu OVER 4.5 assists",
+   "true_p": 0.524,
+   "spread": 0.0165,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Jonquel Jones OVER 1.5 threes",
+   "true_p": 0.5239,
+   "spread": 0.0095,
+   "books": 2,
+   "opportunity": 7
+  },
+  {
+   "leg": "Rhyne Howard UNDER 20.5 pts_ast",
+   "true_p": 0.5236,
+   "spread": 0.0174,
+   "books": 2,
+   "opportunity": 28
+  },
+  {
+   "leg": "Jordin Canada OVER 17.5 pts_ast",
+   "true_p": 0.5229,
+   "spread": 0.0023,
+   "books": 2,
+   "opportunity": 28
+  },
+  {
+   "leg": "DeWanna Bonner OVER 7.5 points",
+   "true_p": 0.5227,
+   "spread": 0.0289,
+   "books": 2,
+   "opportunity": 20
+  },
+  {
+   "leg": "Jonquel Jones OVER 8.5 rebounds",
+   "true_p": 0.5224,
+   "spread": 0.0164,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Sabrina Ionescu OVER 14.5 points",
+   "true_p": 0.5212,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 20
+  },
+  {
+   "leg": "Sabrina Ionescu OVER 19.5 pts_ast",
+   "true_p": 0.5205,
+   "spread": 0.0153,
+   "books": 2,
+   "opportunity": 28
+  },
+  {
+   "leg": "Sabrina Ionescu UNDER 3.5 rebounds",
+   "true_p": 0.5205,
+   "spread": 0.0153,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Breanna Stewart UNDER 27.5 pts_reb",
+   "true_p": 0.5198,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 30
+  },
+  {
+   "leg": "Leonie Fiebich UNDER 11.5 pts_reb",
+   "true_p": 0.5185,
+   "spread": 0.0192,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Jordin Canada UNDER 21.5 pra",
+   "true_p": 0.5175,
+   "spread": 0.0034,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Naz Hillmon UNDER 8.5 pts_ast",
+   "true_p": 0.5169,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 28
+  },
+  {
+   "leg": "Breanna Stewart OVER 21.5 pts_ast",
+   "true_p": 0.5169,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 28
+  },
+  {
+   "leg": "Angel Reese OVER 15.5 points",
+   "true_p": 0.5164,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 20
+  },
+  {
+   "leg": "Angel Reese OVER 18.5 pts_ast",
+   "true_p": 0.5159,
+   "spread": 0.0197,
+   "books": 2,
+   "opportunity": 28
+  },
+  {
+   "leg": "Leonie Fiebich UNDER 10.5 pts_ast",
+   "true_p": 0.5158,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 28
+  },
+  {
+   "leg": "Angel Reese OVER 11.5 rebounds",
+   "true_p": 0.515,
+   "spread": 0.0016,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Jonquel Jones UNDER 26.5 pra",
+   "true_p": 0.5145,
+   "spread": 0.0007,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Rhyne Howard OVER 23.5 pra",
+   "true_p": 0.5143,
+   "spread": 0.0165,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Breanna Stewart UNDER 0.5 threes",
+   "true_p": 0.5138,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 7
+  },
+  {
+   "leg": "Breanna Stewart OVER 18.5 points",
+   "true_p": 0.5131,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 20
+  },
+  {
+   "leg": "Pauline Astier OVER 11.5 pts_ast",
+   "true_p": 0.5129,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 28
+  },
+  {
+   "leg": "Allisha Gray OVER 5.5 reb_ast",
+   "true_p": 0.5125,
+   "spread": 0.0033,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Rhyne Howard UNDER 20.5 pts_reb",
+   "true_p": 0.5125,
+   "spread": 0.0231,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Breanna Stewart UNDER 30.5 pra",
+   "true_p": 0.5109,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 30
+  },
+  {
+   "leg": "Pauline Astier OVER 14.5 pra",
+   "true_p": 0.5109,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 30
+  },
+  {
+   "leg": "Pauline Astier UNDER 11.5 pts_reb",
+   "true_p": 0.5086,
+   "spread": 0.0112,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Angel Reese OVER 27.5 pts_reb",
+   "true_p": 0.5078,
+   "spread": 0.0278,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Allisha Gray UNDER 23.5 pra",
+   "true_p": 0.5075,
+   "spread": 0.0149,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Naz Hillmon UNDER 12.5 pra",
+   "true_p": 0.5069,
+   "spread": 0.0258,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Jonquel Jones UNDER 11.5 reb_ast",
+   "true_p": 0.5065,
+   "spread": 0.0129,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Allisha Gray OVER 17.5 points",
+   "true_p": 0.5062,
+   "spread": 0.0123,
+   "books": 2,
+   "opportunity": 20
+  },
+  {
+   "leg": "Jordin Canada UNDER 10.5 points",
+   "true_p": 0.5061,
+   "spread": 0.0042,
+   "books": 2,
+   "opportunity": 20
+  },
+  {
+   "leg": "Rhyne Howard OVER 16.5 points",
+   "true_p": 0.5061,
+   "spread": 0.0081,
+   "books": 2,
+   "opportunity": 20
+  },
+  {
+   "leg": "Leonie Fiebich OVER 13.5 pra",
+   "true_p": 0.505,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 30
+  },
+  {
+   "leg": "Rhyne Howard OVER 3.5 rebounds",
+   "true_p": 0.5039,
+   "spread": 0.0199,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Jonquel Jones OVER 23.5 pts_reb",
+   "true_p": 0.5035,
+   "spread": 0.0069,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Angel Reese OVER 30.5 pra",
+   "true_p": 0.5034,
+   "spread": 0.027,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Sabrina Ionescu OVER 18.5 pts_reb",
+   "true_p": 0.5025,
+   "spread": 0.005,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Angel Reese OVER 14.5 reb_ast",
+   "true_p": 0.5025,
+   "spread": 0.005,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Sabrina Ionescu UNDER 23.5 pra",
+   "true_p": 0.5015,
+   "spread": 0.003,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Jordin Canada OVER 10.5 reb_ast",
+   "true_p": 0.5005,
+   "spread": 0.001,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Jonquel Jones OVER 14.5 points",
+   "true_p": 0.4959,
+   "spread": 0.0082,
+   "books": 2,
+   "opportunity": 20
+  }
+ ]
+}
