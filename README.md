@@ -40,7 +40,7 @@ Everything for the week lands in `seasons/<season>/week-NN/`.
 | sport | markets priced | notes |
 |---|---|---|
 | `nfl` | receptions, pass TDs, rush/pass attempts, completions, interceptions, field goals made, anytime TD | yardage ignored by default |
-| `mlb` | pitcher strikeouts | batter props are 4-event markets, too noisy for a 56% leg |
+| `mlb` | pitcher strikeouts, hits allowed, pitching outs | hits allowed is DK-only; batter props stay out, they are 4-event markets too noisy for a 56% leg |
 | `wnba` | points, rebounds, assists, threes, Pts+Reb, Pts+Ast, Reb+Ast, PRA | |
 
 ```bash

@@ -65,7 +65,7 @@ NFL_MARKETS = (
 )
 # MLB: only the pitcher line is worth pricing. Batter props are 4-event
 # markets, far too noisy for a 3-leg parlay that needs 56% a leg.
-MLB_MARKETS = ("strikeouts",)
+MLB_MARKETS = ("strikeouts", "hits_allowed", "pitching_outs")
 # WNBA: the counting stats and the combos the books post two-way.
 WNBA_MARKETS = ("points", "rebounds", "assists", "threes",
                 "pts_ast", "pts_reb", "reb_ast", "pra")
@@ -313,8 +313,10 @@ DK_SUBCAT = {
     "field_goals_made": ("FG Made O/U",       (1743, 17061)),   # Special Teams Props
 }
 # Only the "... O/U" subcategories are two-way; the bare ones are N+ ladders.
-DK_SUBCAT_MLB = {
-    "strikeouts":      ("Strikeouts Thrown O/U", (1031, 15221)),   # Pitcher Props
+DK_SUBCAT_MLB = {                                                  # all cat 1031 Pitcher Props
+    "strikeouts":      ("Strikeouts Thrown O/U", (1031, 15221)),
+    "hits_allowed":    ("Hits Allowed O/U",      (1031, 9886)),
+    "pitching_outs":   ("Outs Recorded O/U",     (1031, 17413)),
 }
 DK_SUBCAT_WNBA = {
     "points":          ("Points O/U",          (1215, 12488)),
@@ -487,7 +489,9 @@ FD_TAB_NFL = {
     # field_goals_made: FD had no player FG line as of 2026-09-16 (its "kicking-props"
     # tab serves 4th-quarter markets), so it is DK-only until a type name is seen.
 }
-FD_TAB_MLB = {"strikeouts": "pitcher-props"}
+FD_TAB_MLB = {"strikeouts": "pitcher-props", "pitching_outs": "pitcher-props"}
+# hits_allowed: FD posts no pitcher hits-allowed market (checked across tabs
+# 2026-09-23), so it is DK-only, like NFL field goals made.
 FD_TAB_WNBA = {
     "points": "player-points", "rebounds": "player-rebounds",
     "assists": "player-assists", "threes": "player-threes",
@@ -502,7 +506,12 @@ FD_TAB = FD_TAB_NFL          # back-compat
 # Discovered live 2026-09-23; anything unmatched is reported, never guessed.
 FD_TYPE_MLB = {
     "TOTAL_STRIKEOUTS": "strikeouts",
+    "OUTS_RECORDED_SB": "pitching_outs",
 }
+# Markets whose FD runners carry the line in the runner name ("Name Over 15.5")
+# with handicap 0, instead of the usual MOVING_HANDICAP shape.
+FD_LINE_IN_RUNNER = {"pitching_outs"}
+_FD_NAME_LINE = re.compile(r"(Over|Under)\s+([0-9]+(?:\.[0-9]+)?)\s*$", re.I)
 FD_TYPE_WNBA = {
     "TOTAL_POINTS": "points", "TOTAL_REBOUNDS": "rebounds",
     "TOTAL_ASSISTS": "assists", "TOTAL_THREES": "threes",
@@ -516,7 +525,7 @@ _FD_SLOT_MLB = re.compile(r"^PITCHER_[A-Z]_(?P<stat>[A-Z0-9_+]+)$")
 _FD_SLOT_WNBA = re.compile(r"^PLAYER_[A-Z]_(?P<stat>[A-Z0-9_+]+)_WNBA$")
 # Known player-shaped types we deliberately skip: one-sided "N+" ladders and
 # stats outside the vocabulary. Listing them keeps the unmapped report useful.
-FD_IGNORE_STAT = {"STRIKEOUTS", "OUTS_RECORDED_SB", "HITS_ALLOWED", "WALKS_ALLOWED",
+FD_IGNORE_STAT = {"STRIKEOUTS", "HITS_ALLOWED", "WALKS_ALLOWED",
                   "EARNED_RUNS_ALLOWED", "TOTAL_STEALS", "TOTAL_BLOCKS",
                   "TOTAL_TURNOVERS", "TOTAL_STEALS_+_BLOCKS"}
 _dk_unknown_abbr: set = set()
@@ -664,15 +673,25 @@ def fetch_fd(sport: str, markets=MARKETS, days: float = 7, max_age_min: float = 
                 if m.get("marketStatus") not in (None, "OPEN"):
                     continue
                 groups: dict = {}
+                line_in_name = mkt in FD_LINE_IN_RUNNER
                 for r in m.get("runners", []):
                     if r.get("runnerStatus") not in (None, "ACTIVE"):
                         continue
-                    side = ((r.get("result") or {}).get("type") or "").lower()
                     rn = r.get("runnerName", "")
-                    if side not in ("over", "under"):
-                        low = rn.lower()
-                        side = "over" if low.endswith(" over") else "under" if low.endswith(" under") else ""
-                    hc = r.get("handicap")
+                    if line_in_name:
+                        # "Matthew Liberatore Over 15.5": handicap is 0 and the
+                        # line rides in the runner name instead.
+                        g2 = _FD_NAME_LINE.search(rn)
+                        if not g2:
+                            continue
+                        side, hc = g2.group(1).lower(), float(g2.group(2))
+                    else:
+                        side = ((r.get("result") or {}).get("type") or "").lower()
+                        if side not in ("over", "under"):
+                            low = rn.lower()
+                            side = ("over" if low.endswith(" over")
+                                    else "under" if low.endswith(" under") else "")
+                        hc = r.get("handicap")
                     if not side or hc is None:
                         continue
                     groups.setdefault(float(hc), {})[side] = r
@@ -685,7 +704,13 @@ def fetch_fd(sport: str, markets=MARKETS, days: float = 7, max_age_min: float = 
                     except (KeyError, TypeError, ValueError):
                         log(f"fd: unparseable odds in {m.get('marketName')}")
                         continue
-                    player = m.get("marketName", "").split(" - ")[0].strip()
+                    if line_in_name:
+                        # marketName here is "Matthew Liberatore Outs Recorded",
+                        # with no " - " separator, so the runner name is the
+                        # only reliable source: "Matthew Liberatore Over 15.5".
+                        player = _FD_NAME_LINE.sub("", sides["over"].get("runnerName", "")).strip()
+                    else:
+                        player = m.get("marketName", "").split(" - ")[0].strip()
                     if not player:
                         player = re.sub(r"\s+(Over|Under)$", "", sides["over"].get("runnerName", ""))
                     records.append({

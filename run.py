@@ -58,7 +58,7 @@ UNPRICED = {"targets": "targets are not priced at DK or FD"}
 PREF_BY_SPORT = {
     "nfl": ["receptions", "pass_tds", "targets", "anytime_td", "pass_attempts",
             "rush_attempts", "interceptions", "field_goals_made", "completions"],
-    "mlb": ["strikeouts"],
+    "mlb": ["strikeouts", "pitching_outs", "hits_allowed"],
     "wnba": ["points", "rebounds", "assists", "pts_reb", "pts_ast",
              "reb_ast", "pra", "threes"],
 }

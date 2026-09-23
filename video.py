@@ -80,6 +80,10 @@ MARKET_SYNONYMS = {
     # ---- MLB ----
     "strikeouts": ["strikeouts", "strikeout", "ks", "pitcher strikeouts",
                    "strikeouts thrown", "total strikeouts", "so"],
+    "hits_allowed": ["hits_allowed", "hits allowed", "hits against", "hits (pitcher)",
+                     "pitcher hits allowed", "total hits allowed"],
+    "pitching_outs": ["pitching_outs", "pitching outs", "outs recorded", "outs",
+                      "total outs", "outs (pitcher)", "innings pitched outs"],
     # ---- WNBA ----
     "points": ["points", "pts", "total points"],
     "rebounds": ["rebounds", "reb", "rebs", "total rebounds"],

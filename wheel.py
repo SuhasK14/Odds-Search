@@ -114,7 +114,7 @@ OPPORTUNITY = {
     "rush_attempts": 15, "rush_yards": 15,
     "receptions": 6, "receiving_yards": 6, "pass_tds": 32,
     # baseball
-    "pitching_outs": 18, "strikeouts": 18,
+    "pitching_outs": 18, "strikeouts": 18, "hits_allowed": 22,
     "hits": 4, "total_bases": 4, "runs": 4, "rbis": 4, "singles": 4,
     # hockey
     "shots": 4, "saves": 28,
