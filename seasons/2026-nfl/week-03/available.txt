@@ -1,0 +1,120 @@
+# promo app availability, compiled by video.py
+# Player Name | market | line | sides | game
+Brock Purdy | completions | 20.5 | over,under | ARI @ SF
+Brock Purdy | pass_attempts | 28.5 | over,under | ARI @ SF
+Jacoby Brissett | pass_attempts | 32.5 | over,under | ARI @ SF
+Christian McCaffrey | receptions | 4.5 | over,under | ARI @ SF
+Deebo Samuel | receptions | 3.5 | over,under | ARI @ SF
+Kendrick Bourne | receptions | 2.5 | over,under | ARI @ SF
+Jeremiyah Love | rush_attempts | 9.5 | over,under | ARI @ SF
+Tyler Allgeier | rush_attempts | 8.5 | over,under | ARI @ SF
+Michael Penix Jr. | completions | 18.5 | over,under | ATL @ GB
+Michael Penix Jr. | interceptions | 0.5 | over,under | ATL @ GB
+Michael Penix Jr. | pass_attempts | 31.5 | over,under | ATL @ GB
+Brian Robinson Jr. | receptions | 0.5 | over,under | ATL @ GB
+Christian Watson | receptions | 4.5 | over | ATL @ GB
+Drake London | receptions | 5.5 | over,under | ATL @ GB
+Kyle Pitts Sr. | receptions | 3.5 | over,under | ATL @ GB
+Matthew Golden | receptions | 4.5 | over,under | ATL @ GB
+Kaleb Johnson | rush_attempts | 9.5 | over,under | ATL @ GB
+Michael Penix Jr. | rush_attempts | 1.5 | over,under | ATL @ GB
+Chris Brooks | targets | 1.5 | over,under | ATL @ GB
+Christian Watson | targets | 7.5 | over,under | ATL @ GB
+Drake London | targets | 9.0 | over,under | ATL @ GB
+Olamide Zaccheaus | targets | 1.5 | over,under | ATL @ GB
+Tucker Kraft | targets | 6.0 | over,under | ATL @ GB
+Dak Prescott | completions | 25.5 | over,under | BAL @ DAL
+Lamar Jackson | completions | 19.0 | over,under | BAL @ DAL
+Brandon Aubrey | field_goals_made | 1.5 | over,under | BAL @ DAL
+Tyler Loop | field_goals_made | 1.5 | over,under | BAL @ DAL
+Dak Prescott | interceptions | 0.5 | over,under | BAL @ DAL
+Dak Prescott | pass_attempts | 36.5 | over,under | BAL @ DAL
+Lamar Jackson | pass_attempts | 29.0 | over,under | BAL @ DAL
+Dak Prescott | pass_tds | 1.5 | over | BAL @ DAL
+CeeDee Lamb | receptions | 6.5 | over | BAL @ DAL
+Jake Ferguson | receptions | 3.5 | over,under | BAL @ DAL
+Javonte Williams | receptions | 2.5 | over | BAL @ DAL
+Mark Andrews | receptions | 4.5 | over,under | BAL @ DAL
+Derrick Henry | rush_attempts | 18.5 | over,under | BAL @ DAL
+Javonte Williams | rush_attempts | 14.5 | over,under | BAL @ DAL
+CeeDee Lamb | targets | 10.5 | over,under | BAL @ DAL
+George Pickens | targets | 8.0 | over,under | BAL @ DAL
+Javonte Williams | targets | 4.0 | over,under | BAL @ DAL
+Zay Flowers | targets | 7.0 | over,under | BAL @ DAL
+Ryan Fitzgerald | field_goals_made | 1.5 | over,under | CAR @ CLE
+Denzel Boston | receptions | 3.5 | over,under | CAR @ CLE
+Harold Fannin Jr. | receptions | 4.5 | over,under | CAR @ CLE
+KC Concepcion | receptions | 3.5 | over,under | CAR @ CLE
+Chris Boswell | field_goals_made | 1.5 | over,under | CIN @ PIT
+Darnell Washington | receptions | 1.5 | over,under | CIN @ PIT
+Mike Gesicki | receptions | 2.5 | over,under | CIN @ PIT
+Pat Freiermuth | receptions | 3.5 | over | CIN @ PIT
+Pat Freiermuth | targets | 5.0 | over,under | CIN @ PIT
+Ka'imi Fairbairn | field_goals_made | 1.5 | over,under | HOU @ IND
+Spencer Shrader | field_goals_made | 1.5 | over,under | HOU @ IND
+Jaylin Noel | receptions | 2.5 | over,under | HOU @ IND
+Woody Marks | rush_attempts | 7.5 | over,under | HOU @ IND
+Emmett Johnson | receptions | 1.5 | over,under | KC @ MIA
+Malik Washington | receptions | 3.5 | over,under | KC @ MIA
+Tyquan Thornton | receptions | 1.5 | over,under | KC @ MIA
+Xavier Worthy | receptions | 3.5 | over,under | KC @ MIA
+Xavier Worthy | targets | 6.0 | over,under | KC @ MIA
+Tyler Bass | field_goals_made | 1.5 | over,under | LAC @ BUF
+Quentin Johnston | targets | 5.0 | over,under | LAC @ BUF
+Tre Harris | targets | 4.5 | over,under | LAC @ BUF
+Bo Nix | completions | 21.5 | over,under | LAR @ DEN
+Matthew Stafford | completions | 21.5 | over,under | LAR @ DEN
+Harrison Mevis | field_goals_made | 1.5 | over,under | LAR @ DEN
+Wil Lutz | field_goals_made | 1.5 | over,under | LAR @ DEN
+Bo Nix | interceptions | 0.5 | over,under | LAR @ DEN
+Matthew Stafford | interceptions | 0.5 | over,under | LAR @ DEN
+Bo Nix | pass_attempts | 33.5 | over,under | LAR @ DEN
+Matthew Stafford | pass_attempts | 33.5 | over,under | LAR @ DEN
+Evan Engram | receptions | 2.5 | over,under | LAR @ DEN
+Pat Bryant | receptions | 2.5 | over,under | LAR @ DEN
+Blake Corum | rush_attempts | 11.0 | over,under | LAR @ DEN
+Kyren Williams | rush_attempts | 13.5 | over,under | LAR @ DEN
+Courtland Sutton | targets | 6.0 | over,under | LAR @ DEN
+Jaylen Waddle | targets | 7.0 | over,under | LAR @ DEN
+Kirk Cousins | completions | 20.5 | over,under | LV @ NO
+Tyler Shough | completions | 22.5 | over,under | LV @ NO
+Daniel Carlson | field_goals_made | 1.5 | over,under | LV @ NO
+Matt Gay | field_goals_made | 1.5 | over,under | LV @ NO
+Kirk Cousins | interceptions | 0.5 | over,under | LV @ NO
+Kirk Cousins | pass_attempts | 31.5 | over,under | LV @ NO
+Ashton Jeanty | receptions | 3.5 | over,under | LV @ NO
+Ashton Jeanty | rush_attempts | 17.5 | over,under | LV @ NO
+Bucky Irving | receptions | 2.5 | over,under | MIN @ TB
+Justin Jefferson | receptions | 5.5 | over,under | MIN @ TB
+TJ Hockenson | receptions | 3.5 | over,under | MIN @ TB
+Bucky Irving | rush_attempts | 13.5 | over,under | MIN @ TB
+Cade Otton | targets | 4.5 | over,under | MIN @ TB
+Chris Godwin Jr. | targets | 4.5 | over,under | MIN @ TB
+Emeka Egbuka | targets | 6.5 | over,under | MIN @ TB
+Jordan Addison | targets | 5.0 | over,under | MIN @ TB
+Marvin Harrison Jr. | targets | 3.5 | over,under | MIN @ TB
+Michael Wilson | targets | 6.5 | over,under | MIN @ TB
+Trey McBride | targets | 9.5 | over,under | MIN @ TB
+Andy Borregales | field_goals_made | 1.5 | over,under | NE @ JAX
+Brenton Strange | targets | 4.0 | over,under | NE @ JAX
+Hunter Henry | targets | 5.5 | over,under | NE @ JAX
+Mack Hollins | targets | 4.5 | over,under | NE @ JAX
+Jake Bates | field_goals_made | 1.5 | over,under | NYJ @ DET
+Adonai Mitchell | receptions | 3.5 | over,under | NYJ @ DET
+Isaac TeSlaa | receptions | 1.5 | over,under | NYJ @ DET
+Kenyon Sadiq | receptions | 2.5 | over,under | NYJ @ DET
+Sam LaPorta | receptions | 4.5 | over,under | NYJ @ DET
+Sam LaPorta | targets | 6.5 | over,under | NYJ @ DET
+Jalen Hurts | pass_attempts | 28.5 | over,under | PHI @ CHI
+DeVonta Smith | receptions | 5.5 | over,under | PHI @ CHI
+Jalen Hurts | rush_attempts | 6.5 | over,under | PHI @ CHI
+Saquon Barkley | rush_attempts | 16.5 | over,under | PHI @ CHI
+DeVonta Smith | targets | 8.0 | over,under | PHI @ CHI
+Dontayvion Wicks | targets | 4.5 | over,under | PHI @ CHI
+Saquon Barkley | targets | 2.5 | over,under | PHI @ CHI
+Jason Myers | field_goals_made | 1.5 | over,under | SEA @ WSH
+AJ Barner | receptions | 2.5 | over,under | SEA @ WSH
+Dominic Zvada | field_goals_made | 1.5 | over,under | TEN @ NYG
+Calvin Ridley | receptions | 1.5 | over,under | TEN @ NYG
+Elic Ayomanor | receptions | 1.5 | over,under | TEN @ NYG
+Tony Pollard | rush_attempts | 11.5 | over,under | TEN @ NYG
