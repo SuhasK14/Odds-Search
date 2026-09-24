@@ -5,3 +5,7 @@ seasons/**/frames/
 /wk[2-9]*.json
 /props.json
 seasons/**/props.json
+
+# secrets - never commit
+.env
+*.key

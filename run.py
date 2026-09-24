@@ -222,6 +222,27 @@ def print_unmatched_summary(unmatched):
 # board
 # --------------------------------------------------------------------------
 
+def price_leg(m: dict, a) -> "Leg":
+    """Devig one matched record into a Leg. Used for the real board and, before
+    any credits are spent, to see which single-book legs are worth a second price."""
+    leg = Leg(player=m["player"], team=m.get("team", ""), game=m.get("game", ""),
+              market=m["market"], line=float(m["line"]))
+    if m["market"] in ONE_SIDED:
+        # side is whatever the book quoted (over / yes); strip an assumed vig
+        ps = [american_to_implied(q["over"]) / a.one_sided_overround for q in m["quotes"]]
+        leg.side = "over"
+        leg.true_p = sum(ps) / len(ps)
+        leg.spread = max(ps) - min(ps)
+        leg.books = len(ps)
+        leg.opportunity = opportunity_of(leg.market)
+        leg.notes = "1-sided"
+        leg.quotes = [Quote(q["book"], q["over"], 0) for q in m["quotes"]]
+    else:
+        leg.quotes = [Quote(q["book"], q["over"], q["under"]) for q in m["quotes"]]
+        leg = auto_side(leg, a.devig)
+    return leg
+
+
 def pref_rank(market: str) -> int:
     return PREF.index(market) + 1 if market in PREF else len(PREF) + 1
 
@@ -291,6 +312,18 @@ def main():
     ap.add_argument("--games", default="", help="comma list like 'DET @ BUF' when the app does not show the game")
     ap.add_argument("--days", type=float, default=7)
     ap.add_argument("--books", default="dk,fd")
+    ap.add_argument("--odds-api", action="store_true",
+                    help="after DK/FD, spend Odds API credits to fill single-book gaps")
+    ap.add_argument("--odds-api-key", default=os.environ.get("ODDS_API_KEY", ""))
+    ap.add_argument("--odds-api-budget", type=int, default=40,
+                    help="max credits for one run (free plan is 500/month)")
+    ap.add_argument("--odds-api-min-prob", type=float, default=0.55,
+                    help="only buy a second price for a single-book leg already "
+                         "priced at or above this on the one book it has")
+    ap.add_argument("--odds-api-top", type=int, default=8,
+                    help="cap on how many single-book legs to cross-reference; 0 = no cap")
+    ap.add_argument("--odds-api-books", default=",".join(fetchers.ODDS_API_DEFAULT_BOOKS),
+                    help="which extra books to accept; add bov,bol for the offshore pair")
     ap.add_argument("--fd-state", default="il")
     ap.add_argument("--max-age", type=float, default=30)
     ap.add_argument("--refresh", action="store_true")
@@ -361,6 +394,7 @@ def main():
     # ---- stage 3: fetch ------------------------------------------------------
     stage(3, "fetch only what is needed")
     books = [b.strip() for b in a.books.split(",") if b.strip()]
+    oa_books = tuple(b.strip() for b in a.odds_api_books.split(",") if b.strip())
     lists = []
     try:
         dk = []
@@ -384,6 +418,67 @@ def main():
     except fetchers.BotBlocked as e:
         stop(f"blocked by a book, not retrying:\n{e}")
     records = fetchers.merge_records(*lists)
+
+    # ---- stage 3b: fill single-book gaps from The Odds API -------------------
+    # DK and FD are free, so credits are spent only where they left one book
+    # and only on markets the API actually carries.
+    if a.odds_api:
+        key = a.odds_api_key or fetchers.read_env_key()
+        if not key:
+            print("  --odds-api given but no key (set ODDS_API_KEY or .env); skipping")
+        else:
+            # Price what DK/FD gave us first. A credit is only worth spending on
+            # a leg that already looks playable on one book -- a leg at 45% does
+            # not become interesting with a second quote, and the app has to
+            # offer the side we would take.
+            prov_matched, _ = match(avail, records)
+            tappable = {(x["key"], x["market"], round(x["line"], 2), s)
+                        for x in avail for s in x["sides"]}
+            cands = []
+            for m in prov_matched:
+                if len(m["quotes"]) >= 2:
+                    continue
+                if m["market"] not in fetchers.ODDS_API_MARKET.values():
+                    continue
+                if m["market"] in fetchers.ODDS_API_NO_EXTRA:
+                    continue
+                leg = price_leg(m, a)
+                k = (fetchers.normalize_player(leg.player), leg.market,
+                     round(leg.line, 2), leg.side)
+                if k not in tappable or not leg.game:
+                    continue
+                if leg.true_p >= a.odds_api_min_prob:
+                    cands.append(leg)
+            cands.sort(key=lambda l: l.true_p, reverse=True)
+            if a.odds_api_top:
+                cands = cands[:a.odds_api_top]
+            gaps = {(l.game, l.market) for l in cands}
+
+            if not gaps:
+                print(f"  no single-book leg at or above {a.odds_api_min_prob:.0%}; "
+                      "no credits spent")
+            else:
+                print(f"  {len(cands)} single-book leg(s) at or above "
+                      f"{a.odds_api_min_prob:.0%}"
+                      + (f", capped at top {a.odds_api_top}" if a.odds_api_top else "")
+                      + f" -> {len(gaps)} game-market(s) to query:")
+                for l in cands:
+                    print(f"     {l.true_p * 100:5.1f}%  {l.label()[:46]:<47}"
+                          f"{'+'.join(q.book for q in l.quotes)}")
+                print(f"  budget {a.odds_api_budget} credits; 1 credit per game-market that has data")
+                extra = fetchers.fetch_odds_api(
+                    sport, markets, key, days=a.days, max_age_min=a.max_age,
+                    refresh=a.refresh, books=oa_books, only=gaps,
+                    budget=a.odds_api_budget)
+                if extra:
+                    before = sum(1 for r in records if len(r["quotes"]) >= 2)
+                    records = fetchers.merge_records(records, extra)
+                    after = sum(1 for r in records if len(r["quotes"]) >= 2)
+                    print(f"  multi-book records {before} -> {after}")
+                    summary["odds_api_books"] = sorted(
+                        {q["book"] for r in records for q in r["quotes"]}
+                        - {"dk", "fd"})
+
     with open(os.path.join(wk, "props.json"), "w", encoding="utf-8") as fh:
         json.dump(records, fh, indent=1, ensure_ascii=False)
     print(fetchers.summarize(records))
@@ -420,24 +515,7 @@ def main():
     # ---- stage 5: wheel ----------------------------------------------------
     stage(5, "wheel")
     promo = Promo(max_entries=a.entries)
-    legs = []
-    for m in matched:
-        leg = Leg(player=m["player"], team=m.get("team", ""), game=m.get("game", ""),
-                  market=m["market"], line=float(m["line"]))
-        if m["market"] in ONE_SIDED:
-            # side is whatever the book quoted (over / yes); strip an assumed vig
-            ps = [american_to_implied(q["over"]) / a.one_sided_overround for q in m["quotes"]]
-            leg.side = "over"
-            leg.true_p = sum(ps) / len(ps)
-            leg.spread = max(ps) - min(ps)
-            leg.books = len(ps)
-            leg.opportunity = opportunity_of(leg.market)
-            leg.notes = "1-sided"
-            leg.quotes = [Quote(q["book"], q["over"], 0) for q in m["quotes"]]
-        else:
-            leg.quotes = [Quote(q["book"], q["over"], q["under"]) for q in m["quotes"]]
-            leg = auto_side(leg, a.devig)
-        legs.append(leg)
+    legs = [price_leg(m, a) for m in matched]
 
     # availability filter: the side we would take has to be tappable in the app
     tappable = {(x["key"], x["market"], round(x["line"], 2), s) for x in avail for s in x["sides"]}

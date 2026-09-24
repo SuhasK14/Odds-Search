@@ -121,6 +121,77 @@ Checked live 2026-09-23. A market missing here is not a bug, it is the book.
 | WNBA points, rebounds, assists, threes, all combos | yes | yes |
 | targets (any sport), WNBA three-point attempts | **no** | **no** |
 
+## Third and fourth books (The Odds API)
+
+DK and FD leave a lot of legs on one book, and a single price has to be devigged
+with an assumed 1.08 overround, which flatters it. `--odds-api` fills those gaps
+after the free scrapers have run:
+
+```bash
+python run.py --week 3 --season 2026-nfl --odds-api
+```
+
+The key lives in `.env` (gitignored) as `ODDS_API_KEY=...`; nothing reads it from
+the command line. Billing is **1 credit per game-market that returns data** —
+markets nobody posts are free, and the 30-minute disk cache means a rerun costs
+nothing. The free plan is 500 credits a month; a full NFL gap-fill run is about
+30, so budget roughly 15 runs. `--odds-api-budget` (default 40) stops a run
+before it eats the allowance.
+
+**Credits are only spent on legs that already look playable.** Before anything
+is bought, DK/FD are priced as usual; a single-book leg is cross-referenced only
+if all of these hold:
+
+- it is the only book on that prop, and
+- it already prices at or above `--odds-api-min-prob` (default 55%) on that one
+  book, and
+- the app offers the side we would actually take, and
+- it is in the top `--odds-api-top` (default 8) such legs by probability.
+
+A leg at 45% does not get more interesting with a second quote, so it never
+costs a credit. On NFL week 3 this took the run from 31 credits to 1.
+
+Raise the bar with `--odds-api-min-prob 0.56`, or drop it to about 0.53 to also
+audit the band just under the break-even. The trade-off is real: a single-book
+leg between 53% and the threshold keeps its assumed-vig number, which is
+optimistic, so treat the `1 book` flag on the board as "unverified" rather than
+"verified good".
+
+A credit that comes back empty is still informative. Week 3 bought one on
+TEN @ NYG receptions and learned FanDuel is the only book in the feed posting
+that game at all, which is why Ridley and Ayomanor stay single-book.
+
+Coverage as checked live 2026-09-24:
+
+| | who adds a second price |
+|---|---|
+| NFL interceptions | BetRivers (BetMGM does **not** post these) |
+| NFL receptions, pass TDs, attempts | BetMGM |
+| NFL completions | BetMGM, sparsely |
+| NFL field goals made | nobody — DK only, so it is skipped to save the credit |
+| MLB hits allowed, pitching outs | Fanatics only |
+| MLB strikeouts | Fanatics, Bovada |
+
+Default extra books are `mgm,br,fan,wh` — legal US only. Bovada and BetOnline
+are off by default: more vig, and they often mirror a US line rather than adding
+an independent opinion. They do, however, have the **widest** coverage of the QB
+count markets (attempts, completions, interceptions, rush attempts), well beyond
+BetRivers. If a run keeps coming back single-book on those, turn them on:
+
+```bash
+python run.py --week 3 --odds-api --odds-api-books mgm,br,fan,wh,bov,bol
+```
+
+**Bet365 is not usable.** Every entry point returns 403 behind a Cloudflare
+challenge, and their sportsbook API is websocket-based behind a JS-derived
+token. It is also absent from the Odds API's `us` region. Do not spend time
+retrying it.
+
+Adding a second price usually *lowers* a single-book leg, because the assumed
+vig was doing the flattering. On week 3 both Kirk Cousins and Bo Nix
+interceptions fell about 1.5 points once BetRivers was included, dropping them
+out of contention. That is the feature working.
+
 **Timing matters more than anything else.** DraftKings posts NFL player props
 close to game day. On the Tuesday before a Thursday opener it had five of sixteen
 games; the Wednesday before that it had none at all, with zero `O/U`

@@ -86,8 +86,10 @@ def markets_for(sport: str) -> tuple:
         raise NotImplementedError(f"unknown sport {sport!r}; known: {list(SPORT_MARKETS)}")
     return SPORT_MARKETS[s]
 
-# The Odds API market keys -> shared vocabulary (used by the fallback path).
+# The Odds API market keys -> shared vocabulary. Used both as a standalone
+# fallback and, more usefully, to fill single-book gaps left by DK and FD.
 ODDS_API_MARKET = {
+    # NFL
     "player_receptions": "receptions",
     "player_pass_tds": "pass_tds",
     "player_rush_attempts": "rush_attempts",
@@ -96,8 +98,36 @@ ODDS_API_MARKET = {
     "player_pass_completions": "completions",
     "player_pass_attempts": "pass_attempts",
     "player_rush_yds": "rush_yards",
+    "player_pass_interceptions": "interceptions",
+    "player_field_goals": "field_goals_made",
+    "player_anytime_td": "anytime_td",
+    # MLB
+    "pitcher_strikeouts": "strikeouts",
+    "pitcher_hits_allowed": "hits_allowed",
+    "pitcher_outs": "pitching_outs",
 }
-ODDS_API_BOOK = {"draftkings": "dk", "fanduel": "fd"}
+
+# Bookmaker keys we accept, mapped to short codes for the board. dk/fd are
+# scraped directly and are only taken from here when the direct path is off;
+# merge_records keeps the first quote per book, so the direct one wins.
+# Checked live 2026-09-24: BetMGM posts receptions but NOT interceptions,
+# field goals or completions. Fanatics is the only book in the feed posting
+# MLB hits allowed and pitching outs. Bet365 is not carried in the us region.
+ODDS_API_BOOK = {
+    "draftkings": "dk", "fanduel": "fd", "betmgm": "mgm", "betrivers": "br",
+    "fanatics": "fan", "williamhill_us": "wh", "bovada": "bov", "betonlineag": "bol",
+}
+
+# Legal US books first; the offshore pair is opt-in because they carry more vig
+# and often mirror a US line rather than adding an independent opinion.
+ODDS_API_DEFAULT_BOOKS = ("mgm", "br", "fan", "wh")
+
+# Markets where the feed carries no book beyond DK/FD, so a gap-fill request
+# bills a credit and returns nothing usable. Observed 2026-09-24; recheck if a
+# book starts posting them.
+ODDS_API_NO_EXTRA = {"field_goals_made"}
+ODDS_API_SPORT_KEY = {"nfl": "americanfootball_nfl", "mlb": "baseball_mlb",
+                      "wnba": "basketball_wnba"}
 
 NFL_TEAMS = {
     "Arizona Cardinals": "ARI", "Atlanta Falcons": "ATL", "Baltimore Ravens": "BAL",
@@ -186,6 +216,20 @@ def log(msg: str):
 # --------------------------------------------------------------------------
 
 CACHE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "cache")
+ENV_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".env")
+
+
+def read_env_key(name: str = "ODDS_API_KEY") -> str:
+    """Read a secret from the gitignored .env, so it never lands in a command line."""
+    try:
+        with open(ENV_FILE, encoding="utf-8") as fh:
+            for line in fh:
+                line = line.strip()
+                if line.startswith(name + "="):
+                    return line.split("=", 1)[1].strip()
+    except OSError:
+        pass
+    return ""
 
 CHROME_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
              "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36")
@@ -224,6 +268,8 @@ class Client:
         self.delay = delay
         self.hits = 0
         self.cached = 0
+        self.credits = 0          # metered APIs: units actually billed
+        self.remaining = None     # units left on the plan, per the last response
         os.makedirs(os.path.join(CACHE_DIR, book), exist_ok=True)
 
     def _path(self, url: str) -> str:
@@ -251,6 +297,14 @@ class Client:
             raise BotBlocked(f"{self.book}: HTTP {r.status_code} from {url}\n"
                              f"{r.text[:200]}")
         r.raise_for_status()
+        # The Odds API bills per market that actually returns data and reports
+        # the tally in headers; unposted markets cost nothing.
+        try:
+            self.credits += int(r.headers.get("x-requests-last", 0) or 0)
+            if "x-requests-remaining" in r.headers:
+                self.remaining = int(float(r.headers["x-requests-remaining"]))
+        except (TypeError, ValueError):
+            pass
         try:
             body = r.json()
         except ValueError:
@@ -736,21 +790,41 @@ def fetch_fd(sport: str, markets=MARKETS, days: float = 7, max_age_min: float = 
 
 def fetch_odds_api(sport: str, markets=MARKETS, api_key: str = "", regions: str = "us",
                    days: float = 7, max_age_min: float = 30, refresh: bool = False,
-                   books=("dk", "fd")) -> list:
+                   books=ODDS_API_DEFAULT_BOOKS, only=None, budget=None,
+                   games=None) -> list:
     """
-    Same output shape, from https://the-odds-api.com (player props need a paid
-    tier). Market keys are translated from The Odds API's player_* names and
-    bookmaker keys to dk/fd. Only bookmakers in `books` are kept.
+    Same output shape, from https://the-odds-api.com.
+
+    Metered: one credit per (event x market x region) that actually returns
+    data. Unposted markets are free, and the disk cache means a rerun inside
+    `max_age_min` costs nothing. Two levers keep a run cheap:
+
+      only    {(game, market)} -- ask only for these pairs, one request per
+              game carrying just the markets still wanted there. This is the
+              gap-fill path: DK and FD are free, so spend credits only where
+              they left a single book.
+      budget  stop once this many credits have been billed this run, rather
+              than silently eating a monthly allowance.
+
+    `books` filters to short codes (see ODDS_API_BOOK). dk/fd are excluded by
+    default because the direct scrapers already have them, fresher.
     """
     if not api_key:
         raise RuntimeError("The Odds API needs --odds-api-key or ODDS_API_KEY")
-    sport_key = {"nfl": "americanfootball_nfl"}.get(sport.lower(), sport)
+    sport = sport.lower()
+    sport_key = ODDS_API_SPORT_KEY.get(sport, sport)
+    teams = TEAMS.get(sport, NFL_TEAMS)
     inv = {v: k for k, v in ODDS_API_MARKET.items()}
-    api_markets = [inv[m] for m in markets if m in inv]
+    wanted = [m for m in markets if m in inv]
+    if not wanted:
+        log(f"oddsapi: none of {list(markets)} are carried by the API")
+        return []
+
     c = Client("oddsapi", "https://the-odds-api.com", max_age_min, refresh, delay=(0.2, 0.5))
     base = "https://api.the-odds-api.com/v4/sports"
-    events = c.get_json(f"{base}/{sport_key}/events?apiKey={api_key}")
-    records = []
+    events = c.get_json(f"{base}/{sport_key}/events?apiKey={api_key}")   # free
+
+    records, skipped_budget = [], 0
     for ev in events:
         try:
             start = parse_iso(ev["commence_time"])
@@ -758,24 +832,61 @@ def fetch_odds_api(sport: str, markets=MARKETS, api_key: str = "", regions: str 
             start = None
         if start and not in_window(start, days):
             continue
-        away = NFL_TEAMS.get(ev.get("away_team", ""), ev.get("away_team", ""))
-        home = NFL_TEAMS.get(ev.get("home_team", ""), ev.get("home_team", ""))
+        away = teams.get(ev.get("away_team", ""), ev.get("away_team", ""))
+        home = teams.get(ev.get("home_team", ""), ev.get("home_team", ""))
         game = f"{away} @ {home}"
+        if games and game not in games:
+            continue
+
+        # Narrow the market list per game when gap-filling.
+        if only is not None:
+            need = [m for m in wanted if (game, m) in only]
+            if not need:
+                continue
+        else:
+            need = wanted
+
+        if budget is not None and c.credits >= budget:
+            skipped_budget += 1
+            continue
+
+        api_markets = ",".join(inv[m] for m in need)
         url = (f"{base}/{sport_key}/events/{ev['id']}/odds?apiKey={api_key}&regions={regions}"
-               f"&markets={','.join(api_markets)}&oddsFormat=american")
+               f"&markets={api_markets}&oddsFormat=american")
         try:
             data = c.get_json(url)
         except Exception as e:
             log(f"oddsapi: skip event {ev.get('id')}: {e}")
             continue
+
         for bm in data.get("bookmakers", []):
             book = ODDS_API_BOOK.get(bm.get("key"), bm.get("key"))
             if books and book not in books:
                 continue
             for mk in bm.get("markets", []):
                 mkt = ODDS_API_MARKET.get(mk.get("key"))
-                if not mkt:
+                if not mkt or mkt not in need:
                     continue
+
+                if mkt in ONE_SIDED:
+                    # Yes/No on the player, no line. Keep the "yes" only; the
+                    # "no" side is never used to infer the other direction.
+                    for oc in mk.get("outcomes", []):
+                        nm = oc.get("description") or ""
+                        if not nm or (oc.get("name") or "").lower() != "yes":
+                            continue
+                        try:
+                            price = int(oc.get("price"))
+                        except (TypeError, ValueError):
+                            continue
+                        records.append({
+                            "player": nm, "player_key": normalize_player(nm), "team": "",
+                            "game": game, "market": mkt, "line": 0.5,
+                            "quotes": [{"book": book, "over": price,
+                                        "under": None, "line": 0.5}],
+                        })
+                    continue
+
                 sides: dict = {}
                 for oc in mk.get("outcomes", []):
                     nm = oc.get("description") or ""
@@ -787,13 +898,21 @@ def fetch_odds_api(sport: str, markets=MARKETS, api_key: str = "", regions: str 
                 for (nm, pt), s in sides.items():
                     if "over" not in s or "under" not in s:
                         continue
+                    try:
+                        o, u = int(s["over"]), int(s["under"])
+                    except (TypeError, ValueError):
+                        continue
                     records.append({
                         "player": nm, "player_key": normalize_player(nm), "team": "",
                         "game": game, "market": mkt, "line": pt,
-                        "quotes": [{"book": book, "over": int(s["over"]),
-                                    "under": int(s["under"]), "line": pt}],
+                        "quotes": [{"book": book, "over": o, "under": u, "line": pt}],
                     })
-    log(f"oddsapi: {len(records)} two-way quotes, {c.hits} requests, {c.cached} cached")
+
+    rem = "?" if c.remaining is None else c.remaining
+    log(f"oddsapi: {len(records)} quotes from {c.hits} requests ({c.cached} cached), "
+        f"{c.credits} credits spent, {rem} left this month")
+    if skipped_budget:
+        log(f"oddsapi: BUDGET {budget} reached, {skipped_budget} game(s) not queried")
     return records
 
 
@@ -882,14 +1001,18 @@ def main():
         sys.stderr.reconfigure(encoding="utf-8", errors="replace")
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--sport", default="nfl")
-    ap.add_argument("--books", default="dk,fd", help="comma list of dk,fd")
+    ap.add_argument("--books", default="dk,fd",
+                    help="comma list; dk,fd are scraped directly. With --odds-api: "
+                         + ",".join(sorted(set(ODDS_API_BOOK.values()))))
     ap.add_argument("--markets", default="", help="default: every market for --sport")
     ap.add_argument("--days", type=float, default=7, help="only games starting within N days")
     ap.add_argument("--max-age", type=float, default=30, help="reuse cached responses younger than N minutes")
     ap.add_argument("--refresh", action="store_true", help="ignore the cache")
     ap.add_argument("--fd-state", default="il", help="FanDuel sbapi state subdomain (il, nj, pa, ...)")
     ap.add_argument("--odds-api", action="store_true", help="use The Odds API instead of the book scrapers")
-    ap.add_argument("--odds-api-key", default=os.environ.get("ODDS_API_KEY", ""))
+    ap.add_argument("--odds-api-key", default=os.environ.get("ODDS_API_KEY", "") or read_env_key())
+    ap.add_argument("--odds-api-budget", type=int, default=None,
+                    help="stop after this many credits are billed this run")
     ap.add_argument("--out", default="props.json")
     a = ap.parse_args()
 
@@ -906,7 +1029,8 @@ def main():
     try:
         if a.odds_api:
             lists.append(fetch_odds_api(a.sport, markets, a.odds_api_key, days=a.days,
-                                        max_age_min=a.max_age, refresh=a.refresh, books=books))
+                                        max_age_min=a.max_age, refresh=a.refresh,
+                                        books=books, budget=a.odds_api_budget))
         else:
             if "dk" in books:
                 lists.append(fetch_dk(a.sport, markets, a.days, a.max_age, a.refresh))
