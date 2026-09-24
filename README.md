@@ -4,8 +4,19 @@ Prop screening for the Pick & Spin promo: read what the app offers from a screen
 recording, price only those props off DraftKings and FanDuel, and let `wheel.py`
 rank them and build tickets.
 
-Python 3 + `requests` only. ffmpeg for frame extraction (the copy bundled with
-BlueStacks is found automatically). Read-only against the books.
+Python 3 + `requests` only. ffmpeg for frame extraction. Read-only against the books.
+
+**On this machine** `python` and `python3` resolve to the Microsoft Store stub and
+fail. Use the real interpreter explicitly, and set `PYTHONIOENCODING=utf-8` when
+output contains non-ASCII (the console is cp1252):
+
+```bash
+"$LOCALAPPDATA/Programs/Python/Python312/python.exe" run.py --week 3
+```
+
+ffmpeg is not on PATH either; `video.py` finds the copy bundled with BlueStacks at
+`C:\Program Files\BlueStacks_nxt\ffmpeg.exe`. That build has no `mpdecimate`
+filter, so duplicate frames are removed at the record level instead.
 
 ## Weekly run
 
@@ -69,6 +80,53 @@ Two promos are in play and they are **not** interchangeable:
 A leg good for one is not automatically good for the other, and the ticket
 structure differs: the 3-leg wheel wants leave-two-out on 5 (10 tickets), the
 2-leg wheel wants every pair of 5 (also 10 tickets).
+
+## Reading the frames
+
+`run.py` extracts frames and stops, because reading them is a vision step. The
+frames are 4x2 tiles: eight consecutive one-second screenshots per image, read
+left to right along the top row, then the bottom row. Write one JSON object per
+prop per image into `reads.jsonl` beside the frames:
+
+```json
+{"frame": "007.png", "player": "Tee Higgins", "market": "Receptions", "line": 4.5,
+ "sides": "over,under", "confidence": "high", "game": "CLE @ CIN"}
+```
+
+`sides` is which buttons are actually tappable; some props offer only Over.
+`market` can be the app's own wording, `video.py` normalizes it. Mark anything
+uncertain `"confidence": "low"` and it gets printed rather than trusted.
+
+Boom app conventions worth knowing:
+
+- A card header reads `TEAM vs OPP` on home players and `TEAM @ OPP` on away
+  players. Always write `game` as `AWAY @ HOME`.
+- Boom's abbreviations differ from the books': `AZ` to `ARI`, WNBA `NY` to `NYL`,
+  NFL `WSH` to `WAS`. Normalize while reading.
+- Every `View more (N)` sheet must be opened in the recording or those props are
+  invisible; the count in the label tells you how many are hidden.
+- Occasional label errors appear (a player shown under the wrong game).
+  Transcribe what is displayed and flag it rather than correcting it.
+
+## What the books actually post
+
+Checked live 2026-09-23. A market missing here is not a bug, it is the book.
+
+| | DraftKings | FanDuel |
+|---|---|---|
+| NFL receptions, rec/rush/pass yards, pass TDs, anytime TD | yes | yes |
+| NFL completions, pass attempts, rush attempts, interceptions, FG made | yes | **no** |
+| MLB strikeouts, pitching outs | yes | yes |
+| MLB hits allowed | yes | **no** |
+| WNBA points, rebounds, assists, threes, all combos | yes | yes |
+| targets (any sport), WNBA three-point attempts | **no** | **no** |
+
+**Timing matters more than anything else.** DraftKings posts NFL player props
+close to game day. On the Tuesday before a Thursday opener it had five of sixteen
+games; the Wednesday before that it had none at all, with zero `O/U`
+subcategories in the league payload. A thin board usually means you ran too
+early, not that the parser broke. Run Friday or Saturday for a full Sunday slate.
+MLB and WNBA post the day of.
 
 ## Rules encoded in run.py
 
