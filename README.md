@@ -53,6 +53,23 @@ League and subcategory ids were discovered live (NFL 2026-09-16, MLB and WNBA
 differently from FanDuel (Athletics, Giants, Nationals, Liberty); `DK_TEAM_ALIAS`
 reconciles them and any new mismatch is logged rather than silently split.
 
+## Bet log
+
+`bets/<date>-<promo>.json` records what was actually placed: the legs with their
+true probability at bet time, the ticket list, the promo terms, and the expected
+distribution. Fill each leg's `result` after the games and grade it.
+
+Two promos are in play and they are **not** interchangeable:
+
+| wheel | legs/ticket | multiplier | break-even per leg |
+|---|---|---|---|
+| 6x (95%) / 20x (5%) | 3 | 6.70x | 53.0% |
+| 3x (95%) / 10x (5%) | 2 | 3.35x | 54.6% |
+
+A leg good for one is not automatically good for the other, and the ticket
+structure differs: the 3-leg wheel wants leave-two-out on 5 (10 tickets), the
+2-leg wheel wants every pair of 5 (also 10 tickets).
+
 ## Rules encoded in run.py
 
 - Merge and match on player **and exact line**. A nearby line is never substituted.

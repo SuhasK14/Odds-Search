@@ -1,0 +1,72 @@
+{
+ "placed_at": "2026-09-23T23:34:38-05:00",
+ "promo": {
+  "wheel": "3x (95%) / 10x (5%)",
+  "multiplier": 3.35,
+  "legs_per_ticket": 2,
+  "breakeven_per_leg": 0.5464
+ },
+ "structure": "3 legs, every pair once (3 tickets), placed identically on 2 apps = 6 entries",
+ "entries_total": 6,
+ "apps": 2,
+ "legs": [
+  {
+   "player": "Javonte Williams",
+   "market": "receptions",
+   "line": 2.5,
+   "side": "over",
+   "sport": "NFL",
+   "game": "BAL @ DAL",
+   "true_p_at_bet": 0.569,
+   "spread": 0.004,
+   "books": 2,
+   "result": null
+  },
+  {
+   "player": "Pat Freiermuth",
+   "market": "receptions",
+   "line": 3.5,
+   "side": "over",
+   "sport": "NFL",
+   "game": "CIN @ PIT",
+   "true_p_at_bet": 0.559,
+   "spread": 0.0,
+   "books": 1,
+   "result": null
+  },
+  {
+   "player": "Seth Lugo",
+   "market": "hits_allowed",
+   "line": 4.5,
+   "side": "over",
+   "sport": "MLB",
+   "game": "CWS @ KC",
+   "true_p_at_bet": 0.561,
+   "spread": 0.0,
+   "books": 1,
+   "result": null
+  }
+ ],
+ "tickets": [
+  [
+   "Javonte Williams",
+   "Pat Freiermuth"
+  ],
+  [
+   "Javonte Williams",
+   "Seth Lugo"
+  ],
+  [
+   "Pat Freiermuth",
+   "Seth Lugo"
+  ]
+ ],
+ "expected": {
+  "roi_per_entry": 0.0618,
+  "p_zero": 0.406,
+  "p_profit": 0.594,
+  "expected_profit_units": 0.371
+ },
+ "resolves": "NFL week 3 Sun 2026-09-27 (BAL@DAL 3:25, CIN@PIT 12:00); MLB CWS@KC 2026-09-23",
+ "note": "Set each leg's result true/false after the games, then grade."
+}
