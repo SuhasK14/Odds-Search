@@ -6,9 +6,9 @@
   "br",
   "mgm"
  ],
- "book_records": 346,
- "matched": 206,
- "matched_two_books": 86,
+ "book_records": 349,
+ "matched": 204,
+ "matched_two_books": 87,
  "unmatched": [
   [
    "Brock Purdy",
@@ -227,12 +227,6 @@
    "line mismatch: app 34.5, books dk 35.5. No two-way alternate line exists at either book, so no estimate."
   ],
   [
-   "Chase Brown",
-   "rush_attempts",
-   15.5,
-   "line mismatch: app 15.5, books dk 16.5. No two-way alternate line exists at either book, so no estimate."
-  ],
-  [
    "Samaje Perine",
    "rush_attempts",
    4.5,
@@ -411,6 +405,12 @@
    "targets",
    6.0,
    "targets are not priced at DK or FD"
+  ],
+  [
+   "Justin Herbert",
+   "completions",
+   19.5,
+   "line mismatch: app 19.5, books dk 20.5. No two-way alternate line exists at either book, so no estimate."
   ],
   [
    "DJ Moore",
@@ -609,6 +609,12 @@
    "targets",
    2.5,
    "targets are not priced at DK or FD"
+  ],
+  [
+   "Aaron Jones",
+   "rush_attempts",
+   12.5,
+   "line mismatch: app 12.5, books dk 13.5. No two-way alternate line exists at either book, so no estimate."
   ],
   [
    "Baker Mayfield",
@@ -873,6 +879,12 @@
    "pass_attempts",
    28.5,
    "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Jalen Hurts",
+   "pass_attempts",
+   27.5,
+   "line mismatch: app 27.5, books dk 28.5. No two-way alternate line exists at either book, so no estimate."
   ],
   [
    "Johnny Mundt",
@@ -1145,72 +1157,79 @@
    "targets are not priced at DK or FD"
   ]
  ],
- "legs_priced": 206,
+ "legs_priced": 204,
  "legs_clear": 5,
  "threshold": 0.56,
  "structure": "leave-two-out on top 5",
  "tickets": [
   [
-   "Jaylin Noel UNDER 2.5 receptions",
-   "Michael Wilson OVER 3.5 receptions",
-   "Dak Prescott OVER 1.5 pass_tds"
-  ],
-  [
-   "Jaylin Noel UNDER 2.5 receptions",
+   "Dak Prescott OVER 1.5 pass_tds",
    "Michael Wilson OVER 3.5 receptions",
    "Jaylen Waddle OVER 4.5 receptions"
   ],
   [
-   "Jaylin Noel UNDER 2.5 receptions",
-   "Michael Wilson OVER 3.5 receptions",
-   "Amon-Ra St. Brown OVER 6.5 receptions"
-  ],
-  [
-   "Jaylin Noel UNDER 2.5 receptions",
    "Dak Prescott OVER 1.5 pass_tds",
-   "Jaylen Waddle OVER 4.5 receptions"
-  ],
-  [
-   "Jaylin Noel UNDER 2.5 receptions",
-   "Dak Prescott OVER 1.5 pass_tds",
-   "Amon-Ra St. Brown OVER 6.5 receptions"
-  ],
-  [
-   "Jaylin Noel UNDER 2.5 receptions",
-   "Jaylen Waddle OVER 4.5 receptions",
-   "Amon-Ra St. Brown OVER 6.5 receptions"
-  ],
-  [
    "Michael Wilson OVER 3.5 receptions",
-   "Dak Prescott OVER 1.5 pass_tds",
-   "Jaylen Waddle OVER 4.5 receptions"
+   "Javonte Williams OVER 2.5 receptions"
   ],
   [
-   "Michael Wilson OVER 3.5 receptions",
    "Dak Prescott OVER 1.5 pass_tds",
-   "Amon-Ra St. Brown OVER 6.5 receptions"
-  ],
-  [
    "Michael Wilson OVER 3.5 receptions",
-   "Jaylen Waddle OVER 4.5 receptions",
    "Amon-Ra St. Brown OVER 6.5 receptions"
   ],
   [
    "Dak Prescott OVER 1.5 pass_tds",
    "Jaylen Waddle OVER 4.5 receptions",
+   "Javonte Williams OVER 2.5 receptions"
+  ],
+  [
+   "Dak Prescott OVER 1.5 pass_tds",
+   "Jaylen Waddle OVER 4.5 receptions",
+   "Amon-Ra St. Brown OVER 6.5 receptions"
+  ],
+  [
+   "Dak Prescott OVER 1.5 pass_tds",
+   "Javonte Williams OVER 2.5 receptions",
+   "Amon-Ra St. Brown OVER 6.5 receptions"
+  ],
+  [
+   "Michael Wilson OVER 3.5 receptions",
+   "Jaylen Waddle OVER 4.5 receptions",
+   "Javonte Williams OVER 2.5 receptions"
+  ],
+  [
+   "Michael Wilson OVER 3.5 receptions",
+   "Jaylen Waddle OVER 4.5 receptions",
+   "Amon-Ra St. Brown OVER 6.5 receptions"
+  ],
+  [
+   "Michael Wilson OVER 3.5 receptions",
+   "Javonte Williams OVER 2.5 receptions",
+   "Amon-Ra St. Brown OVER 6.5 receptions"
+  ],
+  [
+   "Jaylen Waddle OVER 4.5 receptions",
+   "Javonte Williams OVER 2.5 receptions",
    "Amon-Ra St. Brown OVER 6.5 receptions"
   ]
  ],
- "p_zero": 0.3806529320516256,
- "roi": 0.20429993800516688,
- "kelly_quarter": 0.023036709866278676,
+ "p_zero": 0.38384072751395937,
+ "roi": 0.19299866833598012,
+ "kelly_quarter": 0.021705774707800274,
  "board": [
   {
-   "leg": "Jaylin Noel UNDER 2.5 receptions",
-   "true_p": 0.5668,
-   "spread": 0.042,
+   "leg": "Dak Prescott UNDER 3.5 rush_attempts",
+   "true_p": 0.5862,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 15
+  },
+  {
+   "leg": "Dak Prescott OVER 1.5 pass_tds",
+   "true_p": 0.5701,
+   "spread": 0.0132,
    "books": 2,
-   "opportunity": 6
+   "opportunity": 32
   },
   {
    "leg": "Michael Wilson OVER 3.5 receptions",
@@ -1220,23 +1239,9 @@
    "opportunity": 6
   },
   {
-   "leg": "Dak Prescott OVER 1.5 pass_tds",
-   "true_p": 0.5642,
-   "spread": 0.0015,
-   "books": 2,
-   "opportunity": 32
-  },
-  {
    "leg": "Jaylen Waddle OVER 4.5 receptions",
    "true_p": 0.5633,
    "spread": 0.0075,
-   "books": 2,
-   "opportunity": 6
-  },
-  {
-   "leg": "Amon-Ra St. Brown OVER 6.5 receptions",
-   "true_p": 0.5608,
-   "spread": 0.0114,
    "books": 2,
    "opportunity": 6
   },
@@ -1255,14 +1260,21 @@
    "opportunity": 6
   },
   {
-   "leg": "D'Andre Swift OVER 1.5 receptions",
-   "true_p": 0.5561,
-   "spread": 0.0558,
+   "leg": "Ladd McConkey OVER 4.5 receptions",
+   "true_p": 0.5564,
+   "spread": 0.029,
    "books": 2,
    "opportunity": 6
   },
   {
    "leg": "Harrison Butker OVER 1.5 field_goals_made",
+   "true_p": 0.5551,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 6
+  },
+  {
+   "leg": "Amon-Ra St. Brown OVER 6.5 receptions",
    "true_p": 0.5551,
    "spread": 0.0,
    "books": 1,
@@ -1276,10 +1288,10 @@
    "opportunity": 6
   },
   {
-   "leg": "Chuba Hubbard UNDER 2.5 receptions",
-   "true_p": 0.5536,
-   "spread": 0.0155,
-   "books": 2,
+   "leg": "Jameson Williams OVER 3.5 receptions",
+   "true_p": 0.5543,
+   "spread": 0.0118,
+   "books": 3,
    "opportunity": 6
   },
   {
@@ -1297,6 +1309,13 @@
    "opportunity": 6
   },
   {
+   "leg": "Jaylin Noel UNDER 2.5 receptions",
+   "true_p": 0.5514,
+   "spread": 0.0111,
+   "books": 2,
+   "opportunity": 6
+  },
+  {
    "leg": "Carnell Tate UNDER 3.5 receptions",
    "true_p": 0.5514,
    "spread": 0.0111,
@@ -1309,27 +1328,6 @@
    "spread": 0.0,
    "books": 1,
    "opportunity": 6
-  },
-  {
-   "leg": "Jameson Williams OVER 3.5 receptions",
-   "true_p": 0.5511,
-   "spread": 0.0118,
-   "books": 3,
-   "opportunity": 6
-  },
-  {
-   "leg": "Xavier Hutchinson UNDER 3.5 receptions",
-   "true_p": 0.5505,
-   "spread": 0.0252,
-   "books": 2,
-   "opportunity": 6
-  },
-  {
-   "leg": "Dak Prescott UNDER 3.5 rush_attempts",
-   "true_p": 0.5486,
-   "spread": 0.0,
-   "books": 1,
-   "opportunity": 15
   },
   {
    "leg": "Pat Freiermuth OVER 3.5 receptions",
@@ -1360,13 +1358,6 @@
    "opportunity": 6
   },
   {
-   "leg": "Ladd McConkey OVER 4.5 receptions",
-   "true_p": 0.5462,
-   "spread": 0.0087,
-   "books": 2,
-   "opportunity": 6
-  },
-  {
    "leg": "Josh Allen OVER 7.5 rush_attempts",
    "true_p": 0.5459,
    "spread": 0.0,
@@ -1381,9 +1372,23 @@
    "opportunity": 6
   },
   {
+   "leg": "Xavier Hutchinson UNDER 3.5 receptions",
+   "true_p": 0.5455,
+   "spread": 0.0153,
+   "books": 2,
+   "opportunity": 6
+  },
+  {
    "leg": "DJ Moore OVER 3.5 receptions",
    "true_p": 0.5453,
    "spread": 0.0011,
+   "books": 2,
+   "opportunity": 6
+  },
+  {
+   "leg": "RJ Harvey OVER 2.5 receptions",
+   "true_p": 0.5449,
+   "spread": 0.0018,
    "books": 2,
    "opportunity": 6
   },
@@ -1465,18 +1470,11 @@
    "opportunity": 22
   },
   {
-   "leg": "Aaron Jones OVER 12.5 rush_attempts",
-   "true_p": 0.54,
-   "spread": 0.0,
-   "books": 1,
-   "opportunity": 15
-  },
-  {
-   "leg": "Rhamondre Stevenson OVER 8.5 rush_attempts",
-   "true_p": 0.54,
-   "spread": 0.0,
-   "books": 1,
-   "opportunity": 15
+   "leg": "Rome Odunze UNDER 2.5 receptions",
+   "true_p": 0.5396,
+   "spread": 0.023,
+   "books": 2,
+   "opportunity": 6
   },
   {
    "leg": "Chase Brown UNDER 3.5 receptions",
@@ -1563,6 +1561,13 @@
    "opportunity": 6
   },
   {
+   "leg": "Jalen Hurts UNDER 6.5 rush_attempts",
+   "true_p": 0.5339,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 15
+  },
+  {
    "leg": "Joe Burrow OVER 0.5 interceptions",
    "true_p": 0.5331,
    "spread": 0.0,
@@ -1582,13 +1587,6 @@
    "spread": 0.0,
    "books": 1,
    "opportunity": 6
-  },
-  {
-   "leg": "Justin Herbert OVER 19.5 completions",
-   "true_p": 0.5331,
-   "spread": 0.0,
-   "books": 1,
-   "opportunity": 22
   },
   {
    "leg": "Ashton Jeanty OVER 17.5 rush_attempts",
@@ -1612,16 +1610,16 @@
    "opportunity": 6
   },
   {
-   "leg": "Rome Odunze UNDER 2.5 receptions",
-   "true_p": 0.5323,
-   "spread": 0.0376,
+   "leg": "Evan Engram OVER 2.5 receptions",
+   "true_p": 0.532,
+   "spread": 0.0159,
    "books": 2,
    "opportunity": 6
   },
   {
-   "leg": "Evan Engram OVER 2.5 receptions",
-   "true_p": 0.532,
-   "spread": 0.0159,
+   "leg": "Luther Burden III OVER 3.5 receptions",
+   "true_p": 0.5318,
+   "spread": 0.0201,
    "books": 2,
    "opportunity": 6
   },
@@ -1636,13 +1634,6 @@
    "leg": "Travis Etienne Jr. OVER 1.5 receptions",
    "true_p": 0.5316,
    "spread": 0.0012,
-   "books": 2,
-   "opportunity": 6
-  },
-  {
-   "leg": "RJ Harvey OVER 2.5 receptions",
-   "true_p": 0.5316,
-   "spread": 0.0248,
    "books": 2,
    "opportunity": 6
   },
@@ -1668,9 +1659,16 @@
    "opportunity": 15
   },
   {
-   "leg": "David Montgomery UNDER 1.5 receptions",
-   "true_p": 0.5306,
-   "spread": 0.0033,
+   "leg": "Saquon Barkley OVER 17.5 rush_attempts",
+   "true_p": 0.531,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 15
+  },
+  {
+   "leg": "Chuba Hubbard UNDER 2.5 receptions",
+   "true_p": 0.5307,
+   "spread": 0.0613,
    "books": 2,
    "opportunity": 6
   },
@@ -1682,18 +1680,18 @@
    "opportunity": 22
   },
   {
+   "leg": "Chase Brown OVER 15.5 rush_attempts",
+   "true_p": 0.5302,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 15
+  },
+  {
    "leg": "Jauan Jennings UNDER 1.5 receptions",
    "true_p": 0.5292,
    "spread": 0.002,
    "books": 2,
    "opportunity": 6
-  },
-  {
-   "leg": "Joe Burrow UNDER 23.5 completions",
-   "true_p": 0.5289,
-   "spread": 0.0,
-   "books": 1,
-   "opportunity": 22
   },
   {
    "leg": "Kyren Williams UNDER 12.5 rush_attempts",
@@ -1717,11 +1715,11 @@
    "opportunity": 6
   },
   {
-   "leg": "Quinshon Judkins UNDER 2.5 receptions",
+   "leg": "Treveyon Henderson UNDER 10.5 rush_attempts",
    "true_p": 0.5281,
-   "spread": 0.0354,
-   "books": 2,
-   "opportunity": 6
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 15
   },
   {
    "leg": "Malik Willis OVER 27.5 pass_attempts",
@@ -1729,6 +1727,13 @@
    "spread": 0.0,
    "books": 1,
    "opportunity": 32
+  },
+  {
+   "leg": "Jalen Hurts OVER 17.5 completions",
+   "true_p": 0.5281,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 22
   },
   {
    "leg": "Darnell Mooney UNDER 1.5 receptions",
@@ -1752,18 +1757,11 @@
    "opportunity": 15
   },
   {
-   "leg": "Dalton Schultz UNDER 5.5 receptions",
+   "leg": "Davante Adams OVER 5.5 receptions",
    "true_p": 0.526,
    "spread": 0.0043,
    "books": 2,
    "opportunity": 6
-  },
-  {
-   "leg": "Lamar Jackson UNDER 28.5 pass_attempts",
-   "true_p": 0.526,
-   "spread": 0.0,
-   "books": 1,
-   "opportunity": 32
   },
   {
    "leg": "Quinshon Judkins UNDER 16.5 rush_attempts",
@@ -1778,6 +1776,13 @@
    "spread": 0.0,
    "books": 1,
    "opportunity": 22
+  },
+  {
+   "leg": "David Montgomery UNDER 12.5 rush_attempts",
+   "true_p": 0.526,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 15
   },
   {
    "leg": "De'Von Achane OVER 15.5 rush_attempts",
@@ -1815,6 +1820,13 @@
    "opportunity": 6
   },
   {
+   "leg": "David Montgomery UNDER 1.5 receptions",
+   "true_p": 0.5257,
+   "spread": 0.023,
+   "books": 2,
+   "opportunity": 6
+  },
+  {
    "leg": "Joe Burrow UNDER 1.5 pass_tds",
    "true_p": 0.5251,
    "spread": 0.0109,
@@ -1822,11 +1834,18 @@
    "opportunity": 32
   },
   {
-   "leg": "Daniel Jones OVER 0.5 interceptions",
+   "leg": "Dalton Schultz UNDER 5.5 receptions",
+   "true_p": 0.5239,
+   "spread": 0.0085,
+   "books": 2,
+   "opportunity": 6
+  },
+  {
+   "leg": "CJ Stroud OVER 32.5 pass_attempts",
    "true_p": 0.5239,
    "spread": 0.0,
    "books": 1,
-   "opportunity": 6
+   "opportunity": 32
   },
   {
    "leg": "Tyler Shough UNDER 0.5 interceptions",
@@ -1843,18 +1862,11 @@
    "opportunity": 32
   },
   {
-   "leg": "Jalen Hurts OVER 27.5 pass_attempts",
+   "leg": "D'Andre Swift UNDER 14.5 rush_attempts",
    "true_p": 0.5239,
    "spread": 0.0,
    "books": 1,
-   "opportunity": 32
-  },
-  {
-   "leg": "Luther Burden III UNDER 3.5 receptions",
-   "true_p": 0.5239,
-   "spread": 0.0,
-   "books": 1,
-   "opportunity": 6
+   "opportunity": 15
   },
   {
    "leg": "Tyler Shough UNDER 33.5 pass_attempts",
@@ -1862,13 +1874,6 @@
    "spread": 0.0,
    "books": 1,
    "opportunity": 32
-  },
-  {
-   "leg": "Jalen Hurts UNDER 6.5 rush_attempts",
-   "true_p": 0.523,
-   "spread": 0.0,
-   "books": 1,
-   "opportunity": 15
   },
   {
    "leg": "Kayshon Boutte OVER 2.5 receptions",
@@ -1881,13 +1886,6 @@
    "leg": "Wan'Dale Robinson UNDER 3.5 receptions",
    "true_p": 0.5226,
    "spread": 0.0068,
-   "books": 2,
-   "opportunity": 6
-  },
-  {
-   "leg": "Davante Adams OVER 5.5 receptions",
-   "true_p": 0.5224,
-   "spread": 0.0115,
    "books": 2,
    "opportunity": 6
   },
@@ -1918,6 +1916,13 @@
    "spread": 0.0,
    "books": 1,
    "opportunity": 22
+  },
+  {
+   "leg": "D'Andre Swift OVER 1.5 receptions",
+   "true_p": 0.5214,
+   "spread": 0.0136,
+   "books": 2,
+   "opportunity": 6
   },
   {
    "leg": "Ja'Marr Chase OVER 6.5 receptions",
@@ -1976,6 +1981,20 @@
    "opportunity": 6
   },
   {
+   "leg": "Quinshon Judkins UNDER 2.5 receptions",
+   "true_p": 0.5193,
+   "spread": 0.0178,
+   "books": 2,
+   "opportunity": 6
+  },
+  {
+   "leg": "Isaiah Williams OVER 2.5 receptions",
+   "true_p": 0.5191,
+   "spread": 0.0249,
+   "books": 3,
+   "opportunity": 6
+  },
+  {
    "leg": "Bo Nix OVER 4.5 rush_attempts",
    "true_p": 0.5188,
    "spread": 0.0,
@@ -1990,10 +2009,10 @@
    "opportunity": 32
   },
   {
-   "leg": "Isaiah Williams OVER 2.5 receptions",
-   "true_p": 0.5185,
-   "spread": 0.0249,
-   "books": 2,
+   "leg": "Jake Elliott OVER 1.5 field_goals_made",
+   "true_p": 0.5188,
+   "spread": 0.0,
+   "books": 1,
    "opportunity": 6
   },
   {
@@ -2018,18 +2037,18 @@
    "opportunity": 6
   },
   {
-   "leg": "Javonte Williams OVER 14.5 rush_attempts",
+   "leg": "Daniel Jones OVER 0.5 interceptions",
    "true_p": 0.5167,
    "spread": 0.0,
    "books": 1,
-   "opportunity": 15
+   "opportunity": 6
   },
   {
-   "leg": "CJ Stroud OVER 32.5 pass_attempts",
+   "leg": "Josh Allen OVER 20.5 completions",
    "true_p": 0.5167,
    "spread": 0.0,
    "books": 1,
-   "opportunity": 32
+   "opportunity": 22
   },
   {
    "leg": "Wil Lutz OVER 1.5 field_goals_made",
@@ -2067,13 +2086,6 @@
    "opportunity": 15
   },
   {
-   "leg": "David Montgomery UNDER 12.5 rush_attempts",
-   "true_p": 0.5155,
-   "spread": 0.0,
-   "books": 1,
-   "opportunity": 15
-  },
-  {
    "leg": "Jake Ferguson OVER 3.5 receptions",
    "true_p": 0.5154,
    "spread": 0.0025,
@@ -2100,6 +2112,13 @@
    "spread": 0.0,
    "books": 1,
    "opportunity": 32
+  },
+  {
+   "leg": "Dak Prescott UNDER 0.5 interceptions",
+   "true_p": 0.5146,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 6
   },
   {
    "leg": "Deshaun Watson UNDER 29.5 pass_attempts",
@@ -2151,9 +2170,23 @@
    "opportunity": 32
   },
   {
+   "leg": "Javonte Williams OVER 14.5 rush_attempts",
+   "true_p": 0.5134,
+   "spread": 0.0065,
+   "books": 2,
+   "opportunity": 15
+  },
+  {
    "leg": "Jeremiyah Love UNDER 2.5 receptions",
    "true_p": 0.513,
    "spread": 0.026,
+   "books": 2,
+   "opportunity": 6
+  },
+  {
+   "leg": "Zach Ertz UNDER 1.5 receptions",
+   "true_p": 0.5128,
+   "spread": 0.0054,
    "books": 2,
    "opportunity": 6
   },
@@ -2193,11 +2226,11 @@
    "opportunity": 15
   },
   {
-   "leg": "Jalen Hurts OVER 17.5 completions",
+   "leg": "Lamar Jackson UNDER 28.5 pass_attempts",
    "true_p": 0.5125,
    "spread": 0.0,
    "books": 1,
-   "opportunity": 22
+   "opportunity": 32
   },
   {
    "leg": "Aaron Rodgers UNDER 0.5 interceptions",
@@ -2235,13 +2268,6 @@
    "opportunity": 22
   },
   {
-   "leg": "D'Andre Swift UNDER 14.5 rush_attempts",
-   "true_p": 0.5125,
-   "spread": 0.0,
-   "books": 1,
-   "opportunity": 15
-  },
-  {
    "leg": "Brock Bowers UNDER 4.5 receptions",
    "true_p": 0.5123,
    "spread": 0.0038,
@@ -2275,6 +2301,13 @@
    "spread": 0.0,
    "books": 1,
    "opportunity": 6
+  },
+  {
+   "leg": "Daniel Jones OVER 20.5 completions",
+   "true_p": 0.5104,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 22
   },
   {
    "leg": "Justin Herbert OVER 0.5 interceptions",
@@ -2333,6 +2366,13 @@
    "opportunity": 6
   },
   {
+   "leg": "DeVonta Smith OVER 5.5 receptions",
+   "true_p": 0.5092,
+   "spread": 0.01,
+   "books": 2,
+   "opportunity": 6
+  },
+  {
    "leg": "Travis Kelce UNDER 4.5 receptions",
    "true_p": 0.5083,
    "spread": 0.0167,
@@ -2354,18 +2394,11 @@
    "opportunity": 6
   },
   {
-   "leg": "Treveyon Henderson UNDER 10.5 rush_attempts",
+   "leg": "Rhamondre Stevenson OVER 8.5 rush_attempts",
    "true_p": 0.5083,
    "spread": 0.0,
    "books": 1,
    "opportunity": 15
-  },
-  {
-   "leg": "Jake Elliott OVER 1.5 field_goals_made",
-   "true_p": 0.5083,
-   "spread": 0.0,
-   "books": 1,
-   "opportunity": 6
   },
   {
    "leg": "Cam Skattebo OVER 15.5 rush_attempts",
@@ -2417,6 +2450,13 @@
    "opportunity": 32
   },
   {
+   "leg": "Joe Burrow UNDER 23.5 completions",
+   "true_p": 0.5062,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 22
+  },
+  {
    "leg": "Patrick Mahomes UNDER 21.5 completions",
    "true_p": 0.5062,
    "spread": 0.0,
@@ -2429,27 +2469,6 @@
    "spread": 0.0,
    "books": 1,
    "opportunity": 32
-  },
-  {
-   "leg": "Makai Lemon OVER 2.5 receptions",
-   "true_p": 0.5052,
-   "spread": 0.0104,
-   "books": 2,
-   "opportunity": 6
-  },
-  {
-   "leg": "Tyler Loop UNDER 1.5 field_goals_made",
-   "true_p": 0.5042,
-   "spread": 0.0,
-   "books": 1,
-   "opportunity": 6
-  },
-  {
-   "leg": "Dak Prescott UNDER 0.5 interceptions",
-   "true_p": 0.5042,
-   "spread": 0.0,
-   "books": 1,
-   "opportunity": 6
   },
   {
    "leg": "Ryan Fitzgerald UNDER 1.5 field_goals_made",
@@ -2473,18 +2492,18 @@
    "opportunity": 22
   },
   {
-   "leg": "Josh Allen UNDER 20.5 completions",
-   "true_p": 0.5042,
-   "spread": 0.0,
-   "books": 1,
-   "opportunity": 22
-  },
-  {
    "leg": "Bo Nix UNDER 33.5 pass_attempts",
    "true_p": 0.5042,
    "spread": 0.0,
    "books": 1,
    "opportunity": 32
+  },
+  {
+   "leg": "Tyler Loop OVER 1.5 field_goals_made",
+   "true_p": 0.5042,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 6
   },
   {
    "leg": "Dak Prescott OVER 36.5 pass_attempts",
@@ -2515,11 +2534,11 @@
    "opportunity": 15
   },
   {
-   "leg": "Daniel Jones OVER 20.5 completions",
-   "true_p": 0.5031,
-   "spread": 0.0,
-   "books": 1,
-   "opportunity": 22
+   "leg": "Sam LaPorta OVER 4.5 receptions",
+   "true_p": 0.5037,
+   "spread": 0.009,
+   "books": 3,
+   "opportunity": 6
   },
   {
    "leg": "Daniel Carlson OVER 1.5 field_goals_made",
@@ -2529,11 +2548,11 @@
    "opportunity": 6
   },
   {
-   "leg": "Saquon Barkley UNDER 17.5 rush_attempts",
+   "leg": "Makai Lemon UNDER 2.5 receptions",
    "true_p": 0.5031,
-   "spread": 0.0,
-   "books": 1,
-   "opportunity": 15
+   "spread": 0.0062,
+   "books": 2,
+   "opportunity": 6
   },
   {
    "leg": "CeeDee Lamb OVER 6.5 receptions",
@@ -2557,6 +2576,13 @@
    "opportunity": 32
   },
   {
+   "leg": "Kyle Monangai UNDER 9.5 rush_attempts",
+   "true_p": 0.5021,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 15
+  },
+  {
    "leg": "Jared Goff OVER 23.5 completions",
    "true_p": 0.5021,
    "spread": 0.0,
@@ -2574,20 +2600,6 @@
    "leg": "Chris Bell UNDER 1.5 receptions",
    "true_p": 0.501,
    "spread": 0.0021,
-   "books": 2,
-   "opportunity": 6
-  },
-  {
-   "leg": "Sam LaPorta OVER 4.5 receptions",
-   "true_p": 0.5007,
-   "spread": 0.0021,
-   "books": 3,
-   "opportunity": 6
-  },
-  {
-   "leg": "DeVonta Smith UNDER 5.5 receptions",
-   "true_p": 0.5002,
-   "spread": 0.0288,
    "books": 2,
    "opportunity": 6
   },
@@ -2618,20 +2630,6 @@
    "spread": 0.0,
    "books": 1,
    "opportunity": 32
-  },
-  {
-   "leg": "Kyle Monangai OVER 9.5 rush_attempts",
-   "true_p": 0.5,
-   "spread": 0.0,
-   "books": 1,
-   "opportunity": 15
-  },
-  {
-   "leg": "Zach Ertz OVER 1.5 receptions",
-   "true_p": 0.4991,
-   "spread": 0.0184,
-   "books": 2,
-   "opportunity": 6
   },
   {
    "leg": "Trevor Lawrence OVER 1.5 pass_tds",

@@ -316,8 +316,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -111,
-    "under": -115,
+    "over": -115,
+    "under": -111,
     "line": 1.5
    }
   ],
@@ -336,8 +336,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -111,
-    "under": -115,
+    "over": -106,
+    "under": -120,
     "line": 0.5
    }
   ],
@@ -376,8 +376,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -101,
-    "under": -126,
+    "over": -107,
+    "under": -119,
     "line": 28.5
    }
   ],
@@ -396,8 +396,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -149,
-    "under": 117,
+    "over": -157,
+    "under": 123,
     "line": 1.5
    },
    {
@@ -498,8 +498,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 109,
-    "under": -139,
+    "over": 128,
+    "under": -164,
     "line": 3.5
    }
   ],
@@ -540,6 +540,12 @@
     "book": "dk",
     "over": -121,
     "under": -105,
+    "line": 14.5
+   },
+   {
+    "book": "mgm",
+    "over": -120,
+    "under": -110,
     "line": 14.5
    }
   ],
@@ -704,8 +710,8 @@
    },
    {
     "book": "fd",
-    "over": 106,
-    "under": -140,
+    "over": -114,
+    "under": -114,
     "line": 2.5
    }
   ],
@@ -833,8 +839,8 @@
    },
    {
     "book": "fd",
-    "over": 106,
-    "under": -140,
+    "over": -102,
+    "under": -130,
     "line": 2.5
    }
   ],
@@ -985,8 +991,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 100,
-    "under": -128,
+    "over": -110,
+    "under": -116,
     "line": 23.5
    }
   ],
@@ -1379,6 +1385,26 @@
   ]
  },
  {
+  "player": "Chase Brown",
+  "player_key": "chase brown",
+  "team": "CIN",
+  "game": "CIN @ PIT",
+  "market": "rush_attempts",
+  "line": 15.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -128,
+    "under": 101,
+    "line": 15.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
   "player": "Jaylen Warren",
   "player_key": "jaylen warren",
   "team": "PIT",
@@ -1432,8 +1458,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -114,
-    "under": -111,
+    "over": -118,
+    "under": -108,
     "line": 20.5
    }
   ],
@@ -1496,8 +1522,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -125,
-    "under": -102,
+    "over": -121,
+    "under": -105,
     "line": 0.5
    }
   ],
@@ -1516,8 +1542,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -121,
-    "under": -105,
+    "over": -125,
+    "under": -102,
     "line": 32.5
    }
   ],
@@ -1560,8 +1586,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -102,
-    "under": -125,
+    "over": -104,
+    "under": -123,
     "line": 5.5
    },
    {
@@ -1586,14 +1612,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 100,
-    "under": -128,
+    "over": 104,
+    "under": -132,
     "line": 1.5
    },
    {
     "book": "fd",
-    "over": 100,
-    "under": -132,
+    "over": -108,
+    "under": -122,
     "line": 1.5
    }
   ],
@@ -1638,8 +1664,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 129,
-    "under": -165,
+    "over": 113,
+    "under": -144,
     "line": 2.5
    },
    {
@@ -1768,8 +1794,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 116,
-    "under": -148,
+    "over": 111,
+    "under": -142,
     "line": 3.5
    },
    {
@@ -1794,8 +1820,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -106,
-    "under": -121,
+    "over": -101,
+    "under": -126,
     "line": 12.5
    }
   ],
@@ -2172,29 +2198,9 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -111,
-    "under": -115,
+    "over": -121,
+    "under": -105,
     "line": 20.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Justin Herbert",
-  "player_key": "justin herbert",
-  "team": "LAC",
-  "game": "LAC @ BUF",
-  "market": "completions",
-  "line": 19.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -130,
-    "under": 102,
-    "line": 19.5
    }
   ],
   "app_sides": [
@@ -2348,8 +2354,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -140,
-    "under": 110,
+    "over": -153,
+    "under": 120,
     "line": 4.5
    },
    {
@@ -2702,8 +2708,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -121,
-    "under": -105,
+    "over": -125,
+    "under": -102,
     "line": 5.5
    },
    {
@@ -2811,8 +2817,8 @@
    },
    {
     "book": "fd",
-    "over": -125,
-    "under": -106,
+    "over": -140,
+    "under": 106,
     "line": 2.5
    }
   ],
@@ -3511,26 +3517,6 @@
   ]
  },
  {
-  "player": "Aaron Jones",
-  "player_key": "aaron jones",
-  "team": "MIN",
-  "game": "MIN @ TB",
-  "market": "rush_attempts",
-  "line": 12.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -134,
-    "under": 105,
-    "line": 12.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
   "player": "Bucky Irving",
   "player_key": "bucky irving",
   "team": "TB",
@@ -3854,8 +3840,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -134,
-    "under": 105,
+    "over": -117,
+    "under": -109,
     "line": 8.5
    }
   ],
@@ -3874,8 +3860,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -109,
-    "under": -117,
+    "over": 100,
+    "under": -127,
     "line": 10.5
    }
   ],
@@ -4027,12 +4013,6 @@
     "over": -143,
     "under": 112,
     "line": 6.5
-   },
-   {
-    "book": "mgm",
-    "over": -155,
-    "under": 115,
-    "line": 6.5
    }
   ],
   "app_sides": [
@@ -4057,6 +4037,12 @@
     "book": "fd",
     "over": -118,
     "under": -112,
+    "line": 2.5
+   },
+   {
+    "book": "mgm",
+    "over": -125,
+    "under": -105,
     "line": 2.5
    }
   ],
@@ -4119,8 +4105,8 @@
    },
    {
     "book": "mgm",
-    "over": -145,
-    "under": 105,
+    "over": -150,
+    "under": 110,
     "line": 3.5
    }
   ],
@@ -4150,8 +4136,8 @@
    },
    {
     "book": "mgm",
-    "over": -115,
-    "under": -115,
+    "over": -120,
+    "under": -111,
     "line": 4.5
    }
   ],
@@ -4210,8 +4196,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -119,
-    "under": -107,
+    "over": -127,
+    "under": 100,
     "line": 17.5
    }
   ],
@@ -4250,29 +4236,9 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -117,
-    "under": -109,
+    "over": -122,
+    "under": -104,
     "line": 1.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Jalen Hurts",
-  "player_key": "jalen hurts",
-  "team": "PHI",
-  "game": "PHI @ CHI",
-  "market": "pass_attempts",
-  "line": 27.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -125,
-    "under": -102,
-    "line": 27.5
    }
   ],
   "app_sides": [
@@ -4290,8 +4256,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -162,
-    "under": 127,
+    "over": -120,
+    "under": -106,
     "line": 1.5
    },
    {
@@ -4315,8 +4281,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -106,
-    "under": -120,
+    "over": -115,
+    "under": -111,
     "line": 5.5
    },
    {
@@ -4341,8 +4307,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -102,
-    "under": -125,
+    "over": -124,
+    "under": -103,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -138,
+    "under": 104,
     "line": 3.5
    }
   ],
@@ -4361,8 +4333,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -118,
-    "under": -108,
+    "over": -110,
+    "under": -116,
     "line": 2.5
    },
    {
@@ -4387,8 +4359,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -107,
-    "under": -120,
+    "over": 100,
+    "under": -127,
     "line": 2.5
    },
    {
@@ -4413,8 +4385,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -117,
-    "under": -109,
+    "over": -106,
+    "under": -121,
     "line": 1.5
    },
    {
@@ -4439,8 +4411,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -107,
-    "under": -119,
+    "over": -102,
+    "under": -125,
     "line": 14.5
    }
   ],
@@ -4459,8 +4431,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -102,
-    "under": -124,
+    "over": 102,
+    "under": -131,
     "line": 6.5
    }
   ],
@@ -4479,8 +4451,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -113,
-    "under": -113,
+    "over": -112,
+    "under": -114,
     "line": 9.5
    }
   ],
@@ -4499,8 +4471,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -111,
-    "under": -114,
+    "over": -129,
+    "under": 101,
     "line": 17.5
    }
   ],
