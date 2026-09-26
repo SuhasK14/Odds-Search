@@ -1,0 +1,130 @@
+{
+ "placed_at": "2026-09-26T12:30:00-05:00",
+ "promo": {
+  "wheel": "6x (95%) / 20x (5%)",
+  "multiplier": 6.7,
+  "legs_per_ticket": 3,
+  "breakeven_per_leg": 0.5296
+ },
+ "structure": "balanced around a correlated same-game pair: 3 pair tickets x2 apps placed, 2 diversifying tickets x2 apps recommended",
+ "entries_placed": 6,
+ "entries_planned": 10,
+ "apps": 2,
+ "correlation_note": "Dak pass TDs and Javonte receptions are both Cowboys (BAL @ DAL) and both improve in a trailing pass-heavy script. wheel.py prices legs independently, so its EV understates tickets holding both. Assumed rho 0.15.",
+ "legs": [
+  {
+   "player": "Dak Prescott",
+   "market": "pass_tds",
+   "line": 1.5,
+   "side": "over",
+   "sport": "NFL",
+   "game": "BAL @ DAL",
+   "true_p_at_bet": 0.57,
+   "spread": 0.013,
+   "books": 2,
+   "result": null
+  },
+  {
+   "player": "Michael Wilson",
+   "market": "receptions",
+   "line": 3.5,
+   "side": "over",
+   "sport": "NFL",
+   "game": "ARI @ SF",
+   "true_p_at_bet": 0.567,
+   "spread": 0.016,
+   "books": 2,
+   "result": null
+  },
+  {
+   "player": "Jaylen Waddle",
+   "market": "receptions",
+   "line": 4.5,
+   "side": "over",
+   "sport": "NFL",
+   "game": "LAR @ DEN",
+   "true_p_at_bet": 0.563,
+   "spread": 0.008,
+   "books": 2,
+   "result": null
+  },
+  {
+   "player": "Javonte Williams",
+   "market": "receptions",
+   "line": 2.5,
+   "side": "over",
+   "sport": "NFL",
+   "game": "BAL @ DAL",
+   "true_p_at_bet": 0.558,
+   "spread": 0.018,
+   "books": 2,
+   "result": null
+  },
+  {
+   "player": "Amon-Ra St. Brown",
+   "market": "receptions",
+   "line": 6.5,
+   "side": "over",
+   "sport": "NFL",
+   "game": "NYJ @ DET",
+   "true_p_at_bet": 0.556,
+   "spread": 0.002,
+   "books": 2,
+   "result": null
+  }
+ ],
+ "tickets_placed": [
+  [
+   "Dak Prescott",
+   "Javonte Williams",
+   "Amon-Ra St. Brown"
+  ],
+  [
+   "Dak Prescott",
+   "Javonte Williams",
+   "Jaylen Waddle"
+  ],
+  [
+   "Dak Prescott",
+   "Javonte Williams",
+   "Michael Wilson"
+  ]
+ ],
+ "tickets_recommended_remaining": [
+  [
+   "Dak Prescott",
+   "Michael Wilson",
+   "Jaylen Waddle"
+  ],
+  [
+   "Michael Wilson",
+   "Jaylen Waddle",
+   "Amon-Ra St. Brown"
+  ]
+ ],
+ "expected": {
+  "placed_6_only": {
+   "roi_per_entry_rho15": 0.336,
+   "p_zero": 0.675,
+   "p_profit": 0.325
+  },
+  "full_10_diversified": {
+   "roi_per_entry_rho00": 0.2,
+   "roi_per_entry_rho15": 0.284,
+   "p_zero": 0.53,
+   "p_profit": 0.47
+  },
+  "full_10_doubled_down": {
+   "roi_per_entry_rho00": 0.202,
+   "roi_per_entry_rho15": 0.341,
+   "p_zero": 0.675,
+   "p_profit": 0.325
+  }
+ },
+ "passed_on": {
+  "Jaylin Noel U2.5 receptions": "4.2 pt cross-book spread",
+  "Kevin Coleman U1.5 receptions": "rookie in a first real role with Dolphins WRs out; under priced off snaps the books have not seen"
+ },
+ "resolves": "Sun 2026-09-27 (CIN@PIT 12:00, NYJ@DET 12:00, ARI@SF 3:05, BAL@DAL 3:25, LAR@DEN 7:20)",
+ "note": "Set each leg result after the games, then grade. Confirm which game Boom lists Waddle under."
+}
