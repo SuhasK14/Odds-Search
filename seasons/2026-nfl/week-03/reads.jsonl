@@ -1,121 +1,405 @@
-# Boom Pick & Spin, NFL tab, week 3. Recorded 2026-09-23 15:59.
-# Read by Claude (Opus 5) from 4x2 tiles of 1 fps frames; every View more sheet opened.
-# Count markets only; yardage, fantasy points, longest-play and kicker points skipped.
-{"frame": "n002", "player": "Michael Penix Jr.", "market": "Completions", "line": 18.5, "sides": "over,under", "confidence": "high", "game": "ATL @ GB"}
-{"frame": "n002", "player": "Michael Penix Jr.", "market": "Passing Attempts", "line": 31.5, "sides": "over,under", "confidence": "high", "game": "ATL @ GB"}
-{"frame": "n002", "player": "Michael Penix Jr.", "market": "Interceptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "ATL @ GB"}
-{"frame": "n002", "player": "Michael Penix Jr.", "market": "Rushing Attempts", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "ATL @ GB"}
-{"frame": "n002", "player": "Drake London", "market": "Receptions", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "ATL @ GB"}
-{"frame": "n002", "player": "Drake London", "market": "Targets", "line": 9, "sides": "over,under", "confidence": "high", "game": "ATL @ GB"}
-{"frame": "n003", "player": "Christian Watson", "market": "Receptions", "line": 4.5, "sides": "over", "confidence": "high", "game": "ATL @ GB"}
-{"frame": "n003", "player": "Christian Watson", "market": "Targets", "line": 7.5, "sides": "over,under", "confidence": "high", "game": "ATL @ GB"}
-{"frame": "n003", "player": "Tucker Kraft", "market": "Targets", "line": 6, "sides": "over,under", "confidence": "high", "game": "ATL @ GB"}
-{"frame": "n004", "player": "Kyle Pitts Sr.", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "ATL @ GB"}
-{"frame": "n004", "player": "Matthew Golden", "market": "Receptions", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "ATL @ GB"}
-{"frame": "n004", "player": "Brian Robinson Jr.", "market": "Receptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "ATL @ GB"}
-{"frame": "n004", "player": "Olamide Zaccheaus", "market": "Targets", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "ATL @ GB"}
-{"frame": "n004", "player": "Kaleb Johnson", "market": "Rushing Attempts", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "ATL @ GB"}
-{"frame": "n005", "player": "Chris Brooks", "market": "Targets", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "ATL @ GB"}
-{"frame": "n026", "player": "Tony Pollard", "market": "Rushing Attempts", "line": 11.5, "sides": "over,under", "confidence": "high", "game": "TEN @ NYG"}
-{"frame": "n031", "player": "Elic Ayomanor", "market": "Receptions", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "TEN @ NYG"}
-{"frame": "n034", "player": "Calvin Ridley", "market": "Receptions", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "TEN @ NYG"}
-{"frame": "n035", "player": "Dominic Zvada", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "TEN @ NYG"}
-{"frame": "n028", "player": "Harold Fannin Jr.", "market": "Receptions", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
-{"frame": "n030", "player": "Denzel Boston", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
-{"frame": "n030", "player": "KC Concepcion", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
-{"frame": "n031", "player": "Ryan Fitzgerald", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
-{"frame": "n025", "player": "Xavier Worthy", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "KC @ MIA"}
-{"frame": "n025", "player": "Xavier Worthy", "market": "Targets", "line": 6, "sides": "over,under", "confidence": "high", "game": "KC @ MIA"}
-{"frame": "n034", "player": "Malik Washington", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "KC @ MIA"}
-{"frame": "n032", "player": "Tyquan Thornton", "market": "Receptions", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "KC @ MIA"}
-{"frame": "n032", "player": "Emmett Johnson", "market": "Receptions", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "KC @ MIA"}
-{"frame": "n025", "player": "Hunter Henry", "market": "Targets", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
-{"frame": "n029", "player": "Mack Hollins", "market": "Targets", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
-{"frame": "n028", "player": "Brenton Strange", "market": "Targets", "line": 4, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
-{"frame": "n035", "player": "Andy Borregales", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
-{"frame": "n031", "player": "Tre Harris", "market": "Targets", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "LAC @ BUF"}
-{"frame": "n026", "player": "Quentin Johnston", "market": "Targets", "line": 5, "sides": "over,under", "confidence": "high", "game": "LAC @ BUF"}
-{"frame": "n035", "player": "Tyler Bass", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "LAC @ BUF"}
-{"frame": "n032", "player": "Jaylin Noel", "market": "Receptions", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
-{"frame": "n030", "player": "Woody Marks", "market": "Rushing Attempts", "line": 7.5, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
-{"frame": "n035", "player": "Ka'imi Fairbairn", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
-{"frame": "n035", "player": "Spencer Shrader", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
-{"frame": "n026", "player": "Adonai Mitchell", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "NYJ @ DET"}
-{"frame": "n033", "player": "Kenyon Sadiq", "market": "Receptions", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "NYJ @ DET"}
-{"frame": "n034", "player": "Isaac TeSlaa", "market": "Receptions", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "NYJ @ DET"}
-{"frame": "n035", "player": "Jake Bates", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "NYJ @ DET"}
-{"frame": "n027", "player": "Sam LaPorta", "market": "Receptions", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "NYJ @ DET"}
-{"frame": "n027", "player": "Sam LaPorta", "market": "Targets", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "NYJ @ DET"}
-{"frame": "n026", "player": "Pat Freiermuth", "market": "Receptions", "line": 3.5, "sides": "over", "confidence": "high", "game": "CIN @ PIT"}
-{"frame": "n026", "player": "Pat Freiermuth", "market": "Targets", "line": 5, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
-{"frame": "n032", "player": "Darnell Washington", "market": "Receptions", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
-{"frame": "n034", "player": "Mike Gesicki", "market": "Receptions", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
-{"frame": "n035", "player": "Chris Boswell", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
-{"frame": "n029", "player": "AJ Barner", "market": "Receptions", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "SEA @ WSH"}
-{"frame": "n035", "player": "Jason Myers", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "SEA @ WSH"}
-{"frame": "n038", "player": "Christian McCaffrey", "market": "Receptions", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
-{"frame": "n039", "player": "Brock Purdy", "market": "Completions", "line": 20.5, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
-{"frame": "n039", "player": "Brock Purdy", "market": "Passing Attempts", "line": 28.5, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
-{"frame": "n040", "player": "Deebo Samuel", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
-{"frame": "n037", "player": "Jacoby Brissett", "market": "Passing Attempts", "line": 32.5, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
-{"frame": "n041", "player": "Kendrick Bourne", "market": "Receptions", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
-{"frame": "n041", "player": "Tyler Allgeier", "market": "Rushing Attempts", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
-{"frame": "n041", "player": "Jeremiyah Love", "market": "Rushing Attempts", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
-{"frame": "n036", "player": "Justin Jefferson", "market": "Receptions", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
-{"frame": "n036", "player": "Bucky Irving", "market": "Rushing Attempts", "line": 13.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
-{"frame": "n036", "player": "Bucky Irving", "market": "Receptions", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
-{"frame": "n041", "player": "TJ Hockenson", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
-{"frame": "n041", "player": "Cade Otton", "market": "Targets", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
-{"frame": "n040", "player": "Emeka Egbuka", "market": "Targets", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
-{"frame": "n040", "player": "Jordan Addison", "market": "Targets", "line": 5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
-{"frame": "n040", "player": "Chris Godwin Jr.", "market": "Targets", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
-{"frame": "n040", "player": "Michael Wilson", "market": "Targets", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
-{"frame": "n040", "player": "Marvin Harrison Jr.", "market": "Targets", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
-{"frame": "n037", "player": "Trey McBride", "market": "Targets", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
-{"frame": "n042", "player": "Lamar Jackson", "market": "Completions", "line": 19, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
-{"frame": "n042", "player": "Lamar Jackson", "market": "Passing Attempts", "line": 29, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
-{"frame": "n042", "player": "CeeDee Lamb", "market": "Receptions", "line": 6.5, "sides": "over", "confidence": "high", "game": "BAL @ DAL"}
-{"frame": "n042", "player": "CeeDee Lamb", "market": "Targets", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
-{"frame": "n043", "player": "Derrick Henry", "market": "Rushing Attempts", "line": 18.5, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
-{"frame": "n043", "player": "Dak Prescott", "market": "Passing TDs", "line": 1.5, "sides": "over", "confidence": "high", "game": "BAL @ DAL"}
-{"frame": "n043", "player": "Dak Prescott", "market": "Completions", "line": 25.5, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
-{"frame": "n043", "player": "Dak Prescott", "market": "Passing Attempts", "line": 36.5, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
-{"frame": "n043", "player": "Dak Prescott", "market": "Interceptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
-{"frame": "n044", "player": "George Pickens", "market": "Targets", "line": 8, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
-{"frame": "n044", "player": "Zay Flowers", "market": "Targets", "line": 7, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
-{"frame": "n044", "player": "Javonte Williams", "market": "Rushing Attempts", "line": 14.5, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
-{"frame": "n044", "player": "Javonte Williams", "market": "Receptions", "line": 2.5, "sides": "over", "confidence": "high", "game": "BAL @ DAL"}
-{"frame": "n044", "player": "Javonte Williams", "market": "Targets", "line": 4, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
-{"frame": "n045", "player": "Mark Andrews", "market": "Receptions", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
-{"frame": "n045", "player": "Jake Ferguson", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
-{"frame": "n046", "player": "Brandon Aubrey", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
-{"frame": "n046", "player": "Tyler Loop", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
-{"frame": "n043", "player": "Ashton Jeanty", "market": "Rushing Attempts", "line": 17.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
-{"frame": "n043", "player": "Ashton Jeanty", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
-{"frame": "n043", "player": "Kirk Cousins", "market": "Completions", "line": 20.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
-{"frame": "n043", "player": "Kirk Cousins", "market": "Passing Attempts", "line": 31.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
-{"frame": "n043", "player": "Kirk Cousins", "market": "Interceptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
-{"frame": "n043", "player": "Tyler Shough", "market": "Completions", "line": 22.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
-{"frame": "n046", "player": "Daniel Carlson", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
-{"frame": "n046", "player": "Matt Gay", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
-{"frame": "n046", "player": "Matthew Stafford", "market": "Completions", "line": 21.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
-{"frame": "n046", "player": "Matthew Stafford", "market": "Passing Attempts", "line": 33.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
-{"frame": "n046", "player": "Matthew Stafford", "market": "Interceptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
-{"frame": "n047", "player": "Bo Nix", "market": "Completions", "line": 21.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
-{"frame": "n047", "player": "Bo Nix", "market": "Passing Attempts", "line": 33.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
-{"frame": "n047", "player": "Bo Nix", "market": "Interceptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
-{"frame": "n047", "player": "Kyren Williams", "market": "Rushing Attempts", "line": 13.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
-{"frame": "n047", "player": "Jaylen Waddle", "market": "Targets", "line": 7, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
-{"frame": "n047", "player": "Courtland Sutton", "market": "Targets", "line": 6, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
-{"frame": "n047", "player": "Blake Corum", "market": "Rushing Attempts", "line": 11, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
-{"frame": "n047", "player": "Evan Engram", "market": "Receptions", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
-{"frame": "n047", "player": "Pat Bryant", "market": "Receptions", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
-{"frame": "n048", "player": "Wil Lutz", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
-{"frame": "n048", "player": "Harrison Mevis", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
-{"frame": "n048", "player": "Jalen Hurts", "market": "Passing Attempts", "line": 28.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
-{"frame": "n048", "player": "Jalen Hurts", "market": "Rushing Attempts", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
-{"frame": "n048", "player": "Saquon Barkley", "market": "Rushing Attempts", "line": 16.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
-{"frame": "n048", "player": "Saquon Barkley", "market": "Targets", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
-{"frame": "n048", "player": "DeVonta Smith", "market": "Receptions", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
-{"frame": "n048", "player": "DeVonta Smith", "market": "Targets", "line": 8, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
-{"frame": "n048", "player": "Dontayvion Wicks", "market": "Targets", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
+# Boom Pick & Spin, NFL tab, week 3. Recorded 2026-09-26 11:34-11:51 (4 clips).
+# Header says 'Pick & Spin: 3-Leg' -> this is the 6x/20x wheel.
+# Read by Claude (Opus 5) from 84 4x2 tiles of 1 fps frames; every View more sheet opened.
+# Count markets only; yardage, fantasy pts, longest-play, kicker pts, punts, sacks,
+# extra points, completion pct and 'first N' props skipped per standing rules.
+# ATL @ GB (Thu) is absent - already played.
+# Several cards carry a game label that looks wrong for the player (Kenneth Walker III,
+# Geno Smith, David Montgomery, Kyler Murray, Mike Evans, Jauan Jennings, Jaylen Waddle,
+# Michael Pittman Jr., Isaiah Likely, Darius Slayton, Kayshon Boutte, Rachaad White).
+# Transcribed as displayed per README; merge will log the game conflict.
+{"frame": "f", "player": "Patrick Mahomes", "market": "Completions", "line": 21.5, "sides": "over,under", "confidence": "high", "game": "KC @ MIA"}
+{"frame": "f", "player": "Patrick Mahomes", "market": "Passing Attempts", "line": 30.5, "sides": "over,under", "confidence": "high", "game": "KC @ MIA"}
+{"frame": "f", "player": "Patrick Mahomes", "market": "Rushing Attempts", "line": 3.5, "sides": "over", "confidence": "high", "game": "KC @ MIA"}
+{"frame": "f", "player": "De'Von Achane", "market": "Rushing Attempts", "line": 15.5, "sides": "over,under", "confidence": "high", "game": "KC @ MIA"}
+{"frame": "f", "player": "De'Von Achane", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "KC @ MIA"}
+{"frame": "f", "player": "De'Von Achane", "market": "Targets", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "KC @ MIA"}
+{"frame": "f", "player": "Malik Willis", "market": "Completions", "line": 16.5, "sides": "over,under", "confidence": "high", "game": "KC @ MIA"}
+{"frame": "f", "player": "Malik Willis", "market": "Passing Attempts", "line": 27.5, "sides": "over,under", "confidence": "high", "game": "KC @ MIA"}
+{"frame": "f", "player": "Malik Willis", "market": "Interceptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "KC @ MIA"}
+{"frame": "f", "player": "Travis Kelce", "market": "Receptions", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "KC @ MIA"}
+{"frame": "f", "player": "Travis Kelce", "market": "Targets", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "KC @ MIA"}
+{"frame": "f", "player": "Rashee Rice", "market": "Targets", "line": 6.0, "sides": "over,under", "confidence": "high", "game": "KC @ MIA"}
+{"frame": "f", "player": "Xavier Worthy", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "KC @ MIA"}
+{"frame": "f", "player": "Xavier Worthy", "market": "Targets", "line": 6.0, "sides": "over,under", "confidence": "high", "game": "KC @ MIA"}
+{"frame": "f", "player": "Malik Washington", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "KC @ MIA"}
+{"frame": "f", "player": "Harrison Butker", "market": "Field Goals Made", "line": 1.5, "sides": "over", "confidence": "high", "game": "KC @ MIA"}
+{"frame": "f", "player": "Tyquan Thornton", "market": "Targets", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "KC @ MIA"}
+{"frame": "f", "player": "Emmett Johnson", "market": "Rushing Attempts", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "KC @ MIA"}
+{"frame": "f", "player": "Kenneth Walker III", "market": "Rushing Attempts", "line": 17.5, "sides": "over,under", "confidence": "high", "game": "KC @ MIA"}
+{"frame": "f", "player": "Kenneth Walker III", "market": "Targets", "line": 4.0, "sides": "over,under", "confidence": "high", "game": "KC @ MIA"}
+{"frame": "f", "player": "Greg Dulcich", "market": "Targets", "line": 3.0, "sides": "over,under", "confidence": "high", "game": "KC @ MIA"}
+{"frame": "f", "player": "Kevin Coleman", "market": "Receptions", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "KC @ MIA"}
+{"frame": "f", "player": "Chris Bell", "market": "Receptions", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "KC @ MIA"}
+{"frame": "f", "player": "Chris Bell", "market": "Targets", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "KC @ MIA"}
+{"frame": "f", "player": "Josh Allen", "market": "Completions", "line": 20.5, "sides": "over,under", "confidence": "high", "game": "LAC @ BUF"}
+{"frame": "f", "player": "Josh Allen", "market": "Passing Attempts", "line": 30.5, "sides": "over,under", "confidence": "high", "game": "LAC @ BUF"}
+{"frame": "f", "player": "Josh Allen", "market": "Rushing Attempts", "line": 7.5, "sides": "over,under", "confidence": "high", "game": "LAC @ BUF"}
+{"frame": "f", "player": "Justin Herbert", "market": "Completions", "line": 19.5, "sides": "over,under", "confidence": "high", "game": "LAC @ BUF"}
+{"frame": "f", "player": "Justin Herbert", "market": "Passing Attempts", "line": 31.5, "sides": "over,under", "confidence": "high", "game": "LAC @ BUF"}
+{"frame": "f", "player": "Justin Herbert", "market": "Interceptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "LAC @ BUF"}
+{"frame": "f", "player": "James Cook", "market": "Rushing Attempts", "line": 17.5, "sides": "over,under", "confidence": "high", "game": "LAC @ BUF"}
+{"frame": "f", "player": "James Cook", "market": "Targets", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "LAC @ BUF"}
+{"frame": "f", "player": "Ladd McConkey", "market": "Receptions", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "LAC @ BUF"}
+{"frame": "f", "player": "Ladd McConkey", "market": "Targets", "line": 7.0, "sides": "over,under", "confidence": "high", "game": "LAC @ BUF"}
+{"frame": "f", "player": "DJ Moore", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "LAC @ BUF"}
+{"frame": "f", "player": "DJ Moore", "market": "Targets", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "LAC @ BUF"}
+{"frame": "f", "player": "Dalton Kincaid", "market": "Receptions", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "LAC @ BUF"}
+{"frame": "f", "player": "Dalton Kincaid", "market": "Targets", "line": 6.0, "sides": "over,under", "confidence": "high", "game": "LAC @ BUF"}
+{"frame": "f", "player": "Khalil Shakir", "market": "Targets", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "LAC @ BUF"}
+{"frame": "f", "player": "Quentin Johnston", "market": "Targets", "line": 5.0, "sides": "over,under", "confidence": "high", "game": "LAC @ BUF"}
+{"frame": "f", "player": "Omarion Hampton", "market": "Rushing Attempts", "line": 15.5, "sides": "over,under", "confidence": "high", "game": "LAC @ BUF"}
+{"frame": "f", "player": "Omarion Hampton", "market": "Targets", "line": 2.0, "sides": "over,under", "confidence": "high", "game": "LAC @ BUF"}
+{"frame": "f", "player": "Tyler Bass", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "LAC @ BUF"}
+{"frame": "f", "player": "Oronde Gadsden", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "LAC @ BUF"}
+{"frame": "f", "player": "Tre Harris", "market": "Receptions", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "LAC @ BUF"}
+{"frame": "f", "player": "Tre Harris", "market": "Targets", "line": 4.0, "sides": "over,under", "confidence": "high", "game": "LAC @ BUF"}
+{"frame": "f", "player": "Dawson Knox", "market": "Targets", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "LAC @ BUF"}
+{"frame": "f", "player": "Drake Maye", "market": "Completions", "line": 19.5, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Drake Maye", "market": "Passing Attempts", "line": 30.5, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Drake Maye", "market": "Interceptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Drake Maye", "market": "Rushing Attempts", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Trevor Lawrence", "market": "Passing TDs", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Trevor Lawrence", "market": "Completions", "line": 20.5, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Trevor Lawrence", "market": "Passing Attempts", "line": 32.5, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Trevor Lawrence", "market": "Interceptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Rhamondre Stevenson", "market": "Rushing Attempts", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Rhamondre Stevenson", "market": "Receptions", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Rhamondre Stevenson", "market": "Targets", "line": 3.0, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Romeo Doubs", "market": "Targets", "line": 5.0, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Parker Washington", "market": "Targets", "line": 7.5, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Bhayshul Tuten", "market": "Rushing Attempts", "line": 12.5, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Bhayshul Tuten", "market": "Receptions", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Bhayshul Tuten", "market": "Targets", "line": 2.0, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Treveyon Henderson", "market": "Rushing Attempts", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Treveyon Henderson", "market": "Receptions", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Treveyon Henderson", "market": "Targets", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Brian Thomas Jr.", "market": "Targets", "line": 5.0, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Chris Rodriguez Jr.", "market": "Rushing Attempts", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Demario Douglas", "market": "Targets", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Hunter Henry", "market": "Targets", "line": 6.0, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Jakobi Meyers", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Jakobi Meyers", "market": "Targets", "line": 5.0, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Mack Hollins", "market": "Targets", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Travis Hunter", "market": "Receptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Brenton Strange", "market": "Targets", "line": 4.0, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Andy Borregales", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Cam Little", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Lequint Allen", "market": "Receptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Nate Boerkircher", "market": "Receptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "NE @ JAX"}
+{"frame": "f", "player": "Joe Burrow", "market": "Passing TDs", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
+{"frame": "f", "player": "Joe Burrow", "market": "Completions", "line": 23.5, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
+{"frame": "f", "player": "Joe Burrow", "market": "Passing Attempts", "line": 34.5, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
+{"frame": "f", "player": "Joe Burrow", "market": "Interceptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
+{"frame": "f", "player": "Aaron Rodgers", "market": "Completions", "line": 21.5, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
+{"frame": "f", "player": "Aaron Rodgers", "market": "Passing Attempts", "line": 35.5, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
+{"frame": "f", "player": "Aaron Rodgers", "market": "Interceptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
+{"frame": "f", "player": "Ja'Marr Chase", "market": "Receptions", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
+{"frame": "f", "player": "Ja'Marr Chase", "market": "Targets", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
+{"frame": "f", "player": "DK Metcalf", "market": "Receptions", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
+{"frame": "f", "player": "DK Metcalf", "market": "Targets", "line": 7.5, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
+{"frame": "f", "player": "Chase Brown", "market": "Rushing Attempts", "line": 15.5, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
+{"frame": "f", "player": "Chase Brown", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
+{"frame": "f", "player": "Chase Brown", "market": "Targets", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
+{"frame": "f", "player": "Jaylen Warren", "market": "Rushing Attempts", "line": 15.5, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
+{"frame": "f", "player": "Jaylen Warren", "market": "Targets", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
+{"frame": "f", "player": "Tee Higgins", "market": "Targets", "line": 7.0, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
+{"frame": "f", "player": "Pat Freiermuth", "market": "Receptions", "line": 3.5, "sides": "over", "confidence": "high", "game": "CIN @ PIT"}
+{"frame": "f", "player": "Pat Freiermuth", "market": "Targets", "line": 5.0, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
+{"frame": "f", "player": "Mike Gesicki", "market": "Receptions", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
+{"frame": "f", "player": "Roman Wilson", "market": "Receptions", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
+{"frame": "f", "player": "Samaje Perine", "market": "Rushing Attempts", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
+{"frame": "f", "player": "Samaje Perine", "market": "Receptions", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
+{"frame": "f", "player": "Samaje Perine", "market": "Targets", "line": 2.0, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
+{"frame": "f", "player": "Chris Boswell", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
+{"frame": "f", "player": "Evan McPherson", "market": "Field Goals Made", "line": 1.5, "sides": "over", "confidence": "high", "game": "CIN @ PIT"}
+{"frame": "f", "player": "Erick All", "market": "Receptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
+{"frame": "f", "player": "Darnell Washington", "market": "Receptions", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "CIN @ PIT"}
+{"frame": "f", "player": "Michael Pittman Jr.", "market": "Receptions", "line": 2.5, "sides": "over", "confidence": "high", "game": "CIN @ PIT"}
+{"frame": "f", "player": "Sam Darnold", "market": "Passing TDs", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "SEA @ WSH"}
+{"frame": "f", "player": "Sam Darnold", "market": "Completions", "line": 18.5, "sides": "over,under", "confidence": "high", "game": "SEA @ WSH"}
+{"frame": "f", "player": "Sam Darnold", "market": "Passing Attempts", "line": 28.5, "sides": "over,under", "confidence": "high", "game": "SEA @ WSH"}
+{"frame": "f", "player": "Marcus Mariota", "market": "Completions", "line": 16.5, "sides": "over,under", "confidence": "high", "game": "SEA @ WSH"}
+{"frame": "f", "player": "Marcus Mariota", "market": "Passing Attempts", "line": 29.5, "sides": "over,under", "confidence": "high", "game": "SEA @ WSH"}
+{"frame": "f", "player": "Jaxon Smith-Njigba", "market": "Receptions", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "SEA @ WSH"}
+{"frame": "f", "player": "Jaxon Smith-Njigba", "market": "Targets", "line": 9.0, "sides": "over,under", "confidence": "high", "game": "SEA @ WSH"}
+{"frame": "f", "player": "Terry McLaurin", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "SEA @ WSH"}
+{"frame": "f", "player": "Terry McLaurin", "market": "Targets", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "SEA @ WSH"}
+{"frame": "f", "player": "Stefon Diggs", "market": "Receptions", "line": 3.5, "sides": "over", "confidence": "high", "game": "SEA @ WSH"}
+{"frame": "f", "player": "Stefon Diggs", "market": "Targets", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "SEA @ WSH"}
+{"frame": "f", "player": "Jacory Croskey-Merritt", "market": "Rushing Attempts", "line": 11.5, "sides": "over,under", "confidence": "high", "game": "SEA @ WSH"}
+{"frame": "f", "player": "Jadarian Price", "market": "Rushing Attempts", "line": 13.5, "sides": "over,under", "confidence": "high", "game": "SEA @ WSH"}
+{"frame": "f", "player": "Cooper Kupp", "market": "Targets", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "SEA @ WSH"}
+{"frame": "f", "player": "Antonio Williams", "market": "Targets", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "SEA @ WSH"}
+{"frame": "f", "player": "AJ Barner", "market": "Receptions", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "SEA @ WSH"}
+{"frame": "f", "player": "Rashid Shaheed", "market": "Receptions", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "SEA @ WSH"}
+{"frame": "f", "player": "Dyami Brown", "market": "Targets", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "SEA @ WSH"}
+{"frame": "f", "player": "Rachaad White", "market": "Targets", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "SEA @ WSH"}
+{"frame": "f", "player": "Jason Myers", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "SEA @ WSH"}
+{"frame": "f", "player": "Cam Ward", "market": "Completions", "line": 17.5, "sides": "over,under", "confidence": "high", "game": "TEN @ NYG"}
+{"frame": "f", "player": "Cam Ward", "market": "Passing Attempts", "line": 30.5, "sides": "over,under", "confidence": "high", "game": "TEN @ NYG"}
+{"frame": "f", "player": "Cam Ward", "market": "Interceptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "TEN @ NYG"}
+{"frame": "f", "player": "Cam Ward", "market": "Rushing Attempts", "line": 3.5, "sides": "over", "confidence": "high", "game": "TEN @ NYG"}
+{"frame": "f", "player": "Jameis Winston", "market": "Completions", "line": 17.5, "sides": "over,under", "confidence": "high", "game": "TEN @ NYG"}
+{"frame": "f", "player": "Jameis Winston", "market": "Passing Attempts", "line": 29.5, "sides": "over,under", "confidence": "high", "game": "TEN @ NYG"}
+{"frame": "f", "player": "Malik Nabers", "market": "Receptions", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "TEN @ NYG"}
+{"frame": "f", "player": "Malik Nabers", "market": "Targets", "line": 7.5, "sides": "over,under", "confidence": "high", "game": "TEN @ NYG"}
+{"frame": "f", "player": "Cam Skattebo", "market": "Rushing Attempts", "line": 15.5, "sides": "over,under", "confidence": "high", "game": "TEN @ NYG"}
+{"frame": "f", "player": "Cam Skattebo", "market": "Targets", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "TEN @ NYG"}
+{"frame": "f", "player": "Tony Pollard", "market": "Rushing Attempts", "line": 13.5, "sides": "over,under", "confidence": "high", "game": "TEN @ NYG"}
+{"frame": "f", "player": "Tony Pollard", "market": "Targets", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "TEN @ NYG"}
+{"frame": "f", "player": "Tyjae Spears", "market": "Rushing Attempts", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "TEN @ NYG"}
+{"frame": "f", "player": "Tyjae Spears", "market": "Receptions", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "TEN @ NYG"}
+{"frame": "f", "player": "Tyjae Spears", "market": "Targets", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "TEN @ NYG"}
+{"frame": "f", "player": "Calvin Ridley", "market": "Targets", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "TEN @ NYG"}
+{"frame": "f", "player": "Elic Ayomanor", "market": "Targets", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "TEN @ NYG"}
+{"frame": "f", "player": "Carnell Tate", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "TEN @ NYG"}
+{"frame": "f", "player": "Carnell Tate", "market": "Targets", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "TEN @ NYG"}
+{"frame": "f", "player": "Wan'Dale Robinson", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "TEN @ NYG"}
+{"frame": "f", "player": "Darnell Mooney", "market": "Receptions", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "TEN @ NYG"}
+{"frame": "f", "player": "Gunnar Helm", "market": "Receptions", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "TEN @ NYG"}
+{"frame": "f", "player": "Isaiah Likely", "market": "Targets", "line": 6.0, "sides": "over,under", "confidence": "high", "game": "TEN @ NYG"}
+{"frame": "f", "player": "Joey Slye", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "TEN @ NYG"}
+{"frame": "f", "player": "Malachi Fields", "market": "Targets", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "TEN @ NYG"}
+{"frame": "f", "player": "Bryce Young", "market": "Completions", "line": 19.5, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
+{"frame": "f", "player": "Bryce Young", "market": "Passing Attempts", "line": 32.5, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
+{"frame": "f", "player": "Bryce Young", "market": "Rushing Attempts", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
+{"frame": "f", "player": "Deshaun Watson", "market": "Completions", "line": 18.5, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
+{"frame": "f", "player": "Deshaun Watson", "market": "Passing Attempts", "line": 29.5, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
+{"frame": "f", "player": "Deshaun Watson", "market": "Interceptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
+{"frame": "f", "player": "Deshaun Watson", "market": "Rushing Attempts", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
+{"frame": "f", "player": "Quinshon Judkins", "market": "Rushing Attempts", "line": 16.5, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
+{"frame": "f", "player": "Quinshon Judkins", "market": "Receptions", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
+{"frame": "f", "player": "Quinshon Judkins", "market": "Targets", "line": 3.0, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
+{"frame": "f", "player": "Chuba Hubbard", "market": "Rushing Attempts", "line": 17.5, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
+{"frame": "f", "player": "Chuba Hubbard", "market": "Receptions", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
+{"frame": "f", "player": "Chuba Hubbard", "market": "Targets", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
+{"frame": "f", "player": "Tetairoa McMillan", "market": "Receptions", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
+{"frame": "f", "player": "Tetairoa McMillan", "market": "Targets", "line": 7.5, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
+{"frame": "f", "player": "Harold Fannin Jr.", "market": "Receptions", "line": 3.5, "sides": "over", "confidence": "high", "game": "CAR @ CLE"}
+{"frame": "f", "player": "Denzel Boston", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
+{"frame": "f", "player": "Denzel Boston", "market": "Targets", "line": 6.0, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
+{"frame": "f", "player": "KC Concepcion", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
+{"frame": "f", "player": "Jerry Jeudy", "market": "Receptions", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
+{"frame": "f", "player": "Jerry Jeudy", "market": "Targets", "line": 3.0, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
+{"frame": "f", "player": "Jalen Coker", "market": "Targets", "line": 7.0, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
+{"frame": "f", "player": "Darren Waller", "market": "Targets", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
+{"frame": "f", "player": "Xavier Legette", "market": "Targets", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
+{"frame": "f", "player": "Tommy Tremble", "market": "Receptions", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
+{"frame": "f", "player": "Ryan Fitzgerald", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
+{"frame": "f", "player": "Andre Szmyt", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
+{"frame": "f", "player": "Raheim Sanders", "market": "Rushing Attempts", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "CAR @ CLE"}
+{"frame": "f", "player": "CJ Stroud", "market": "Completions", "line": 20.5, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "CJ Stroud", "market": "Passing Attempts", "line": 32.5, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "CJ Stroud", "market": "Interceptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "CJ Stroud", "market": "Rushing Attempts", "line": 3.0, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "Daniel Jones", "market": "Completions", "line": 20.5, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "Daniel Jones", "market": "Passing Attempts", "line": 31.5, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "Daniel Jones", "market": "Interceptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "Daniel Jones", "market": "Rushing Attempts", "line": 3.0, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "Jonathan Taylor", "market": "Rushing Attempts", "line": 19.5, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "Jonathan Taylor", "market": "Targets", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "Woody Marks", "market": "Rushing Attempts", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "Woody Marks", "market": "Targets", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "Tyler Warren", "market": "Receptions", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "Tyler Warren", "market": "Targets", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "Dalton Schultz", "market": "Receptions", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "Dalton Schultz", "market": "Targets", "line": 8.0, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "Keenan Allen", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "Keenan Allen", "market": "Targets", "line": 5.0, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "Josh Downs", "market": "Receptions", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "Josh Downs", "market": "Targets", "line": 7.0, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "Jaylin Noel", "market": "Receptions", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "Xavier Hutchinson", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "Kayshon Boutte", "market": "Receptions", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "Kayshon Boutte", "market": "Targets", "line": 4.0, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "Darius Slayton", "market": "Targets", "line": 2.0, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "Spencer Shrader", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "David Montgomery", "market": "Rushing Attempts", "line": 12.5, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "David Montgomery", "market": "Receptions", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "David Montgomery", "market": "Targets", "line": 2.0, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "Laquon Treadwell", "market": "Targets", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "Jared Wayne", "market": "Receptions", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "HOU @ IND"}
+{"frame": "f", "player": "Jared Goff", "market": "Completions", "line": 23.5, "sides": "over,under", "confidence": "high", "game": "NYJ @ DET"}
+{"frame": "f", "player": "Jared Goff", "market": "Passing Attempts", "line": 33.5, "sides": "over,under", "confidence": "high", "game": "NYJ @ DET"}
+{"frame": "f", "player": "Jared Goff", "market": "Rushing Attempts", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "NYJ @ DET"}
+{"frame": "f", "player": "Geno Smith", "market": "Completions", "line": 20.5, "sides": "over,under", "confidence": "high", "game": "NYJ @ DET"}
+{"frame": "f", "player": "Geno Smith", "market": "Passing Attempts", "line": 32.5, "sides": "over,under", "confidence": "high", "game": "NYJ @ DET"}
+{"frame": "f", "player": "Geno Smith", "market": "Interceptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "NYJ @ DET"}
+{"frame": "f", "player": "Jahmyr Gibbs", "market": "Rushing Attempts", "line": 18.5, "sides": "over,under", "confidence": "high", "game": "NYJ @ DET"}
+{"frame": "f", "player": "Jahmyr Gibbs", "market": "Receptions", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "NYJ @ DET"}
+{"frame": "f", "player": "Jahmyr Gibbs", "market": "Targets", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "NYJ @ DET"}
+{"frame": "f", "player": "Breece Hall", "market": "Rushing Attempts", "line": 14.5, "sides": "over,under", "confidence": "high", "game": "NYJ @ DET"}
+{"frame": "f", "player": "Breece Hall", "market": "Targets", "line": 4.0, "sides": "over,under", "confidence": "high", "game": "NYJ @ DET"}
+{"frame": "f", "player": "Amon-Ra St. Brown", "market": "Receptions", "line": 6.5, "sides": "over", "confidence": "high", "game": "NYJ @ DET"}
+{"frame": "f", "player": "Amon-Ra St. Brown", "market": "Targets", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "NYJ @ DET"}
+{"frame": "f", "player": "Garrett Wilson", "market": "Targets", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "NYJ @ DET"}
+{"frame": "f", "player": "Jameson Williams", "market": "Receptions", "line": 3.5, "sides": "over", "confidence": "high", "game": "NYJ @ DET"}
+{"frame": "f", "player": "Jameson Williams", "market": "Targets", "line": 6.0, "sides": "over,under", "confidence": "high", "game": "NYJ @ DET"}
+{"frame": "f", "player": "Sam LaPorta", "market": "Receptions", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "NYJ @ DET"}
+{"frame": "f", "player": "Adonai Mitchell", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "NYJ @ DET"}
+{"frame": "f", "player": "Adonai Mitchell", "market": "Targets", "line": 7.0, "sides": "over,under", "confidence": "high", "game": "NYJ @ DET"}
+{"frame": "f", "player": "Kenyon Sadiq", "market": "Targets", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "NYJ @ DET"}
+{"frame": "f", "player": "Isaac TeSlaa", "market": "Targets", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "NYJ @ DET"}
+{"frame": "f", "player": "Jake Bates", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "NYJ @ DET"}
+{"frame": "f", "player": "Isaiah Williams", "market": "Receptions", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "NYJ @ DET"}
+{"frame": "f", "player": "Isaiah Williams", "market": "Targets", "line": 4.0, "sides": "over,under", "confidence": "high", "game": "NYJ @ DET"}
+{"frame": "f", "player": "Sione Vaki", "market": "Rushing Attempts", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "NYJ @ DET"}
+{"frame": "f", "player": "Brock Purdy", "market": "Completions", "line": 20.5, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
+{"frame": "f", "player": "Brock Purdy", "market": "Passing Attempts", "line": 30.5, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
+{"frame": "f", "player": "Brock Purdy", "market": "Interceptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
+{"frame": "f", "player": "Jacoby Brissett", "market": "Completions", "line": 21.5, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
+{"frame": "f", "player": "Jacoby Brissett", "market": "Passing Attempts", "line": 33.5, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
+{"frame": "f", "player": "Jacoby Brissett", "market": "Interceptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
+{"frame": "f", "player": "Christian McCaffrey", "market": "Rushing Attempts", "line": 13.5, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
+{"frame": "f", "player": "Christian McCaffrey", "market": "Receptions", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
+{"frame": "f", "player": "Christian McCaffrey", "market": "Targets", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
+{"frame": "f", "player": "Trey McBride", "market": "Targets", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
+{"frame": "f", "player": "George Kittle", "market": "Targets", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
+{"frame": "f", "player": "Deebo Samuel", "market": "Targets", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
+{"frame": "f", "player": "Michael Wilson", "market": "Receptions", "line": 3.5, "sides": "over", "confidence": "high", "game": "ARI @ SF"}
+{"frame": "f", "player": "Michael Wilson", "market": "Targets", "line": 6.0, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
+{"frame": "f", "player": "Marvin Harrison Jr.", "market": "Targets", "line": 4.0, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
+{"frame": "f", "player": "Jeremiyah Love", "market": "Rushing Attempts", "line": 11.5, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
+{"frame": "f", "player": "Jeremiyah Love", "market": "Receptions", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
+{"frame": "f", "player": "Jeremiyah Love", "market": "Targets", "line": 3.0, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
+{"frame": "f", "player": "Kendrick Bourne", "market": "Receptions", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
+{"frame": "f", "player": "Kendrick Bourne", "market": "Targets", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
+{"frame": "f", "player": "Tyler Allgeier", "market": "Rushing Attempts", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
+{"frame": "f", "player": "Tyler Allgeier", "market": "Receptions", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
+{"frame": "f", "player": "Tyler Allgeier", "market": "Targets", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
+{"frame": "f", "player": "Mike Evans", "market": "Targets", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "ARI @ SF"}
+{"frame": "f", "player": "Kyler Murray", "market": "Completions", "line": 19.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
+{"frame": "f", "player": "Kyler Murray", "market": "Passing Attempts", "line": 30.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
+{"frame": "f", "player": "Kyler Murray", "market": "Interceptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
+{"frame": "f", "player": "Baker Mayfield", "market": "Completions", "line": 19.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
+{"frame": "f", "player": "Baker Mayfield", "market": "Passing Attempts", "line": 30.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
+{"frame": "f", "player": "Baker Mayfield", "market": "Interceptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
+{"frame": "f", "player": "Baker Mayfield", "market": "Rushing Attempts", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
+{"frame": "f", "player": "Justin Jefferson", "market": "Receptions", "line": 5.5, "sides": "over", "confidence": "high", "game": "MIN @ TB"}
+{"frame": "f", "player": "Justin Jefferson", "market": "Targets", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
+{"frame": "f", "player": "Bucky Irving", "market": "Rushing Attempts", "line": 14.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
+{"frame": "f", "player": "Bucky Irving", "market": "Receptions", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
+{"frame": "f", "player": "Bucky Irving", "market": "Targets", "line": 3.0, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
+{"frame": "f", "player": "Aaron Jones", "market": "Rushing Attempts", "line": 12.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
+{"frame": "f", "player": "Aaron Jones", "market": "Targets", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
+{"frame": "f", "player": "TJ Hockenson", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
+{"frame": "f", "player": "Jordan Addison", "market": "Targets", "line": 5.0, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
+{"frame": "f", "player": "Jauan Jennings", "market": "Receptions", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
+{"frame": "f", "player": "Jauan Jennings", "market": "Targets", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
+{"frame": "f", "player": "Chris Godwin Jr.", "market": "Targets", "line": 5.0, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
+{"frame": "f", "player": "Emeka Egbuka", "market": "Targets", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
+{"frame": "f", "player": "Jalen McMillan", "market": "Targets", "line": 2.0, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
+{"frame": "f", "player": "Cade Otton", "market": "Targets", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
+{"frame": "f", "player": "Kenneth Gainwell", "market": "Targets", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
+{"frame": "f", "player": "Ted Hurst", "market": "Targets", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
+{"frame": "f", "player": "Josh Oliver", "market": "Targets", "line": 2.0, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
+{"frame": "f", "player": "Chase McLaughlin", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
+{"frame": "f", "player": "Will Reichard", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "MIN @ TB"}
+{"frame": "f", "player": "Lamar Jackson", "market": "Completions", "line": 19.5, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
+{"frame": "f", "player": "Lamar Jackson", "market": "Passing Attempts", "line": 28.5, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
+{"frame": "f", "player": "Dak Prescott", "market": "Passing TDs", "line": 1.5, "sides": "over", "confidence": "high", "game": "BAL @ DAL"}
+{"frame": "f", "player": "Dak Prescott", "market": "Completions", "line": 24.5, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
+{"frame": "f", "player": "Dak Prescott", "market": "Passing Attempts", "line": 36.5, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
+{"frame": "f", "player": "Dak Prescott", "market": "Interceptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
+{"frame": "f", "player": "Dak Prescott", "market": "Rushing Attempts", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
+{"frame": "f", "player": "CeeDee Lamb", "market": "Receptions", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
+{"frame": "f", "player": "CeeDee Lamb", "market": "Targets", "line": 10.0, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
+{"frame": "f", "player": "Derrick Henry", "market": "Rushing Attempts", "line": 18.5, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
+{"frame": "f", "player": "Derrick Henry", "market": "Targets", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
+{"frame": "f", "player": "Javonte Williams", "market": "Rushing Attempts", "line": 14.5, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
+{"frame": "f", "player": "Javonte Williams", "market": "Receptions", "line": 2.5, "sides": "over", "confidence": "high", "game": "BAL @ DAL"}
+{"frame": "f", "player": "Javonte Williams", "market": "Targets", "line": 4.0, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
+{"frame": "f", "player": "Mark Andrews", "market": "Targets", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
+{"frame": "f", "player": "Jake Ferguson", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
+{"frame": "f", "player": "Jake Ferguson", "market": "Targets", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
+{"frame": "f", "player": "George Pickens", "market": "Targets", "line": 8.0, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
+{"frame": "f", "player": "Rashod Bateman", "market": "Targets", "line": 6.0, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
+{"frame": "f", "player": "Justice Hill", "market": "Rushing Attempts", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
+{"frame": "f", "player": "Justice Hill", "market": "Targets", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
+{"frame": "f", "player": "Ryan Flournoy", "market": "Targets", "line": 5.0, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
+{"frame": "f", "player": "Brandon Aubrey", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
+{"frame": "f", "player": "Tyler Loop", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
+{"frame": "f", "player": "Lajohntay Wester", "market": "Targets", "line": 3.0, "sides": "over,under", "confidence": "high", "game": "BAL @ DAL"}
+{"frame": "f", "player": "Kirk Cousins", "market": "Completions", "line": 20.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
+{"frame": "f", "player": "Kirk Cousins", "market": "Passing Attempts", "line": 31.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
+{"frame": "f", "player": "Kirk Cousins", "market": "Interceptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
+{"frame": "f", "player": "Tyler Shough", "market": "Passing TDs", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
+{"frame": "f", "player": "Tyler Shough", "market": "Completions", "line": 22.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
+{"frame": "f", "player": "Tyler Shough", "market": "Passing Attempts", "line": 33.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
+{"frame": "f", "player": "Tyler Shough", "market": "Interceptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
+{"frame": "f", "player": "Ashton Jeanty", "market": "Rushing Attempts", "line": 17.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
+{"frame": "f", "player": "Ashton Jeanty", "market": "Targets", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
+{"frame": "f", "player": "Brock Bowers", "market": "Receptions", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
+{"frame": "f", "player": "Brock Bowers", "market": "Targets", "line": 6.0, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
+{"frame": "f", "player": "Chris Olave", "market": "Targets", "line": 9.0, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
+{"frame": "f", "player": "Alvin Kamara", "market": "Rushing Attempts", "line": 7.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
+{"frame": "f", "player": "Alvin Kamara", "market": "Targets", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
+{"frame": "f", "player": "Travis Etienne Jr.", "market": "Rushing Attempts", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
+{"frame": "f", "player": "Travis Etienne Jr.", "market": "Receptions", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
+{"frame": "f", "player": "Travis Etienne Jr.", "market": "Targets", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
+{"frame": "f", "player": "Juwan Johnson", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
+{"frame": "f", "player": "Juwan Johnson", "market": "Targets", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
+{"frame": "f", "player": "Tre Tucker", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
+{"frame": "f", "player": "Devaughn Vele", "market": "Targets", "line": 6.0, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
+{"frame": "f", "player": "Jack Bech", "market": "Receptions", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
+{"frame": "f", "player": "Jack Bech", "market": "Targets", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
+{"frame": "f", "player": "Jalen Nailor", "market": "Targets", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
+{"frame": "f", "player": "Noah Fant", "market": "Targets", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
+{"frame": "f", "player": "Matt Gay", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
+{"frame": "f", "player": "Daniel Carlson", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
+{"frame": "f", "player": "Bryce Lance", "market": "Targets", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "LV @ NO"}
+{"frame": "f", "player": "Matthew Stafford", "market": "Passing TDs", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "Matthew Stafford", "market": "Completions", "line": 20.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "Matthew Stafford", "market": "Passing Attempts", "line": 33.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "Matthew Stafford", "market": "Interceptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "Bo Nix", "market": "Completions", "line": 21.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "Bo Nix", "market": "Passing Attempts", "line": 33.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "Bo Nix", "market": "Interceptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "Bo Nix", "market": "Rushing Attempts", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "Davante Adams", "market": "Receptions", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "Davante Adams", "market": "Targets", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "Kyren Williams", "market": "Rushing Attempts", "line": 12.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "Kyren Williams", "market": "Targets", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "Jaylen Waddle", "market": "Receptions", "line": 4.5, "sides": "over", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "Jaylen Waddle", "market": "Targets", "line": 7.0, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "Courtland Sutton", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "Courtland Sutton", "market": "Targets", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "JK Dobbins", "market": "Rushing Attempts", "line": 12.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "JK Dobbins", "market": "Receptions", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "Blake Corum", "market": "Rushing Attempts", "line": 11.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "RJ Harvey", "market": "Receptions", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "RJ Harvey", "market": "Targets", "line": 3.0, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "Evan Engram", "market": "Receptions", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "Evan Engram", "market": "Targets", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "Pat Bryant", "market": "Receptions", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "Pat Bryant", "market": "Targets", "line": 4.0, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "Wil Lutz", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "Harrison Mevis", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "Terrance Ferguson", "market": "Targets", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "Colby Parkinson", "market": "Targets", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "Adam Trautman", "market": "Targets", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "LAR @ DEN"}
+{"frame": "f", "player": "Jalen Hurts", "market": "Completions", "line": 17.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
+{"frame": "f", "player": "Jalen Hurts", "market": "Passing Attempts", "line": 27.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
+{"frame": "f", "player": "Jalen Hurts", "market": "Rushing Attempts", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
+{"frame": "f", "player": "Case Keenum", "market": "Completions", "line": 16.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
+{"frame": "f", "player": "Case Keenum", "market": "Passing Attempts", "line": 28.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
+{"frame": "f", "player": "Saquon Barkley", "market": "Rushing Attempts", "line": 17.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
+{"frame": "f", "player": "Saquon Barkley", "market": "Targets", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
+{"frame": "f", "player": "D'Andre Swift", "market": "Rushing Attempts", "line": 14.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
+{"frame": "f", "player": "D'Andre Swift", "market": "Receptions", "line": 1.5, "sides": "over", "confidence": "high", "game": "PHI @ CHI"}
+{"frame": "f", "player": "D'Andre Swift", "market": "Targets", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
+{"frame": "f", "player": "DeVonta Smith", "market": "Receptions", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
+{"frame": "f", "player": "DeVonta Smith", "market": "Targets", "line": 8.0, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
+{"frame": "f", "player": "Rome Odunze", "market": "Receptions", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
+{"frame": "f", "player": "Rome Odunze", "market": "Targets", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
+{"frame": "f", "player": "Luther Burden III", "market": "Receptions", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
+{"frame": "f", "player": "Colston Loveland", "market": "Targets", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
+{"frame": "f", "player": "Kyle Monangai", "market": "Rushing Attempts", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
+{"frame": "f", "player": "Dontayvion Wicks", "market": "Targets", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
+{"frame": "f", "player": "Zach Ertz", "market": "Receptions", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
+{"frame": "f", "player": "Kalif Raymond", "market": "Targets", "line": 4.0, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
+{"frame": "f", "player": "Makai Lemon", "market": "Receptions", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
+{"frame": "f", "player": "Jake Elliott", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
+{"frame": "f", "player": "Cairo Santos", "market": "Field Goals Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
+{"frame": "f", "player": "Johnny Mundt", "market": "Receptions", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHI"}
