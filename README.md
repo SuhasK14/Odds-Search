@@ -105,8 +105,11 @@ Boom app conventions worth knowing:
   NFL `WSH` to `WAS`. Normalize while reading.
 - Every `View more (N)` sheet must be opened in the recording or those props are
   invisible; the count in the label tells you how many are hidden.
-- Occasional label errors appear (a player shown under the wrong game).
-  Transcribe what is displayed and flag it rather than correcting it.
+- A card may show a player you think plays elsewhere. **Do not assume the app is
+  wrong.** Rosters move between seasons and the reader's roster knowledge is
+  stale; on 2026-09-26 twelve such "errors" were checked against DK and FD and
+  all twelve matched the app. Transcribe what is displayed, and verify against
+  the books' own `game` field before telling anyone a label is wrong.
 
 ## What the books actually post
 

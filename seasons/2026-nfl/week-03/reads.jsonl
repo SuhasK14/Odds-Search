@@ -4,10 +4,9 @@
 # Count markets only; yardage, fantasy pts, longest-play, kicker pts, punts, sacks,
 # extra points, completion pct and 'first N' props skipped per standing rules.
 # ATL @ GB (Thu) is absent - already played.
-# Several cards carry a game label that looks wrong for the player (Kenneth Walker III,
-# Geno Smith, David Montgomery, Kyler Murray, Mike Evans, Jauan Jennings, Jaylen Waddle,
-# Michael Pittman Jr., Isaiah Likely, Darius Slayton, Kayshon Boutte, Rachaad White).
-# Transcribed as displayed per README; merge will log the game conflict.
+# Game labels that looked wrong for a player (Pittman on PIT, Walker on KC, Geno on NYJ,
+# Kyler on MIN, Waddle on DEN, Montgomery/Slayton/Boutte on HOU-IND) were CHECKED against
+# DK and FD on 2026-09-26: all twelve AGREE. These are 2026 roster moves, not app errors.
 {"frame": "f", "player": "Patrick Mahomes", "market": "Completions", "line": 21.5, "sides": "over,under", "confidence": "high", "game": "KC @ MIA"}
 {"frame": "f", "player": "Patrick Mahomes", "market": "Passing Attempts", "line": 30.5, "sides": "over,under", "confidence": "high", "game": "KC @ MIA"}
 {"frame": "f", "player": "Patrick Mahomes", "market": "Rushing Attempts", "line": 3.5, "sides": "over", "confidence": "high", "game": "KC @ MIA"}
