@@ -6,8 +6,8 @@
   "legs_per_ticket": 3,
   "breakeven_per_leg": 0.5296
  },
- "structure": "balanced around a correlated same-game pair: 3 pair tickets x2 apps placed, 2 diversifying tickets x2 apps recommended",
- "entries_placed": 6,
+ "structure": "balanced around a correlated same-game pair: 3 pair tickets + 2 diversifying tickets, each on 2 apps",
+ "entries_placed": 10,
  "entries_planned": 10,
  "apps": 2,
  "correlation_note": "Dak pass TDs and Javonte receptions are both Cowboys (BAL @ DAL) and both improve in a trailing pass-heavy script. wheel.py prices legs independently, so its EV understates tickets holding both. Assumed rho 0.15.",
@@ -88,9 +88,7 @@
    "Dak Prescott",
    "Javonte Williams",
    "Michael Wilson"
-  ]
- ],
- "tickets_recommended_remaining": [
+  ],
   [
    "Dak Prescott",
    "Michael Wilson",

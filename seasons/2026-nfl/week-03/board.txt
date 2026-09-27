@@ -1,35 +1,50 @@
-5 hand-picked legs (break-even 53.0%, multiplier 6.70x).
+203 legs priced; top 20 shown. Tickets use legs at or above 56% (break-even 53.0%, multiplier 6.70x).
 pref = Suhas's market preference rank: 1=receptions, 2=pass_tds, 3=targets, 4=anytime_td, 5=pass_attempts, 6=rush_attempts, 7=interceptions, 8=field_goals_made, 9=completions
 
 #  leg                                            true   spr  bk  opp  pref  flags
 ----------------------------------------------------------------------------------
-1  Dak Prescott OVER 1.5 pass_tds                57.0%  1.3   2   32     2  
-2  Michael Wilson OVER 3.5 receptions            56.7%  1.6   2    6     1  
-3  Jaylen Waddle OVER 4.5 receptions             56.3%  0.8   2    6     1  
-4  Javonte Williams OVER 2.5 receptions          55.8%  1.8   2    6     1  
-5  Amon-Ra St. Brown OVER 6.5 receptions         55.6%  0.2   2    6     1  
+1  Dak Prescott UNDER 3.5 rush_attempts          57.3%  0.0   1   15     6  1 book
+2  Jaylen Waddle OVER 4.5 receptions             57.0%  0.6   2    6     1  
+3  Dak Prescott OVER 1.5 pass_tds                56.9%  1.6   2   32     2  
+4  Javonte Williams OVER 2.5 receptions          56.8%  0.2   2    6     1  
+5  Michael Wilson OVER 3.5 receptions            56.7%  1.6   2    6     1  
+6  Amon-Ra St. Brown OVER 6.5 receptions         56.2%  0.8   2    6     1  
+7  Michael Pittman Jr. OVER 2.5 receptions       56.0%  0.3   2    6     1  
+8  Kevin Coleman UNDER 1.5 receptions            55.9%  1.6   2    6     1  
+9  Dalton Schultz UNDER 5.5 receptions           55.9%  0.0   1    6     1  1 book
+10 Harrison Butker OVER 1.5 field_goals_made     55.5%  0.0   1    6     8  1 book
+11 Ladd McConkey OVER 4.5 receptions             55.4%  1.7   2    6     1  
+12 Emmett Johnson OVER 6.5 rush_attempts         55.3%  0.0   1   15     6  1 book
+13 Pat Bryant OVER 2.5 receptions                55.2%  2.9   2    6     1  
+14 Harold Fannin Jr. OVER 3.5 receptions         55.2%  1.3   2    6     1  
+15 Carnell Tate UNDER 3.5 receptions             55.1%  1.1   2    6     1  
+16 Evan McPherson OVER 1.5 field_goals_made      55.1%  0.0   1    6     8  1 book
+17 Jameson Williams OVER 3.5 receptions          55.0%  1.4   3    6     1  
+18 Erick All OVER 0.5 receptions                 55.0%  0.2   2    6     1  
+19 Luther Burden III OVER 3.5 receptions         54.9%  1.9   2    6     1  
+20 Pat Freiermuth OVER 3.5 receptions            54.8%  1.3   2    6     1  
 
 STRUCTURE: leave-two-out on top 5
 
 TICKETS (10)
-   1. Dak Prescott OVER 1.5 pass_t  |  Michael Wilson OVER 3.5 rece  |  Jaylen Waddle OVER 4.5 recep
-   2. Dak Prescott OVER 1.5 pass_t  |  Michael Wilson OVER 3.5 rece  |  Javonte Williams OVER 2.5 re
-   3. Dak Prescott OVER 1.5 pass_t  |  Michael Wilson OVER 3.5 rece  |  Amon-Ra St. Brown OVER 6.5 r
-   4. Dak Prescott OVER 1.5 pass_t  |  Jaylen Waddle OVER 4.5 recep  |  Javonte Williams OVER 2.5 re
-   5. Dak Prescott OVER 1.5 pass_t  |  Jaylen Waddle OVER 4.5 recep  |  Amon-Ra St. Brown OVER 6.5 r
-   6. Dak Prescott OVER 1.5 pass_t  |  Javonte Williams OVER 2.5 re  |  Amon-Ra St. Brown OVER 6.5 r
-   7. Michael Wilson OVER 3.5 rece  |  Jaylen Waddle OVER 4.5 recep  |  Javonte Williams OVER 2.5 re
-   8. Michael Wilson OVER 3.5 rece  |  Jaylen Waddle OVER 4.5 recep  |  Amon-Ra St. Brown OVER 6.5 r
-   9. Michael Wilson OVER 3.5 rece  |  Javonte Williams OVER 2.5 re  |  Amon-Ra St. Brown OVER 6.5 r
-  10. Jaylen Waddle OVER 4.5 recep  |  Javonte Williams OVER 2.5 re  |  Amon-Ra St. Brown OVER 6.5 r
+   1. Dak Prescott UNDER 3.5 rush_  |  Jaylen Waddle OVER 4.5 recep  |  Dak Prescott OVER 1.5 pass_t
+   2. Dak Prescott UNDER 3.5 rush_  |  Jaylen Waddle OVER 4.5 recep  |  Javonte Williams OVER 2.5 re
+   3. Dak Prescott UNDER 3.5 rush_  |  Jaylen Waddle OVER 4.5 recep  |  Michael Wilson OVER 3.5 rece
+   4. Dak Prescott UNDER 3.5 rush_  |  Dak Prescott OVER 1.5 pass_t  |  Javonte Williams OVER 2.5 re
+   5. Dak Prescott UNDER 3.5 rush_  |  Dak Prescott OVER 1.5 pass_t  |  Michael Wilson OVER 3.5 rece
+   6. Dak Prescott UNDER 3.5 rush_  |  Javonte Williams OVER 2.5 re  |  Michael Wilson OVER 3.5 rece
+   7. Jaylen Waddle OVER 4.5 recep  |  Dak Prescott OVER 1.5 pass_t  |  Javonte Williams OVER 2.5 re
+   8. Jaylen Waddle OVER 4.5 recep  |  Dak Prescott OVER 1.5 pass_t  |  Michael Wilson OVER 3.5 rece
+   9. Jaylen Waddle OVER 4.5 recep  |  Javonte Williams OVER 2.5 re  |  Michael Wilson OVER 3.5 rece
+  10. Dak Prescott OVER 1.5 pass_t  |  Javonte Williams OVER 2.5 re  |  Michael Wilson OVER 3.5 rece
 
-EV per entry      +19.5%
-P(zero return)    38.3%
-P(profit)         27.6%
-Kelly (quarter)   2.2% of bankroll  <-- use this
+EV per entry      +23.7%
+P(zero return)    37.2%
+P(profit)         28.6%
+Kelly (quarter)   2.7% of bankroll  <-- use this
 
 outcome distribution (tickets cashing -> probability)
-   0 cash   38.3%   return    0.0 on 10 staked
-   1 cash   34.1%   return    6.7 on 10 staked
-   4 cash   21.9%   return   26.8 on 10 staked
-  10 cash    5.6%   return   67.0 on 10 staked
+   0 cash   37.2%   return    0.0 on 10 staked
+   1 cash   34.2%   return    6.7 on 10 staked
+   4 cash   22.6%   return   26.8 on 10 staked
+  10 cash    6.0%   return   67.0 on 10 staked

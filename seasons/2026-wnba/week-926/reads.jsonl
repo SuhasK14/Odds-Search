@@ -1,0 +1,271 @@
+# Boom Pick & Spin, WNBA tab. Recorded 2026-09-26 18:52.
+# All four cards are SUNDAY 2026-09-27 games, not Saturday night.
+# Read by Claude (Opus 5) from 18 4x2 tiles of 1 fps frames; every View more sheet opened.
+# Boom abbreviations normalized: NY -> NYL, LV -> LVA, GS -> GSV.
+# Count markets only; fantasy points, 3pt attempts and double-double skipped.
+{"frame": "f", "player": "Breanna Stewart", "market": "Points", "line": 21.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Breanna Stewart", "market": "Pts + Rebs + Asts", "line": 34.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Breanna Stewart", "market": "Rebounds", "line": 8.5, "sides": "over", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Breanna Stewart", "market": "Assists", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Breanna Stewart", "market": "Pts + Rebs", "line": 30.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Breanna Stewart", "market": "Pts + Asts", "line": 25.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Breanna Stewart", "market": "Asts + Rebs", "line": 12.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Breanna Stewart", "market": "3-Pointers Made", "line": 0.5, "sides": "over", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Olivia Miles", "market": "Points", "line": 18.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Olivia Miles", "market": "Pts + Rebs + Asts", "line": 29.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Olivia Miles", "market": "Rebounds", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Olivia Miles", "market": "Pts + Rebs", "line": 23.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Olivia Miles", "market": "Pts + Asts", "line": 24.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Olivia Miles", "market": "Asts + Rebs", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Olivia Miles", "market": "3-Pointers Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Napheesa Collier", "market": "Points", "line": 18.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Napheesa Collier", "market": "Pts + Rebs + Asts", "line": 29.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Napheesa Collier", "market": "Rebounds", "line": 7.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Napheesa Collier", "market": "Assists", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Napheesa Collier", "market": "Pts + Rebs", "line": 27.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Napheesa Collier", "market": "Pts + Asts", "line": 21.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Napheesa Collier", "market": "Asts + Rebs", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Sabrina Ionescu", "market": "Points", "line": 16.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Sabrina Ionescu", "market": "Pts + Rebs + Asts", "line": 26.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Sabrina Ionescu", "market": "Pts + Rebs", "line": 20.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Sabrina Ionescu", "market": "Pts + Asts", "line": 22.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Sabrina Ionescu", "market": "Asts + Rebs", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Jonquel Jones", "market": "Points", "line": 14.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Jonquel Jones", "market": "Pts + Rebs + Asts", "line": 27.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Jonquel Jones", "market": "Rebounds", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Jonquel Jones", "market": "Assists", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Jonquel Jones", "market": "Pts + Rebs", "line": 24.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Jonquel Jones", "market": "Pts + Asts", "line": 17.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Jonquel Jones", "market": "Asts + Rebs", "line": 12.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Natasha Howard", "market": "Points", "line": 11.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Natasha Howard", "market": "Pts + Rebs + Asts", "line": 21.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Natasha Howard", "market": "Rebounds", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Natasha Howard", "market": "Pts + Rebs", "line": 18.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Natasha Howard", "market": "Pts + Asts", "line": 15.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Natasha Howard", "market": "Asts + Rebs", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Kayla McBride", "market": "Points", "line": 16.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Kayla McBride", "market": "Pts + Rebs + Asts", "line": 22.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Kayla McBride", "market": "Pts + Rebs", "line": 20.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Kayla McBride", "market": "Pts + Asts", "line": 19.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Courtney Williams", "market": "Points", "line": 12.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Courtney Williams", "market": "Pts + Rebs + Asts", "line": 20.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Courtney Williams", "market": "Pts + Rebs", "line": 17.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Courtney Williams", "market": "Pts + Asts", "line": 16.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Courtney Williams", "market": "Asts + Rebs", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Leonie Fiebich", "market": "Points", "line": 7.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Leonie Fiebich", "market": "Pts + Rebs + Asts", "line": 13.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Leonie Fiebich", "market": "Assists", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Leonie Fiebich", "market": "Pts + Rebs", "line": 11.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Leonie Fiebich", "market": "Pts + Asts", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Leonie Fiebich", "market": "Asts + Rebs", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Pauline Astier", "market": "Points", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Pauline Astier", "market": "Pts + Rebs + Asts", "line": 14.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Pauline Astier", "market": "Pts + Rebs", "line": 11.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Pauline Astier", "market": "Pts + Asts", "line": 11.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Pauline Astier", "market": "Asts + Rebs", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Pauline Astier", "market": "3-Pointers Made", "line": 0.5, "sides": "over,under", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Marine Johannes", "market": "Points", "line": 4.5, "sides": "over", "confidence": "high", "game": "NYL @ MIN"}
+{"frame": "f", "player": "Caitlin Clark", "market": "Points", "line": 22.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Caitlin Clark", "market": "Pts + Rebs + Asts", "line": 37.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Caitlin Clark", "market": "Rebounds", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Caitlin Clark", "market": "Pts + Rebs", "line": 28.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Caitlin Clark", "market": "Pts + Asts", "line": 33.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Caitlin Clark", "market": "Asts + Rebs", "line": 13.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "A'ja Wilson", "market": "Points", "line": 27.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "A'ja Wilson", "market": "Pts + Rebs + Asts", "line": 41.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "A'ja Wilson", "market": "Pts + Rebs", "line": 37.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "A'ja Wilson", "market": "Pts + Asts", "line": 30.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "A'ja Wilson", "market": "Asts + Rebs", "line": 13.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Jackie Young", "market": "Points", "line": 21.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Jackie Young", "market": "Pts + Rebs + Asts", "line": 32.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Jackie Young", "market": "Rebounds", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Jackie Young", "market": "Pts + Rebs", "line": 26.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Jackie Young", "market": "Pts + Asts", "line": 27.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Jackie Young", "market": "Asts + Rebs", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Jewell Loyd", "market": "Points", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Jewell Loyd", "market": "Pts + Rebs + Asts", "line": 12.5, "sides": "over", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Jewell Loyd", "market": "Rebounds", "line": 2.5, "sides": "over", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Jewell Loyd", "market": "Pts + Rebs", "line": 11.5, "sides": "over", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Jewell Loyd", "market": "Pts + Asts", "line": 10.5, "sides": "over", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Jewell Loyd", "market": "3-Pointers Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Kelsey Mitchell", "market": "Points", "line": 25.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Kelsey Mitchell", "market": "Pts + Rebs + Asts", "line": 30.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Kelsey Mitchell", "market": "Pts + Rebs", "line": 27.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Kelsey Mitchell", "market": "Pts + Asts", "line": 28.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Aliyah Boston", "market": "Points", "line": 13.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Aliyah Boston", "market": "Pts + Rebs + Asts", "line": 26.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Aliyah Boston", "market": "Rebounds", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Aliyah Boston", "market": "Assists", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Aliyah Boston", "market": "Pts + Rebs", "line": 22.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Aliyah Boston", "market": "Pts + Asts", "line": 17.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Aliyah Boston", "market": "Asts + Rebs", "line": 12.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Chelsea Gray", "market": "Points", "line": 12.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Chelsea Gray", "market": "Pts + Rebs + Asts", "line": 21.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Chelsea Gray", "market": "Pts + Rebs", "line": 15.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Chelsea Gray", "market": "Pts + Asts", "line": 18.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Chelsea Gray", "market": "Asts + Rebs", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Sophie Cunningham", "market": "Points", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Sophie Cunningham", "market": "Pts + Rebs + Asts", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Sophie Cunningham", "market": "Pts + Rebs", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Sophie Cunningham", "market": "Pts + Asts", "line": 7.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Brianna Turner", "market": "Points", "line": 3.5, "sides": "over", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Brianna Turner", "market": "Rebounds", "line": 3.5, "sides": "over", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Brianna Turner", "market": "Pts + Rebs", "line": 7.5, "sides": "over", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Stephanie Talbot", "market": "Points", "line": 5.5, "sides": "over", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Stephanie Talbot", "market": "Pts + Rebs + Asts", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Stephanie Talbot", "market": "Rebounds", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Stephanie Talbot", "market": "Pts + Rebs", "line": 9.5, "sides": "over", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Makayla Timpson", "market": "Points", "line": 7.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Makayla Timpson", "market": "Pts + Rebs + Asts", "line": 15.5, "sides": "over", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Makayla Timpson", "market": "Pts + Rebs", "line": 14.5, "sides": "over,under", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Makayla Timpson", "market": "Pts + Asts", "line": 8.5, "sides": "over", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Lexie Hull", "market": "Points", "line": 4.5, "sides": "over", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Lexie Hull", "market": "Pts + Rebs + Asts", "line": 9.5, "sides": "over", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Lexie Hull", "market": "Assists", "line": 0.5, "sides": "over", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Lexie Hull", "market": "Rebounds", "line": 3.5, "sides": "over", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Lexie Hull", "market": "Pts + Rebs", "line": 8.5, "sides": "over", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Lexie Hull", "market": "Pts + Asts", "line": 5.5, "sides": "over", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Lexie Hull", "market": "3-Pointers Made", "line": 0.5, "sides": "over", "confidence": "high", "game": "IND @ LVA"}
+{"frame": "f", "player": "Allisha Gray", "market": "Points", "line": 18.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Allisha Gray", "market": "Pts + Rebs + Asts", "line": 24.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Allisha Gray", "market": "Assists", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Allisha Gray", "market": "Pts + Rebs", "line": 21.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Allisha Gray", "market": "Pts + Asts", "line": 20.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Allisha Gray", "market": "Asts + Rebs", "line": 5.5, "sides": "over", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Angel Reese", "market": "Points", "line": 15.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Angel Reese", "market": "Pts + Rebs + Asts", "line": 30.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Angel Reese", "market": "Rebounds", "line": 12.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Angel Reese", "market": "Assists", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Angel Reese", "market": "Pts + Rebs", "line": 27.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Angel Reese", "market": "Pts + Asts", "line": 18.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Angel Reese", "market": "Asts + Rebs", "line": 15.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Rhyne Howard", "market": "Points", "line": 18.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Rhyne Howard", "market": "Pts + Rebs + Asts", "line": 25.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Rhyne Howard", "market": "Assists", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Rhyne Howard", "market": "Rebounds", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Rhyne Howard", "market": "Pts + Rebs", "line": 21.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Rhyne Howard", "market": "Pts + Asts", "line": 22.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Rhyne Howard", "market": "Asts + Rebs", "line": 7.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Sonia Citron", "market": "Points", "line": 15.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Sonia Citron", "market": "Pts + Rebs + Asts", "line": 23.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Sonia Citron", "market": "Assists", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Sonia Citron", "market": "Pts + Rebs", "line": 18.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Sonia Citron", "market": "Pts + Asts", "line": 20.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Sonia Citron", "market": "Asts + Rebs", "line": 7.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Kiki Iriafen", "market": "Points", "line": 15.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Kiki Iriafen", "market": "Pts + Rebs + Asts", "line": 26.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Kiki Iriafen", "market": "Rebounds", "line": 8.5, "sides": "over", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Kiki Iriafen", "market": "Assists", "line": 1.5, "sides": "over", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Kiki Iriafen", "market": "Pts + Rebs", "line": 24.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Kiki Iriafen", "market": "Pts + Asts", "line": 17.5, "sides": "over", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Kiki Iriafen", "market": "Asts + Rebs", "line": 10.5, "sides": "over", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Jordin Canada", "market": "Points", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Jordin Canada", "market": "Pts + Rebs + Asts", "line": 20.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Jordin Canada", "market": "Assists", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Jordin Canada", "market": "Pts + Rebs", "line": 13.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Jordin Canada", "market": "Pts + Asts", "line": 17.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Jordin Canada", "market": "Asts + Rebs", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "DeWanna Bonner", "market": "Points", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "DeWanna Bonner", "market": "Pts + Rebs + Asts", "line": 16.5, "sides": "over", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "DeWanna Bonner", "market": "Rebounds", "line": 5.5, "sides": "over", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "DeWanna Bonner", "market": "Pts + Rebs", "line": 14.5, "sides": "over", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "DeWanna Bonner", "market": "Pts + Asts", "line": 10.5, "sides": "over", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "DeWanna Bonner", "market": "Asts + Rebs", "line": 7.5, "sides": "over", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Shakira Austin", "market": "Points", "line": 18.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Shakira Austin", "market": "Pts + Rebs + Asts", "line": 30.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Shakira Austin", "market": "Rebounds", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Shakira Austin", "market": "Assists", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Shakira Austin", "market": "Pts + Rebs", "line": 28.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Shakira Austin", "market": "Pts + Asts", "line": 21.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Shakira Austin", "market": "Asts + Rebs", "line": 11.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Lauren Betts", "market": "Points", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Lauren Betts", "market": "Pts + Rebs + Asts", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Lauren Betts", "market": "Pts + Rebs", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Georgia Amoore", "market": "Points", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Georgia Amoore", "market": "Pts + Rebs + Asts", "line": 14.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Georgia Amoore", "market": "Assists", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Georgia Amoore", "market": "Pts + Rebs", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Georgia Amoore", "market": "Pts + Asts", "line": 12.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Georgia Amoore", "market": "Asts + Rebs", "line": 6.0, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Michaela Onyenwere", "market": "Points", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Michaela Onyenwere", "market": "Pts + Rebs + Asts", "line": 13.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Michaela Onyenwere", "market": "Rebounds", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Michaela Onyenwere", "market": "Assists", "line": 1.5, "sides": "over", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Michaela Onyenwere", "market": "Pts + Rebs", "line": 11.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Michaela Onyenwere", "market": "Pts + Asts", "line": 10.5, "sides": "over", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Naz Hillmon", "market": "Points", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Naz Hillmon", "market": "Pts + Rebs + Asts", "line": 12.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Naz Hillmon", "market": "Assists", "line": 1.5, "sides": "over", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Naz Hillmon", "market": "Pts + Rebs", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Naz Hillmon", "market": "Pts + Asts", "line": 8.5, "sides": "over", "confidence": "high", "game": "WAS @ ATL"}
+{"frame": "f", "player": "Paige Bueckers", "market": "Points", "line": 19.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Paige Bueckers", "market": "Pts + Rebs + Asts", "line": 28.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Paige Bueckers", "market": "Rebounds", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Paige Bueckers", "market": "Pts + Rebs", "line": 23.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Paige Bueckers", "market": "Pts + Asts", "line": 24.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Paige Bueckers", "market": "Asts + Rebs", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Paige Bueckers", "market": "3-Pointers Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Arike Ogunbowale", "market": "Points", "line": 14.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Arike Ogunbowale", "market": "Pts + Rebs + Asts", "line": 20.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Arike Ogunbowale", "market": "Rebounds", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Arike Ogunbowale", "market": "Pts + Rebs", "line": 17.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Arike Ogunbowale", "market": "Pts + Asts", "line": 17.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Arike Ogunbowale", "market": "Asts + Rebs", "line": 5.5, "sides": "over", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Veronica Burton", "market": "Points", "line": 12.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Veronica Burton", "market": "Pts + Rebs + Asts", "line": 22.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Veronica Burton", "market": "Pts + Rebs", "line": 16.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Veronica Burton", "market": "Pts + Asts", "line": 18.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Veronica Burton", "market": "Asts + Rebs", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Gabby Williams", "market": "Points", "line": 15.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Gabby Williams", "market": "Pts + Rebs + Asts", "line": 22.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Gabby Williams", "market": "Rebounds", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Gabby Williams", "market": "Pts + Rebs", "line": 19.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Gabby Williams", "market": "Pts + Asts", "line": 19.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Gabby Williams", "market": "Asts + Rebs", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Gabby Williams", "market": "3-Pointers Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Kiah Stokes", "market": "Points", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Kiah Stokes", "market": "Pts + Rebs + Asts", "line": 11.5, "sides": "over", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Kiah Stokes", "market": "Rebounds", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Kiah Stokes", "market": "Pts + Rebs", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Kiah Stokes", "market": "Pts + Asts", "line": 5.5, "sides": "over", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Kiah Stokes", "market": "Asts + Rebs", "line": 7.5, "sides": "over", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Jessica Shepard", "market": "Points", "line": 11.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Jessica Shepard", "market": "Pts + Rebs + Asts", "line": 27.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Jessica Shepard", "market": "Rebounds", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Jessica Shepard", "market": "Assists", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Jessica Shepard", "market": "Pts + Rebs", "line": 22.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Jessica Shepard", "market": "Pts + Asts", "line": 16.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Jessica Shepard", "market": "Asts + Rebs", "line": 15.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Kaitlyn Chen", "market": "Points", "line": 4.5, "sides": "over", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Kaitlyn Chen", "market": "Pts + Rebs + Asts", "line": 8.0, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Kaitlyn Chen", "market": "Pts + Asts", "line": 6.5, "sides": "over", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Awak Kuier", "market": "Points", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Awak Kuier", "market": "Pts + Rebs + Asts", "line": 16.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Awak Kuier", "market": "Pts + Rebs", "line": 15.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Awak Kuier", "market": "Pts + Asts", "line": 10.5, "sides": "over", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Odyssey Sims", "market": "3-Pointers Made", "line": 0.5, "sides": "over", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Tiffany Hayes", "market": "Points", "line": 8.5, "sides": "over", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Tiffany Hayes", "market": "Assists", "line": 2.5, "sides": "over", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Tiffany Hayes", "market": "Pts + Asts", "line": 10.5, "sides": "over", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Kaila Charles", "market": "Points", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Kaila Charles", "market": "Pts + Rebs + Asts", "line": 11.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Kaila Charles", "market": "Rebounds", "line": 4.5, "sides": "over", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Janelle Salaun", "market": "Points", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Janelle Salaun", "market": "Pts + Rebs + Asts", "line": 16.5, "sides": "over", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Janelle Salaun", "market": "Pts + Rebs", "line": 14.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Janelle Salaun", "market": "Pts + Asts", "line": 11.5, "sides": "over", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Kayla Thornton", "market": "Points", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Kayla Thornton", "market": "Pts + Rebs + Asts", "line": 14.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Kayla Thornton", "market": "Rebounds", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Kayla Thornton", "market": "Pts + Rebs", "line": 13.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Kayla Thornton", "market": "3-Pointers Made", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Maddy Siegrist", "market": "Points", "line": 7.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Maddy Siegrist", "market": "Pts + Rebs + Asts", "line": 11.5, "sides": "over", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Maddy Siegrist", "market": "Rebounds", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Maddy Siegrist", "market": "Pts + Rebs", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Maddy Siegrist", "market": "Pts + Asts", "line": 8.5, "sides": "over", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Cecilia Zandalasini", "market": "Points", "line": 7.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Cecilia Zandalasini", "market": "Pts + Rebs + Asts", "line": 12.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Cecilia Zandalasini", "market": "Pts + Rebs", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Cecilia Zandalasini", "market": "Pts + Asts", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}
+{"frame": "f", "player": "Cecilia Zandalasini", "market": "Asts + Rebs", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "DAL @ GSV"}

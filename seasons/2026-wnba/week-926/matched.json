@@ -1,0 +1,5223 @@
+[
+ {
+  "player": "Jessica Shepard",
+  "player_key": "jessica shepard",
+  "team": "DAL",
+  "game": "DAL @ GSV",
+  "market": "assists",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -111,
+    "under": -123,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Arike Ogunbowale",
+  "player_key": "arike ogunbowale",
+  "team": "DAL",
+  "game": "DAL @ GSV",
+  "market": "points",
+  "line": 14.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -116,
+    "under": -114,
+    "line": 14.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Awak Kuier",
+  "player_key": "awak kuier",
+  "team": "DAL",
+  "game": "DAL @ GSV",
+  "market": "points",
+  "line": 8.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -125,
+    "under": -106,
+    "line": 8.5
+   },
+   {
+    "book": "fd",
+    "over": -115,
+    "under": -113,
+    "line": 8.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Cecilia Zandalasini",
+  "player_key": "cecilia zandalasini",
+  "team": "GSV",
+  "game": "DAL @ GSV",
+  "market": "points",
+  "line": 7.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -116,
+    "line": 7.5
+   },
+   {
+    "book": "fd",
+    "over": -120,
+    "under": -108,
+    "line": 7.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Gabby Williams",
+  "player_key": "gabby williams",
+  "team": "GSV",
+  "game": "DAL @ GSV",
+  "market": "points",
+  "line": 15.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -127,
+    "under": -104,
+    "line": 15.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Janelle Salaun",
+  "player_key": "janelle salaun",
+  "team": "GSV",
+  "game": "DAL @ GSV",
+  "market": "points",
+  "line": 10.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -109,
+    "under": -122,
+    "line": 10.5
+   },
+   {
+    "book": "fd",
+    "over": -106,
+    "under": -122,
+    "line": 10.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jessica Shepard",
+  "player_key": "jessica shepard",
+  "team": "DAL",
+  "game": "DAL @ GSV",
+  "market": "points",
+  "line": 11.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -123,
+    "under": -108,
+    "line": 11.5
+   },
+   {
+    "book": "fd",
+    "over": -125,
+    "under": -104,
+    "line": 11.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kaila Charles",
+  "player_key": "kaila charles",
+  "team": "GSV",
+  "game": "DAL @ GSV",
+  "market": "points",
+  "line": 6.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 103,
+    "under": -137,
+    "line": 6.5
+   },
+   {
+    "book": "fd",
+    "over": 108,
+    "under": -140,
+    "line": 6.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kayla Thornton",
+  "player_key": "kayla thornton",
+  "team": "GSV",
+  "game": "DAL @ GSV",
+  "market": "points",
+  "line": 8.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -106,
+    "under": -125,
+    "line": 8.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 8.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kiah Stokes",
+  "player_key": "kiah stokes",
+  "team": "",
+  "game": "DAL @ GSV",
+  "market": "points",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -120,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Maddy Siegrist",
+  "player_key": "maddy siegrist",
+  "team": "DAL",
+  "game": "DAL @ GSV",
+  "market": "points",
+  "line": 7.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -102,
+    "under": -130,
+    "line": 7.5
+   },
+   {
+    "book": "fd",
+    "over": -102,
+    "under": -128,
+    "line": 7.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Paige Bueckers",
+  "player_key": "paige bueckers",
+  "team": "DAL",
+  "game": "DAL @ GSV",
+  "market": "points",
+  "line": 19.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -112,
+    "under": -118,
+    "line": 19.5
+   },
+   {
+    "book": "fd",
+    "over": -113,
+    "under": -115,
+    "line": 19.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Veronica Burton",
+  "player_key": "veronica burton",
+  "team": "GSV",
+  "game": "DAL @ GSV",
+  "market": "points",
+  "line": 12.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 100,
+    "under": -133,
+    "line": 12.5
+   },
+   {
+    "book": "fd",
+    "over": -102,
+    "under": -128,
+    "line": 12.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Arike Ogunbowale",
+  "player_key": "arike ogunbowale",
+  "team": "DAL",
+  "game": "DAL @ GSV",
+  "market": "pra",
+  "line": 20.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -122,
+    "under": -111,
+    "line": 20.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Awak Kuier",
+  "player_key": "awak kuier",
+  "team": "DAL",
+  "game": "DAL @ GSV",
+  "market": "pra",
+  "line": 16.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -122,
+    "under": -111,
+    "line": 16.5
+   },
+   {
+    "book": "fd",
+    "over": -104,
+    "under": -128,
+    "line": 16.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Cecilia Zandalasini",
+  "player_key": "cecilia zandalasini",
+  "team": "GSV",
+  "game": "DAL @ GSV",
+  "market": "pra",
+  "line": 12.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -102,
+    "under": -134,
+    "line": 12.5
+   },
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -122,
+    "line": 12.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Gabby Williams",
+  "player_key": "gabby williams",
+  "team": "GSV",
+  "game": "DAL @ GSV",
+  "market": "pra",
+  "line": 22.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -122,
+    "under": -111,
+    "line": 22.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jessica Shepard",
+  "player_key": "jessica shepard",
+  "team": "DAL",
+  "game": "DAL @ GSV",
+  "market": "pra",
+  "line": 27.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -119,
+    "under": -114,
+    "line": 27.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 27.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Paige Bueckers",
+  "player_key": "paige bueckers",
+  "team": "DAL",
+  "game": "DAL @ GSV",
+  "market": "pra",
+  "line": 28.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -120,
+    "under": -113,
+    "line": 28.5
+   },
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -112,
+    "line": 28.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Veronica Burton",
+  "player_key": "veronica burton",
+  "team": "GSV",
+  "game": "DAL @ GSV",
+  "market": "pra",
+  "line": 22.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -116,
+    "under": -117,
+    "line": 22.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 22.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Arike Ogunbowale",
+  "player_key": "arike ogunbowale",
+  "team": "DAL",
+  "game": "DAL @ GSV",
+  "market": "pts_ast",
+  "line": 17.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -124,
+    "under": -109,
+    "line": 17.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Cecilia Zandalasini",
+  "player_key": "cecilia zandalasini",
+  "team": "GSV",
+  "game": "DAL @ GSV",
+  "market": "pts_ast",
+  "line": 9.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -123,
+    "under": -110,
+    "line": 9.5
+   },
+   {
+    "book": "fd",
+    "over": -128,
+    "under": -104,
+    "line": 9.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Gabby Williams",
+  "player_key": "gabby williams",
+  "team": "GSV",
+  "game": "DAL @ GSV",
+  "market": "pts_ast",
+  "line": 19.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -104,
+    "under": -131,
+    "line": 19.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 19.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jessica Shepard",
+  "player_key": "jessica shepard",
+  "team": "DAL",
+  "game": "DAL @ GSV",
+  "market": "pts_ast",
+  "line": 16.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -118,
+    "line": 16.5
+   },
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -112,
+    "line": 16.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Paige Bueckers",
+  "player_key": "paige bueckers",
+  "team": "DAL",
+  "game": "DAL @ GSV",
+  "market": "pts_ast",
+  "line": 24.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -125,
+    "under": -109,
+    "line": 24.5
+   },
+   {
+    "book": "fd",
+    "over": -125,
+    "under": -106,
+    "line": 24.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Veronica Burton",
+  "player_key": "veronica burton",
+  "team": "GSV",
+  "game": "DAL @ GSV",
+  "market": "pts_ast",
+  "line": 18.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -109,
+    "under": -124,
+    "line": 18.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 18.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Arike Ogunbowale",
+  "player_key": "arike ogunbowale",
+  "team": "DAL",
+  "game": "DAL @ GSV",
+  "market": "pts_reb",
+  "line": 17.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -111,
+    "under": -122,
+    "line": 17.5
+   },
+   {
+    "book": "fd",
+    "over": -125,
+    "under": -106,
+    "line": 17.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Awak Kuier",
+  "player_key": "awak kuier",
+  "team": "DAL",
+  "game": "DAL @ GSV",
+  "market": "pts_reb",
+  "line": 15.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -106,
+    "under": -129,
+    "line": 15.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Cecilia Zandalasini",
+  "player_key": "cecilia zandalasini",
+  "team": "GSV",
+  "game": "DAL @ GSV",
+  "market": "pts_reb",
+  "line": 9.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -130,
+    "under": -105,
+    "line": 9.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Gabby Williams",
+  "player_key": "gabby williams",
+  "team": "GSV",
+  "game": "DAL @ GSV",
+  "market": "pts_reb",
+  "line": 19.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -117,
+    "under": -116,
+    "line": 19.5
+   },
+   {
+    "book": "fd",
+    "over": -125,
+    "under": -106,
+    "line": 19.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Janelle Salaun",
+  "player_key": "janelle salaun",
+  "team": "GSV",
+  "game": "DAL @ GSV",
+  "market": "pts_reb",
+  "line": 14.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -124,
+    "under": -109,
+    "line": 14.5
+   },
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -122,
+    "line": 14.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jessica Shepard",
+  "player_key": "jessica shepard",
+  "team": "DAL",
+  "game": "DAL @ GSV",
+  "market": "pts_reb",
+  "line": 22.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -126,
+    "under": -108,
+    "line": 22.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kayla Thornton",
+  "player_key": "kayla thornton",
+  "team": "GSV",
+  "game": "DAL @ GSV",
+  "market": "pts_reb",
+  "line": 13.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -109,
+    "under": -125,
+    "line": 13.5
+   },
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -122,
+    "line": 13.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kiah Stokes",
+  "player_key": "kiah stokes",
+  "team": "GSV",
+  "game": "DAL @ GSV",
+  "market": "pts_reb",
+  "line": 9.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -121,
+    "under": -112,
+    "line": 9.5
+   },
+   {
+    "book": "fd",
+    "over": 100,
+    "under": -132,
+    "line": 9.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Maddy Siegrist",
+  "player_key": "maddy siegrist",
+  "team": "DAL",
+  "game": "DAL @ GSV",
+  "market": "pts_reb",
+  "line": 10.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -120,
+    "under": -113,
+    "line": 10.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Paige Bueckers",
+  "player_key": "paige bueckers",
+  "team": "DAL",
+  "game": "DAL @ GSV",
+  "market": "pts_reb",
+  "line": 23.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -113,
+    "under": -120,
+    "line": 23.5
+   },
+   {
+    "book": "fd",
+    "over": -106,
+    "under": -125,
+    "line": 23.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Veronica Burton",
+  "player_key": "veronica burton",
+  "team": "GSV",
+  "game": "DAL @ GSV",
+  "market": "pts_reb",
+  "line": 16.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -110,
+    "under": -124,
+    "line": 16.5
+   },
+   {
+    "book": "fd",
+    "over": -106,
+    "under": -125,
+    "line": 16.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Arike Ogunbowale",
+  "player_key": "arike ogunbowale",
+  "team": "DAL",
+  "game": "DAL @ GSV",
+  "market": "reb_ast",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -141,
+    "under": 104,
+    "line": 5.5
+   },
+   {
+    "book": "fd",
+    "over": -152,
+    "under": 114,
+    "line": 5.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Cecilia Zandalasini",
+  "player_key": "cecilia zandalasini",
+  "team": "GSV",
+  "game": "DAL @ GSV",
+  "market": "reb_ast",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -105,
+    "under": -129,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -122,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Gabby Williams",
+  "player_key": "gabby williams",
+  "team": "GSV",
+  "game": "DAL @ GSV",
+  "market": "reb_ast",
+  "line": 6.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -118,
+    "under": -115,
+    "line": 6.5
+   },
+   {
+    "book": "fd",
+    "over": -125,
+    "under": -106,
+    "line": 6.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jessica Shepard",
+  "player_key": "jessica shepard",
+  "team": "DAL",
+  "game": "DAL @ GSV",
+  "market": "reb_ast",
+  "line": 15.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -124,
+    "under": -110,
+    "line": 15.5
+   },
+   {
+    "book": "fd",
+    "over": -122,
+    "under": -110,
+    "line": 15.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Paige Bueckers",
+  "player_key": "paige bueckers",
+  "team": "DAL",
+  "game": "DAL @ GSV",
+  "market": "reb_ast",
+  "line": 8.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -141,
+    "under": 103,
+    "line": 8.5
+   },
+   {
+    "book": "fd",
+    "over": -138,
+    "under": 104,
+    "line": 8.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Veronica Burton",
+  "player_key": "veronica burton",
+  "team": "GSV",
+  "game": "DAL @ GSV",
+  "market": "reb_ast",
+  "line": 10.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 102,
+    "under": -138,
+    "line": 10.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Arike Ogunbowale",
+  "player_key": "arike ogunbowale",
+  "team": "DAL",
+  "game": "DAL @ GSV",
+  "market": "rebounds",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -132,
+    "under": -103,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -140,
+    "under": 106,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Gabby Williams",
+  "player_key": "gabby williams",
+  "team": "GSV",
+  "game": "DAL @ GSV",
+  "market": "rebounds",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -107,
+    "under": -127,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -110,
+    "under": -120,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jessica Shepard",
+  "player_key": "jessica shepard",
+  "team": "DAL",
+  "game": "DAL @ GSV",
+  "market": "rebounds",
+  "line": 10.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -138,
+    "under": 102,
+    "line": 10.5
+   },
+   {
+    "book": "fd",
+    "over": -144,
+    "under": 108,
+    "line": 10.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kayla Thornton",
+  "player_key": "kayla thornton",
+  "team": "GSV",
+  "game": "DAL @ GSV",
+  "market": "rebounds",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -139,
+    "under": 102,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": -125,
+    "under": -106,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kiah Stokes",
+  "player_key": "kiah stokes",
+  "team": "GSV",
+  "game": "DAL @ GSV",
+  "market": "rebounds",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -140,
+    "under": 103,
+    "line": 5.5
+   },
+   {
+    "book": "fd",
+    "over": -132,
+    "under": 100,
+    "line": 5.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Maddy Siegrist",
+  "player_key": "maddy siegrist",
+  "team": "DAL",
+  "game": "DAL @ GSV",
+  "market": "rebounds",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 101,
+    "under": -138,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Paige Bueckers",
+  "player_key": "paige bueckers",
+  "team": "DAL",
+  "game": "DAL @ GSV",
+  "market": "rebounds",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -135,
+    "under": 100,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -125,
+    "under": -106,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Gabby Williams",
+  "player_key": "gabby williams",
+  "team": "GSV",
+  "game": "DAL @ GSV",
+  "market": "threes",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -119,
+    "under": -114,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -112,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kayla Thornton",
+  "player_key": "kayla thornton",
+  "team": "GSV",
+  "game": "DAL @ GSV",
+  "market": "threes",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 105,
+    "under": -143,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": 102,
+    "under": -136,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Paige Bueckers",
+  "player_key": "paige bueckers",
+  "team": "DAL",
+  "game": "DAL @ GSV",
+  "market": "threes",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -108,
+    "under": -126,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": 102,
+    "under": -136,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Aliyah Boston",
+  "player_key": "aliyah boston",
+  "team": "IND",
+  "game": "IND @ LVA",
+  "market": "assists",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 104,
+    "under": -141,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": 102,
+    "under": -136,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "A'ja Wilson",
+  "player_key": "aja wilson",
+  "team": "LVA",
+  "game": "IND @ LVA",
+  "market": "points",
+  "line": 27.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -124,
+    "under": -107,
+    "line": 27.5
+   },
+   {
+    "book": "fd",
+    "over": -113,
+    "under": -115,
+    "line": 27.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Aliyah Boston",
+  "player_key": "aliyah boston",
+  "team": "IND",
+  "game": "IND @ LVA",
+  "market": "points",
+  "line": 13.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -125,
+    "under": -106,
+    "line": 13.5
+   },
+   {
+    "book": "fd",
+    "over": -125,
+    "under": -104,
+    "line": 13.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Caitlin Clark",
+  "player_key": "caitlin clark",
+  "team": "",
+  "game": "IND @ LVA",
+  "market": "points",
+  "line": 22.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -130,
+    "under": 100,
+    "line": 22.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Chelsea Gray",
+  "player_key": "chelsea gray",
+  "team": "LVA",
+  "game": "IND @ LVA",
+  "market": "points",
+  "line": 12.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -111,
+    "under": -119,
+    "line": 12.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 12.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jackie Young",
+  "player_key": "jackie young",
+  "team": "LVA",
+  "game": "IND @ LVA",
+  "market": "points",
+  "line": 21.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -116,
+    "line": 21.5
+   },
+   {
+    "book": "fd",
+    "over": 100,
+    "under": -130,
+    "line": 21.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jewell Loyd",
+  "player_key": "jewell loyd",
+  "team": "LVA",
+  "game": "IND @ LVA",
+  "market": "points",
+  "line": 8.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -120,
+    "under": -111,
+    "line": 8.5
+   },
+   {
+    "book": "fd",
+    "over": -122,
+    "under": -106,
+    "line": 8.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kelsey Mitchell",
+  "player_key": "kelsey mitchell",
+  "team": "IND",
+  "game": "IND @ LVA",
+  "market": "points",
+  "line": 25.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -112,
+    "under": -118,
+    "line": 25.5
+   },
+   {
+    "book": "fd",
+    "over": -104,
+    "under": -125,
+    "line": 25.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Makayla Timpson",
+  "player_key": "makayla timpson",
+  "team": "IND",
+  "game": "IND @ LVA",
+  "market": "points",
+  "line": 7.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -108,
+    "under": -123,
+    "line": 7.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 7.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Sophie Cunningham",
+  "player_key": "sophie cunningham",
+  "team": "IND",
+  "game": "IND @ LVA",
+  "market": "points",
+  "line": 6.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 100,
+    "under": -132,
+    "line": 6.5
+   },
+   {
+    "book": "fd",
+    "over": -106,
+    "under": -122,
+    "line": 6.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "A'ja Wilson",
+  "player_key": "aja wilson",
+  "team": "LVA",
+  "game": "IND @ LVA",
+  "market": "pra",
+  "line": 41.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -112,
+    "under": -122,
+    "line": 41.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Aliyah Boston",
+  "player_key": "aliyah boston",
+  "team": "IND",
+  "game": "IND @ LVA",
+  "market": "pra",
+  "line": 26.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -109,
+    "under": -124,
+    "line": 26.5
+   },
+   {
+    "book": "fd",
+    "over": -112,
+    "under": -118,
+    "line": 26.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Caitlin Clark",
+  "player_key": "caitlin clark",
+  "team": "IND",
+  "game": "IND @ LVA",
+  "market": "pra",
+  "line": 37.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -125,
+    "under": -109,
+    "line": 37.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Chelsea Gray",
+  "player_key": "chelsea gray",
+  "team": "LVA",
+  "game": "IND @ LVA",
+  "market": "pra",
+  "line": 21.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -131,
+    "under": -104,
+    "line": 21.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jackie Young",
+  "player_key": "jackie young",
+  "team": "LVA",
+  "game": "IND @ LVA",
+  "market": "pra",
+  "line": 32.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -125,
+    "under": -108,
+    "line": 32.5
+   },
+   {
+    "book": "fd",
+    "over": -104,
+    "under": -128,
+    "line": 32.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jewell Loyd",
+  "player_key": "jewell loyd",
+  "team": "",
+  "game": "IND @ LVA",
+  "market": "pra",
+  "line": 12.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -112,
+    "line": 12.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Kelsey Mitchell",
+  "player_key": "kelsey mitchell",
+  "team": "IND",
+  "game": "IND @ LVA",
+  "market": "pra",
+  "line": 30.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -120,
+    "under": -113,
+    "line": 30.5
+   },
+   {
+    "book": "fd",
+    "over": -110,
+    "under": -120,
+    "line": 30.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Sophie Cunningham",
+  "player_key": "sophie cunningham",
+  "team": "",
+  "game": "IND @ LVA",
+  "market": "pra",
+  "line": 9.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -138,
+    "under": 104,
+    "line": 9.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "A'ja Wilson",
+  "player_key": "aja wilson",
+  "team": "LVA",
+  "game": "IND @ LVA",
+  "market": "pts_ast",
+  "line": 30.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -128,
+    "under": -106,
+    "line": 30.5
+   },
+   {
+    "book": "fd",
+    "over": -120,
+    "under": -110,
+    "line": 30.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Aliyah Boston",
+  "player_key": "aliyah boston",
+  "team": "IND",
+  "game": "IND @ LVA",
+  "market": "pts_ast",
+  "line": 17.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -113,
+    "under": -120,
+    "line": 17.5
+   },
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -122,
+    "line": 17.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Caitlin Clark",
+  "player_key": "caitlin clark",
+  "team": "IND",
+  "game": "IND @ LVA",
+  "market": "pts_ast",
+  "line": 33.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -107,
+    "under": -127,
+    "line": 33.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Chelsea Gray",
+  "player_key": "chelsea gray",
+  "team": "LVA",
+  "game": "IND @ LVA",
+  "market": "pts_ast",
+  "line": 18.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -119,
+    "under": -114,
+    "line": 18.5
+   },
+   {
+    "book": "fd",
+    "over": -132,
+    "under": 100,
+    "line": 18.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jackie Young",
+  "player_key": "jackie young",
+  "team": "LVA",
+  "game": "IND @ LVA",
+  "market": "pts_ast",
+  "line": 27.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -128,
+    "under": -106,
+    "line": 27.5
+   },
+   {
+    "book": "fd",
+    "over": -112,
+    "under": -118,
+    "line": 27.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kelsey Mitchell",
+  "player_key": "kelsey mitchell",
+  "team": "IND",
+  "game": "IND @ LVA",
+  "market": "pts_ast",
+  "line": 28.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -120,
+    "under": -113,
+    "line": 28.5
+   },
+   {
+    "book": "fd",
+    "over": -104,
+    "under": -128,
+    "line": 28.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Sophie Cunningham",
+  "player_key": "sophie cunningham",
+  "team": "IND",
+  "game": "IND @ LVA",
+  "market": "pts_ast",
+  "line": 7.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -116,
+    "under": -117,
+    "line": 7.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "A'ja Wilson",
+  "player_key": "aja wilson",
+  "team": "LVA",
+  "game": "IND @ LVA",
+  "market": "pts_reb",
+  "line": 37.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -126,
+    "under": -108,
+    "line": 37.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 37.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Aliyah Boston",
+  "player_key": "aliyah boston",
+  "team": "IND",
+  "game": "IND @ LVA",
+  "market": "pts_reb",
+  "line": 22.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -121,
+    "under": -112,
+    "line": 22.5
+   },
+   {
+    "book": "fd",
+    "over": -125,
+    "under": -106,
+    "line": 22.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Caitlin Clark",
+  "player_key": "caitlin clark",
+  "team": "IND",
+  "game": "IND @ LVA",
+  "market": "pts_reb",
+  "line": 28.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -113,
+    "under": -121,
+    "line": 28.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Chelsea Gray",
+  "player_key": "chelsea gray",
+  "team": "LVA",
+  "game": "IND @ LVA",
+  "market": "pts_reb",
+  "line": 15.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -121,
+    "under": -112,
+    "line": 15.5
+   },
+   {
+    "book": "fd",
+    "over": -122,
+    "under": -106,
+    "line": 15.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jackie Young",
+  "player_key": "jackie young",
+  "team": "LVA",
+  "game": "IND @ LVA",
+  "market": "pts_reb",
+  "line": 26.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -118,
+    "line": 26.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kelsey Mitchell",
+  "player_key": "kelsey mitchell",
+  "team": "IND",
+  "game": "IND @ LVA",
+  "market": "pts_reb",
+  "line": 27.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -118,
+    "line": 27.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Makayla Timpson",
+  "player_key": "makayla timpson",
+  "team": "IND",
+  "game": "IND @ LVA",
+  "market": "pts_reb",
+  "line": 14.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -118,
+    "line": 14.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 14.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Sophie Cunningham",
+  "player_key": "sophie cunningham",
+  "team": "IND",
+  "game": "IND @ LVA",
+  "market": "pts_reb",
+  "line": 8.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -125,
+    "under": -108,
+    "line": 8.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "A'ja Wilson",
+  "player_key": "aja wilson",
+  "team": "LVA",
+  "game": "IND @ LVA",
+  "market": "reb_ast",
+  "line": 13.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -101,
+    "under": -135,
+    "line": 13.5
+   },
+   {
+    "book": "fd",
+    "over": 104,
+    "under": -138,
+    "line": 13.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Aliyah Boston",
+  "player_key": "aliyah boston",
+  "team": "IND",
+  "game": "IND @ LVA",
+  "market": "reb_ast",
+  "line": 12.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -101,
+    "under": -134,
+    "line": 12.5
+   },
+   {
+    "book": "fd",
+    "over": -110,
+    "under": -120,
+    "line": 12.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Caitlin Clark",
+  "player_key": "caitlin clark",
+  "team": "IND",
+  "game": "IND @ LVA",
+  "market": "reb_ast",
+  "line": 13.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -135,
+    "under": 100,
+    "line": 13.5
+   },
+   {
+    "book": "fd",
+    "over": -112,
+    "under": -118,
+    "line": 13.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Chelsea Gray",
+  "player_key": "chelsea gray",
+  "team": "LVA",
+  "game": "IND @ LVA",
+  "market": "reb_ast",
+  "line": 9.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -106,
+    "under": -128,
+    "line": 9.5
+   },
+   {
+    "book": "fd",
+    "over": -104,
+    "under": -128,
+    "line": 9.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jackie Young",
+  "player_key": "jackie young",
+  "team": "LVA",
+  "game": "IND @ LVA",
+  "market": "reb_ast",
+  "line": 10.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -140,
+    "under": 103,
+    "line": 10.5
+   },
+   {
+    "book": "fd",
+    "over": -132,
+    "under": 100,
+    "line": 10.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Aliyah Boston",
+  "player_key": "aliyah boston",
+  "team": "IND",
+  "game": "IND @ LVA",
+  "market": "rebounds",
+  "line": 8.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -122,
+    "under": -111,
+    "line": 8.5
+   },
+   {
+    "book": "fd",
+    "over": -132,
+    "under": 100,
+    "line": 8.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Caitlin Clark",
+  "player_key": "caitlin clark",
+  "team": "IND",
+  "game": "IND @ LVA",
+  "market": "rebounds",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -117,
+    "under": -117,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": -102,
+    "under": -130,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jackie Young",
+  "player_key": "jackie young",
+  "team": "LVA",
+  "game": "IND @ LVA",
+  "market": "rebounds",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -123,
+    "under": -111,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Lexie Hull",
+  "player_key": "lexie hull",
+  "team": "",
+  "game": "IND @ LVA",
+  "market": "rebounds",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": 102,
+    "under": -136,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Stephanie Talbot",
+  "player_key": "stephanie talbot",
+  "team": "",
+  "game": "IND @ LVA",
+  "market": "rebounds",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": 102,
+    "under": -136,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jewell Loyd",
+  "player_key": "jewell loyd",
+  "team": "LVA",
+  "game": "IND @ LVA",
+  "market": "threes",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -109,
+    "under": -125,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -112,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Breanna Stewart",
+  "player_key": "breanna stewart",
+  "team": "NYL",
+  "game": "NYL @ MIN",
+  "market": "assists",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 100,
+    "under": -136,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -102,
+    "under": -130,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jonquel Jones",
+  "player_key": "jonquel jones",
+  "team": "NYL",
+  "game": "NYL @ MIN",
+  "market": "assists",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -156,
+    "under": 115,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -132,
+    "under": 100,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Leonie Fiebich",
+  "player_key": "leonie fiebich",
+  "team": "NYL",
+  "game": "NYL @ MIN",
+  "market": "assists",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -108,
+    "under": -125,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": 100,
+    "under": -132,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Napheesa Collier",
+  "player_key": "napheesa collier",
+  "team": "MIN",
+  "game": "NYL @ MIN",
+  "market": "assists",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -123,
+    "under": -110,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -122,
+    "under": -108,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Breanna Stewart",
+  "player_key": "breanna stewart",
+  "team": "NYL",
+  "game": "NYL @ MIN",
+  "market": "points",
+  "line": 21.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -120,
+    "under": -110,
+    "line": 21.5
+   },
+   {
+    "book": "fd",
+    "over": -115,
+    "under": -113,
+    "line": 21.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Courtney Williams",
+  "player_key": "courtney williams",
+  "team": "MIN",
+  "game": "NYL @ MIN",
+  "market": "points",
+  "line": 12.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -106,
+    "under": -125,
+    "line": 12.5
+   },
+   {
+    "book": "fd",
+    "over": -125,
+    "under": -104,
+    "line": 12.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jonquel Jones",
+  "player_key": "jonquel jones",
+  "team": "NYL",
+  "game": "NYL @ MIN",
+  "market": "points",
+  "line": 14.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -121,
+    "under": -109,
+    "line": 14.5
+   },
+   {
+    "book": "fd",
+    "over": -122,
+    "under": -106,
+    "line": 14.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kayla McBride",
+  "player_key": "kayla mcbride",
+  "team": "MIN",
+  "game": "NYL @ MIN",
+  "market": "points",
+  "line": 16.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -127,
+    "under": -104,
+    "line": 16.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Leonie Fiebich",
+  "player_key": "leonie fiebich",
+  "team": "NYL",
+  "game": "NYL @ MIN",
+  "market": "points",
+  "line": 7.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -127,
+    "under": -105,
+    "line": 7.5
+   },
+   {
+    "book": "fd",
+    "over": -130,
+    "under": 100,
+    "line": 7.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Napheesa Collier",
+  "player_key": "napheesa collier",
+  "team": "MIN",
+  "game": "NYL @ MIN",
+  "market": "points",
+  "line": 18.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -127,
+    "under": -104,
+    "line": 18.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Natasha Howard",
+  "player_key": "natasha howard",
+  "team": "MIN",
+  "game": "NYL @ MIN",
+  "market": "points",
+  "line": 11.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -140,
+    "under": 105,
+    "line": 11.5
+   },
+   {
+    "book": "fd",
+    "over": -122,
+    "under": -106,
+    "line": 11.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Olivia Miles",
+  "player_key": "olivia miles",
+  "team": "MIN",
+  "game": "NYL @ MIN",
+  "market": "points",
+  "line": 18.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -118,
+    "under": -112,
+    "line": 18.5
+   },
+   {
+    "book": "fd",
+    "over": -115,
+    "under": -113,
+    "line": 18.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Pauline Astier",
+  "player_key": "pauline astier",
+  "team": "NYL",
+  "game": "NYL @ MIN",
+  "market": "points",
+  "line": 8.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -115,
+    "line": 8.5
+   },
+   {
+    "book": "fd",
+    "over": 100,
+    "under": -130,
+    "line": 8.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Sabrina Ionescu",
+  "player_key": "sabrina ionescu",
+  "team": "NYL",
+  "game": "NYL @ MIN",
+  "market": "points",
+  "line": 16.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -123,
+    "under": -107,
+    "line": 16.5
+   },
+   {
+    "book": "fd",
+    "over": -122,
+    "under": -106,
+    "line": 16.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Breanna Stewart",
+  "player_key": "breanna stewart",
+  "team": "NYL",
+  "game": "NYL @ MIN",
+  "market": "pra",
+  "line": 34.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -119,
+    "under": -114,
+    "line": 34.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 34.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Courtney Williams",
+  "player_key": "courtney williams",
+  "team": "MIN",
+  "game": "NYL @ MIN",
+  "market": "pra",
+  "line": 20.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -123,
+    "under": -110,
+    "line": 20.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jonquel Jones",
+  "player_key": "jonquel jones",
+  "team": "NYL",
+  "game": "NYL @ MIN",
+  "market": "pra",
+  "line": 27.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -124,
+    "under": -109,
+    "line": 27.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 27.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kayla McBride",
+  "player_key": "kayla mcbride",
+  "team": "MIN",
+  "game": "NYL @ MIN",
+  "market": "pra",
+  "line": 22.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -114,
+    "under": -119,
+    "line": 22.5
+   },
+   {
+    "book": "fd",
+    "over": -112,
+    "under": -118,
+    "line": 22.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Leonie Fiebich",
+  "player_key": "leonie fiebich",
+  "team": "NYL",
+  "game": "NYL @ MIN",
+  "market": "pra",
+  "line": 13.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -128,
+    "under": -106,
+    "line": 13.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 13.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Napheesa Collier",
+  "player_key": "napheesa collier",
+  "team": "MIN",
+  "game": "NYL @ MIN",
+  "market": "pra",
+  "line": 29.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -123,
+    "under": -110,
+    "line": 29.5
+   },
+   {
+    "book": "fd",
+    "over": -130,
+    "under": -102,
+    "line": 29.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Natasha Howard",
+  "player_key": "natasha howard",
+  "team": "MIN",
+  "game": "NYL @ MIN",
+  "market": "pra",
+  "line": 21.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -130,
+    "under": -104,
+    "line": 21.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Olivia Miles",
+  "player_key": "olivia miles",
+  "team": "MIN",
+  "game": "NYL @ MIN",
+  "market": "pra",
+  "line": 29.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -117,
+    "under": -116,
+    "line": 29.5
+   },
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -122,
+    "line": 29.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Pauline Astier",
+  "player_key": "pauline astier",
+  "team": "",
+  "game": "NYL @ MIN",
+  "market": "pra",
+  "line": 14.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -122,
+    "under": -108,
+    "line": 14.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Sabrina Ionescu",
+  "player_key": "sabrina ionescu",
+  "team": "NYL",
+  "game": "NYL @ MIN",
+  "market": "pra",
+  "line": 26.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -116,
+    "under": -117,
+    "line": 26.5
+   },
+   {
+    "book": "fd",
+    "over": -106,
+    "under": -125,
+    "line": 26.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Breanna Stewart",
+  "player_key": "breanna stewart",
+  "team": "NYL",
+  "game": "NYL @ MIN",
+  "market": "pts_ast",
+  "line": 25.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -108,
+    "under": -125,
+    "line": 25.5
+   },
+   {
+    "book": "fd",
+    "over": -106,
+    "under": -125,
+    "line": 25.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Courtney Williams",
+  "player_key": "courtney williams",
+  "team": "MIN",
+  "game": "NYL @ MIN",
+  "market": "pts_ast",
+  "line": 16.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -109,
+    "under": -124,
+    "line": 16.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jonquel Jones",
+  "player_key": "jonquel jones",
+  "team": "NYL",
+  "game": "NYL @ MIN",
+  "market": "pts_ast",
+  "line": 17.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -120,
+    "under": -113,
+    "line": 17.5
+   },
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -112,
+    "line": 17.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kayla McBride",
+  "player_key": "kayla mcbride",
+  "team": "MIN",
+  "game": "NYL @ MIN",
+  "market": "pts_ast",
+  "line": 19.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -106,
+    "under": -128,
+    "line": 19.5
+   },
+   {
+    "book": "fd",
+    "over": -110,
+    "under": -120,
+    "line": 19.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Leonie Fiebich",
+  "player_key": "leonie fiebich",
+  "team": "NYL",
+  "game": "NYL @ MIN",
+  "market": "pts_ast",
+  "line": 10.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -113,
+    "under": -120,
+    "line": 10.5
+   },
+   {
+    "book": "fd",
+    "over": -112,
+    "under": -118,
+    "line": 10.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Napheesa Collier",
+  "player_key": "napheesa collier",
+  "team": "MIN",
+  "game": "NYL @ MIN",
+  "market": "pts_ast",
+  "line": 21.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -120,
+    "under": -113,
+    "line": 21.5
+   },
+   {
+    "book": "fd",
+    "over": -130,
+    "under": -102,
+    "line": 21.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Natasha Howard",
+  "player_key": "natasha howard",
+  "team": "MIN",
+  "game": "NYL @ MIN",
+  "market": "pts_ast",
+  "line": 15.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -107,
+    "under": -127,
+    "line": 15.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Olivia Miles",
+  "player_key": "olivia miles",
+  "team": "",
+  "game": "NYL @ MIN",
+  "market": "pts_ast",
+  "line": 24.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -128,
+    "under": -104,
+    "line": 24.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Pauline Astier",
+  "player_key": "pauline astier",
+  "team": "NYL",
+  "game": "NYL @ MIN",
+  "market": "pts_ast",
+  "line": 11.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -128,
+    "under": -106,
+    "line": 11.5
+   },
+   {
+    "book": "fd",
+    "over": -110,
+    "under": -120,
+    "line": 11.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Sabrina Ionescu",
+  "player_key": "sabrina ionescu",
+  "team": "NYL",
+  "game": "NYL @ MIN",
+  "market": "pts_ast",
+  "line": 22.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -108,
+    "under": -126,
+    "line": 22.5
+   },
+   {
+    "book": "fd",
+    "over": 100,
+    "under": -132,
+    "line": 22.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Breanna Stewart",
+  "player_key": "breanna stewart",
+  "team": "NYL",
+  "game": "NYL @ MIN",
+  "market": "pts_reb",
+  "line": 30.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -127,
+    "under": -107,
+    "line": 30.5
+   },
+   {
+    "book": "fd",
+    "over": -125,
+    "under": -106,
+    "line": 30.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Courtney Williams",
+  "player_key": "courtney williams",
+  "team": "",
+  "game": "NYL @ MIN",
+  "market": "pts_reb",
+  "line": 17.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -102,
+    "under": -130,
+    "line": 17.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jonquel Jones",
+  "player_key": "jonquel jones",
+  "team": "NYL",
+  "game": "NYL @ MIN",
+  "market": "pts_reb",
+  "line": 24.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -124,
+    "under": -110,
+    "line": 24.5
+   },
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -112,
+    "line": 24.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kayla McBride",
+  "player_key": "kayla mcbride",
+  "team": "MIN",
+  "game": "NYL @ MIN",
+  "market": "pts_reb",
+  "line": 20.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -105,
+    "under": -129,
+    "line": 20.5
+   },
+   {
+    "book": "fd",
+    "over": -104,
+    "under": -128,
+    "line": 20.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Leonie Fiebich",
+  "player_key": "leonie fiebich",
+  "team": "NYL",
+  "game": "NYL @ MIN",
+  "market": "pts_reb",
+  "line": 11.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -103,
+    "under": -131,
+    "line": 11.5
+   },
+   {
+    "book": "fd",
+    "over": 102,
+    "under": -136,
+    "line": 11.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Napheesa Collier",
+  "player_key": "napheesa collier",
+  "team": "",
+  "game": "NYL @ MIN",
+  "market": "pts_reb",
+  "line": 27.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -106,
+    "under": -125,
+    "line": 27.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Natasha Howard",
+  "player_key": "natasha howard",
+  "team": "MIN",
+  "game": "NYL @ MIN",
+  "market": "pts_reb",
+  "line": 18.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -124,
+    "under": -109,
+    "line": 18.5
+   },
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -112,
+    "line": 18.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Olivia Miles",
+  "player_key": "olivia miles",
+  "team": "MIN",
+  "game": "NYL @ MIN",
+  "market": "pts_reb",
+  "line": 23.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -107,
+    "under": -127,
+    "line": 23.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Pauline Astier",
+  "player_key": "pauline astier",
+  "team": "NYL",
+  "game": "NYL @ MIN",
+  "market": "pts_reb",
+  "line": 11.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -132,
+    "under": -103,
+    "line": 11.5
+   },
+   {
+    "book": "fd",
+    "over": -112,
+    "under": -118,
+    "line": 11.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Sabrina Ionescu",
+  "player_key": "sabrina ionescu",
+  "team": "",
+  "game": "NYL @ MIN",
+  "market": "pts_reb",
+  "line": 20.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -132,
+    "under": 100,
+    "line": 20.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Breanna Stewart",
+  "player_key": "breanna stewart",
+  "team": "NYL",
+  "game": "NYL @ MIN",
+  "market": "reb_ast",
+  "line": 12.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -119,
+    "under": -114,
+    "line": 12.5
+   },
+   {
+    "book": "fd",
+    "over": -125,
+    "under": -106,
+    "line": 12.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Courtney Williams",
+  "player_key": "courtney williams",
+  "team": "MIN",
+  "game": "NYL @ MIN",
+  "market": "reb_ast",
+  "line": 8.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -107,
+    "under": -127,
+    "line": 8.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jonquel Jones",
+  "player_key": "jonquel jones",
+  "team": "NYL",
+  "game": "NYL @ MIN",
+  "market": "reb_ast",
+  "line": 12.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -133,
+    "under": -102,
+    "line": 12.5
+   },
+   {
+    "book": "fd",
+    "over": -110,
+    "under": -120,
+    "line": 12.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Leonie Fiebich",
+  "player_key": "leonie fiebich",
+  "team": "NYL",
+  "game": "NYL @ MIN",
+  "market": "reb_ast",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -131,
+    "under": -104,
+    "line": 5.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 5.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Napheesa Collier",
+  "player_key": "napheesa collier",
+  "team": "MIN",
+  "game": "NYL @ MIN",
+  "market": "reb_ast",
+  "line": 10.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -125,
+    "under": -108,
+    "line": 10.5
+   },
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -112,
+    "line": 10.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Natasha Howard",
+  "player_key": "natasha howard",
+  "team": "MIN",
+  "game": "NYL @ MIN",
+  "market": "reb_ast",
+  "line": 9.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -129,
+    "under": -105,
+    "line": 9.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Olivia Miles",
+  "player_key": "olivia miles",
+  "team": "MIN",
+  "game": "NYL @ MIN",
+  "market": "reb_ast",
+  "line": 10.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -127,
+    "under": -107,
+    "line": 10.5
+   },
+   {
+    "book": "fd",
+    "over": -112,
+    "under": -118,
+    "line": 10.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Pauline Astier",
+  "player_key": "pauline astier",
+  "team": "NYL",
+  "game": "NYL @ MIN",
+  "market": "reb_ast",
+  "line": 6.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -111,
+    "under": -122,
+    "line": 6.5
+   },
+   {
+    "book": "fd",
+    "over": 106,
+    "under": -140,
+    "line": 6.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Sabrina Ionescu",
+  "player_key": "sabrina ionescu",
+  "team": "NYL",
+  "game": "NYL @ MIN",
+  "market": "reb_ast",
+  "line": 9.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -111,
+    "under": -122,
+    "line": 9.5
+   },
+   {
+    "book": "fd",
+    "over": 104,
+    "under": -138,
+    "line": 9.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Breanna Stewart",
+  "player_key": "breanna stewart",
+  "team": "",
+  "game": "NYL @ MIN",
+  "market": "rebounds",
+  "line": 8.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -146,
+    "under": 110,
+    "line": 8.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Jonquel Jones",
+  "player_key": "jonquel jones",
+  "team": "NYL",
+  "game": "NYL @ MIN",
+  "market": "rebounds",
+  "line": 9.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -136,
+    "under": 100,
+    "line": 9.5
+   },
+   {
+    "book": "fd",
+    "over": -132,
+    "under": 100,
+    "line": 9.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Napheesa Collier",
+  "player_key": "napheesa collier",
+  "team": "MIN",
+  "game": "NYL @ MIN",
+  "market": "rebounds",
+  "line": 7.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -144,
+    "under": 106,
+    "line": 7.5
+   },
+   {
+    "book": "fd",
+    "over": -138,
+    "under": 104,
+    "line": 7.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Natasha Howard",
+  "player_key": "natasha howard",
+  "team": "MIN",
+  "game": "NYL @ MIN",
+  "market": "rebounds",
+  "line": 6.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -118,
+    "under": -115,
+    "line": 6.5
+   },
+   {
+    "book": "fd",
+    "over": -125,
+    "under": -106,
+    "line": 6.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Olivia Miles",
+  "player_key": "olivia miles",
+  "team": "MIN",
+  "game": "NYL @ MIN",
+  "market": "rebounds",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -101,
+    "under": -135,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": 108,
+    "under": -144,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Breanna Stewart",
+  "player_key": "breanna stewart",
+  "team": "NYL",
+  "game": "NYL @ MIN",
+  "market": "threes",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -159,
+    "under": 117,
+    "line": 0.5
+   },
+   {
+    "book": "fd",
+    "over": -146,
+    "under": 110,
+    "line": 0.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Olivia Miles",
+  "player_key": "olivia miles",
+  "team": "MIN",
+  "game": "NYL @ MIN",
+  "market": "threes",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 100,
+    "under": -136,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": 100,
+    "under": -132,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Pauline Astier",
+  "player_key": "pauline astier",
+  "team": "NYL",
+  "game": "NYL @ MIN",
+  "market": "threes",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -132,
+    "under": -103,
+    "line": 0.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Allisha Gray",
+  "player_key": "allisha gray",
+  "team": "ATL",
+  "game": "WAS @ ATL",
+  "market": "assists",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 110,
+    "under": -149,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -106,
+    "under": -125,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Angel Reese",
+  "player_key": "angel reese",
+  "team": "ATL",
+  "game": "WAS @ ATL",
+  "market": "assists",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -126,
+    "under": -108,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -125,
+    "under": -106,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Georgia Amoore",
+  "player_key": "georgia amoore",
+  "team": "WAS",
+  "game": "WAS @ ATL",
+  "market": "assists",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -151,
+    "under": 111,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -132,
+    "under": 100,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jordin Canada",
+  "player_key": "jordin canada",
+  "team": "ATL",
+  "game": "WAS @ ATL",
+  "market": "assists",
+  "line": 6.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -141,
+    "under": 103,
+    "line": 6.5
+   },
+   {
+    "book": "fd",
+    "over": -136,
+    "under": 102,
+    "line": 6.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Rhyne Howard",
+  "player_key": "rhyne howard",
+  "team": "ATL",
+  "game": "WAS @ ATL",
+  "market": "assists",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 103,
+    "under": -141,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -110,
+    "under": -120,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Shakira Austin",
+  "player_key": "shakira austin",
+  "team": "WAS",
+  "game": "WAS @ ATL",
+  "market": "assists",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -133,
+    "under": -102,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -125,
+    "under": -106,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Sonia Citron",
+  "player_key": "sonia citron",
+  "team": "WAS",
+  "game": "WAS @ ATL",
+  "market": "assists",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -109,
+    "under": -124,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -112,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Allisha Gray",
+  "player_key": "allisha gray",
+  "team": "ATL",
+  "game": "WAS @ ATL",
+  "market": "points",
+  "line": 18.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -108,
+    "under": -123,
+    "line": 18.5
+   },
+   {
+    "book": "fd",
+    "over": -110,
+    "under": -118,
+    "line": 18.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Angel Reese",
+  "player_key": "angel reese",
+  "team": "ATL",
+  "game": "WAS @ ATL",
+  "market": "points",
+  "line": 15.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -124,
+    "under": -107,
+    "line": 15.5
+   },
+   {
+    "book": "fd",
+    "over": -115,
+    "under": -113,
+    "line": 15.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "DeWanna Bonner",
+  "player_key": "dewanna bonner",
+  "team": "ATL",
+  "game": "WAS @ ATL",
+  "market": "points",
+  "line": 8.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -126,
+    "under": -106,
+    "line": 8.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 8.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Georgia Amoore",
+  "player_key": "georgia amoore",
+  "team": "WAS",
+  "game": "WAS @ ATL",
+  "market": "points",
+  "line": 8.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -111,
+    "under": -119,
+    "line": 8.5
+   },
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -120,
+    "line": 8.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jordin Canada",
+  "player_key": "jordin canada",
+  "team": "ATL",
+  "game": "WAS @ ATL",
+  "market": "points",
+  "line": 10.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -107,
+    "under": -124,
+    "line": 10.5
+   },
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -120,
+    "line": 10.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kiki Iriafen",
+  "player_key": "kiki iriafen",
+  "team": "WAS",
+  "game": "WAS @ ATL",
+  "market": "points",
+  "line": 15.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -114,
+    "under": -116,
+    "line": 15.5
+   },
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -120,
+    "line": 15.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Lauren Betts",
+  "player_key": "lauren betts",
+  "team": "WAS",
+  "game": "WAS @ ATL",
+  "market": "points",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -114,
+    "under": -116,
+    "line": 5.5
+   },
+   {
+    "book": "fd",
+    "over": -110,
+    "under": -118,
+    "line": 5.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Michaela Onyenwere",
+  "player_key": "michaela onyenwere",
+  "team": "WAS",
+  "game": "WAS @ ATL",
+  "market": "points",
+  "line": 8.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -118,
+    "under": -113,
+    "line": 8.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Naz Hillmon",
+  "player_key": "naz hillmon",
+  "team": "ATL",
+  "game": "WAS @ ATL",
+  "market": "points",
+  "line": 6.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -125,
+    "under": -106,
+    "line": 6.5
+   },
+   {
+    "book": "fd",
+    "over": -128,
+    "under": -102,
+    "line": 6.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Rhyne Howard",
+  "player_key": "rhyne howard",
+  "team": "ATL",
+  "game": "WAS @ ATL",
+  "market": "points",
+  "line": 18.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -104,
+    "under": -128,
+    "line": 18.5
+   },
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -110,
+    "line": 18.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Shakira Austin",
+  "player_key": "shakira austin",
+  "team": "WAS",
+  "game": "WAS @ ATL",
+  "market": "points",
+  "line": 18.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -128,
+    "under": -104,
+    "line": 18.5
+   },
+   {
+    "book": "fd",
+    "over": -120,
+    "under": -108,
+    "line": 18.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Sonia Citron",
+  "player_key": "sonia citron",
+  "team": "WAS",
+  "game": "WAS @ ATL",
+  "market": "points",
+  "line": 15.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -116,
+    "under": -114,
+    "line": 15.5
+   },
+   {
+    "book": "fd",
+    "over": -110,
+    "under": -118,
+    "line": 15.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Allisha Gray",
+  "player_key": "allisha gray",
+  "team": "ATL",
+  "game": "WAS @ ATL",
+  "market": "pra",
+  "line": 24.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -112,
+    "under": -121,
+    "line": 24.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 24.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Angel Reese",
+  "player_key": "angel reese",
+  "team": "",
+  "game": "WAS @ ATL",
+  "market": "pra",
+  "line": 30.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -122,
+    "under": -108,
+    "line": 30.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Georgia Amoore",
+  "player_key": "georgia amoore",
+  "team": "WAS",
+  "game": "WAS @ ATL",
+  "market": "pra",
+  "line": 14.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -106,
+    "under": -128,
+    "line": 14.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jordin Canada",
+  "player_key": "jordin canada",
+  "team": "ATL",
+  "game": "WAS @ ATL",
+  "market": "pra",
+  "line": 20.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -121,
+    "under": -112,
+    "line": 20.5
+   },
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -112,
+    "line": 20.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kiki Iriafen",
+  "player_key": "kiki iriafen",
+  "team": "WAS",
+  "game": "WAS @ ATL",
+  "market": "pra",
+  "line": 26.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -112,
+    "under": -121,
+    "line": 26.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Michaela Onyenwere",
+  "player_key": "michaela onyenwere",
+  "team": "WAS",
+  "game": "WAS @ ATL",
+  "market": "pra",
+  "line": 13.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -107,
+    "under": -127,
+    "line": 13.5
+   },
+   {
+    "book": "fd",
+    "over": -112,
+    "under": -118,
+    "line": 13.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Naz Hillmon",
+  "player_key": "naz hillmon",
+  "team": "ATL",
+  "game": "WAS @ ATL",
+  "market": "pra",
+  "line": 12.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -120,
+    "under": -113,
+    "line": 12.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Rhyne Howard",
+  "player_key": "rhyne howard",
+  "team": "ATL",
+  "game": "WAS @ ATL",
+  "market": "pra",
+  "line": 25.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -118,
+    "under": -115,
+    "line": 25.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Shakira Austin",
+  "player_key": "shakira austin",
+  "team": "",
+  "game": "WAS @ ATL",
+  "market": "pra",
+  "line": 30.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -122,
+    "under": -108,
+    "line": 30.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Sonia Citron",
+  "player_key": "sonia citron",
+  "team": "WAS",
+  "game": "WAS @ ATL",
+  "market": "pra",
+  "line": 23.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -119,
+    "under": -114,
+    "line": 23.5
+   },
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -112,
+    "line": 23.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Allisha Gray",
+  "player_key": "allisha gray",
+  "team": "ATL",
+  "game": "WAS @ ATL",
+  "market": "pts_ast",
+  "line": 20.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -125,
+    "under": -109,
+    "line": 20.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Angel Reese",
+  "player_key": "angel reese",
+  "team": "ATL",
+  "game": "WAS @ ATL",
+  "market": "pts_ast",
+  "line": 18.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -119,
+    "under": -114,
+    "line": 18.5
+   },
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -122,
+    "line": 18.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Georgia Amoore",
+  "player_key": "georgia amoore",
+  "team": "WAS",
+  "game": "WAS @ ATL",
+  "market": "pts_ast",
+  "line": 12.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -118,
+    "line": 12.5
+   },
+   {
+    "book": "fd",
+    "over": -104,
+    "under": -128,
+    "line": 12.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jordin Canada",
+  "player_key": "jordin canada",
+  "team": "ATL",
+  "game": "WAS @ ATL",
+  "market": "pts_ast",
+  "line": 17.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -110,
+    "under": -124,
+    "line": 17.5
+   },
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -122,
+    "line": 17.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Rhyne Howard",
+  "player_key": "rhyne howard",
+  "team": "",
+  "game": "WAS @ ATL",
+  "market": "pts_ast",
+  "line": 22.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -110,
+    "under": -120,
+    "line": 22.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Shakira Austin",
+  "player_key": "shakira austin",
+  "team": "WAS",
+  "game": "WAS @ ATL",
+  "market": "pts_ast",
+  "line": 21.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -125,
+    "under": -109,
+    "line": 21.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 21.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Sonia Citron",
+  "player_key": "sonia citron",
+  "team": "WAS",
+  "game": "WAS @ ATL",
+  "market": "pts_ast",
+  "line": 20.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -110,
+    "under": -123,
+    "line": 20.5
+   },
+   {
+    "book": "fd",
+    "over": -102,
+    "under": -130,
+    "line": 20.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Allisha Gray",
+  "player_key": "allisha gray",
+  "team": "ATL",
+  "game": "WAS @ ATL",
+  "market": "pts_reb",
+  "line": 21.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -125,
+    "under": -109,
+    "line": 21.5
+   },
+   {
+    "book": "fd",
+    "over": -128,
+    "under": -104,
+    "line": 21.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Angel Reese",
+  "player_key": "angel reese",
+  "team": "",
+  "game": "WAS @ ATL",
+  "market": "pts_reb",
+  "line": 27.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -130,
+    "under": -102,
+    "line": 27.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jordin Canada",
+  "player_key": "jordin canada",
+  "team": "ATL",
+  "game": "WAS @ ATL",
+  "market": "pts_reb",
+  "line": 13.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -117,
+    "under": -116,
+    "line": 13.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 13.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kiki Iriafen",
+  "player_key": "kiki iriafen",
+  "team": "WAS",
+  "game": "WAS @ ATL",
+  "market": "pts_reb",
+  "line": 24.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -119,
+    "under": -114,
+    "line": 24.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Michaela Onyenwere",
+  "player_key": "michaela onyenwere",
+  "team": "WAS",
+  "game": "WAS @ ATL",
+  "market": "pts_reb",
+  "line": 11.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -111,
+    "under": -122,
+    "line": 11.5
+   },
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -112,
+    "line": 11.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Naz Hillmon",
+  "player_key": "naz hillmon",
+  "team": "ATL",
+  "game": "WAS @ ATL",
+  "market": "pts_reb",
+  "line": 10.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -136,
+    "under": 100,
+    "line": 10.5
+   },
+   {
+    "book": "fd",
+    "over": -125,
+    "under": -104,
+    "line": 10.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Rhyne Howard",
+  "player_key": "rhyne howard",
+  "team": "ATL",
+  "game": "WAS @ ATL",
+  "market": "pts_reb",
+  "line": 21.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -127,
+    "under": -107,
+    "line": 21.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Shakira Austin",
+  "player_key": "shakira austin",
+  "team": "WAS",
+  "game": "WAS @ ATL",
+  "market": "pts_reb",
+  "line": 28.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -116,
+    "under": -117,
+    "line": 28.5
+   },
+   {
+    "book": "fd",
+    "over": -102,
+    "under": -130,
+    "line": 28.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Sonia Citron",
+  "player_key": "sonia citron",
+  "team": "WAS",
+  "game": "WAS @ ATL",
+  "market": "pts_reb",
+  "line": 18.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -126,
+    "under": -108,
+    "line": 18.5
+   },
+   {
+    "book": "fd",
+    "over": -125,
+    "under": -106,
+    "line": 18.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Allisha Gray",
+  "player_key": "allisha gray",
+  "team": "ATL",
+  "game": "WAS @ ATL",
+  "market": "reb_ast",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -143,
+    "under": 105,
+    "line": 5.5
+   },
+   {
+    "book": "fd",
+    "over": -152,
+    "under": 114,
+    "line": 5.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Angel Reese",
+  "player_key": "angel reese",
+  "team": "ATL",
+  "game": "WAS @ ATL",
+  "market": "reb_ast",
+  "line": 15.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -109,
+    "under": -125,
+    "line": 15.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jordin Canada",
+  "player_key": "jordin canada",
+  "team": "ATL",
+  "game": "WAS @ ATL",
+  "market": "reb_ast",
+  "line": 10.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 100,
+    "under": -136,
+    "line": 10.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Rhyne Howard",
+  "player_key": "rhyne howard",
+  "team": "ATL",
+  "game": "WAS @ ATL",
+  "market": "reb_ast",
+  "line": 7.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 104,
+    "under": -141,
+    "line": 7.5
+   },
+   {
+    "book": "fd",
+    "over": 102,
+    "under": -136,
+    "line": 7.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Shakira Austin",
+  "player_key": "shakira austin",
+  "team": "WAS",
+  "game": "WAS @ ATL",
+  "market": "reb_ast",
+  "line": 11.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -139,
+    "under": 102,
+    "line": 11.5
+   },
+   {
+    "book": "fd",
+    "over": -136,
+    "under": 102,
+    "line": 11.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Sonia Citron",
+  "player_key": "sonia citron",
+  "team": "WAS",
+  "game": "WAS @ ATL",
+  "market": "reb_ast",
+  "line": 7.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -126,
+    "under": -108,
+    "line": 7.5
+   },
+   {
+    "book": "fd",
+    "over": -154,
+    "under": 116,
+    "line": 7.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Angel Reese",
+  "player_key": "angel reese",
+  "team": "ATL",
+  "game": "WAS @ ATL",
+  "market": "rebounds",
+  "line": 12.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -119,
+    "under": -114,
+    "line": 12.5
+   },
+   {
+    "book": "fd",
+    "over": 100,
+    "under": -132,
+    "line": 12.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kiki Iriafen",
+  "player_key": "kiki iriafen",
+  "team": "WAS",
+  "game": "WAS @ ATL",
+  "market": "rebounds",
+  "line": 8.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -140,
+    "under": 103,
+    "line": 8.5
+   },
+   {
+    "book": "fd",
+    "over": -154,
+    "under": 116,
+    "line": 8.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Michaela Onyenwere",
+  "player_key": "michaela onyenwere",
+  "team": "WAS",
+  "game": "WAS @ ATL",
+  "market": "rebounds",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -117,
+    "under": -116,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -122,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Rhyne Howard",
+  "player_key": "rhyne howard",
+  "team": "ATL",
+  "game": "WAS @ ATL",
+  "market": "rebounds",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -132,
+    "under": -103,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -130,
+    "under": -102,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Shakira Austin",
+  "player_key": "shakira austin",
+  "team": "WAS",
+  "game": "WAS @ ATL",
+  "market": "rebounds",
+  "line": 9.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 105,
+    "under": -142,
+    "line": 9.5
+   },
+   {
+    "book": "fd",
+    "over": 102,
+    "under": -136,
+    "line": 9.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ }
+]
