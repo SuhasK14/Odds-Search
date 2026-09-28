@@ -22,7 +22,7 @@
    "true_p_at_bet": 0.57,
    "spread": 0.013,
    "books": 2,
-   "result": null
+   "result": false
   },
   {
    "player": "Michael Wilson",
@@ -34,7 +34,7 @@
    "true_p_at_bet": 0.567,
    "spread": 0.016,
    "books": 2,
-   "result": null
+   "result": true
   },
   {
    "player": "Jaylen Waddle",
@@ -46,7 +46,7 @@
    "true_p_at_bet": 0.563,
    "spread": 0.008,
    "books": 2,
-   "result": null
+   "result": false
   },
   {
    "player": "Javonte Williams",
@@ -58,7 +58,7 @@
    "true_p_at_bet": 0.558,
    "spread": 0.018,
    "books": 2,
-   "result": null
+   "result": false
   },
   {
    "player": "Amon-Ra St. Brown",
@@ -70,7 +70,7 @@
    "true_p_at_bet": 0.556,
    "spread": 0.002,
    "books": 2,
-   "result": null
+   "result": false
   }
  ],
  "tickets_placed": [
@@ -124,5 +124,15 @@
   "Kevin Coleman U1.5 receptions": "rookie in a first real role with Dolphins WRs out; under priced off snaps the books have not seen"
  },
  "resolves": "Sun 2026-09-27 (CIN@PIT 12:00, NYJ@DET 12:00, ARI@SF 3:05, BAL@DAL 3:25, LAR@DEN 7:20)",
- "note": "Set each leg result after the games, then grade. Confirm which game Boom lists Waddle under."
+ "note": "Set each leg result after the games, then grade. Confirm which game Boom lists Waddle under.",
+ "graded": {
+  "graded_at": "2026-09-27",
+  "legs_hit": 1,
+  "legs": 5,
+  "tickets_cashed": 0,
+  "entries": 10,
+  "returned": 0.0,
+  "net": -10.0,
+  "note": "Only Michael Wilson hit. Every ticket held Dak, Waddle or St. Brown."
+ }
 }

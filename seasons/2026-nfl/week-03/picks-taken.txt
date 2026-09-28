@@ -1,0 +1,5 @@
+Dak Prescott | pass tds | 1.5
+Michael Wilson | receptions | 3.5
+Jaylen Waddle | receptions | 4.5
+Javonte Williams | receptions | 2.5
+Pat Freiermuth | receptions | 3.5

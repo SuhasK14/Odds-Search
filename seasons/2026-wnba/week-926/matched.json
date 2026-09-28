@@ -9,8 +9,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -111,
-    "under": -123,
+    "over": -106,
+    "under": -128,
     "line": 4.5
    },
    {
@@ -28,42 +28,16 @@
  {
   "player": "Arike Ogunbowale",
   "player_key": "arike ogunbowale",
-  "team": "DAL",
+  "team": "",
   "game": "DAL @ GSV",
   "market": "points",
   "line": 14.5,
   "quotes": [
    {
-    "book": "dk",
-    "over": -116,
-    "under": -114,
-    "line": 14.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Awak Kuier",
-  "player_key": "awak kuier",
-  "team": "DAL",
-  "game": "DAL @ GSV",
-  "market": "points",
-  "line": 8.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -125,
-    "under": -106,
-    "line": 8.5
-   },
-   {
     "book": "fd",
-    "over": -115,
-    "under": -113,
-    "line": 8.5
+    "over": -104,
+    "under": -125,
+    "line": 14.5
    }
   ],
   "app_sides": [
@@ -81,14 +55,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -115,
-    "under": -116,
+    "over": -127,
+    "under": -104,
     "line": 7.5
    },
    {
     "book": "fd",
-    "over": -120,
-    "under": -108,
+    "over": -110,
+    "under": -118,
     "line": 7.5
    }
   ],
@@ -107,8 +81,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -127,
-    "under": -104,
+    "over": -122,
+    "under": -108,
+    "line": 15.5
+   },
+   {
+    "book": "fd",
+    "over": -122,
+    "under": -106,
     "line": 15.5
    }
   ],
@@ -127,8 +107,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -109,
-    "under": -122,
+    "over": -119,
+    "under": -112,
     "line": 10.5
    },
    {
@@ -146,74 +126,16 @@
  {
   "player": "Jessica Shepard",
   "player_key": "jessica shepard",
-  "team": "DAL",
+  "team": "",
   "game": "DAL @ GSV",
   "market": "points",
   "line": 11.5,
   "quotes": [
    {
-    "book": "dk",
-    "over": -123,
-    "under": -108,
-    "line": 11.5
-   },
-   {
     "book": "fd",
-    "over": -125,
-    "under": -104,
-    "line": 11.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Kaila Charles",
-  "player_key": "kaila charles",
-  "team": "GSV",
-  "game": "DAL @ GSV",
-  "market": "points",
-  "line": 6.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": 103,
-    "under": -137,
-    "line": 6.5
-   },
-   {
-    "book": "fd",
-    "over": 108,
-    "under": -140,
-    "line": 6.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Kayla Thornton",
-  "player_key": "kayla thornton",
-  "team": "GSV",
-  "game": "DAL @ GSV",
-  "market": "points",
-  "line": 8.5,
-  "quotes": [
-   {
-    "book": "dk",
     "over": -106,
-    "under": -125,
-    "line": 8.5
-   },
-   {
-    "book": "fd",
-    "over": -114,
-    "under": -114,
-    "line": 8.5
+    "under": -122,
+    "line": 11.5
    }
   ],
   "app_sides": [
@@ -224,68 +146,16 @@
  {
   "player": "Kiah Stokes",
   "player_key": "kiah stokes",
-  "team": "",
+  "team": "GSV",
   "game": "DAL @ GSV",
   "market": "points",
   "line": 3.5,
   "quotes": [
    {
-    "book": "fd",
-    "over": -108,
-    "under": -120,
-    "line": 3.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Maddy Siegrist",
-  "player_key": "maddy siegrist",
-  "team": "DAL",
-  "game": "DAL @ GSV",
-  "market": "points",
-  "line": 7.5,
-  "quotes": [
-   {
     "book": "dk",
-    "over": -102,
-    "under": -130,
-    "line": 7.5
-   },
-   {
-    "book": "fd",
-    "over": -102,
+    "over": -104,
     "under": -128,
-    "line": 7.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Paige Bueckers",
-  "player_key": "paige bueckers",
-  "team": "DAL",
-  "game": "DAL @ GSV",
-  "market": "points",
-  "line": 19.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -112,
-    "under": -118,
-    "line": 19.5
-   },
-   {
-    "book": "fd",
-    "over": -113,
-    "under": -115,
-    "line": 19.5
+    "line": 3.5
    }
   ],
   "app_sides": [
@@ -303,14 +173,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 100,
-    "under": -133,
+    "over": -114,
+    "under": -117,
     "line": 12.5
    },
    {
     "book": "fd",
-    "over": -102,
-    "under": -128,
+    "over": -114,
+    "under": -114,
     "line": 12.5
    }
   ],
@@ -329,35 +199,15 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -122,
-    "under": -111,
+    "over": -109,
+    "under": -125,
     "line": 20.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Awak Kuier",
-  "player_key": "awak kuier",
-  "team": "DAL",
-  "game": "DAL @ GSV",
-  "market": "pra",
-  "line": 16.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -122,
-    "under": -111,
-    "line": 16.5
    },
    {
     "book": "fd",
-    "over": -104,
-    "under": -128,
-    "line": 16.5
+    "over": -112,
+    "under": -118,
+    "line": 20.5
    }
   ],
   "app_sides": [
@@ -375,14 +225,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -102,
-    "under": -134,
-    "line": 12.5
-   },
-   {
-    "book": "fd",
-    "over": -108,
-    "under": -122,
+    "over": -106,
+    "under": -128,
     "line": 12.5
    }
   ],
@@ -401,35 +245,15 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -122,
-    "under": -111,
+    "over": -123,
+    "under": -110,
     "line": 22.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Jessica Shepard",
-  "player_key": "jessica shepard",
-  "team": "DAL",
-  "game": "DAL @ GSV",
-  "market": "pra",
-  "line": 27.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -119,
-    "under": -114,
-    "line": 27.5
    },
    {
     "book": "fd",
-    "over": -114,
-    "under": -114,
-    "line": 27.5
+    "over": -118,
+    "under": -112,
+    "line": 22.5
    }
   ],
   "app_sides": [
@@ -440,21 +264,15 @@
  {
   "player": "Paige Bueckers",
   "player_key": "paige bueckers",
-  "team": "DAL",
+  "team": "",
   "game": "DAL @ GSV",
   "market": "pra",
   "line": 28.5,
   "quotes": [
    {
-    "book": "dk",
-    "over": -120,
-    "under": -113,
-    "line": 28.5
-   },
-   {
     "book": "fd",
-    "over": -118,
-    "under": -112,
+    "over": -102,
+    "under": -130,
     "line": 28.5
    }
   ],
@@ -473,8 +291,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -116,
-    "under": -117,
+    "over": -130,
+    "under": -105,
     "line": 22.5
    },
    {
@@ -499,8 +317,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -124,
-    "under": -109,
+    "over": -112,
+    "under": -121,
+    "line": 17.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
     "line": 17.5
    }
   ],
@@ -519,14 +343,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -123,
-    "under": -110,
-    "line": 9.5
-   },
-   {
-    "book": "fd",
-    "over": -128,
-    "under": -104,
+    "over": -127,
+    "under": -107,
     "line": 9.5
    }
   ],
@@ -545,14 +363,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -104,
-    "under": -131,
-    "line": 19.5
-   },
-   {
-    "book": "fd",
-    "over": -114,
-    "under": -114,
+    "over": -102,
+    "under": -133,
     "line": 19.5
    }
   ],
@@ -564,21 +376,15 @@
  {
   "player": "Jessica Shepard",
   "player_key": "jessica shepard",
-  "team": "DAL",
+  "team": "",
   "game": "DAL @ GSV",
   "market": "pts_ast",
   "line": 16.5,
   "quotes": [
    {
-    "book": "dk",
-    "over": -115,
-    "under": -118,
-    "line": 16.5
-   },
-   {
     "book": "fd",
-    "over": -118,
-    "under": -112,
+    "over": 100,
+    "under": -132,
     "line": 16.5
    }
   ],
@@ -590,21 +396,15 @@
  {
   "player": "Paige Bueckers",
   "player_key": "paige bueckers",
-  "team": "DAL",
+  "team": "",
   "game": "DAL @ GSV",
   "market": "pts_ast",
   "line": 24.5,
   "quotes": [
    {
-    "book": "dk",
-    "over": -125,
-    "under": -109,
-    "line": 24.5
-   },
-   {
     "book": "fd",
-    "over": -125,
-    "under": -106,
+    "over": -102,
+    "under": -130,
     "line": 24.5
    }
   ],
@@ -623,8 +423,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -109,
-    "under": -124,
+    "over": -123,
+    "under": -111,
     "line": 18.5
    },
    {
@@ -642,42 +442,16 @@
  {
   "player": "Arike Ogunbowale",
   "player_key": "arike ogunbowale",
-  "team": "DAL",
+  "team": "",
   "game": "DAL @ GSV",
   "market": "pts_reb",
   "line": 17.5,
   "quotes": [
    {
-    "book": "dk",
-    "over": -111,
-    "under": -122,
-    "line": 17.5
-   },
-   {
     "book": "fd",
-    "over": -125,
-    "under": -106,
+    "over": -104,
+    "under": -128,
     "line": 17.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Awak Kuier",
-  "player_key": "awak kuier",
-  "team": "DAL",
-  "game": "DAL @ GSV",
-  "market": "pts_reb",
-  "line": 15.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -106,
-    "under": -129,
-    "line": 15.5
    }
   ],
   "app_sides": [
@@ -688,15 +462,15 @@
  {
   "player": "Cecilia Zandalasini",
   "player_key": "cecilia zandalasini",
-  "team": "GSV",
+  "team": "",
   "game": "DAL @ GSV",
   "market": "pts_reb",
   "line": 9.5,
   "quotes": [
    {
-    "book": "dk",
-    "over": -130,
-    "under": -105,
+    "book": "fd",
+    "over": -118,
+    "under": -112,
     "line": 9.5
    }
   ],
@@ -715,14 +489,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -117,
-    "under": -116,
+    "over": -116,
+    "under": -117,
     "line": 19.5
    },
    {
     "book": "fd",
-    "over": -125,
-    "under": -106,
+    "over": -114,
+    "under": -114,
     "line": 19.5
    }
   ],
@@ -741,61 +515,15 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -124,
-    "under": -109,
-    "line": 14.5
-   },
-   {
-    "book": "fd",
-    "over": -108,
-    "under": -122,
-    "line": 14.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Jessica Shepard",
-  "player_key": "jessica shepard",
-  "team": "DAL",
-  "game": "DAL @ GSV",
-  "market": "pts_reb",
-  "line": 22.5,
-  "quotes": [
-   {
-    "book": "dk",
     "over": -126,
     "under": -108,
-    "line": 22.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Kayla Thornton",
-  "player_key": "kayla thornton",
-  "team": "GSV",
-  "game": "DAL @ GSV",
-  "market": "pts_reb",
-  "line": 13.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -109,
-    "under": -125,
-    "line": 13.5
+    "line": 14.5
    },
    {
     "book": "fd",
-    "over": -108,
-    "under": -122,
-    "line": 13.5
+    "over": -114,
+    "under": -114,
+    "line": 14.5
    }
   ],
   "app_sides": [
@@ -813,14 +541,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -121,
-    "under": -112,
-    "line": 9.5
-   },
-   {
-    "book": "fd",
-    "over": 100,
-    "under": -132,
+    "over": -106,
+    "under": -129,
     "line": 9.5
    }
   ],
@@ -839,35 +561,9 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -120,
-    "under": -113,
+    "over": -110,
+    "under": -124,
     "line": 10.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Paige Bueckers",
-  "player_key": "paige bueckers",
-  "team": "DAL",
-  "game": "DAL @ GSV",
-  "market": "pts_reb",
-  "line": 23.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -113,
-    "under": -120,
-    "line": 23.5
-   },
-   {
-    "book": "fd",
-    "over": -106,
-    "under": -125,
-    "line": 23.5
    }
   ],
   "app_sides": [
@@ -885,14 +581,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -110,
-    "under": -124,
+    "over": -122,
+    "under": -111,
     "line": 16.5
    },
    {
     "book": "fd",
-    "over": -106,
-    "under": -125,
+    "over": -114,
+    "under": -114,
     "line": 16.5
    }
   ],
@@ -911,14 +607,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -141,
-    "under": 104,
+    "over": -149,
+    "under": 110,
     "line": 5.5
    },
    {
     "book": "fd",
-    "over": -152,
-    "under": 114,
+    "over": -158,
+    "under": 118,
     "line": 5.5
    }
   ],
@@ -936,14 +632,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -105,
-    "under": -129,
-    "line": 4.5
-   },
-   {
-    "book": "fd",
-    "over": -108,
-    "under": -122,
+    "over": 105,
+    "under": -143,
     "line": 4.5
    }
   ],
@@ -962,14 +652,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -118,
-    "under": -115,
+    "over": -138,
+    "under": 101,
     "line": 6.5
    },
    {
     "book": "fd",
-    "over": -125,
-    "under": -106,
+    "over": -122,
+    "under": -108,
     "line": 6.5
    }
   ],
@@ -988,14 +678,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -124,
-    "under": -110,
+    "over": -114,
+    "under": -119,
     "line": 15.5
    },
    {
     "book": "fd",
-    "over": -122,
-    "under": -110,
+    "over": -106,
+    "under": -125,
     "line": 15.5
    }
   ],
@@ -1020,8 +710,8 @@
    },
    {
     "book": "fd",
-    "over": -138,
-    "under": 104,
+    "over": -148,
+    "under": 112,
     "line": 8.5
    }
   ],
@@ -1041,7 +731,7 @@
    {
     "book": "dk",
     "over": 102,
-    "under": -138,
+    "under": -139,
     "line": 10.5
    }
   ],
@@ -1060,14 +750,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -132,
-    "under": -103,
+    "over": -143,
+    "under": 105,
     "line": 2.5
    },
    {
     "book": "fd",
-    "over": -140,
-    "under": 106,
+    "over": -154,
+    "under": 116,
     "line": 2.5
    }
   ],
@@ -1086,8 +776,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -107,
-    "under": -127,
+    "over": -119,
+    "under": -114,
     "line": 3.5
    },
    {
@@ -1112,14 +802,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -138,
-    "under": 102,
+    "over": -127,
+    "under": -107,
     "line": 10.5
    },
    {
     "book": "fd",
-    "over": -144,
-    "under": 108,
+    "over": -130,
+    "under": -102,
     "line": 10.5
    }
   ],
@@ -1138,14 +828,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -139,
-    "under": 102,
+    "over": -127,
+    "under": -107,
     "line": 4.5
    },
    {
     "book": "fd",
-    "over": -125,
-    "under": -106,
+    "over": -114,
+    "under": -114,
     "line": 4.5
    }
   ],
@@ -1164,14 +854,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -140,
-    "under": 103,
+    "over": -127,
+    "under": -107,
     "line": 5.5
    },
    {
     "book": "fd",
-    "over": -132,
-    "under": 100,
+    "over": -152,
+    "under": 114,
     "line": 5.5
    }
   ],
@@ -1190,8 +880,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 101,
-    "under": -138,
+    "over": 105,
+    "under": -143,
     "line": 3.5
    }
   ],
@@ -1210,14 +900,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -135,
-    "under": 100,
+    "over": -130,
+    "under": -105,
     "line": 3.5
    },
    {
     "book": "fd",
-    "over": -125,
-    "under": -106,
+    "over": -136,
+    "under": 104,
     "line": 3.5
    }
   ],
@@ -1236,8 +926,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -119,
-    "under": -114,
+    "over": -114,
+    "under": -119,
     "line": 1.5
    },
    {
@@ -1262,14 +952,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 105,
-    "under": -143,
+    "over": 109,
+    "under": -148,
     "line": 1.5
    },
    {
     "book": "fd",
-    "over": 102,
-    "under": -136,
+    "over": 104,
+    "under": -138,
     "line": 1.5
    }
   ],
@@ -1288,8 +978,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -108,
-    "under": -126,
+    "over": -118,
+    "under": -115,
     "line": 1.5
    },
    {
@@ -1314,14 +1004,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 104,
-    "under": -141,
+    "over": 109,
+    "under": -148,
     "line": 3.5
    },
    {
     "book": "fd",
-    "over": 102,
-    "under": -136,
+    "over": 128,
+    "under": -172,
     "line": 3.5
    }
   ],
@@ -1340,8 +1030,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -124,
-    "under": -107,
+    "over": -106,
+    "under": -125,
     "line": 27.5
    },
    {
@@ -1359,17 +1049,11 @@
  {
   "player": "Aliyah Boston",
   "player_key": "aliyah boston",
-  "team": "IND",
+  "team": "",
   "game": "IND @ LVA",
   "market": "points",
   "line": 13.5,
   "quotes": [
-   {
-    "book": "dk",
-    "over": -125,
-    "under": -106,
-    "line": 13.5
-   },
    {
     "book": "fd",
     "over": -125,
@@ -1385,15 +1069,21 @@
  {
   "player": "Caitlin Clark",
   "player_key": "caitlin clark",
-  "team": "",
+  "team": "IND",
   "game": "IND @ LVA",
   "market": "points",
   "line": 22.5,
   "quotes": [
    {
+    "book": "dk",
+    "over": -123,
+    "under": -108,
+    "line": 22.5
+   },
+   {
     "book": "fd",
-    "over": -130,
-    "under": 100,
+    "over": -128,
+    "under": -102,
     "line": 22.5
    }
   ],
@@ -1405,48 +1095,16 @@
  {
   "player": "Chelsea Gray",
   "player_key": "chelsea gray",
-  "team": "LVA",
+  "team": "",
   "game": "IND @ LVA",
   "market": "points",
   "line": 12.5,
   "quotes": [
    {
-    "book": "dk",
-    "over": -111,
-    "under": -119,
-    "line": 12.5
-   },
-   {
     "book": "fd",
-    "over": -114,
-    "under": -114,
+    "over": -122,
+    "under": -106,
     "line": 12.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Jackie Young",
-  "player_key": "jackie young",
-  "team": "LVA",
-  "game": "IND @ LVA",
-  "market": "points",
-  "line": 21.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -115,
-    "under": -116,
-    "line": 21.5
-   },
-   {
-    "book": "fd",
-    "over": 100,
-    "under": -130,
-    "line": 21.5
    }
   ],
   "app_sides": [
@@ -1464,14 +1122,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -120,
-    "under": -111,
+    "over": -118,
+    "under": -112,
     "line": 8.5
    },
    {
     "book": "fd",
-    "over": -122,
-    "under": -106,
+    "over": -125,
+    "under": -104,
     "line": 8.5
    }
   ],
@@ -1490,20 +1148,45 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -112,
-    "under": -118,
+    "over": -116,
+    "under": -114,
     "line": 25.5
    },
    {
     "book": "fd",
-    "over": -104,
-    "under": -125,
+    "over": -102,
+    "under": -128,
     "line": 25.5
    }
   ],
   "app_sides": [
    "over",
    "under"
+  ]
+ },
+ {
+  "player": "Lexie Hull",
+  "player_key": "lexie hull",
+  "team": "IND",
+  "game": "IND @ LVA",
+  "market": "points",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -114,
+    "under": -116,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": -104,
+    "under": -122,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over"
   ]
  },
  {
@@ -1516,14 +1199,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -108,
-    "under": -123,
+    "over": -111,
+    "under": -119,
     "line": 7.5
    },
    {
     "book": "fd",
-    "over": -114,
-    "under": -114,
+    "over": -106,
+    "under": -122,
     "line": 7.5
    }
   ],
@@ -1542,8 +1225,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 100,
-    "under": -132,
+    "over": -103,
+    "under": -129,
     "line": 6.5
    },
    {
@@ -1551,26 +1234,6 @@
     "over": -106,
     "under": -122,
     "line": 6.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "A'ja Wilson",
-  "player_key": "aja wilson",
-  "team": "LVA",
-  "game": "IND @ LVA",
-  "market": "pra",
-  "line": 41.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -112,
-    "under": -122,
-    "line": 41.5
    }
   ],
   "app_sides": [
@@ -1588,14 +1251,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -109,
-    "under": -124,
-    "line": 26.5
-   },
-   {
-    "book": "fd",
-    "over": -112,
-    "under": -118,
+    "over": -126,
+    "under": -108,
     "line": 26.5
    }
   ],
@@ -1614,29 +1271,9 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -125,
-    "under": -109,
+    "over": -108,
+    "under": -126,
     "line": 37.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Chelsea Gray",
-  "player_key": "chelsea gray",
-  "team": "LVA",
-  "game": "IND @ LVA",
-  "market": "pra",
-  "line": 21.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -131,
-    "under": -104,
-    "line": 21.5
    }
   ],
   "app_sides": [
@@ -1654,14 +1291,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -125,
-    "under": -108,
+    "over": -110,
+    "under": -124,
     "line": 32.5
    },
    {
     "book": "fd",
-    "over": -104,
-    "under": -128,
+    "over": -108,
+    "under": -122,
     "line": 32.5
    }
   ],
@@ -1673,15 +1310,21 @@
  {
   "player": "Jewell Loyd",
   "player_key": "jewell loyd",
-  "team": "",
+  "team": "LVA",
   "game": "IND @ LVA",
   "market": "pra",
   "line": 12.5,
   "quotes": [
    {
+    "book": "dk",
+    "over": -126,
+    "under": -108,
+    "line": 12.5
+   },
+   {
     "book": "fd",
-    "over": -118,
-    "under": -112,
+    "over": -132,
+    "under": 100,
     "line": 12.5
    }
   ],
@@ -1692,21 +1335,15 @@
  {
   "player": "Kelsey Mitchell",
   "player_key": "kelsey mitchell",
-  "team": "IND",
+  "team": "",
   "game": "IND @ LVA",
   "market": "pra",
   "line": 30.5,
   "quotes": [
    {
-    "book": "dk",
-    "over": -120,
-    "under": -113,
-    "line": 30.5
-   },
-   {
     "book": "fd",
-    "over": -110,
-    "under": -120,
+    "over": -102,
+    "under": -128,
     "line": 30.5
    }
   ],
@@ -1718,15 +1355,21 @@
  {
   "player": "Sophie Cunningham",
   "player_key": "sophie cunningham",
-  "team": "",
+  "team": "IND",
   "game": "IND @ LVA",
   "market": "pra",
   "line": 9.5,
   "quotes": [
    {
+    "book": "dk",
+    "over": -131,
+    "under": -104,
+    "line": 9.5
+   },
+   {
     "book": "fd",
-    "over": -138,
-    "under": 104,
+    "over": -132,
+    "under": 100,
     "line": 9.5
    }
   ],
@@ -1745,8 +1388,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -128,
-    "under": -106,
+    "over": -111,
+    "under": -122,
     "line": 30.5
    },
    {
@@ -1771,61 +1414,15 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -113,
-    "under": -120,
+    "over": -120,
+    "under": -113,
     "line": 17.5
    },
    {
     "book": "fd",
-    "over": -108,
-    "under": -122,
+    "over": -102,
+    "under": -130,
     "line": 17.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Caitlin Clark",
-  "player_key": "caitlin clark",
-  "team": "IND",
-  "game": "IND @ LVA",
-  "market": "pts_ast",
-  "line": 33.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -107,
-    "under": -127,
-    "line": 33.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Chelsea Gray",
-  "player_key": "chelsea gray",
-  "team": "LVA",
-  "game": "IND @ LVA",
-  "market": "pts_ast",
-  "line": 18.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -119,
-    "under": -114,
-    "line": 18.5
-   },
-   {
-    "book": "fd",
-    "over": -132,
-    "under": 100,
-    "line": 18.5
    }
   ],
   "app_sides": [
@@ -1843,20 +1440,45 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -128,
-    "under": -106,
+    "over": -116,
+    "under": -117,
     "line": 27.5
    },
    {
     "book": "fd",
-    "over": -112,
-    "under": -118,
+    "over": -114,
+    "under": -114,
     "line": 27.5
    }
   ],
   "app_sides": [
    "over",
    "under"
+  ]
+ },
+ {
+  "player": "Jewell Loyd",
+  "player_key": "jewell loyd",
+  "team": "LVA",
+  "game": "IND @ LVA",
+  "market": "pts_ast",
+  "line": 10.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -101,
+    "under": -134,
+    "line": 10.5
+   },
+   {
+    "book": "fd",
+    "over": -106,
+    "under": -125,
+    "line": 10.5
+   }
+  ],
+  "app_sides": [
+   "over"
   ]
  },
  {
@@ -1869,8 +1491,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -120,
-    "under": -113,
+    "over": -126,
+    "under": -108,
     "line": 28.5
    },
    {
@@ -1895,8 +1517,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -116,
-    "under": -117,
+    "over": -117,
+    "under": -116,
+    "line": 7.5
+   },
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -112,
     "line": 7.5
    }
   ],
@@ -1915,14 +1543,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -126,
-    "under": -108,
+    "over": -115,
+    "under": -118,
     "line": 37.5
    },
    {
     "book": "fd",
-    "over": -114,
-    "under": -114,
+    "over": -112,
+    "under": -118,
     "line": 37.5
    }
   ],
@@ -1934,88 +1562,16 @@
  {
   "player": "Aliyah Boston",
   "player_key": "aliyah boston",
-  "team": "IND",
+  "team": "",
   "game": "IND @ LVA",
   "market": "pts_reb",
   "line": 22.5,
   "quotes": [
    {
-    "book": "dk",
-    "over": -121,
+    "book": "fd",
+    "over": -118,
     "under": -112,
     "line": 22.5
-   },
-   {
-    "book": "fd",
-    "over": -125,
-    "under": -106,
-    "line": 22.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Caitlin Clark",
-  "player_key": "caitlin clark",
-  "team": "IND",
-  "game": "IND @ LVA",
-  "market": "pts_reb",
-  "line": 28.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -113,
-    "under": -121,
-    "line": 28.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Chelsea Gray",
-  "player_key": "chelsea gray",
-  "team": "LVA",
-  "game": "IND @ LVA",
-  "market": "pts_reb",
-  "line": 15.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -121,
-    "under": -112,
-    "line": 15.5
-   },
-   {
-    "book": "fd",
-    "over": -122,
-    "under": -106,
-    "line": 15.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Jackie Young",
-  "player_key": "jackie young",
-  "team": "LVA",
-  "game": "IND @ LVA",
-  "market": "pts_reb",
-  "line": 26.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -115,
-    "under": -118,
-    "line": 26.5
    }
   ],
   "app_sides": [
@@ -2033,8 +1589,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -115,
-    "under": -118,
+    "over": -124,
+    "under": -110,
     "line": 27.5
    }
   ],
@@ -2053,14 +1609,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -115,
-    "under": -118,
+    "over": -110,
+    "under": -124,
     "line": 14.5
    },
    {
     "book": "fd",
-    "over": -114,
-    "under": -114,
+    "over": -102,
+    "under": -130,
     "line": 14.5
    }
   ],
@@ -2080,6 +1636,12 @@
    {
     "book": "dk",
     "over": -125,
+    "under": -109,
+    "line": 8.5
+   },
+   {
+    "book": "fd",
+    "over": -122,
     "under": -108,
     "line": 8.5
    }
@@ -2099,14 +1661,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -101,
-    "under": -135,
+    "over": 101,
+    "under": -137,
     "line": 13.5
    },
    {
     "book": "fd",
-    "over": 104,
-    "under": -138,
+    "over": 106,
+    "under": -140,
     "line": 13.5
    }
   ],
@@ -2125,13 +1687,7 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -101,
-    "under": -134,
-    "line": 12.5
-   },
-   {
-    "book": "fd",
-    "over": -110,
+    "over": -113,
     "under": -120,
     "line": 12.5
    }
@@ -2151,14 +1707,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -135,
-    "under": 100,
+    "over": -124,
+    "under": -109,
     "line": 13.5
    },
    {
     "book": "fd",
-    "over": -112,
-    "under": -118,
+    "over": -114,
+    "under": -114,
     "line": 13.5
    }
   ],
@@ -2177,14 +1733,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -106,
-    "under": -128,
+    "over": -105,
+    "under": -130,
     "line": 9.5
    },
    {
     "book": "fd",
-    "over": -104,
-    "under": -128,
+    "over": -118,
+    "under": -112,
     "line": 9.5
    }
   ],
@@ -2203,14 +1759,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -140,
-    "under": 103,
+    "over": -135,
+    "under": -101,
     "line": 10.5
    },
    {
     "book": "fd",
-    "over": -132,
-    "under": 100,
+    "over": -138,
+    "under": 104,
     "line": 10.5
    }
   ],
@@ -2229,14 +1785,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -122,
-    "under": -111,
+    "over": -145,
+    "under": 106,
     "line": 8.5
    },
    {
     "book": "fd",
-    "over": -132,
-    "under": 100,
+    "over": -118,
+    "under": -114,
     "line": 8.5
    }
   ],
@@ -2255,14 +1811,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -117,
+    "over": -116,
     "under": -117,
     "line": 4.5
    },
    {
     "book": "fd",
     "over": -102,
-    "under": -130,
+    "under": -128,
     "line": 4.5
    }
   ],
@@ -2281,8 +1837,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -123,
-    "under": -111,
+    "over": -117,
+    "under": -116,
     "line": 4.5
    },
    {
@@ -2300,15 +1856,15 @@
  {
   "player": "Lexie Hull",
   "player_key": "lexie hull",
-  "team": "",
+  "team": "IND",
   "game": "IND @ LVA",
   "market": "rebounds",
   "line": 3.5,
   "quotes": [
    {
-    "book": "fd",
-    "over": 102,
-    "under": -136,
+    "book": "dk",
+    "over": 104,
+    "under": -142,
     "line": 3.5
    }
   ],
@@ -2319,15 +1875,21 @@
  {
   "player": "Stephanie Talbot",
   "player_key": "stephanie talbot",
-  "team": "",
+  "team": "LVA",
   "game": "IND @ LVA",
   "market": "rebounds",
   "line": 3.5,
   "quotes": [
    {
-    "book": "fd",
-    "over": 102,
+    "book": "dk",
+    "over": 100,
     "under": -136,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": 104,
+    "under": -138,
     "line": 3.5
    }
   ],
@@ -2346,14 +1908,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -109,
-    "under": -125,
+    "over": -117,
+    "under": -116,
     "line": 1.5
    },
    {
     "book": "fd",
-    "over": -118,
-    "under": -112,
+    "over": -132,
+    "under": 100,
     "line": 1.5
    }
   ],
@@ -2372,14 +1934,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 100,
-    "under": -136,
+    "over": -103,
+    "under": -132,
     "line": 3.5
    },
    {
     "book": "fd",
-    "over": -102,
-    "under": -130,
+    "over": 118,
+    "under": -158,
     "line": 3.5
    }
   ],
@@ -2398,14 +1960,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -156,
-    "under": 115,
+    "over": -115,
+    "under": -119,
     "line": 2.5
    },
    {
     "book": "fd",
-    "over": -132,
-    "under": 100,
+    "over": -108,
+    "under": -122,
     "line": 2.5
    }
   ],
@@ -2424,14 +1986,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -108,
-    "under": -125,
+    "over": 120,
+    "under": -163,
     "line": 2.5
    },
    {
     "book": "fd",
-    "over": 100,
-    "under": -132,
+    "over": 118,
+    "under": -158,
     "line": 2.5
    }
   ],
@@ -2456,8 +2018,8 @@
    },
    {
     "book": "fd",
-    "over": -122,
-    "under": -108,
+    "over": -132,
+    "under": 100,
     "line": 2.5
    }
   ],
@@ -2469,21 +2031,15 @@
  {
   "player": "Breanna Stewart",
   "player_key": "breanna stewart",
-  "team": "NYL",
+  "team": "",
   "game": "NYL @ MIN",
   "market": "points",
   "line": 21.5,
   "quotes": [
    {
-    "book": "dk",
-    "over": -120,
-    "under": -110,
-    "line": 21.5
-   },
-   {
     "book": "fd",
-    "over": -115,
-    "under": -113,
+    "over": -118,
+    "under": -110,
     "line": 21.5
    }
   ],
@@ -2502,14 +2058,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -106,
-    "under": -125,
+    "over": -122,
+    "under": -109,
     "line": 12.5
    },
    {
     "book": "fd",
-    "over": -125,
-    "under": -104,
+    "over": -108,
+    "under": -120,
     "line": 12.5
    }
   ],
@@ -2528,14 +2084,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -121,
-    "under": -109,
+    "over": -112,
+    "under": -118,
     "line": 14.5
    },
    {
     "book": "fd",
-    "over": -122,
-    "under": -106,
+    "over": -104,
+    "under": -125,
     "line": 14.5
    }
   ],
@@ -2554,8 +2110,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -127,
-    "under": -104,
+    "over": -125,
+    "under": -106,
+    "line": 16.5
+   },
+   {
+    "book": "fd",
+    "over": -128,
+    "under": -102,
     "line": 16.5
    }
   ],
@@ -2574,13 +2136,7 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -127,
-    "under": -105,
-    "line": 7.5
-   },
-   {
-    "book": "fd",
-    "over": -130,
+    "over": -132,
     "under": 100,
     "line": 7.5
    }
@@ -2591,23 +2147,28 @@
   ]
  },
  {
-  "player": "Napheesa Collier",
-  "player_key": "napheesa collier",
-  "team": "MIN",
+  "player": "Marine Johannes",
+  "player_key": "marine johannes",
+  "team": "NYL",
   "game": "NYL @ MIN",
   "market": "points",
-  "line": 18.5,
+  "line": 4.5,
   "quotes": [
    {
     "book": "dk",
     "over": -127,
-    "under": -104,
-    "line": 18.5
+    "under": -105,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -120,
+    "line": 4.5
    }
   ],
   "app_sides": [
-   "over",
-   "under"
+   "over"
   ]
  },
  {
@@ -2620,14 +2181,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -140,
-    "under": 105,
+    "over": -134,
+    "under": 101,
     "line": 11.5
    },
    {
     "book": "fd",
-    "over": -122,
-    "under": -106,
+    "over": -125,
+    "under": -104,
     "line": 11.5
    }
   ],
@@ -2646,14 +2207,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -118,
-    "under": -112,
+    "over": -128,
+    "under": -103,
     "line": 18.5
    },
    {
     "book": "fd",
-    "over": -115,
-    "under": -113,
+    "over": -128,
+    "under": -102,
     "line": 18.5
    }
   ],
@@ -2672,14 +2233,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -115,
-    "under": -115,
+    "over": -103,
+    "under": -128,
     "line": 8.5
    },
    {
     "book": "fd",
-    "over": 100,
-    "under": -130,
+    "over": 102,
+    "under": -132,
     "line": 8.5
    }
   ],
@@ -2698,14 +2259,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -123,
-    "under": -107,
+    "over": -108,
+    "under": -123,
     "line": 16.5
    },
    {
     "book": "fd",
-    "over": -122,
-    "under": -106,
+    "over": -104,
+    "under": -125,
     "line": 16.5
    }
   ],
@@ -2717,42 +2278,16 @@
  {
   "player": "Breanna Stewart",
   "player_key": "breanna stewart",
-  "team": "NYL",
+  "team": "",
   "game": "NYL @ MIN",
   "market": "pra",
   "line": 34.5,
   "quotes": [
    {
-    "book": "dk",
-    "over": -119,
-    "under": -114,
-    "line": 34.5
-   },
-   {
     "book": "fd",
-    "over": -114,
-    "under": -114,
+    "over": -112,
+    "under": -118,
     "line": 34.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Courtney Williams",
-  "player_key": "courtney williams",
-  "team": "MIN",
-  "game": "NYL @ MIN",
-  "market": "pra",
-  "line": 20.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -123,
-    "under": -110,
-    "line": 20.5
    }
   ],
   "app_sides": [
@@ -2770,14 +2305,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -124,
-    "under": -109,
-    "line": 27.5
-   },
-   {
-    "book": "fd",
-    "over": -114,
-    "under": -114,
+    "over": -113,
+    "under": -120,
     "line": 27.5
    }
   ],
@@ -2796,14 +2325,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -114,
-    "under": -119,
+    "over": -110,
+    "under": -123,
     "line": 22.5
    },
    {
     "book": "fd",
-    "over": -112,
-    "under": -118,
+    "over": -106,
+    "under": -122,
     "line": 22.5
    }
   ],
@@ -2822,41 +2351,15 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -128,
-    "under": -106,
+    "over": -113,
+    "under": -120,
     "line": 13.5
    },
    {
     "book": "fd",
-    "over": -114,
-    "under": -114,
-    "line": 13.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Napheesa Collier",
-  "player_key": "napheesa collier",
-  "team": "MIN",
-  "game": "NYL @ MIN",
-  "market": "pra",
-  "line": 29.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -123,
+    "over": -122,
     "under": -110,
-    "line": 29.5
-   },
-   {
-    "book": "fd",
-    "over": -130,
-    "under": -102,
-    "line": 29.5
+    "line": 13.5
    }
   ],
   "app_sides": [
@@ -2875,7 +2378,7 @@
    {
     "book": "dk",
     "over": -130,
-    "under": -104,
+    "under": -105,
     "line": 21.5
    }
   ],
@@ -2894,14 +2397,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -117,
-    "under": -116,
-    "line": 29.5
-   },
-   {
-    "book": "fd",
-    "over": -108,
-    "under": -122,
+    "over": -129,
+    "under": -105,
     "line": 29.5
    }
   ],
@@ -2913,42 +2410,22 @@
  {
   "player": "Pauline Astier",
   "player_key": "pauline astier",
-  "team": "",
+  "team": "NYL",
   "game": "NYL @ MIN",
   "market": "pra",
   "line": 14.5,
   "quotes": [
    {
-    "book": "fd",
-    "over": -122,
-    "under": -108,
-    "line": 14.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Sabrina Ionescu",
-  "player_key": "sabrina ionescu",
-  "team": "NYL",
-  "game": "NYL @ MIN",
-  "market": "pra",
-  "line": 26.5,
-  "quotes": [
-   {
     "book": "dk",
-    "over": -116,
-    "under": -117,
-    "line": 26.5
+    "over": -118,
+    "under": -115,
+    "line": 14.5
    },
    {
     "book": "fd",
-    "over": -106,
-    "under": -125,
-    "line": 26.5
+    "over": -125,
+    "under": -106,
+    "line": 14.5
    }
   ],
   "app_sides": [
@@ -2966,14 +2443,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -108,
-    "under": -125,
+    "over": -125,
+    "under": -108,
     "line": 25.5
    },
    {
     "book": "fd",
-    "over": -106,
-    "under": -125,
+    "over": -102,
+    "under": -130,
     "line": 25.5
    }
   ],
@@ -2992,8 +2469,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -109,
-    "under": -124,
+    "over": -134,
+    "under": -102,
     "line": 16.5
    }
   ],
@@ -3012,14 +2489,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -120,
-    "under": -113,
-    "line": 17.5
-   },
-   {
-    "book": "fd",
-    "over": -118,
-    "under": -112,
+    "over": -105,
+    "under": -130,
     "line": 17.5
    }
   ],
@@ -3038,14 +2509,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -106,
-    "under": -128,
+    "over": -104,
+    "under": -130,
     "line": 19.5
    },
    {
     "book": "fd",
-    "over": -110,
-    "under": -120,
+    "over": -102,
+    "under": -130,
     "line": 19.5
    }
   ],
@@ -3064,8 +2535,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -113,
-    "under": -120,
+    "over": -109,
+    "under": -124,
     "line": 10.5
    },
    {
@@ -3090,14 +2561,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -120,
-    "under": -113,
+    "over": -131,
+    "under": -104,
     "line": 21.5
    },
    {
     "book": "fd",
-    "over": -130,
-    "under": -102,
+    "over": -132,
+    "under": 100,
     "line": 21.5
    }
   ],
@@ -3116,29 +2587,9 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -107,
-    "under": -127,
+    "over": -102,
+    "under": -133,
     "line": 15.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Olivia Miles",
-  "player_key": "olivia miles",
-  "team": "",
-  "game": "NYL @ MIN",
-  "market": "pts_ast",
-  "line": 24.5,
-  "quotes": [
-   {
-    "book": "fd",
-    "over": -128,
-    "under": -104,
-    "line": 24.5
    }
   ],
   "app_sides": [
@@ -3156,41 +2607,15 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -128,
-    "under": -106,
+    "over": -117,
+    "under": -116,
     "line": 11.5
    },
    {
     "book": "fd",
-    "over": -110,
-    "under": -120,
+    "over": -114,
+    "under": -114,
     "line": 11.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Sabrina Ionescu",
-  "player_key": "sabrina ionescu",
-  "team": "NYL",
-  "game": "NYL @ MIN",
-  "market": "pts_ast",
-  "line": 22.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -108,
-    "under": -126,
-    "line": 22.5
-   },
-   {
-    "book": "fd",
-    "over": 100,
-    "under": -132,
-    "line": 22.5
    }
   ],
   "app_sides": [
@@ -3201,21 +2626,15 @@
  {
   "player": "Breanna Stewart",
   "player_key": "breanna stewart",
-  "team": "NYL",
+  "team": "",
   "game": "NYL @ MIN",
   "market": "pts_reb",
   "line": 30.5,
   "quotes": [
    {
-    "book": "dk",
-    "over": -127,
-    "under": -107,
-    "line": 30.5
-   },
-   {
     "book": "fd",
-    "over": -125,
-    "under": -106,
+    "over": -128,
+    "under": -104,
     "line": 30.5
    }
   ],
@@ -3227,15 +2646,15 @@
  {
   "player": "Courtney Williams",
   "player_key": "courtney williams",
-  "team": "",
+  "team": "MIN",
   "game": "NYL @ MIN",
   "market": "pts_reb",
   "line": 17.5,
   "quotes": [
    {
-    "book": "fd",
-    "over": -102,
-    "under": -130,
+    "book": "dk",
+    "over": -106,
+    "under": -128,
     "line": 17.5
    }
   ],
@@ -3254,14 +2673,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -124,
-    "under": -110,
-    "line": 24.5
-   },
-   {
-    "book": "fd",
     "over": -118,
-    "under": -112,
+    "under": -115,
     "line": 24.5
    }
   ],
@@ -3280,14 +2693,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -105,
-    "under": -129,
+    "over": -104,
+    "under": -130,
     "line": 20.5
    },
    {
     "book": "fd",
-    "over": -104,
-    "under": -128,
+    "over": 100,
+    "under": -132,
     "line": 20.5
    }
   ],
@@ -3299,21 +2712,15 @@
  {
   "player": "Leonie Fiebich",
   "player_key": "leonie fiebich",
-  "team": "NYL",
+  "team": "",
   "game": "NYL @ MIN",
   "market": "pts_reb",
   "line": 11.5,
   "quotes": [
    {
-    "book": "dk",
-    "over": -103,
-    "under": -131,
-    "line": 11.5
-   },
-   {
     "book": "fd",
-    "over": 102,
-    "under": -136,
+    "over": -104,
+    "under": -128,
     "line": 11.5
    }
   ],
@@ -3325,11 +2732,17 @@
  {
   "player": "Napheesa Collier",
   "player_key": "napheesa collier",
-  "team": "",
+  "team": "MIN",
   "game": "NYL @ MIN",
   "market": "pts_reb",
   "line": 27.5,
   "quotes": [
+   {
+    "book": "dk",
+    "over": -111,
+    "under": -122,
+    "line": 27.5
+   },
    {
     "book": "fd",
     "over": -106,
@@ -3352,14 +2765,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -124,
-    "under": -109,
+    "over": -122,
+    "under": -112,
     "line": 18.5
    },
    {
     "book": "fd",
-    "over": -118,
-    "under": -112,
+    "over": -120,
+    "under": -110,
     "line": 18.5
    }
   ],
@@ -3378,8 +2791,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -107,
-    "under": -127,
+    "over": -118,
+    "under": -115,
     "line": 23.5
    }
   ],
@@ -3398,14 +2811,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -132,
-    "under": -103,
+    "over": -107,
+    "under": -126,
     "line": 11.5
    },
    {
     "book": "fd",
-    "over": -112,
-    "under": -118,
+    "over": -106,
+    "under": -125,
     "line": 11.5
    }
   ],
@@ -3417,15 +2830,21 @@
  {
   "player": "Sabrina Ionescu",
   "player_key": "sabrina ionescu",
-  "team": "",
+  "team": "NYL",
   "game": "NYL @ MIN",
   "market": "pts_reb",
   "line": 20.5,
   "quotes": [
    {
+    "book": "dk",
+    "over": -120,
+    "under": -113,
+    "line": 20.5
+   },
+   {
     "book": "fd",
-    "over": -132,
-    "under": 100,
+    "over": -118,
+    "under": -112,
     "line": 20.5
    }
   ],
@@ -3444,14 +2863,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -119,
-    "under": -114,
+    "over": -118,
+    "under": -115,
     "line": 12.5
    },
    {
     "book": "fd",
-    "over": -125,
-    "under": -106,
+    "over": -108,
+    "under": -122,
     "line": 12.5
    }
   ],
@@ -3470,8 +2889,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -107,
-    "under": -127,
+    "over": -113,
+    "under": -120,
     "line": 8.5
    }
   ],
@@ -3490,14 +2909,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -133,
-    "under": -102,
+    "over": -122,
+    "under": -111,
     "line": 12.5
    },
    {
     "book": "fd",
-    "over": -110,
-    "under": -120,
+    "over": 102,
+    "under": -136,
     "line": 12.5
    }
   ],
@@ -3516,14 +2935,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -131,
-    "under": -104,
+    "over": 103,
+    "under": -140,
     "line": 5.5
    },
    {
     "book": "fd",
-    "over": -114,
-    "under": -114,
+    "over": -108,
+    "under": -122,
     "line": 5.5
    }
   ],
@@ -3542,14 +2961,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -125,
-    "under": -108,
+    "over": -120,
+    "under": -113,
     "line": 10.5
    },
    {
     "book": "fd",
-    "over": -118,
-    "under": -112,
+    "over": -122,
+    "under": -108,
     "line": 10.5
    }
   ],
@@ -3568,8 +2987,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -129,
-    "under": -105,
+    "over": -134,
+    "under": -102,
     "line": 9.5
    }
   ],
@@ -3588,14 +3007,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -127,
-    "under": -107,
+    "over": -124,
+    "under": -109,
     "line": 10.5
    },
    {
     "book": "fd",
-    "over": -112,
-    "under": -118,
+    "over": -136,
+    "under": 102,
     "line": 10.5
    }
   ],
@@ -3614,14 +3033,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -111,
-    "under": -122,
+    "over": 111,
+    "under": -151,
     "line": 6.5
    },
    {
     "book": "fd",
-    "over": 106,
-    "under": -140,
+    "over": -108,
+    "under": -122,
     "line": 6.5
    }
   ],
@@ -3640,14 +3059,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -111,
-    "under": -122,
+    "over": -109,
+    "under": -124,
     "line": 9.5
    },
    {
     "book": "fd",
-    "over": 104,
-    "under": -138,
+    "over": 100,
+    "under": -132,
     "line": 9.5
    }
   ],
@@ -3685,14 +3104,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -136,
-    "under": 100,
+    "over": -144,
+    "under": 106,
     "line": 9.5
    },
    {
     "book": "fd",
-    "over": -132,
-    "under": 100,
+    "over": -122,
+    "under": -108,
     "line": 9.5
    }
   ],
@@ -3711,8 +3130,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -144,
-    "under": 106,
+    "over": -139,
+    "under": 102,
     "line": 7.5
    },
    {
@@ -3737,8 +3156,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -118,
-    "under": -115,
+    "over": -122,
+    "under": -112,
     "line": 6.5
    },
    {
@@ -3763,14 +3182,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -101,
-    "under": -135,
+    "over": -112,
+    "under": -121,
     "line": 4.5
    },
    {
     "book": "fd",
-    "over": 108,
-    "under": -144,
+    "over": -118,
+    "under": -112,
     "line": 4.5
    }
   ],
@@ -3789,8 +3208,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -159,
-    "under": 117,
+    "over": -158,
+    "under": 116,
     "line": 0.5
    },
    {
@@ -3840,8 +3259,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -132,
-    "under": -103,
+    "over": -127,
+    "under": -107,
     "line": 0.5
    }
   ],
@@ -3860,14 +3279,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 110,
-    "under": -149,
+    "over": -105,
+    "under": -130,
     "line": 2.5
    },
    {
     "book": "fd",
-    "over": -106,
-    "under": -125,
+    "over": -108,
+    "under": -122,
     "line": 2.5
    }
   ],
@@ -3886,14 +3305,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -126,
-    "under": -108,
+    "over": -130,
+    "under": -104,
     "line": 2.5
    },
    {
     "book": "fd",
-    "over": -125,
-    "under": -106,
+    "over": -128,
+    "under": -104,
     "line": 2.5
    }
   ],
@@ -3912,14 +3331,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -151,
-    "under": 111,
+    "over": -116,
+    "under": -117,
     "line": 3.5
    },
    {
     "book": "fd",
-    "over": -132,
-    "under": 100,
+    "over": -112,
+    "under": -118,
     "line": 3.5
    }
   ],
@@ -3938,14 +3357,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -141,
-    "under": 103,
+    "over": -136,
+    "under": 100,
     "line": 6.5
    },
    {
     "book": "fd",
-    "over": -136,
-    "under": 102,
+    "over": -144,
+    "under": 108,
     "line": 6.5
    }
   ],
@@ -3964,14 +3383,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 103,
-    "under": -141,
+    "over": -112,
+    "under": -122,
     "line": 3.5
    },
    {
     "book": "fd",
-    "over": -110,
-    "under": -120,
+    "over": -106,
+    "under": -125,
     "line": 3.5
    }
   ],
@@ -3990,14 +3409,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -133,
-    "under": -102,
+    "over": -102,
+    "under": -133,
     "line": 2.5
    },
    {
     "book": "fd",
-    "over": -125,
-    "under": -106,
+    "over": -102,
+    "under": -130,
     "line": 2.5
    }
   ],
@@ -4016,8 +3435,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -109,
-    "under": -124,
+    "over": -125,
+    "under": -109,
     "line": 4.5
    },
    {
@@ -4042,8 +3461,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -108,
-    "under": -123,
+    "over": -111,
+    "under": -119,
     "line": 18.5
    },
    {
@@ -4061,17 +3480,11 @@
  {
   "player": "Angel Reese",
   "player_key": "angel reese",
-  "team": "ATL",
+  "team": "",
   "game": "WAS @ ATL",
   "market": "points",
   "line": 15.5,
   "quotes": [
-   {
-    "book": "dk",
-    "over": -124,
-    "under": -107,
-    "line": 15.5
-   },
    {
     "book": "fd",
     "over": -115,
@@ -4087,21 +3500,15 @@
  {
   "player": "DeWanna Bonner",
   "player_key": "dewanna bonner",
-  "team": "ATL",
+  "team": "",
   "game": "WAS @ ATL",
   "market": "points",
   "line": 8.5,
   "quotes": [
    {
-    "book": "dk",
-    "over": -126,
-    "under": -106,
-    "line": 8.5
-   },
-   {
     "book": "fd",
-    "over": -114,
-    "under": -114,
+    "over": -106,
+    "under": -122,
     "line": 8.5
    }
   ],
@@ -4120,14 +3527,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -111,
-    "under": -119,
+    "over": -107,
+    "under": -124,
     "line": 8.5
    },
    {
     "book": "fd",
-    "over": -108,
-    "under": -120,
+    "over": -102,
+    "under": -128,
     "line": 8.5
    }
   ],
@@ -4146,14 +3553,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -107,
-    "under": -124,
+    "over": -103,
+    "under": -129,
     "line": 10.5
    },
    {
     "book": "fd",
-    "over": -108,
-    "under": -120,
+    "over": -106,
+    "under": -122,
     "line": 10.5
    }
   ],
@@ -4172,8 +3579,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -114,
-    "under": -116,
+    "over": -115,
+    "under": -115,
     "line": 15.5
    },
    {
@@ -4198,8 +3605,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -114,
-    "under": -116,
+    "over": -112,
+    "under": -118,
     "line": 5.5
    },
    {
@@ -4224,8 +3631,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -118,
-    "under": -113,
+    "over": -123,
+    "under": -108,
+    "line": 8.5
+   },
+   {
+    "book": "fd",
+    "over": -122,
+    "under": -106,
     "line": 8.5
    }
   ],
@@ -4244,8 +3657,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -125,
-    "under": -106,
+    "over": -123,
+    "under": -108,
     "line": 6.5
    },
    {
@@ -4270,14 +3683,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -104,
-    "under": -128,
+    "over": -117,
+    "under": -113,
     "line": 18.5
    },
    {
     "book": "fd",
-    "over": -118,
-    "under": -110,
+    "over": -114,
+    "under": -114,
     "line": 18.5
    }
   ],
@@ -4296,14 +3709,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -128,
-    "under": -104,
+    "over": -104,
+    "under": -128,
     "line": 18.5
    },
    {
     "book": "fd",
-    "over": -120,
-    "under": -108,
+    "over": -106,
+    "under": -122,
     "line": 18.5
    }
   ],
@@ -4322,14 +3735,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -116,
-    "under": -114,
+    "over": -118,
+    "under": -112,
     "line": 15.5
    },
    {
     "book": "fd",
-    "over": -110,
-    "under": -118,
+    "over": -106,
+    "under": -122,
     "line": 15.5
    }
   ],
@@ -4348,8 +3761,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -112,
-    "under": -121,
+    "over": -117,
+    "under": -116,
     "line": 24.5
    },
    {
@@ -4374,29 +3787,9 @@
   "quotes": [
    {
     "book": "fd",
-    "over": -122,
-    "under": -108,
+    "over": -118,
+    "under": -112,
     "line": 30.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Georgia Amoore",
-  "player_key": "georgia amoore",
-  "team": "WAS",
-  "game": "WAS @ ATL",
-  "market": "pra",
-  "line": 14.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -106,
-    "under": -128,
-    "line": 14.5
    }
   ],
   "app_sides": [
@@ -4414,8 +3807,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -121,
-    "under": -112,
+    "over": -120,
+    "under": -113,
     "line": 20.5
    },
    {
@@ -4440,8 +3833,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -112,
-    "under": -121,
+    "over": -117,
+    "under": -117,
     "line": 26.5
    }
   ],
@@ -4460,14 +3853,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -107,
-    "under": -127,
+    "over": -106,
+    "under": -128,
     "line": 13.5
    },
    {
     "book": "fd",
-    "over": -112,
-    "under": -118,
+    "over": -102,
+    "under": -130,
     "line": 13.5
    }
   ],
@@ -4486,8 +3879,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -120,
-    "under": -113,
+    "over": -114,
+    "under": -119,
     "line": 12.5
    }
   ],
@@ -4499,15 +3892,15 @@
  {
   "player": "Rhyne Howard",
   "player_key": "rhyne howard",
-  "team": "ATL",
+  "team": "",
   "game": "WAS @ ATL",
   "market": "pra",
   "line": 25.5,
   "quotes": [
    {
-    "book": "dk",
-    "over": -118,
-    "under": -115,
+    "book": "fd",
+    "over": -125,
+    "under": -106,
     "line": 25.5
    }
   ],
@@ -4519,15 +3912,21 @@
  {
   "player": "Shakira Austin",
   "player_key": "shakira austin",
-  "team": "",
+  "team": "WAS",
   "game": "WAS @ ATL",
   "market": "pra",
   "line": 30.5,
   "quotes": [
    {
+    "book": "dk",
+    "over": -111,
+    "under": -122,
+    "line": 30.5
+   },
+   {
     "book": "fd",
-    "over": -122,
-    "under": -108,
+    "over": -106,
+    "under": -125,
     "line": 30.5
    }
   ],
@@ -4546,14 +3945,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -119,
-    "under": -114,
+    "over": -128,
+    "under": -106,
     "line": 23.5
    },
    {
     "book": "fd",
-    "over": -118,
-    "under": -112,
+    "over": -112,
+    "under": -118,
     "line": 23.5
    }
   ],
@@ -4572,8 +3971,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -125,
-    "under": -109,
+    "over": -130,
+    "under": -104,
+    "line": 20.5
+   },
+   {
+    "book": "fd",
+    "over": -132,
+    "under": 100,
     "line": 20.5
    }
   ],
@@ -4592,8 +3997,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -119,
-    "under": -114,
+    "over": -131,
+    "under": -104,
     "line": 18.5
    },
    {
@@ -4601,32 +4006,6 @@
     "over": -108,
     "under": -122,
     "line": 18.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Georgia Amoore",
-  "player_key": "georgia amoore",
-  "team": "WAS",
-  "game": "WAS @ ATL",
-  "market": "pts_ast",
-  "line": 12.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -115,
-    "under": -118,
-    "line": 12.5
-   },
-   {
-    "book": "fd",
-    "over": -104,
-    "under": -128,
-    "line": 12.5
    }
   ],
   "app_sides": [
@@ -4644,14 +4023,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -110,
-    "under": -124,
+    "over": -111,
+    "under": -123,
     "line": 17.5
    },
    {
     "book": "fd",
-    "over": -108,
-    "under": -122,
+    "over": -110,
+    "under": -120,
     "line": 17.5
    }
   ],
@@ -4663,42 +4042,22 @@
  {
   "player": "Rhyne Howard",
   "player_key": "rhyne howard",
-  "team": "",
+  "team": "ATL",
   "game": "WAS @ ATL",
   "market": "pts_ast",
   "line": 22.5,
   "quotes": [
    {
-    "book": "fd",
-    "over": -110,
-    "under": -120,
-    "line": 22.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Shakira Austin",
-  "player_key": "shakira austin",
-  "team": "WAS",
-  "game": "WAS @ ATL",
-  "market": "pts_ast",
-  "line": 21.5,
-  "quotes": [
-   {
     "book": "dk",
-    "over": -125,
-    "under": -109,
-    "line": 21.5
+    "over": -110,
+    "under": -124,
+    "line": 22.5
    },
    {
     "book": "fd",
-    "over": -114,
-    "under": -114,
-    "line": 21.5
+    "over": -104,
+    "under": -128,
+    "line": 22.5
    }
   ],
   "app_sides": [
@@ -4716,14 +4075,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -110,
-    "under": -123,
-    "line": 20.5
-   },
-   {
-    "book": "fd",
-    "over": -102,
-    "under": -130,
+    "over": -114,
+    "under": -119,
     "line": 20.5
    }
   ],
@@ -4742,14 +4095,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -125,
-    "under": -109,
+    "over": -130,
+    "under": -104,
     "line": 21.5
    },
    {
     "book": "fd",
-    "over": -128,
-    "under": -104,
+    "over": -125,
+    "under": -106,
     "line": 21.5
    }
   ],
@@ -4814,8 +4167,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -119,
-    "under": -114,
+    "over": -120,
+    "under": -113,
     "line": 24.5
    }
   ],
@@ -4835,13 +4188,13 @@
    {
     "book": "dk",
     "over": -111,
-    "under": -122,
+    "under": -123,
     "line": 11.5
    },
    {
     "book": "fd",
-    "over": -118,
-    "under": -112,
+    "over": -108,
+    "under": -122,
     "line": 11.5
    }
   ],
@@ -4860,61 +4213,15 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -136,
-    "under": 100,
-    "line": 10.5
-   },
-   {
-    "book": "fd",
-    "over": -125,
-    "under": -104,
-    "line": 10.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Rhyne Howard",
-  "player_key": "rhyne howard",
-  "team": "ATL",
-  "game": "WAS @ ATL",
-  "market": "pts_reb",
-  "line": 21.5,
-  "quotes": [
-   {
-    "book": "dk",
     "over": -127,
     "under": -107,
-    "line": 21.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Shakira Austin",
-  "player_key": "shakira austin",
-  "team": "WAS",
-  "game": "WAS @ ATL",
-  "market": "pts_reb",
-  "line": 28.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -116,
-    "under": -117,
-    "line": 28.5
+    "line": 10.5
    },
    {
     "book": "fd",
-    "over": -102,
-    "under": -130,
-    "line": 28.5
+    "over": -132,
+    "under": 100,
+    "line": 10.5
    }
   ],
   "app_sides": [
@@ -4932,14 +4239,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -126,
-    "under": -108,
+    "over": -129,
+    "under": -105,
     "line": 18.5
    },
    {
     "book": "fd",
-    "over": -125,
-    "under": -106,
+    "over": -118,
+    "under": -110,
     "line": 18.5
    }
   ],
@@ -4958,14 +4265,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -143,
-    "under": 105,
+    "over": -147,
+    "under": 108,
     "line": 5.5
    },
    {
     "book": "fd",
-    "over": -152,
-    "under": 114,
+    "over": -154,
+    "under": 116,
     "line": 5.5
    }
   ],
@@ -4983,8 +4290,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -109,
-    "under": -125,
+    "over": -102,
+    "under": -133,
     "line": 15.5
    }
   ],
@@ -5003,8 +4310,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 100,
-    "under": -136,
+    "over": 102,
+    "under": -138,
+    "line": 10.5
+   },
+   {
+    "book": "fd",
+    "over": 112,
+    "under": -148,
     "line": 10.5
    }
   ],
@@ -5023,14 +4336,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 104,
-    "under": -141,
+    "over": -103,
+    "under": -132,
     "line": 7.5
    },
    {
     "book": "fd",
-    "over": 102,
-    "under": -136,
+    "over": 104,
+    "under": -138,
     "line": 7.5
    }
   ],
@@ -5049,14 +4362,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -139,
-    "under": 102,
+    "over": -137,
+    "under": 101,
     "line": 11.5
    },
    {
     "book": "fd",
-    "over": -136,
-    "under": 102,
+    "over": -122,
+    "under": -108,
     "line": 11.5
    }
   ],
@@ -5068,21 +4381,15 @@
  {
   "player": "Sonia Citron",
   "player_key": "sonia citron",
-  "team": "WAS",
+  "team": "",
   "game": "WAS @ ATL",
   "market": "reb_ast",
   "line": 7.5,
   "quotes": [
    {
-    "book": "dk",
-    "over": -126,
-    "under": -108,
-    "line": 7.5
-   },
-   {
     "book": "fd",
-    "over": -154,
-    "under": 116,
+    "over": -152,
+    "under": 114,
     "line": 7.5
    }
   ],
@@ -5101,8 +4408,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -119,
-    "under": -114,
+    "over": -113,
+    "under": -121,
     "line": 12.5
    },
    {
@@ -5127,14 +4434,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -140,
-    "under": 103,
+    "over": -148,
+    "under": 109,
     "line": 8.5
    },
    {
     "book": "fd",
-    "over": -154,
-    "under": 116,
+    "over": -152,
+    "under": 114,
     "line": 8.5
    }
   ],
@@ -5152,14 +4459,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -117,
-    "under": -116,
+    "over": -105,
+    "under": -130,
     "line": 2.5
    },
    {
     "book": "fd",
-    "over": -108,
-    "under": -122,
+    "over": 108,
+    "under": -144,
     "line": 2.5
    }
   ],
@@ -5178,14 +4485,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -132,
+    "over": -131,
     "under": -103,
     "line": 3.5
    },
    {
     "book": "fd",
-    "over": -130,
-    "under": -102,
+    "over": -125,
+    "under": -106,
     "line": 3.5
    }
   ],
@@ -5204,8 +4511,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 105,
-    "under": -142,
+    "over": -106,
+    "under": -129,
     "line": 9.5
    },
    {

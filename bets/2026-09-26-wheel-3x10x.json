@@ -1,0 +1,88 @@
+{
+ "placed_at": "2026-09-26T19:30:00-05:00",
+ "promo": {
+  "wheel": "3x (95%) / 10x (5%)",
+  "multiplier": 3.35,
+  "legs_per_ticket": 2,
+  "breakeven_per_leg": 0.5464
+ },
+ "structure": "4 of 10 entries used: Gray+Kiki mirrored on both apps, plus Gray+Waddle and Gray+Wilson",
+ "entries_placed": 4,
+ "apps": 2,
+ "concentration_note": "Gray appeared on all 4 entries, so P(zero) was 48.1% regardless of the other legs. Flagged before the games; remaining 6 entries were left unused.",
+ "legs": [
+  {
+   "player": "Allisha Gray",
+   "market": "reb_ast",
+   "line": 5.5,
+   "side": "over",
+   "sport": "WNBA",
+   "game": "WAS @ ATL",
+   "true_p_at_bet": 0.56,
+   "books": 2,
+   "result": false
+  },
+  {
+   "player": "Kiki Iriafen",
+   "market": "rebounds",
+   "line": 8.5,
+   "side": "over",
+   "sport": "WNBA",
+   "game": "WAS @ ATL",
+   "true_p_at_bet": 0.559,
+   "books": 2,
+   "result": true
+  },
+  {
+   "player": "Jaylen Waddle",
+   "market": "receptions",
+   "line": 4.5,
+   "side": "over",
+   "sport": "NFL",
+   "game": "LAR @ DEN",
+   "true_p_at_bet": 0.57,
+   "books": 2,
+   "result": false
+  },
+  {
+   "player": "Michael Wilson",
+   "market": "receptions",
+   "line": 3.5,
+   "side": "over",
+   "sport": "NFL",
+   "game": "ARI @ SF",
+   "true_p_at_bet": 0.572,
+   "books": 2,
+   "result": true
+  }
+ ],
+ "tickets_placed": [
+  [
+   "Allisha Gray",
+   "Kiki Iriafen"
+  ],
+  [
+   "Allisha Gray",
+   "Kiki Iriafen"
+  ],
+  [
+   "Allisha Gray",
+   "Jaylen Waddle"
+  ],
+  [
+   "Allisha Gray",
+   "Michael Wilson"
+  ]
+ ],
+ "graded": {
+  "graded_at": "2026-09-27",
+  "legs_hit": 2,
+  "legs": 4,
+  "tickets_cashed": 0,
+  "entries": 4,
+  "returned": 0.0,
+  "net": -4.0,
+  "note": "Gray was on every entry and missed, so the card was dead on that one leg."
+ },
+ "resolves": "Sun 2026-09-27"
+}

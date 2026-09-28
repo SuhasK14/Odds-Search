@@ -20,7 +20,7 @@
    "true_p_at_bet": 0.569,
    "spread": 0.004,
    "books": 2,
-   "result": null
+   "result": false
   },
   {
    "player": "Pat Freiermuth",
@@ -32,7 +32,7 @@
    "true_p_at_bet": 0.559,
    "spread": 0.0,
    "books": 1,
-   "result": null
+   "result": false
   },
   {
    "player": "Seth Lugo",
@@ -69,5 +69,15 @@
   "expected_profit_units": 0.371
  },
  "resolves": "NFL week 3 Sun 2026-09-27 (BAL@DAL 3:25, CIN@PIT 12:00); MLB CWS@KC 2026-09-23",
- "note": "Seth Lugo graded (hit) 2026-09-23. Javonte Williams and Pat Freiermuth resolve Sun 2026-09-27; set their result then grade tickets."
+ "note": "Graded 2026-09-27. Blanked.",
+ "graded": {
+  "graded_at": "2026-09-27",
+  "legs_hit": 1,
+  "legs": 3,
+  "tickets_cashed": 0,
+  "entries": 6,
+  "returned": 0.0,
+  "net": -6.0,
+  "note": "Lugo hit Wednesday; both NFL legs missed Sunday, so no pair completed."
+ }
 }
