@@ -6,25 +6,25 @@ wk3,over,Dak Prescott,BAL @ DAL,pass_tds,1.5,0.5642,2,N
 wk3,over,Jaylen Waddle,LAR @ DEN,receptions,4.5,0.5633,2,N
 wk2,over,Demarcus Robinson,MIA @ SF,receptions,1.5,0.5630,2,Y
 wk3,over,Amon-Ra St. Brown,NYJ @ DET,receptions,6.5,0.5608,2,N
-wk2,over,David Njoku,LV @ LAC,receptions,2.5,0.5599,2,
+wk2,over,David Njoku,LV @ LAC,receptions,2.5,0.5599,2,N
 wk2,over,D'Andre Swift,MIN @ CHI,receptions,1.5,0.5596,2,Y
 wk2,over,Jonathan Taylor,IND @ KC,anytime_td,0.5,0.5592,2,Y
 wk3,over,Javonte Williams,BAL @ DAL,receptions,2.5,0.5578,2,N
-wk2,over,Deshaun Watson,CLE @ TB,interceptions,0.5,0.5569,1,
+wk2,over,Deshaun Watson,CLE @ TB,interceptions,0.5,0.5569,1,N
 wk3,over,D'Andre Swift,PHI @ CHI,receptions,1.5,0.5561,2,Y
-wk2,over,D'Andre Swift,MIN @ CHI,anytime_td,0.5,0.5556,2,
-wk2,over,Joe Burrow,CIN @ HOU,interceptions,0.5,0.5551,1,
-wk3,over,Harrison Butker,KC @ MIA,field_goals_made,1.5,0.5551,1,
-wk3,over,Erick All,CIN @ PIT,receptions,0.5,0.5546,2,
-wk2,over,Travis Kelce,IND @ KC,receptions,3.5,0.5525,2,
-wk3,over,Harold Fannin Jr.,CAR @ CLE,receptions,3.5,0.5523,2,
-wk2,over,Jeremiyah Love,SEA @ ARI,receptions,2.5,0.5519,2,
-wk3,over,Evan McPherson,CIN @ PIT,field_goals_made,1.5,0.5513,1,
-wk3,over,Jameson Williams,NYJ @ DET,receptions,3.5,0.5511,3,
-wk2,over,Jacoby Brissett,SEA @ ARI,interceptions,0.5,0.5506,1,
+wk2,over,D'Andre Swift,MIN @ CHI,anytime_td,0.5,0.5556,2,N
+wk2,over,Joe Burrow,CIN @ HOU,interceptions,0.5,0.5551,1,N
+wk3,over,Harrison Butker,KC @ MIA,field_goals_made,1.5,0.5551,1,N
+wk3,over,Erick All,CIN @ PIT,receptions,0.5,0.5546,2,N
+wk2,over,Travis Kelce,IND @ KC,receptions,3.5,0.5525,2,Y
+wk3,over,Harold Fannin Jr.,CAR @ CLE,receptions,3.5,0.5523,2,Y
+wk2,over,Jeremiyah Love,SEA @ ARI,receptions,2.5,0.5519,2,Y
+wk3,over,Evan McPherson,CIN @ PIT,field_goals_made,1.5,0.5513,1,Y
+wk3,over,Jameson Williams,NYJ @ DET,receptions,3.5,0.5511,3,Y
+wk2,over,Jacoby Brissett,SEA @ ARI,interceptions,0.5,0.5506,1,Y
 wk3,under,Jaylin Noel,HOU @ IND,receptions,2.5,0.5668,2,Y
 wk3,under,Kevin Coleman,KC @ MIA,receptions,1.5,0.5588,2,Y
-wk3,under,Chuba Hubbard,CAR @ CLE,receptions,2.5,0.5536,2,
-wk3,under,Roman Wilson,CIN @ PIT,receptions,2.5,0.5523,2,
-wk3,under,Carnell Tate,TEN @ NYG,receptions,3.5,0.5514,2,
-wk3,under,Xavier Hutchinson,HOU @ IND,receptions,3.5,0.5505,2,
+wk3,under,Chuba Hubbard,CAR @ CLE,receptions,2.5,0.5536,2,N
+wk3,under,Roman Wilson,CIN @ PIT,receptions,2.5,0.5523,2,N
+wk3,under,Carnell Tate,TEN @ NYG,receptions,3.5,0.5514,2,N
+wk3,under,Xavier Hutchinson,HOU @ IND,receptions,3.5,0.5505,2,Y
