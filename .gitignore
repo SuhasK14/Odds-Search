@@ -9,3 +9,6 @@ seasons/**/props.json
 # secrets - never commit
 .env
 *.key
+
+# snapshot run log (the .jsonl data is kept)
+snapshots/*.log

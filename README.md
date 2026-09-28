@@ -64,6 +64,40 @@ League and subcategory ids were discovered live (NFL 2026-09-16, MLB and WNBA
 differently from FanDuel (Athletics, Giants, Nationals, Liberty); `DK_TEAM_ALIAS`
 reconciles them and any new mismatch is logged rather than silently split.
 
+## Price history (snapshot.py)
+
+The promo board only appears on Saturday, so Saturday's price is the one you
+have to take. But the books post all week, and watching a price move is the
+only way to tell a number that drifted on news from one that drifted on flow.
+
+`snapshot.py` is the opposite of `run.py`: it needs no Boom input at all. It
+pulls everything DK and FanDuel post for a sport, devigs it, and appends a
+timestamped row per prop to `snapshots/<sport>.jsonl`. Free -- it never touches
+the Odds API.
+
+```bash
+python snapshot.py --sport nfl                    # take one snapshot
+python snapshot.py --report --sport nfl           # how prices moved
+python snapshot.py --report --sport nfl     --available seasons/2026-nfl/week-04/available.txt   # only props Boom offers
+```
+
+The `--available` form is the Saturday cross-check: once the recording is
+transcribed, it shows the week's price path for exactly the props you can bet.
+
+**Scheduled twice daily** via Windows Task Scheduler, Wed/Thu/Fri/Sat at 09:00
+and 19:00, through `snapshot.bat`:
+
+```bash
+schtasks /Query /TN "OddsSearch-snapshot-AM"
+schtasks /Delete /TN "OddsSearch-snapshot-AM" /F     # to stop it
+```
+
+Output goes to `snapshots/snapshot.log` (gitignored); the `.jsonl` data is
+tracked, so commit it periodically -- the scheduled run cannot commit for you.
+
+Expect thin early-week snapshots. DraftKings posts NFL props close to game day,
+so a Wednesday pull may only hold a game or two.
+
 ## Bet log
 
 `bets/<date>-<promo>.json` records what was actually placed: the legs with their
