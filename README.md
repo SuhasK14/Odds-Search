@@ -92,6 +92,16 @@ schtasks /Query /TN "OddsSearch-snapshot-AM"
 schtasks /Delete /TN "OddsSearch-snapshot-AM" /F     # to stop it
 ```
 
+**If you recreate the tasks**, `schtasks /Create` alone is not enough on a
+laptop: its defaults refuse to start on battery (error `0x800710E0`) and drop
+any run the machine slept through. Both bit us on the first Wednesday. After
+creating them, run in PowerShell:
+
+```powershell
+$s = New-ScheduledTaskSettingsSet -AllowStartIfOnBatteries -DontStopIfGoingOnBatteries -StartWhenAvailable
+"OddsSearch-snapshot-AM","OddsSearch-snapshot-PM" | % { Set-ScheduledTask -TaskName $_ -Settings $s }
+```
+
 Output goes to `snapshots/snapshot.log` (gitignored); the `.jsonl` data is
 tracked, so commit it periodically -- the scheduled run cannot commit for you.
 
