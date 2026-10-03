@@ -1,0 +1,206 @@
+[
+ {
+  "player": "Tarik Skubal",
+  "player_key": "tarik skubal",
+  "team": "LAD",
+  "game": "ATL @ LAD",
+  "market": "hits_allowed",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -119,
+    "under": -112,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Tarik Skubal",
+  "player_key": "tarik skubal",
+  "team": "LAD",
+  "game": "ATL @ LAD",
+  "market": "strikeouts",
+  "line": 6.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -153,
+    "under": 120,
+    "line": 6.5
+   },
+   {
+    "book": "fd",
+    "over": -140,
+    "under": 110,
+    "line": 6.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Drew Rasmussen",
+  "player_key": "drew rasmussen",
+  "team": "TB",
+  "game": "NYY @ TB",
+  "market": "hits_allowed",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -146,
+    "under": 110,
+    "line": 3.5
+   },
+   {
+    "book": "mgm",
+    "over": -125,
+    "under": -105,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Drew Rasmussen",
+  "player_key": "drew rasmussen",
+  "team": "TB",
+  "game": "NYY @ TB",
+  "market": "pitching_outs",
+  "line": 16.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -143,
+    "under": 108,
+    "line": 16.5
+   },
+   {
+    "book": "fd",
+    "over": -120,
+    "under": -112,
+    "line": 16.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Gerrit Cole",
+  "player_key": "gerrit cole",
+  "team": "NYY",
+  "game": "NYY @ TB",
+  "market": "pitching_outs",
+  "line": 16.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -136,
+    "under": 103,
+    "line": 16.5
+   },
+   {
+    "book": "fd",
+    "over": -138,
+    "under": 104,
+    "line": 16.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jacob Misiorowski",
+  "player_key": "jacob misiorowski",
+  "team": "MIL",
+  "game": "SD @ MIL",
+  "market": "hits_allowed",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -127,
+    "under": -105,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Robbie Ray",
+  "player_key": "robbie ray",
+  "team": "SD",
+  "game": "SD @ MIL",
+  "market": "hits_allowed",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -143,
+    "under": 107,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jacob Misiorowski",
+  "player_key": "jacob misiorowski",
+  "team": "MIL",
+  "game": "SD @ MIL",
+  "market": "pitching_outs",
+  "line": 17.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -136,
+    "under": 103,
+    "line": 17.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Robbie Ray",
+  "player_key": "robbie ray",
+  "team": "SD",
+  "game": "SD @ MIL",
+  "market": "pitching_outs",
+  "line": 11.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -110,
+    "under": -120,
+    "line": 11.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ }
+]

@@ -1,0 +1,51 @@
+221 legs priced; top 20 shown. Tickets use legs at or above 56% (break-even 53.0%, multiplier 6.70x).
+1-sided legs: true_p = implied(yes price) / 1.08. That divisor is an assumption (--one-sided-overround), not a measurement.
+pref = Suhas's market preference rank: 1=receptions, 2=pass_tds, 3=targets, 4=anytime_td, 5=pass_attempts, 6=rush_attempts, 7=interceptions, 8=field_goals_made, 9=completions
+
+#  leg                                            true   spr  bk  opp  pref  flags
+----------------------------------------------------------------------------------
+1  Chuba Hubbard OVER 2.5 receptions             57.2%  3.0   3    6     1  thin
+2  Kyler Murray OVER 4.5 rush_attempts           56.8%  0.0   1   15     6  1 book
+3  Braelon Allen OVER 1.5 receptions             56.4%  1.1   2    6     1  
+4  Amon-Ra St. Brown OVER 6.5 receptions         56.2%  1.2   3    6     1  
+5  Jalen Hurts UNDER 6.5 rush_attempts           56.1%  0.0   1   15     6  1 book
+6  Oronde Gadsden OVER 2.5 receptions            55.9%  0.1   2    6     1  
+7  Brock Wright OVER 0.5 receptions              55.9%  0.0   1    6     1  1 book
+8  Josh Allen OVER 7.5 rush_attempts             55.8%  0.0   1   15     6  1 book
+9  George Pickens OVER 4.5 receptions            55.4%  0.6   2    6     1  
+10 Davante Adams OVER 4.5 receptions             55.4%  1.0   2    6     1  
+11 Gunnar Helm OVER 2.5 receptions               55.4%  1.0   2    6     1  
+12 Bhayshul Tuten OVER 1.5 receptions            55.3%  0.5   2    6     1  
+13 Kirk Cousins OVER 0.5 interceptions           55.3%  2.8   3    6     7  
+14 Drake London OVER 5.5 receptions              55.2%  2.9   3    6     1  
+15 Jordan Love UNDER 1.5 pass_tds                55.1%  2.9   2   32     2  
+16 Demario Douglas OVER 2.5 receptions           55.1%  1.5   2    6     1  
+17 Brock Bowers OVER 6.5 receptions              55.0%  1.7   2    6     1  
+18 TJ Hockenson UNDER 4.5 receptions             55.0%  4.3   2    6     1  thin
+19 Trey McBride OVER 6.5 receptions              54.9%  0.0   1    6     1  1 book
+20 Kyle Pitts Sr. OVER 2.5 receptions            54.8%  1.6   3    6     1  
+
+STRUCTURE: leave-two-out on top 5
+
+TICKETS (10)
+   1. Chuba Hubbard OVER 2.5 recep  |  Kyler Murray OVER 4.5 rush_a  |  Braelon Allen OVER 1.5 recep
+   2. Chuba Hubbard OVER 2.5 recep  |  Kyler Murray OVER 4.5 rush_a  |  Amon-Ra St. Brown OVER 6.5 r
+   3. Chuba Hubbard OVER 2.5 recep  |  Kyler Murray OVER 4.5 rush_a  |  Jalen Hurts UNDER 6.5 rush_a
+   4. Chuba Hubbard OVER 2.5 recep  |  Braelon Allen OVER 1.5 recep  |  Amon-Ra St. Brown OVER 6.5 r
+   5. Chuba Hubbard OVER 2.5 recep  |  Braelon Allen OVER 1.5 recep  |  Jalen Hurts UNDER 6.5 rush_a
+   6. Chuba Hubbard OVER 2.5 recep  |  Amon-Ra St. Brown OVER 6.5 r  |  Jalen Hurts UNDER 6.5 rush_a
+   7. Kyler Murray OVER 4.5 rush_a  |  Braelon Allen OVER 1.5 recep  |  Amon-Ra St. Brown OVER 6.5 r
+   8. Kyler Murray OVER 4.5 rush_a  |  Braelon Allen OVER 1.5 recep  |  Jalen Hurts UNDER 6.5 rush_a
+   9. Kyler Murray OVER 4.5 rush_a  |  Amon-Ra St. Brown OVER 6.5 r  |  Jalen Hurts UNDER 6.5 rush_a
+  10. Braelon Allen OVER 1.5 recep  |  Amon-Ra St. Brown OVER 6.5 r  |  Jalen Hurts UNDER 6.5 rush_a
+
+EV per entry      +21.2%
+P(zero return)    37.8%
+P(profit)         28.0%
+Kelly (quarter)   2.4% of bankroll  <-- use this
+
+outcome distribution (tickets cashing -> probability)
+   0 cash   37.8%   return    0.0 on 10 staked
+   1 cash   34.1%   return    6.7 on 10 staked
+   4 cash   22.2%   return   26.8 on 10 staked
+  10 cash    5.8%   return   67.0 on 10 staked

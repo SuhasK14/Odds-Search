@@ -1,0 +1,28 @@
+132 legs priced; top 20 shown. Tickets use legs at or above 56% (break-even 53.0%, multiplier 6.70x).
+pref = Suhas's market preference rank: 1=points, 2=rebounds, 3=assists, 4=pts_reb, 5=pts_ast, 6=reb_ast, 7=pra, 8=threes
+
+#  leg                                            true   spr  bk  opp  pref  flags
+----------------------------------------------------------------------------------
+1  Jonquel Jones OVER 1.5 threes                 56.2%  1.0   2    7     8  
+2  Gabby Williams OVER 6.5 reb_ast               55.7%  0.0   1   18     6  1 book
+3  Kiah Stokes OVER 4.5 pts_ast                  55.5%  0.0   1   28     5  1 book
+4  Sabrina Ionescu OVER 4.5 assists              55.3%  0.0   1    8     3  1 book
+5  Veronica Burton UNDER 9.5 reb_ast             54.9%  2.8   2   18     6  
+6  Rhyne Howard UNDER 7.5 reb_ast                54.9%  3.6   2   18     6  thin
+7  Breanna Stewart OVER 0.5 threes               54.7%  1.8   2    7     8  
+8  Leonie Fiebich OVER 5.5 reb_ast               54.4%  0.0   1   18     6  1 book
+9  Chelsea Gray UNDER 6.5 assists                54.1%  0.7   2    8     3  
+10 Stephanie Talbot UNDER 10.5 pra               54.0%  0.4   2   30     7  
+11 Kiah Stokes UNDER 1.5 assists                 53.9%  0.0   1    8     3  1 book
+12 A'ja Wilson OVER 0.5 threes                   53.7%  1.0   2    7     8  
+13 Jewell Loyd OVER 10.5 pra                     53.5%  0.0   1   30     7  1 book
+14 Pauline Astier UNDER 3.5 rebounds             53.5%  0.6   2   10     2  
+15 Jonquel Jones UNDER 14.5 points               53.5%  1.8   2   20     1  
+16 Pauline Astier OVER 7.5 points                53.4%  2.0   2   20     1  
+17 Naz Hillmon OVER 7.5 pts_ast                  53.3%  0.0   1   28     5  1 book
+18 Jordin Canada OVER 21.5 pra                   53.2%  0.0   1   30     7  1 book
+19 Rhyne Howard UNDER 3.5 assists                53.2%  2.0   2    8     3  
+20 Sabrina Ionescu OVER 8.5 reb_ast              53.2%  2.0   2   18     6  
+
+STRUCTURE: only 1 qualifying legs -- do not force entries
+No slate. Unused entries cost nothing; bad legs cost money.

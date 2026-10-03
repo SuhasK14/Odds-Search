@@ -1,0 +1,12 @@
+# promo app availability, compiled by video.py
+# Player Name | market | line | sides | game
+Tarik Skubal | hits_allowed | 4.5 | over,under | ATL @ LAD
+Dylan Dodd | pitching_outs | 3.5 | over,under | ATL @ LAD
+Tarik Skubal | strikeouts | 6.5 | over,under | ATL @ LAD
+Drew Rasmussen | hits_allowed | 3.5 | over,under | NYY @ TB
+Drew Rasmussen | pitching_outs | 16.5 | over,under | NYY @ TB
+Gerrit Cole | pitching_outs | 16.5 | over,under | NYY @ TB
+Jacob Misiorowski | hits_allowed | 3.5 | over,under | SD @ MIL
+Robbie Ray | hits_allowed | 3.5 | over,under | SD @ MIL
+Jacob Misiorowski | pitching_outs | 17.5 | over,under | SD @ MIL
+Robbie Ray | pitching_outs | 11.5 | over,under | SD @ MIL

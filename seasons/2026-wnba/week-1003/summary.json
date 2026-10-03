@@ -1,0 +1,1004 @@
+{
+ "week": 1003,
+ "season": "2026-wnba",
+ "props_in_app": 142,
+ "book_records": 196,
+ "matched": 132,
+ "matched_two_books": 86,
+ "unmatched": [
+  [
+   "Chelsea Gray",
+   "points",
+   12.5,
+   "line mismatch: app 12.5, books dk 11.5; fd 11.5. No two-way alternate line exists at either book, so no estimate."
+  ],
+  [
+   "Tiffany Hayes",
+   "points",
+   8.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Chelsea Gray",
+   "pra",
+   22.5,
+   "line mismatch: app 22.5, books fd 20.5; dk 21.5. No two-way alternate line exists at either book, so no estimate."
+  ],
+  [
+   "Chelsea Gray",
+   "pts_reb",
+   15.5,
+   "line mismatch: app 15.5, books dk 14.5; fd 14.5. No two-way alternate line exists at either book, so no estimate."
+  ],
+  [
+   "Kaila Charles",
+   "pts_reb",
+   9.5,
+   "player found but not for pts_reb (books have ['points'])"
+  ],
+  [
+   "Kaila Charles",
+   "rebounds",
+   4.5,
+   "player found but not for rebounds (books have ['points'])"
+  ],
+  [
+   "DeWanna Bonner",
+   "assists",
+   1.5,
+   "player found but not for assists (books have ['points', 'rebounds'])"
+  ],
+  [
+   "DeWanna Bonner",
+   "pts_ast",
+   9.5,
+   "player found but not for pts_ast (books have ['points', 'rebounds'])"
+  ],
+  [
+   "DeWanna Bonner",
+   "pts_reb",
+   11.5,
+   "player found but not for pts_reb (books have ['points', 'rebounds'])"
+  ],
+  [
+   "DeWanna Bonner",
+   "reb_ast",
+   6.5,
+   "player found but not for reb_ast (books have ['points', 'rebounds'])"
+  ]
+ ],
+ "legs_priced": 132,
+ "legs_clear": 1,
+ "threshold": 0.56,
+ "structure": "only 1 qualifying legs -- do not force entries",
+ "tickets": [],
+ "p_zero": null,
+ "roi": null,
+ "kelly_quarter": null,
+ "board": [
+  {
+   "leg": "Jonquel Jones OVER 1.5 threes",
+   "true_p": 0.5623,
+   "spread": 0.0095,
+   "books": 2,
+   "opportunity": 7
+  },
+  {
+   "leg": "Gabby Williams OVER 6.5 reb_ast",
+   "true_p": 0.5569,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  },
+  {
+   "leg": "Kiah Stokes OVER 4.5 pts_ast",
+   "true_p": 0.555,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 28
+  },
+  {
+   "leg": "Sabrina Ionescu OVER 4.5 assists",
+   "true_p": 0.5532,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 8
+  },
+  {
+   "leg": "Veronica Burton UNDER 9.5 reb_ast",
+   "true_p": 0.5495,
+   "spread": 0.028,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Rhyne Howard UNDER 7.5 reb_ast",
+   "true_p": 0.5488,
+   "spread": 0.0364,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Breanna Stewart OVER 0.5 threes",
+   "true_p": 0.5468,
+   "spread": 0.0178,
+   "books": 2,
+   "opportunity": 7
+  },
+  {
+   "leg": "Leonie Fiebich OVER 5.5 reb_ast",
+   "true_p": 0.5441,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  },
+  {
+   "leg": "Chelsea Gray UNDER 6.5 assists",
+   "true_p": 0.5414,
+   "spread": 0.0069,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Stephanie Talbot UNDER 10.5 pra",
+   "true_p": 0.5397,
+   "spread": 0.0044,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Kiah Stokes UNDER 1.5 assists",
+   "true_p": 0.5394,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 8
+  },
+  {
+   "leg": "A'ja Wilson OVER 0.5 threes",
+   "true_p": 0.5372,
+   "spread": 0.0099,
+   "books": 2,
+   "opportunity": 7
+  },
+  {
+   "leg": "Jewell Loyd OVER 10.5 pra",
+   "true_p": 0.5354,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 30
+  },
+  {
+   "leg": "Pauline Astier UNDER 3.5 rebounds",
+   "true_p": 0.5352,
+   "spread": 0.0059,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Jonquel Jones UNDER 14.5 points",
+   "true_p": 0.5352,
+   "spread": 0.0182,
+   "books": 2,
+   "opportunity": 20
+  },
+  {
+   "leg": "Pauline Astier OVER 7.5 points",
+   "true_p": 0.5339,
+   "spread": 0.02,
+   "books": 2,
+   "opportunity": 20
+  },
+  {
+   "leg": "Naz Hillmon OVER 7.5 pts_ast",
+   "true_p": 0.5334,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 28
+  },
+  {
+   "leg": "Jordin Canada OVER 21.5 pra",
+   "true_p": 0.5323,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 30
+  },
+  {
+   "leg": "Rhyne Howard UNDER 3.5 assists",
+   "true_p": 0.5318,
+   "spread": 0.0201,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Sabrina Ionescu OVER 8.5 reb_ast",
+   "true_p": 0.5318,
+   "spread": 0.0201,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Sabrina Ionescu OVER 3.5 rebounds",
+   "true_p": 0.5314,
+   "spread": 0.0016,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Janelle Salaun UNDER 11.5 pts_ast",
+   "true_p": 0.5306,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 28
+  },
+  {
+   "leg": "Veronica Burton OVER 11.5 points",
+   "true_p": 0.5306,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 20
+  },
+  {
+   "leg": "Jordin Canada OVER 10.5 points",
+   "true_p": 0.5306,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 20
+  },
+  {
+   "leg": "A'ja Wilson UNDER 25.5 points",
+   "true_p": 0.5306,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 20
+  },
+  {
+   "leg": "Leonie Fiebich OVER 11.5 pts_reb",
+   "true_p": 0.5282,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 30
+  },
+  {
+   "leg": "Sabrina Ionescu OVER 18.5 pts_reb",
+   "true_p": 0.528,
+   "spread": 0.0085,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Kiah Stokes UNDER 11.5 pra",
+   "true_p": 0.5278,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 30
+  },
+  {
+   "leg": "Allisha Gray UNDER 1.5 threes",
+   "true_p": 0.5274,
+   "spread": 0.0016,
+   "books": 2,
+   "opportunity": 7
+  },
+  {
+   "leg": "Jonquel Jones UNDER 9.5 rebounds",
+   "true_p": 0.5273,
+   "spread": 0.0065,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Allisha Gray OVER 18.5 points",
+   "true_p": 0.5265,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 20
+  },
+  {
+   "leg": "Cecilia Zandalasini UNDER 9.5 pts_ast",
+   "true_p": 0.5258,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 28
+  },
+  {
+   "leg": "Rhyne Howard OVER 3.5 rebounds",
+   "true_p": 0.525,
+   "spread": 0.0064,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Janelle Salaun OVER 4.5 reb_ast",
+   "true_p": 0.5246,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  },
+  {
+   "leg": "Angel Reese OVER 30.5 pra",
+   "true_p": 0.5241,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 30
+  },
+  {
+   "leg": "Jordin Canada OVER 18.5 pts_ast",
+   "true_p": 0.5239,
+   "spread": 0.0003,
+   "books": 2,
+   "opportunity": 28
+  },
+  {
+   "leg": "Breanna Stewart OVER 8.5 rebounds",
+   "true_p": 0.5239,
+   "spread": 0.0095,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Stephanie Talbot UNDER 5.5 points",
+   "true_p": 0.5239,
+   "spread": 0.0135,
+   "books": 2,
+   "opportunity": 20
+  },
+  {
+   "leg": "DeWanna Bonner OVER 6.5 points",
+   "true_p": 0.5239,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 20
+  },
+  {
+   "leg": "Sabrina Ionescu UNDER 15.5 points",
+   "true_p": 0.5238,
+   "spread": 0.0046,
+   "books": 2,
+   "opportunity": 20
+  },
+  {
+   "leg": "Cecilia Zandalasini UNDER 11.5 pra",
+   "true_p": 0.5238,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 30
+  },
+  {
+   "leg": "Pauline Astier OVER 6.5 reb_ast",
+   "true_p": 0.5236,
+   "spread": 0.0174,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Pauline Astier UNDER 11.5 pts_ast",
+   "true_p": 0.523,
+   "spread": 0.0184,
+   "books": 2,
+   "opportunity": 28
+  },
+  {
+   "leg": "Leonie Fiebich UNDER 8.5 points",
+   "true_p": 0.5229,
+   "spread": 0.0155,
+   "books": 2,
+   "opportunity": 20
+  },
+  {
+   "leg": "Jordin Canada UNDER 14.5 pts_reb",
+   "true_p": 0.5226,
+   "spread": 0.0194,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "A'ja Wilson UNDER 28.5 pts_ast",
+   "true_p": 0.5219,
+   "spread": 0.0043,
+   "books": 2,
+   "opportunity": 28
+  },
+  {
+   "leg": "Janelle Salaun OVER 1.5 threes",
+   "true_p": 0.5219,
+   "spread": 0.0043,
+   "books": 2,
+   "opportunity": 7
+  },
+  {
+   "leg": "Chelsea Gray UNDER 18.5 pts_ast",
+   "true_p": 0.5206,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 28
+  },
+  {
+   "leg": "Stephanie Talbot OVER 6.5 pts_ast",
+   "true_p": 0.5198,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 28
+  },
+  {
+   "leg": "Jordin Canada OVER 10.5 reb_ast",
+   "true_p": 0.5195,
+   "spread": 0.0172,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Jackie Young OVER 29.5 pra",
+   "true_p": 0.5192,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 30
+  },
+  {
+   "leg": "Gabby Williams OVER 21.5 pts_ast",
+   "true_p": 0.5192,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 28
+  },
+  {
+   "leg": "Jonquel Jones OVER 25.5 pra",
+   "true_p": 0.519,
+   "spread": 0.0003,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "A'ja Wilson UNDER 10.5 rebounds",
+   "true_p": 0.518,
+   "spread": 0.0076,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Jewell Loyd OVER 3.5 reb_ast",
+   "true_p": 0.5178,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  },
+  {
+   "leg": "Jewell Loyd OVER 9.5 pts_reb",
+   "true_p": 0.5175,
+   "spread": 0.0132,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Rhyne Howard UNDER 26.5 pra",
+   "true_p": 0.5169,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 30
+  },
+  {
+   "leg": "Cecilia Zandalasini UNDER 7.5 points",
+   "true_p": 0.5168,
+   "spread": 0.0194,
+   "books": 2,
+   "opportunity": 20
+  },
+  {
+   "leg": "Janelle Salaun OVER 9.5 points",
+   "true_p": 0.5168,
+   "spread": 0.0089,
+   "books": 2,
+   "opportunity": 20
+  },
+  {
+   "leg": "Jewell Loyd UNDER 7.5 points",
+   "true_p": 0.5168,
+   "spread": 0.0089,
+   "books": 2,
+   "opportunity": 20
+  },
+  {
+   "leg": "Angel Reese UNDER 18.5 pts_ast",
+   "true_p": 0.5166,
+   "spread": 0.0232,
+   "books": 2,
+   "opportunity": 28
+  },
+  {
+   "leg": "Veronica Burton UNDER 5.5 assists",
+   "true_p": 0.5165,
+   "spread": 0.0152,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Pauline Astier OVER 14.5 pra",
+   "true_p": 0.5164,
+   "spread": 0.0125,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Kayla Thornton OVER 4.5 rebounds",
+   "true_p": 0.516,
+   "spread": 0.0062,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Jackie Young UNDER 19.5 points",
+   "true_p": 0.5158,
+   "spread": 0.0296,
+   "books": 2,
+   "opportunity": 20
+  },
+  {
+   "leg": "Kayla Thornton OVER 6.5 points",
+   "true_p": 0.5158,
+   "spread": 0.0114,
+   "books": 2,
+   "opportunity": 20
+  },
+  {
+   "leg": "Angel Reese OVER 12.5 rebounds",
+   "true_p": 0.5157,
+   "spread": 0.0314,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Sabrina Ionescu UNDER 24.5 pra",
+   "true_p": 0.5149,
+   "spread": 0.0096,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Naz Hillmon OVER 11.5 pra",
+   "true_p": 0.5149,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 30
+  },
+  {
+   "leg": "Allisha Gray UNDER 25.5 pra",
+   "true_p": 0.514,
+   "spread": 0.0102,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Naz Hillmon UNDER 10.5 pts_reb",
+   "true_p": 0.5138,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 30
+  },
+  {
+   "leg": "Stephanie Talbot OVER 8.5 pts_reb",
+   "true_p": 0.513,
+   "spread": 0.0024,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Sabrina Ionescu UNDER 20.5 pts_ast",
+   "true_p": 0.5129,
+   "spread": 0.0137,
+   "books": 2,
+   "opportunity": 28
+  },
+  {
+   "leg": "Gabby Williams UNDER 23.5 pts_reb",
+   "true_p": 0.5129,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 30
+  },
+  {
+   "leg": "Breanna Stewart UNDER 26.5 pts_ast",
+   "true_p": 0.5125,
+   "spread": 0.0033,
+   "books": 2,
+   "opportunity": 28
+  },
+  {
+   "leg": "Angel Reese UNDER 15.5 reb_ast",
+   "true_p": 0.5125,
+   "spread": 0.0231,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Allisha Gray UNDER 2.5 assists",
+   "true_p": 0.5124,
+   "spread": 0.0009,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Naz Hillmon OVER 3.5 rebounds",
+   "true_p": 0.5123,
+   "spread": 0.0246,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Veronica Burton OVER 15.5 pts_reb",
+   "true_p": 0.5119,
+   "spread": 0.0117,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Kayla Thornton OVER 5.5 reb_ast",
+   "true_p": 0.5118,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  },
+  {
+   "leg": "Rhyne Howard UNDER 22.5 pts_ast",
+   "true_p": 0.5118,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 28
+  },
+  {
+   "leg": "Gabby Williams UNDER 26.5 pra",
+   "true_p": 0.5109,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 30
+  },
+  {
+   "leg": "Kayla Thornton OVER 7.5 pts_ast",
+   "true_p": 0.5109,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 28
+  },
+  {
+   "leg": "Pauline Astier UNDER 11.5 pts_reb",
+   "true_p": 0.5106,
+   "spread": 0.0072,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Rhyne Howard UNDER 22.5 pts_reb",
+   "true_p": 0.5106,
+   "spread": 0.0072,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Jonquel Jones UNDER 16.5 pts_ast",
+   "true_p": 0.51,
+   "spread": 0.0083,
+   "books": 2,
+   "opportunity": 28
+  },
+  {
+   "leg": "Leonie Fiebich OVER 10.5 pts_ast",
+   "true_p": 0.5099,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 28
+  },
+  {
+   "leg": "DeWanna Bonner UNDER 4.5 rebounds",
+   "true_p": 0.5099,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 10
+  },
+  {
+   "leg": "Kiah Stokes UNDER 3.5 points",
+   "true_p": 0.5096,
+   "spread": 0.0192,
+   "books": 2,
+   "opportunity": 20
+  },
+  {
+   "leg": "Veronica Burton UNDER 21.5 pra",
+   "true_p": 0.5096,
+   "spread": 0.0092,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Jonquel Jones OVER 11.5 reb_ast",
+   "true_p": 0.5096,
+   "spread": 0.0092,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Janelle Salaun OVER 14.5 pra",
+   "true_p": 0.5085,
+   "spread": 0.0048,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Breanna Stewart UNDER 12.5 reb_ast",
+   "true_p": 0.5075,
+   "spread": 0.0029,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "A'ja Wilson OVER 38.5 pra",
+   "true_p": 0.5075,
+   "spread": 0.0029,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Cecilia Zandalasini UNDER 1.5 assists",
+   "true_p": 0.5069,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 8
+  },
+  {
+   "leg": "Kayla Thornton OVER 12.5 pra",
+   "true_p": 0.5069,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 30
+  },
+  {
+   "leg": "Stephanie Talbot UNDER 4.5 reb_ast",
+   "true_p": 0.5069,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  },
+  {
+   "leg": "Leonie Fiebich UNDER 14.5 pra",
+   "true_p": 0.5069,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 30
+  },
+  {
+   "leg": "Jackie Young UNDER 10.5 reb_ast",
+   "true_p": 0.5069,
+   "spread": 0.0138,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Breanna Stewart UNDER 35.5 pra",
+   "true_p": 0.5065,
+   "spread": 0.0009,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Kaila Charles UNDER 5.5 points",
+   "true_p": 0.5061,
+   "spread": 0.0122,
+   "books": 2,
+   "opportunity": 20
+  },
+  {
+   "leg": "A'ja Wilson OVER 13.5 reb_ast",
+   "true_p": 0.5055,
+   "spread": 0.0109,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Janelle Salaun UNDER 3.5 rebounds",
+   "true_p": 0.5055,
+   "spread": 0.0109,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Veronica Burton OVER 3.5 rebounds",
+   "true_p": 0.5055,
+   "spread": 0.0109,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Cecilia Zandalasini UNDER 9.5 pts_reb",
+   "true_p": 0.505,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 30
+  },
+  {
+   "leg": "Cecilia Zandalasini UNDER 3.5 reb_ast",
+   "true_p": 0.505,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  },
+  {
+   "leg": "Breanna Stewart OVER 31.5 pts_reb",
+   "true_p": 0.5045,
+   "spread": 0.0031,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Veronica Burton OVER 17.5 pts_ast",
+   "true_p": 0.5045,
+   "spread": 0.0089,
+   "books": 2,
+   "opportunity": 28
+  },
+  {
+   "leg": "Allisha Gray OVER 22.5 pts_reb",
+   "true_p": 0.5039,
+   "spread": 0.0079,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Janelle Salaun UNDER 13.5 pts_reb",
+   "true_p": 0.5035,
+   "spread": 0.0051,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Kayla Thornton OVER 11.5 pts_reb",
+   "true_p": 0.5035,
+   "spread": 0.0051,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Breanna Stewart UNDER 3.5 assists",
+   "true_p": 0.5035,
+   "spread": 0.0069,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Allisha Gray OVER 21.5 pts_ast",
+   "true_p": 0.5035,
+   "spread": 0.0069,
+   "books": 2,
+   "opportunity": 28
+  },
+  {
+   "leg": "Kiah Stokes OVER 9.5 pts_reb",
+   "true_p": 0.503,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 30
+  },
+  {
+   "leg": "Jonquel Jones UNDER 23.5 pts_reb",
+   "true_p": 0.503,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 30
+  },
+  {
+   "leg": "Jackie Young OVER 25.5 pts_ast",
+   "true_p": 0.5024,
+   "spread": 0.017,
+   "books": 2,
+   "opportunity": 28
+  },
+  {
+   "leg": "Jackie Young OVER 23.5 pts_reb",
+   "true_p": 0.5024,
+   "spread": 0.017,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Gabby Williams OVER 18.5 points",
+   "true_p": 0.502,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 20
+  },
+  {
+   "leg": "Rhyne Howard OVER 18.5 points",
+   "true_p": 0.502,
+   "spread": 0.004,
+   "books": 2,
+   "opportunity": 20
+  },
+  {
+   "leg": "Breanna Stewart UNDER 22.5 points",
+   "true_p": 0.5015,
+   "spread": 0.003,
+   "books": 2,
+   "opportunity": 20
+  },
+  {
+   "leg": "Leonie Fiebich UNDER 3.5 rebounds",
+   "true_p": 0.5015,
+   "spread": 0.003,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Angel Reese OVER 15.5 points",
+   "true_p": 0.5014,
+   "spread": 0.0193,
+   "books": 2,
+   "opportunity": 20
+  },
+  {
+   "leg": "Jewell Loyd OVER 8.5 pts_ast",
+   "true_p": 0.501,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 28
+  },
+  {
+   "leg": "Kiah Stokes OVER 7.5 reb_ast",
+   "true_p": 0.501,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  },
+  {
+   "leg": "A'ja Wilson UNDER 35.5 pts_reb",
+   "true_p": 0.5005,
+   "spread": 0.001,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Jordin Canada UNDER 7.5 assists",
+   "true_p": 0.4974,
+   "spread": 0.0151,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Allisha Gray OVER 3.5 rebounds",
+   "true_p": 0.4954,
+   "spread": 0.0111,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Leonie Fiebich UNDER 1.5 threes",
+   "true_p": 0.4954,
+   "spread": 0.0111,
+   "books": 2,
+   "opportunity": 7
+  },
+  {
+   "leg": "Angel Reese OVER 28.5 pts_reb",
+   "true_p": 0.4948,
+   "spread": 0.0459,
+   "books": 2,
+   "opportunity": 30
+  },
+  {
+   "leg": "Chelsea Gray OVER 9.5 reb_ast",
+   "true_p": 0.4944,
+   "spread": 0.0172,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Angel Reese UNDER 2.5 assists",
+   "true_p": 0.4894,
+   "spread": 0.0271,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Naz Hillmon OVER 6.5 points",
+   "true_p": 0.4878,
+   "spread": 0.0285,
+   "books": 2,
+   "opportunity": 20
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "week": 1003,
+ "season": "2026-mlb",
+ "props_in_app": 10,
+ "odds_api_books": [
+  "mgm"
+ ],
+ "book_records": 16,
+ "matched": 9,
+ "matched_two_books": 4,
+ "unmatched": [
+  [
+   "Dylan Dodd",
+   "pitching_outs",
+   3.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ]
+ ],
+ "legs_priced": 9,
+ "legs_clear": 1,
+ "threshold": 0.56,
+ "structure": "only 1 qualifying legs -- do not force entries",
+ "tickets": [],
+ "p_zero": null,
+ "roi": null,
+ "kelly_quarter": null,
+ "board": [
+  {
+   "leg": "Tarik Skubal OVER 6.5 strikeouts",
+   "true_p": 0.5607,
+   "spread": 0.0203,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Robbie Ray OVER 3.5 hits_allowed",
+   "true_p": 0.5492,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 22
+  },
+  {
+   "leg": "Gerrit Cole OVER 16.5 pitching_outs",
+   "true_p": 0.5405,
+   "spread": 0.0028,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Jacob Misiorowski OVER 17.5 pitching_outs",
+   "true_p": 0.5391,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  },
+  {
+   "leg": "Drew Rasmussen OVER 3.5 hits_allowed",
+   "true_p": 0.5376,
+   "spread": 0.0345,
+   "books": 2,
+   "opportunity": 22
+  },
+  {
+   "leg": "Drew Rasmussen OVER 16.5 pitching_outs",
+   "true_p": 0.5292,
+   "spread": 0.0424,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Jacob Misiorowski OVER 3.5 hits_allowed",
+   "true_p": 0.5221,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 22
+  },
+  {
+   "leg": "Robbie Ray UNDER 11.5 pitching_outs",
+   "true_p": 0.5101,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  },
+  {
+   "leg": "Tarik Skubal OVER 4.5 hits_allowed",
+   "true_p": 0.507,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 22
+  }
+ ]
+}

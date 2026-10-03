@@ -1,0 +1,17 @@
+9 legs priced; top 9 shown. Tickets use legs at or above 56% (break-even 53.0%, multiplier 6.70x).
+pref = Suhas's market preference rank: 1=strikeouts, 2=pitching_outs, 3=hits_allowed
+
+#  leg                                            true   spr  bk  opp  pref  flags
+----------------------------------------------------------------------------------
+1  Tarik Skubal OVER 6.5 strikeouts              56.1%  2.0   2   18     1  
+2  Robbie Ray OVER 3.5 hits_allowed              54.9%  0.0   1   22     3  1 book
+3  Gerrit Cole OVER 16.5 pitching_outs           54.1%  0.3   2   18     2  
+4  Jacob Misiorowski OVER 17.5 pitching_outs     53.9%  0.0   1   18     2  1 book
+5  Drew Rasmussen OVER 3.5 hits_allowed          53.8%  3.5   2   22     3  thin
+6  Drew Rasmussen OVER 16.5 pitching_outs        52.9%  4.2   2   18     2  thin
+7  Jacob Misiorowski OVER 3.5 hits_allowed       52.2%  0.0   1   22     3  1 book
+8  Robbie Ray UNDER 11.5 pitching_outs           51.0%  0.0   1   18     2  1 book
+9  Tarik Skubal OVER 4.5 hits_allowed            50.7%  0.0   1   22     3  1 book
+
+STRUCTURE: only 1 qualifying legs -- do not force entries
+No slate. Unused entries cost nothing; bad legs cost money.

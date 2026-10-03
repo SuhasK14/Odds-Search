@@ -1,0 +1,12 @@
+# Boom Pick & Spin, MLB playoffs. Recorded 2026-10-03 12:13.
+# Only strikeouts, outs and hits allowed kept; walks, ERs, pitches skipped.
+{"frame": "f", "player": "Tarik Skubal", "market": "Strikeouts", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "ATL @ LAD"}
+{"frame": "f", "player": "Tarik Skubal", "market": "Hits Allowed", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "ATL @ LAD"}
+{"frame": "f", "player": "Dylan Dodd", "market": "Pitching Outs", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "ATL @ LAD"}
+{"frame": "f", "player": "Drew Rasmussen", "market": "Pitching Outs", "line": 16.5, "sides": "over,under", "confidence": "high", "game": "NYY @ TB"}
+{"frame": "f", "player": "Drew Rasmussen", "market": "Hits Allowed", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "NYY @ TB"}
+{"frame": "f", "player": "Gerrit Cole", "market": "Pitching Outs", "line": 16.5, "sides": "over,under", "confidence": "high", "game": "NYY @ TB"}
+{"frame": "f", "player": "Jacob Misiorowski", "market": "Pitching Outs", "line": 17.5, "sides": "over,under", "confidence": "high", "game": "SD @ MIL"}
+{"frame": "f", "player": "Jacob Misiorowski", "market": "Hits Allowed", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "SD @ MIL"}
+{"frame": "f", "player": "Robbie Ray", "market": "Pitching Outs", "line": 11.5, "sides": "over,under", "confidence": "high", "game": "SD @ MIL"}
+{"frame": "f", "player": "Robbie Ray", "market": "Hits Allowed", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "SD @ MIL"}
