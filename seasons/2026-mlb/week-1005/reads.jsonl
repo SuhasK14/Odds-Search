@@ -1,0 +1,11 @@
+# Boom MLB playoffs, recorded 2026-10-05 12:40. Walks/ERs skipped.
+{"frame": "f", "player": "Gavin Williams", "market": "Strikeouts", "line": 7.5, "sides": "over,under", "confidence": "high", "game": "CWS @ CLE"}
+{"frame": "f", "player": "Anthony Kay", "market": "Pitching Outs", "line": 5.5, "sides": "over", "confidence": "high", "game": "CWS @ CLE"}
+{"frame": "f", "player": "Cam Schlittler", "market": "Strikeouts", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "NYY @ TB"}
+{"frame": "f", "player": "Freddy Peralta", "market": "Pitching Outs", "line": 13.5, "sides": "over,under", "confidence": "high", "game": "NYY @ TB"}
+{"frame": "f", "player": "Freddy Peralta", "market": "Hits Allowed", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "NYY @ TB"}
+{"frame": "f", "player": "Yoshinobu Yamamoto", "market": "Strikeouts", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "LAD @ ATL"}
+{"frame": "f", "player": "Yoshinobu Yamamoto", "market": "Hits Allowed", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "LAD @ ATL"}
+{"frame": "f", "player": "Chris Sale", "market": "Hits Allowed", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "LAD @ ATL"}
+{"frame": "f", "player": "Dustin May", "market": "Pitching Outs", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "MIL @ SD"}
+{"frame": "f", "player": "Nick Pivetta", "market": "Pitching Outs", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "MIL @ SD"}

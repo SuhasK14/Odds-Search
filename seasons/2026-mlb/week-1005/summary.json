@@ -1,0 +1,92 @@
+{
+ "week": 1005,
+ "season": "2026-mlb",
+ "props_in_app": 10,
+ "odds_api_books": [
+  "mgm"
+ ],
+ "book_records": 24,
+ "matched": 9,
+ "matched_two_books": 5,
+ "unmatched": [
+  [
+   "Anthony Kay",
+   "pitching_outs",
+   5.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ]
+ ],
+ "legs_priced": 9,
+ "legs_clear": 0,
+ "threshold": 0.56,
+ "structure": "only 0 qualifying legs -- do not force entries",
+ "tickets": [],
+ "p_zero": null,
+ "roi": null,
+ "kelly_quarter": null,
+ "board": [
+  {
+   "leg": "Nick Pivetta OVER 10.5 pitching_outs",
+   "true_p": 0.5485,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  },
+  {
+   "leg": "Yoshinobu Yamamoto UNDER 6.5 strikeouts",
+   "true_p": 0.5375,
+   "spread": 0.0089,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Freddy Peralta OVER 13.5 pitching_outs",
+   "true_p": 0.5356,
+   "spread": 0.0509,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Cam Schlittler OVER 6.5 strikeouts",
+   "true_p": 0.53,
+   "spread": 0.0021,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Yoshinobu Yamamoto OVER 4.5 hits_allowed",
+   "true_p": 0.5241,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 22
+  },
+  {
+   "leg": "Freddy Peralta UNDER 3.5 hits_allowed",
+   "true_p": 0.5205,
+   "spread": 0.0612,
+   "books": 2,
+   "opportunity": 22
+  },
+  {
+   "leg": "Chris Sale UNDER 4.5 hits_allowed",
+   "true_p": 0.5192,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 22
+  },
+  {
+   "leg": "Dustin May OVER 8.5 pitching_outs",
+   "true_p": 0.5142,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  },
+  {
+   "leg": "Gavin Williams UNDER 7.5 strikeouts",
+   "true_p": 0.5016,
+   "spread": 0.0031,
+   "books": 2,
+   "opportunity": 18
+  }
+ ]
+}

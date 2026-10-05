@@ -1,0 +1,212 @@
+[
+ {
+  "player": "Gavin Williams",
+  "player_key": "gavin williams",
+  "team": "CLE",
+  "game": "CWS @ CLE",
+  "market": "strikeouts",
+  "line": 7.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -111,
+    "under": -114,
+    "line": 7.5
+   },
+   {
+    "book": "fd",
+    "over": -113,
+    "under": -113,
+    "line": 7.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Chris Sale",
+  "player_key": "chris sale",
+  "team": "ATL",
+  "game": "LAD @ ATL",
+  "market": "hits_allowed",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -106,
+    "under": -125,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Yoshinobu Yamamoto",
+  "player_key": "yoshinobu yamamoto",
+  "team": "LAD",
+  "game": "LAD @ ATL",
+  "market": "hits_allowed",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -128,
+    "under": -104,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Yoshinobu Yamamoto",
+  "player_key": "yoshinobu yamamoto",
+  "team": "LAD",
+  "game": "LAD @ ATL",
+  "market": "strikeouts",
+  "line": 6.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 106,
+    "under": -135,
+    "line": 6.5
+   },
+   {
+    "book": "fd",
+    "over": 102,
+    "under": -130,
+    "line": 6.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Dustin May",
+  "player_key": "dustin may",
+  "team": "MIL",
+  "game": "MIL @ SD",
+  "market": "pitching_outs",
+  "line": 8.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -122,
+    "under": -108,
+    "line": 8.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Nick Pivetta",
+  "player_key": "nick pivetta",
+  "team": "SD",
+  "game": "MIL @ SD",
+  "market": "pitching_outs",
+  "line": 10.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -142,
+    "under": 107,
+    "line": 10.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Freddy Peralta",
+  "player_key": "freddy peralta",
+  "team": "TB",
+  "game": "NYY @ TB",
+  "market": "hits_allowed",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 108,
+    "under": -144,
+    "line": 3.5
+   },
+   {
+    "book": "mgm",
+    "over": -120,
+    "under": -110,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Freddy Peralta",
+  "player_key": "freddy peralta",
+  "team": "TB",
+  "game": "NYY @ TB",
+  "market": "pitching_outs",
+  "line": 13.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -150,
+    "under": 113,
+    "line": 13.5
+   },
+   {
+    "book": "mgm",
+    "over": -120,
+    "under": -110,
+    "line": 13.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Cam Schlittler",
+  "player_key": "cam schlittler",
+  "team": "NYY",
+  "game": "NYY @ TB",
+  "market": "strikeouts",
+  "line": 6.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -129,
+    "under": 101,
+    "line": 6.5
+   },
+   {
+    "book": "fd",
+    "over": -128,
+    "under": 100,
+    "line": 6.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ }
+]

@@ -1,0 +1,17 @@
+9 legs priced; top 9 shown. Tickets use legs at or above 56% (break-even 53.0%, multiplier 6.70x).
+pref = Suhas's market preference rank: 1=strikeouts, 2=pitching_outs, 3=hits_allowed
+
+#  leg                                            true   spr  bk  opp  pref  flags
+----------------------------------------------------------------------------------
+1  Nick Pivetta OVER 10.5 pitching_outs          54.8%  0.0   1   18     2  1 book
+2  Yoshinobu Yamamoto UNDER 6.5 strikeouts       53.8%  0.9   2   18     1  
+3  Freddy Peralta OVER 13.5 pitching_outs        53.6%  5.1   2   18     2  thin
+4  Cam Schlittler OVER 6.5 strikeouts            53.0%  0.2   2   18     1  
+5  Yoshinobu Yamamoto OVER 4.5 hits_allowed      52.4%  0.0   1   22     3  1 book
+6  Freddy Peralta UNDER 3.5 hits_allowed         52.0%  6.1   2   22     3  thin
+7  Chris Sale UNDER 4.5 hits_allowed             51.9%  0.0   1   22     3  1 book
+8  Dustin May OVER 8.5 pitching_outs             51.4%  0.0   1   18     2  1 book
+9  Gavin Williams UNDER 7.5 strikeouts           50.2%  0.3   2   18     1  
+
+STRUCTURE: only 0 qualifying legs -- do not force entries
+No slate. Unused entries cost nothing; bad legs cost money.

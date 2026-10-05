@@ -1,0 +1,12 @@
+# promo app availability, compiled by video.py
+# Player Name | market | line | sides | game
+Anthony Kay | pitching_outs | 5.5 | over | CWS @ CLE
+Gavin Williams | strikeouts | 7.5 | over,under | CWS @ CLE
+Chris Sale | hits_allowed | 4.5 | over,under | LAD @ ATL
+Yoshinobu Yamamoto | hits_allowed | 4.5 | over,under | LAD @ ATL
+Yoshinobu Yamamoto | strikeouts | 6.5 | over,under | LAD @ ATL
+Dustin May | pitching_outs | 8.5 | over,under | MIL @ SD
+Nick Pivetta | pitching_outs | 10.5 | over,under | MIL @ SD
+Freddy Peralta | hits_allowed | 3.5 | over,under | NYY @ TB
+Freddy Peralta | pitching_outs | 13.5 | over,under | NYY @ TB
+Cam Schlittler | strikeouts | 6.5 | over,under | NYY @ TB

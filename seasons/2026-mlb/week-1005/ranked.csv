@@ -1,0 +1,10 @@
+player,game,market,line,side,true_p,spread,books,opportunity,pref,one_sided
+Nick Pivetta,MIL @ SD,pitching_outs,10.5,over,0.5485,0.0000,1,18,2,0
+Yoshinobu Yamamoto,LAD @ ATL,strikeouts,6.5,under,0.5375,0.0089,2,18,1,0
+Freddy Peralta,NYY @ TB,pitching_outs,13.5,over,0.5356,0.0509,2,18,2,0
+Cam Schlittler,NYY @ TB,strikeouts,6.5,over,0.5300,0.0021,2,18,1,0
+Yoshinobu Yamamoto,LAD @ ATL,hits_allowed,4.5,over,0.5241,0.0000,1,22,3,0
+Freddy Peralta,NYY @ TB,hits_allowed,3.5,under,0.5205,0.0612,2,22,3,0
+Chris Sale,LAD @ ATL,hits_allowed,4.5,under,0.5192,0.0000,1,22,3,0
+Dustin May,MIL @ SD,pitching_outs,8.5,over,0.5142,0.0000,1,18,2,0
+Gavin Williams,CWS @ CLE,strikeouts,7.5,under,0.5016,0.0031,2,18,1,0
