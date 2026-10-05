@@ -1,0 +1,40 @@
+{
+ "placed_at": "2026-10-05",
+ "type": "straight 2-leg parlay (not a Pick & Spin wheel)",
+ "stake": 50.0,
+ "to_win": 160.0,
+ "return_if_hit": 210.0,
+ "decimal_odds": 4.2,
+ "legs": [
+  {
+   "player": "Nick Pivetta",
+   "market": "pitching_outs",
+   "line": 10.5,
+   "side": "over",
+   "sport": "MLB",
+   "game": "MIL @ SD",
+   "true_p_at_bet": 0.549,
+   "books": 1,
+   "result": null,
+   "note": "single book, assumed 1.08 overround"
+  },
+  {
+   "player": "Kiah Stokes",
+   "market": "rebounds",
+   "line": 6.5,
+   "side": "over",
+   "sport": "WNBA",
+   "game": "LVA @ GSV",
+   "true_p_at_bet": 0.56,
+   "books": 2,
+   "result": null
+  }
+ ],
+ "expected": {
+  "p_win": 0.307,
+  "ev_dollars": 14.5,
+  "roi": 0.291,
+  "breakeven_joint_p": 0.238
+ },
+ "resolves": "Pivetta Tue 2026-10-06 8:30 PM; Stokes Wed 2026-10-07 8:30 PM"
+}
