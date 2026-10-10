@@ -2,10 +2,16 @@
  "week": 1010,
  "season": "2026-mlb",
  "props_in_app": 6,
- "book_records": 10,
- "matched": 5,
- "matched_two_books": 2,
+ "book_records": 13,
+ "matched": 4,
+ "matched_two_books": 1,
  "unmatched": [
+  [
+   "Gavin Williams",
+   "hits_allowed",
+   2.5,
+   "line mismatch: app 2.5, books dk 3.5. No two-way alternate line exists at either book, so no estimate."
+  ],
   [
    "Gavin Williams",
    "pitching_outs",
@@ -13,7 +19,7 @@
    "line mismatch: app 13.5, books dk 14.5. No two-way alternate line exists at either book, so no estimate."
   ]
  ],
- "legs_priced": 5,
+ "legs_priced": 4,
  "legs_clear": 0,
  "threshold": 0.56,
  "structure": "only 0 qualifying legs -- do not force entries",
@@ -23,39 +29,32 @@
  "kelly_quarter": null,
  "board": [
   {
-   "leg": "Gavin Williams OVER 6.5 strikeouts",
-   "true_p": 0.558,
-   "spread": 0.0498,
-   "books": 2,
-   "opportunity": 18
-  },
-  {
-   "leg": "Sean Burke UNDER 12.5 pitching_outs",
-   "true_p": 0.5379,
+   "leg": "Tarik Skubal UNDER 7.5 strikeouts",
+   "true_p": 0.5595,
    "spread": 0.0,
    "books": 1,
    "opportunity": 18
   },
   {
    "leg": "Tarik Skubal UNDER 4.5 hits_allowed",
-   "true_p": 0.531,
+   "true_p": 0.5399,
    "spread": 0.0,
    "books": 1,
    "opportunity": 22
   },
   {
-   "leg": "Tarik Skubal UNDER 7.5 strikeouts",
-   "true_p": 0.5256,
-   "spread": 0.0513,
+   "leg": "Gavin Williams OVER 6.5 strikeouts",
+   "true_p": 0.5323,
+   "spread": 0.021,
    "books": 2,
    "opportunity": 18
   },
   {
-   "leg": "Gavin Williams OVER 2.5 hits_allowed",
-   "true_p": 0.5171,
+   "leg": "Sean Burke UNDER 12.5 pitching_outs",
+   "true_p": 0.5282,
    "spread": 0.0,
    "books": 1,
-   "opportunity": 22
+   "opportunity": 18
   }
  ]
 }

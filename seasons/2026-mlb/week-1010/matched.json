@@ -1,25 +1,5 @@
 [
  {
-  "player": "Gavin Williams",
-  "player_key": "gavin williams",
-  "team": "CLE",
-  "game": "CWS @ CLE",
-  "market": "hits_allowed",
-  "line": 2.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -124,
-    "under": -107,
-    "line": 2.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
   "player": "Sean Burke",
   "player_key": "sean burke",
   "team": "CWS",
@@ -29,8 +9,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 102,
-    "under": -136,
+    "over": -102,
+    "under": -130,
     "line": 12.5
    }
   ],
@@ -49,14 +29,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -130,
-    "under": 102,
+    "over": -124,
+    "under": -103,
     "line": 6.5
    },
    {
     "book": "fd",
-    "over": -162,
-    "under": 126,
+    "over": -136,
+    "under": 106,
     "line": 6.5
    }
   ],
@@ -74,8 +54,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -101,
-    "under": -132,
+    "over": 103,
+    "under": -137,
     "line": 4.5
    }
   ],
@@ -87,21 +67,15 @@
  {
   "player": "Tarik Skubal",
   "player_key": "tarik skubal",
-  "team": "LAD",
+  "team": "",
   "game": "LAD @ MIL",
   "market": "strikeouts",
   "line": 7.5,
   "quotes": [
    {
-    "book": "dk",
-    "over": 110,
-    "under": -141,
-    "line": 7.5
-   },
-   {
     "book": "fd",
-    "over": -113,
-    "under": -113,
+    "over": 114,
+    "under": -146,
     "line": 7.5
    }
   ],
