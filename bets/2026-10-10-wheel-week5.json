@@ -1,7 +1,10 @@
 {
  "placed_at": "2026-10-10",
  "promo": {
-  "wheel": "reported as 3x/10x, but 3 legs per ticket - multiplier UNCONFIRMED"
+  "wheel": "6x (95%) / 20x (5%)",
+  "multiplier": 6.7,
+  "legs_per_ticket": 3,
+  "breakeven_per_leg": 0.5296
  },
  "structure": "one 3-leg ticket, placed on 2 apps = 2 entries (of 10 available)",
  "entries_placed": 2,
@@ -50,8 +53,8 @@
  ],
  "expected": {
   "p_ticket": 0.1794,
-  "roi_if_6.70x": 0.202,
-  "roi_if_3.35x": -0.399
+  "roi_per_entry": 0.202,
+  "p_zero": 0.8206
  },
  "resolves": "Watson Sun 12:00, Lutz Sun 3:05, Kyren Mon 7:15"
 }
