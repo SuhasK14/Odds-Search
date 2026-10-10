@@ -1,0 +1,6 @@
+player,game,market,line,side,true_p,spread,books,opportunity,pref,one_sided
+Gavin Williams,CWS @ CLE,strikeouts,6.5,over,0.5580,0.0498,2,18,1,0
+Sean Burke,CWS @ CLE,pitching_outs,12.5,under,0.5379,0.0000,1,18,2,0
+Tarik Skubal,LAD @ MIL,hits_allowed,4.5,under,0.5310,0.0000,1,22,3,0
+Tarik Skubal,LAD @ MIL,strikeouts,7.5,under,0.5256,0.0513,2,18,1,0
+Gavin Williams,CWS @ CLE,hits_allowed,2.5,over,0.5171,0.0000,1,22,3,0

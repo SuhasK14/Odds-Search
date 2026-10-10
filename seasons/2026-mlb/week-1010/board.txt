@@ -1,0 +1,13 @@
+5 legs priced; top 5 shown. Tickets use legs at or above 56% (break-even 53.0%, multiplier 6.70x).
+pref = Suhas's market preference rank: 1=strikeouts, 2=pitching_outs, 3=hits_allowed
+
+#  leg                                            true   spr  bk  opp  pref  flags
+----------------------------------------------------------------------------------
+1  Gavin Williams OVER 6.5 strikeouts            55.8%  5.0   2   18     1  thin
+2  Sean Burke UNDER 12.5 pitching_outs           53.8%  0.0   1   18     2  1 book
+3  Tarik Skubal UNDER 4.5 hits_allowed           53.1%  0.0   1   22     3  1 book
+4  Tarik Skubal UNDER 7.5 strikeouts             52.6%  5.1   2   18     1  thin
+5  Gavin Williams OVER 2.5 hits_allowed          51.7%  0.0   1   22     3  1 book
+
+STRUCTURE: only 0 qualifying legs -- do not force entries
+No slate. Unused entries cost nothing; bad legs cost money.

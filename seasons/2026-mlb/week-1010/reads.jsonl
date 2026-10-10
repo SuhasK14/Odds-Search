@@ -1,0 +1,7 @@
+# Boom MLB playoffs, recorded 2026-10-09 22:37. CWS@CLE Sat, LAD@MIL Sun. Earned runs skipped.
+{"frame": "f", "player": "Gavin Williams", "market": "Strikeouts", "line": 6.5, "sides": "over", "confidence": "high", "game": "CWS @ CLE"}
+{"frame": "f", "player": "Gavin Williams", "market": "Pitching Outs", "line": 13.5, "sides": "over,under", "confidence": "high", "game": "CWS @ CLE"}
+{"frame": "f", "player": "Gavin Williams", "market": "Hits Allowed", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "CWS @ CLE"}
+{"frame": "f", "player": "Sean Burke", "market": "Pitching Outs", "line": 12.5, "sides": "over,under", "confidence": "high", "game": "CWS @ CLE"}
+{"frame": "f", "player": "Tarik Skubal", "market": "Strikeouts", "line": 7.5, "sides": "over,under", "confidence": "high", "game": "LAD @ MIL"}
+{"frame": "f", "player": "Tarik Skubal", "market": "Hits Allowed", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "LAD @ MIL"}

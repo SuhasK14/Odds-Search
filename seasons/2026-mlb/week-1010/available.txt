@@ -1,0 +1,8 @@
+# promo app availability, compiled by video.py
+# Player Name | market | line | sides | game
+Gavin Williams | hits_allowed | 2.5 | over,under | CWS @ CLE
+Gavin Williams | pitching_outs | 13.5 | over,under | CWS @ CLE
+Sean Burke | pitching_outs | 12.5 | over,under | CWS @ CLE
+Gavin Williams | strikeouts | 6.5 | over | CWS @ CLE
+Tarik Skubal | hits_allowed | 4.5 | over,under | LAD @ MIL
+Tarik Skubal | strikeouts | 7.5 | over,under | LAD @ MIL
