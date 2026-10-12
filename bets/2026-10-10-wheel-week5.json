@@ -19,7 +19,7 @@
    "game": "DEN @ LAC",
    "true_p_at_bet": 0.567,
    "books": 1,
-   "result": null
+   "result": true
   },
   {
    "player": "Kyren Williams",
@@ -41,7 +41,7 @@
    "game": "CLE @ NYJ",
    "true_p_at_bet": 0.561,
    "books": 1,
-   "result": null
+   "result": true
   }
  ],
  "tickets_placed": [
@@ -56,5 +56,6 @@
   "roi_per_entry": 0.202,
   "p_zero": 0.8206
  },
- "resolves": "Watson Sun 12:00, Lutz Sun 3:05, Kyren Mon 7:15"
+ "resolves": "Watson Sun 12:00, Lutz Sun 3:05, Kyren Mon 7:15",
+ "note": "Lutz and Watson hit Sunday 2026-10-11. Kyren Williams O2.5 rec (Mon night) decides both entries."
 }
