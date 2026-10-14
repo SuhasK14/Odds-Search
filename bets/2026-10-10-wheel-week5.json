@@ -30,7 +30,7 @@
    "game": "BUF @ LAR",
    "true_p_at_bet": 0.564,
    "books": 2,
-   "result": null
+   "result": true
   },
   {
    "player": "Deshaun Watson",
@@ -57,5 +57,15 @@
   "p_zero": 0.8206
  },
  "resolves": "Watson Sun 12:00, Lutz Sun 3:05, Kyren Mon 7:15",
- "note": "Lutz and Watson hit Sunday 2026-10-11. Kyren Williams O2.5 rec (Mon night) decides both entries."
+ "note": "Graded 2026-10-14. Cashed on both apps.",
+ "graded": {
+  "graded_at": "2026-10-14",
+  "legs_hit": 3,
+  "legs": 3,
+  "tickets_cashed": 2,
+  "entries": 2,
+  "returned": 12.0,
+  "net": 10.0,
+  "note": "All three legs hit. Recorded at the 6x tier; correct if either spin landed 20x."
+ }
 }

@@ -84,8 +84,8 @@ python snapshot.py --report --sport nfl     --available seasons/2026-nfl/week-04
 The `--available` form is the Saturday cross-check: once the recording is
 transcribed, it shows the week's price path for exactly the props you can bet.
 
-**Scheduled twice daily** via Windows Task Scheduler, Wed/Thu/Fri/Sat at 09:00
-and 19:00, through `snapshot.bat`:
+**Scheduled once a day** via Windows Task Scheduler, Wed/Thu/Fri/Sat at 09:00,
+through `snapshot.bat` (a 19:00 run was dropped 2026-10-14 at Suhas's request):
 
 ```bash
 schtasks /Query /TN "OddsSearch-snapshot-AM"
@@ -99,7 +99,7 @@ creating them, run in PowerShell:
 
 ```powershell
 $s = New-ScheduledTaskSettingsSet -AllowStartIfOnBatteries -DontStopIfGoingOnBatteries -StartWhenAvailable
-"OddsSearch-snapshot-AM","OddsSearch-snapshot-PM" | % { Set-ScheduledTask -TaskName $_ -Settings $s }
+Set-ScheduledTask -TaskName "OddsSearch-snapshot-AM" -Settings $s
 ```
 
 Output goes to `snapshots/snapshot.log` (gitignored); the `.jsonl` data is
