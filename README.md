@@ -53,6 +53,7 @@ Everything for the week lands in `seasons/<season>/week-NN/`.
 | `nfl` | receptions, pass TDs, rush/pass attempts, completions, interceptions, field goals made, anytime TD | yardage ignored by default |
 | `mlb` | pitcher strikeouts, hits allowed, pitching outs | hits allowed is DK-only; batter props stay out, they are 4-event markets too noisy for a 56% leg |
 | `wnba` | points, rebounds, assists, threes, Pts+Reb, Pts+Ast, Reb+Ast, PRA | |
+| `nhl` | shots on goal only | DK posts it close to puck drop and pulls it once games go live |
 
 ```bash
 python fetchers.py --sport wnba --days 2 --out wnba.json
@@ -60,7 +61,7 @@ python run.py --week 1 --season 2026-wnba --video REC.mp4
 ```
 
 League and subcategory ids were discovered live (NFL 2026-09-16, MLB and WNBA
-2026-09-23) and are in `fetchers.py`. DraftKings abbreviates a few clubs
+2026-09-23, NHL 2026-10-14) and are in `fetchers.py`. DraftKings abbreviates a few clubs
 differently from FanDuel (Athletics, Giants, Nationals, Liberty); `DK_TEAM_ALIAS`
 reconciles them and any new mismatch is logged rather than silently split.
 
@@ -166,6 +167,7 @@ Checked live 2026-09-23. A market missing here is not a bug, it is the book.
 | MLB strikeouts, pitching outs | yes | yes |
 | MLB hits allowed | yes | **no** |
 | WNBA points, rebounds, assists, threes, all combos | yes | yes |
+| NHL shots on goal | yes (posts game day) | yes |
 | targets (any sport), WNBA three-point attempts | **no** | **no** |
 
 ## Third and fourth books (The Odds API)
@@ -266,3 +268,21 @@ the number of images, so:
 - Skip players who only have yardage, fantasy-point, or longest-play props.
 - Defaults (`--fps 1 --tile 4x2 --width 600`) pack 8 seconds of recording into one
   legible image. A 4.5-minute recording is about 34 images.
+
+## NHL shots on goal (added 2026-10-14)
+
+- DraftKings: league `42133`, subcategory "Shots on Goal O/U" (1189, 12040). The
+  bare "Shots on Goal" subcategory is an N+ ladder and is not used.
+- FanDuel: page `nhl`, tab `shots`, market type `PLAYER_TOTAL_SHOTS`. Every other
+  type on that tab is a one-sided N+ or period ladder and is ignored.
+- FanDuel's market name is "Dylan Larkin Shots on Goal" with no " - ", so the
+  player is taken from the runner name ("Dylan Larkin - Over"). Using the market
+  name would silently produce unmergeable "... Shots on Goal" player keys, the
+  same trap pitching outs fell into.
+- Timing: DraftKings had no pregame shots lines once that night's games started
+  and had not yet posted the next day's, so a midday run on game day is the
+  window where both books are up.
+
+```bash
+python run.py --week 1015 --season 2026-nhl --video REC.mp4
+```

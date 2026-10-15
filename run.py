@@ -55,6 +55,7 @@ ONE_SIDED = fetchers.ONE_SIDED
 UNPRICED_BY_SPORT = {
     "nfl": {"targets": "targets are not priced at DK or FD"},
     "mlb": {},
+    "nhl": {},
     "wnba": {"three_attempts": "three-point attempts are not priced at DK or FD",
              "field_goals_attempted": "field-goal attempts are not priced at DK or FD",
              "field_goals_made": "WNBA field goals made is not priced at DK or FD"},
@@ -66,6 +67,7 @@ PREF_BY_SPORT = {
     "nfl": ["receptions", "pass_tds", "targets", "anytime_td", "pass_attempts",
             "rush_attempts", "interceptions", "field_goals_made", "completions"],
     "mlb": ["strikeouts", "pitching_outs", "hits_allowed"],
+    "nhl": ["shots_on_goal"],
     "wnba": ["points", "rebounds", "assists", "pts_reb", "pts_ast",
              "reb_ast", "pra", "threes"],
 }
@@ -303,7 +305,7 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--week", type=int, required=True)
     ap.add_argument("--season", default="2026-nfl")
-    ap.add_argument("--sport", help="nfl | mlb | wnba (default: taken from --season)")
+    ap.add_argument("--sport", help="nfl | mlb | wnba | nhl (default: taken from --season)")
     ap.add_argument("--video", help="screen recording of the promo app")
     ap.add_argument("--available", help="use this availability file instead of the video")
     ap.add_argument("--fps", type=float, default=1.0)
