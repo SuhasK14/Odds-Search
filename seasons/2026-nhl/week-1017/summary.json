@@ -1,0 +1,878 @@
+{
+ "week": 1017,
+ "season": "2026-nhl",
+ "props_in_app": 119,
+ "odds_api_books": [
+  "mgm"
+ ],
+ "book_records": 223,
+ "matched": 104,
+ "matched_two_books": 73,
+ "unmatched": [
+  [
+   "Alex Newhook",
+   "shots_on_goal",
+   1.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Noah Ostlund",
+   "shots_on_goal",
+   1.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Sebastian Aho",
+   "shots_on_goal",
+   2.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Adrian Kempe",
+   "shots_on_goal",
+   2.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Alex Laferriere",
+   "shots_on_goal",
+   2.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Artemi Panarin",
+   "shots_on_goal",
+   2.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Charlie McAvoy",
+   "shots_on_goal",
+   1.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Elias Lindholm",
+   "shots_on_goal",
+   1.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Erik Haula",
+   "shots_on_goal",
+   1.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Fraser Minten",
+   "shots_on_goal",
+   1.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "JJ Peterka",
+   "shots_on_goal",
+   1.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Pavel Zacha",
+   "shots_on_goal",
+   1.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Connor McMichael",
+   "shots_on_goal",
+   2.5,
+   "line mismatch: app 2.5, books dk 1.5; mgm 1.5. No two-way alternate line exists at either book, so no estimate."
+  ],
+  [
+   "Gavin McKenna",
+   "shots_on_goal",
+   1.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Filip Hronek",
+   "shots_on_goal",
+   1.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ]
+ ],
+ "legs_priced": 102,
+ "legs_clear": 6,
+ "threshold": 0.56,
+ "structure": "leave-two-out on top 5",
+ "tickets": [
+  [
+   "Connor McMichael OVER 1.5 shots_on_goal",
+   "Tyson Foerster OVER 1.5 shots_on_goal",
+   "Dylan Larkin OVER 2.5 shots_on_goal"
+  ],
+  [
+   "Connor McMichael OVER 1.5 shots_on_goal",
+   "Tyson Foerster OVER 1.5 shots_on_goal",
+   "Porter Martone OVER 1.5 shots_on_goal"
+  ],
+  [
+   "Connor McMichael OVER 1.5 shots_on_goal",
+   "Tyson Foerster OVER 1.5 shots_on_goal",
+   "Evgeni Malkin OVER 1.5 shots_on_goal"
+  ],
+  [
+   "Connor McMichael OVER 1.5 shots_on_goal",
+   "Dylan Larkin OVER 2.5 shots_on_goal",
+   "Porter Martone OVER 1.5 shots_on_goal"
+  ],
+  [
+   "Connor McMichael OVER 1.5 shots_on_goal",
+   "Dylan Larkin OVER 2.5 shots_on_goal",
+   "Evgeni Malkin OVER 1.5 shots_on_goal"
+  ],
+  [
+   "Connor McMichael OVER 1.5 shots_on_goal",
+   "Porter Martone OVER 1.5 shots_on_goal",
+   "Evgeni Malkin OVER 1.5 shots_on_goal"
+  ],
+  [
+   "Tyson Foerster OVER 1.5 shots_on_goal",
+   "Dylan Larkin OVER 2.5 shots_on_goal",
+   "Porter Martone OVER 1.5 shots_on_goal"
+  ],
+  [
+   "Tyson Foerster OVER 1.5 shots_on_goal",
+   "Dylan Larkin OVER 2.5 shots_on_goal",
+   "Evgeni Malkin OVER 1.5 shots_on_goal"
+  ],
+  [
+   "Tyson Foerster OVER 1.5 shots_on_goal",
+   "Porter Martone OVER 1.5 shots_on_goal",
+   "Evgeni Malkin OVER 1.5 shots_on_goal"
+  ],
+  [
+   "Dylan Larkin OVER 2.5 shots_on_goal",
+   "Porter Martone OVER 1.5 shots_on_goal",
+   "Evgeni Malkin OVER 1.5 shots_on_goal"
+  ]
+ ],
+ "p_zero": 0.3671363035761722,
+ "roi": 0.25269872517582015,
+ "kelly_quarter": 0.028795725269574114,
+ "board": [
+  {
+   "leg": "Connor McMichael OVER 1.5 shots_on_goal",
+   "true_p": 0.5838,
+   "spread": 0.0346,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Tyson Foerster OVER 1.5 shots_on_goal",
+   "true_p": 0.5738,
+   "spread": 0.0028,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Dylan Larkin OVER 2.5 shots_on_goal",
+   "true_p": 0.57,
+   "spread": 0.0258,
+   "books": 3,
+   "opportunity": 4
+  },
+  {
+   "leg": "Porter Martone OVER 1.5 shots_on_goal",
+   "true_p": 0.5664,
+   "spread": 0.0232,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Evgeni Malkin OVER 1.5 shots_on_goal",
+   "true_p": 0.5651,
+   "spread": 0.0152,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "J.T. Miller OVER 1.5 shots_on_goal",
+   "true_p": 0.5634,
+   "spread": 0.0118,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Shane Pinto OVER 1.5 shots_on_goal",
+   "true_p": 0.5608,
+   "spread": 0.0588,
+   "books": 3,
+   "opportunity": 4
+  },
+  {
+   "leg": "Timo Meier OVER 2.5 shots_on_goal",
+   "true_p": 0.5589,
+   "spread": 0.0328,
+   "books": 3,
+   "opportunity": 4
+  },
+  {
+   "leg": "Dawson Mercer UNDER 1.5 shots_on_goal",
+   "true_p": 0.5585,
+   "spread": 0.0278,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Michael Brandsegg-Nygard OVER 1.5 shots_on_goal",
+   "true_p": 0.5545,
+   "spread": 0.006,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Ryan O'Reilly OVER 1.5 shots_on_goal",
+   "true_p": 0.5541,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Zach Werenski UNDER 3.5 shots_on_goal",
+   "true_p": 0.5529,
+   "spread": 0.0093,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Kiefer Sherwood OVER 1.5 shots_on_goal",
+   "true_p": 0.5498,
+   "spread": 0.0155,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "William Nylander OVER 2.5 shots_on_goal",
+   "true_p": 0.5496,
+   "spread": 0.0151,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Luca Cagnoni UNDER 1.5 shots_on_goal",
+   "true_p": 0.549,
+   "spread": 0.0686,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Dylan Guenther OVER 2.5 shots_on_goal",
+   "true_p": 0.5482,
+   "spread": 0.0,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Gabe Perreault UNDER 1.5 shots_on_goal",
+   "true_p": 0.5482,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Shea Theodore OVER 1.5 shots_on_goal",
+   "true_p": 0.5482,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Zach Benson OVER 1.5 shots_on_goal",
+   "true_p": 0.5464,
+   "spread": 0.0036,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Charlie Coyle OVER 1.5 shots_on_goal",
+   "true_p": 0.5459,
+   "spread": 0.0225,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Arseny Gritsyuk OVER 1.5 shots_on_goal",
+   "true_p": 0.5448,
+   "spread": 0.0434,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Conor Garland UNDER 1.5 shots_on_goal",
+   "true_p": 0.5446,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Chris Kreider OVER 1.5 shots_on_goal",
+   "true_p": 0.5446,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Brett Howden OVER 1.5 shots_on_goal",
+   "true_p": 0.5446,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Thomas Chabot OVER 1.5 shots_on_goal",
+   "true_p": 0.5442,
+   "spread": 0.0392,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Zach Hyman UNDER 2.5 shots_on_goal",
+   "true_p": 0.5441,
+   "spread": 0.0269,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Darren Raddysh UNDER 2.5 shots_on_goal",
+   "true_p": 0.5421,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Mason McTavish UNDER 2.5 shots_on_goal",
+   "true_p": 0.5397,
+   "spread": 0.0099,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Mark Scheifele OVER 1.5 shots_on_goal",
+   "true_p": 0.5395,
+   "spread": 0.0097,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Gabriel Vilardi UNDER 1.5 shots_on_goal",
+   "true_p": 0.5385,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Adam Fantilli OVER 2.5 shots_on_goal",
+   "true_p": 0.5376,
+   "spread": 0.014,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Dylan Holloway UNDER 2.5 shots_on_goal",
+   "true_p": 0.5354,
+   "spread": 0.0174,
+   "books": 3,
+   "opportunity": 4
+  },
+  {
+   "leg": "Connor Bedard UNDER 2.5 shots_on_goal",
+   "true_p": 0.5347,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Barrett Hayton OVER 1.5 shots_on_goal",
+   "true_p": 0.5347,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Jake Walman OVER 1.5 shots_on_goal",
+   "true_p": 0.5347,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Matthew Knies OVER 1.5 shots_on_goal",
+   "true_p": 0.5347,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Rasmus Andersson OVER 1.5 shots_on_goal",
+   "true_p": 0.5347,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Adam Jiricek OVER 1.5 shots_on_goal",
+   "true_p": 0.5336,
+   "spread": 0.0022,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Igor Chernyshov UNDER 1.5 shots_on_goal",
+   "true_p": 0.5333,
+   "spread": 0.0174,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Clayton Keller UNDER 2.5 shots_on_goal",
+   "true_p": 0.5326,
+   "spread": 0.004,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Stephen Halliday UNDER 1.5 shots_on_goal",
+   "true_p": 0.5325,
+   "spread": 0.0447,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Matthew Wood UNDER 1.5 shots_on_goal",
+   "true_p": 0.5318,
+   "spread": 0.0447,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Alex DeBrincat UNDER 3.5 shots_on_goal",
+   "true_p": 0.5317,
+   "spread": 0.0433,
+   "books": 3,
+   "opportunity": 4
+  },
+  {
+   "leg": "Claude Giroux UNDER 1.5 shots_on_goal",
+   "true_p": 0.5308,
+   "spread": 0.0117,
+   "books": 3,
+   "opportunity": 4
+  },
+  {
+   "leg": "Shayne Gostisbehere OVER 1.5 shots_on_goal",
+   "true_p": 0.5306,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Anders Lee OVER 1.5 shots_on_goal",
+   "true_p": 0.5306,
+   "spread": 0.0082,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Adam Fox UNDER 1.5 shots_on_goal",
+   "true_p": 0.5299,
+   "spread": 0.0193,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Jakob Chychrun UNDER 2.5 shots_on_goal",
+   "true_p": 0.5298,
+   "spread": 0.0323,
+   "books": 3,
+   "opportunity": 4
+  },
+  {
+   "leg": "Alex Ovechkin UNDER 2.5 shots_on_goal",
+   "true_p": 0.5285,
+   "spread": 0.0079,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Pavel Dorofeyev OVER 2.5 shots_on_goal",
+   "true_p": 0.5276,
+   "spread": 0.006,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Josh Doan OVER 1.5 shots_on_goal",
+   "true_p": 0.5265,
+   "spread": 0.0433,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Brock Boeser OVER 1.5 shots_on_goal",
+   "true_p": 0.5264,
+   "spread": 0.0364,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Sam Bennett UNDER 2.5 shots_on_goal",
+   "true_p": 0.5255,
+   "spread": 0.0019,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Thomas Harley OVER 1.5 shots_on_goal",
+   "true_p": 0.5246,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Frank Nazar UNDER 1.5 shots_on_goal",
+   "true_p": 0.5246,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Noah Hanifin UNDER 1.5 shots_on_goal",
+   "true_p": 0.5246,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Matty Beniers UNDER 1.5 shots_on_goal",
+   "true_p": 0.5246,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Matias Maccelli UNDER 1.5 shots_on_goal",
+   "true_p": 0.5236,
+   "spread": 0.0178,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Mackie Samoskevich OVER 1.5 shots_on_goal",
+   "true_p": 0.5235,
+   "spread": 0.0223,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Brayden Schenn OVER 1.5 shots_on_goal",
+   "true_p": 0.5235,
+   "spread": 0.0372,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Matthew Tkachuk OVER 2.5 shots_on_goal",
+   "true_p": 0.5227,
+   "spread": 0.0159,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Kirill Marchenko OVER 2.5 shots_on_goal",
+   "true_p": 0.5224,
+   "spread": 0.0202,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Robert Thomas OVER 1.5 shots_on_goal",
+   "true_p": 0.5223,
+   "spread": 0.0446,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Andrei Svechnikov OVER 2.5 shots_on_goal",
+   "true_p": 0.5214,
+   "spread": 0.0265,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Steven Stamkos UNDER 2.5 shots_on_goal",
+   "true_p": 0.5212,
+   "spread": 0.0353,
+   "books": 3,
+   "opportunity": 4
+  },
+  {
+   "leg": "Lawson Crouse UNDER 1.5 shots_on_goal",
+   "true_p": 0.5204,
+   "spread": 0.0205,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Tyler Bertuzzi OVER 1.5 shots_on_goal",
+   "true_p": 0.5203,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Sean Monahan UNDER 1.5 shots_on_goal",
+   "true_p": 0.5203,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Fabian Zetterlund UNDER 1.5 shots_on_goal",
+   "true_p": 0.5203,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Jacob Trouba UNDER 1.5 shots_on_goal",
+   "true_p": 0.5203,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Viktor Arvidsson OVER 2.5 shots_on_goal",
+   "true_p": 0.5199,
+   "spread": 0.0516,
+   "books": 3,
+   "opportunity": 4
+  },
+  {
+   "leg": "Juraj Slafkovsky UNDER 2.5 shots_on_goal",
+   "true_p": 0.5198,
+   "spread": 0.0298,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Will Cuylle OVER 1.5 shots_on_goal",
+   "true_p": 0.5181,
+   "spread": 0.0068,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Dylan Strome OVER 1.5 shots_on_goal",
+   "true_p": 0.5176,
+   "spread": 0.0541,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Andrew Copp UNDER 1.5 shots_on_goal",
+   "true_p": 0.5173,
+   "spread": 0.0347,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Justin Faulk UNDER 1.5 shots_on_goal",
+   "true_p": 0.5173,
+   "spread": 0.0347,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Trevor Zegras OVER 1.5 shots_on_goal",
+   "true_p": 0.5166,
+   "spread": 0.0129,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Tomas Hertl UNDER 2.5 shots_on_goal",
+   "true_p": 0.5157,
+   "spread": 0.0216,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Evan Bouchard UNDER 2.5 shots_on_goal",
+   "true_p": 0.5156,
+   "spread": 0.0017,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Carter Yakemchuk UNDER 1.5 shots_on_goal",
+   "true_p": 0.5149,
+   "spread": 0.0108,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Anthony Cirelli UNDER 1.5 shots_on_goal",
+   "true_p": 0.5147,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Mika Zibanejad UNDER 2.5 shots_on_goal",
+   "true_p": 0.5133,
+   "spread": 0.0226,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Victor Eklund UNDER 1.5 shots_on_goal",
+   "true_p": 0.5114,
+   "spread": 0.013,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Neal Pionk UNDER 1.5 shots_on_goal",
+   "true_p": 0.5112,
+   "spread": 0.0183,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Cole Hutson OVER 1.5 shots_on_goal",
+   "true_p": 0.5102,
+   "spread": 0.0203,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Mathieu Olivier OVER 1.5 shots_on_goal",
+   "true_p": 0.5101,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Sean Walker UNDER 1.5 shots_on_goal",
+   "true_p": 0.5101,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Emmitt Finnie OVER 1.5 shots_on_goal",
+   "true_p": 0.5095,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Mackenzie Weegar OVER 1.5 shots_on_goal",
+   "true_p": 0.5086,
+   "spread": 0.0074,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Jake Guentzel OVER 2.5 shots_on_goal",
+   "true_p": 0.5075,
+   "spread": 0.0052,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Owen Power UNDER 1.5 shots_on_goal",
+   "true_p": 0.5063,
+   "spread": 0.0168,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Lane Hutson UNDER 1.5 shots_on_goal",
+   "true_p": 0.5049,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Filip Chytil UNDER 1.5 shots_on_goal",
+   "true_p": 0.5049,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Boone Jenner OVER 1.5 shots_on_goal",
+   "true_p": 0.5049,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Ben Kindel OVER 1.5 shots_on_goal",
+   "true_p": 0.5049,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Mason Marchment OVER 1.5 shots_on_goal",
+   "true_p": 0.5026,
+   "spread": 0.0242,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Carter Verhaeghe OVER 2.5 shots_on_goal",
+   "true_p": 0.501,
+   "spread": 0.002,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Auston Matthews OVER 3.5 shots_on_goal",
+   "true_p": 0.5005,
+   "spread": 0.001,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Jordan Eberle OVER 1.5 shots_on_goal",
+   "true_p": 0.5,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 4
+  },
+  {
+   "leg": "Jimmy Snuggerud OVER 2.5 shots_on_goal",
+   "true_p": 0.4913,
+   "spread": 0.0667,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Aliaksei Protas OVER 1.5 shots_on_goal",
+   "true_p": 0.4911,
+   "spread": 0.0472,
+   "books": 2,
+   "opportunity": 4
+  },
+  {
+   "leg": "Ivar Stenberg OVER 1.5 shots_on_goal",
+   "true_p": 0.4885,
+   "spread": 0.0231,
+   "books": 2,
+   "opportunity": 4
+  }
+ ]
+}

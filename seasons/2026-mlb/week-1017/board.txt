@@ -1,0 +1,10 @@
+2 legs priced; top 2 shown. Tickets use legs at or above 56% (break-even 53.0%, multiplier 6.70x).
+pref = Suhas's market preference rank: 1=strikeouts, 2=pitching_outs, 3=hits_allowed
+
+#  leg                                            true   spr  bk  opp  pref  flags
+----------------------------------------------------------------------------------
+1  Nick Martinez UNDER 3.5 hits_allowed          54.7%  2.5   2   22     3  
+2  Nick Martinez OVER 11.5 pitching_outs         52.9%  0.1   2   18     2  
+
+STRUCTURE: only 0 qualifying legs -- do not force entries
+No slate. Unused entries cost nothing; bad legs cost money.

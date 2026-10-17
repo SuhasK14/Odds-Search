@@ -1,0 +1,3 @@
+# Boom MLB, recorded 2026-10-17 11:01. Only pitcher markets kept; batter hits/singles/strikeouts skipped.
+{"frame": "f", "player": "Nick Martinez", "market": "Pitching Outs", "line": 11.5, "sides": "over,under", "confidence": "high", "game": "TB @ CLE"}
+{"frame": "f", "player": "Nick Martinez", "market": "Hits Allowed", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "TB @ CLE"}

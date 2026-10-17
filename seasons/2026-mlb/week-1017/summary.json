@@ -1,0 +1,36 @@
+{
+ "week": 1017,
+ "season": "2026-mlb",
+ "props_in_app": 2,
+ "odds_api_books": [
+  "mgm"
+ ],
+ "book_records": 2,
+ "matched": 2,
+ "matched_two_books": 2,
+ "unmatched": [],
+ "legs_priced": 2,
+ "legs_clear": 0,
+ "threshold": 0.56,
+ "structure": "only 0 qualifying legs -- do not force entries",
+ "tickets": [],
+ "p_zero": null,
+ "roi": null,
+ "kelly_quarter": null,
+ "board": [
+  {
+   "leg": "Nick Martinez UNDER 3.5 hits_allowed",
+   "true_p": 0.5469,
+   "spread": 0.0245,
+   "books": 2,
+   "opportunity": 22
+  },
+  {
+   "leg": "Nick Martinez OVER 11.5 pitching_outs",
+   "true_p": 0.5286,
+   "spread": 0.0008,
+   "books": 2,
+   "opportunity": 18
+  }
+ ]
+}

@@ -1,0 +1,1765 @@
+[
+ {
+  "player": "Kiah Stokes",
+  "player_key": "kiah stokes",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "assists",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -126,
+    "under": -108,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Naz Hillmon",
+  "player_key": "naz hillmon",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "assists",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -153,
+    "under": 112,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": -136,
+    "under": 102,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Rhyne Howard",
+  "player_key": "rhyne howard",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "assists",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 100,
+    "under": -135,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": 106,
+    "under": -140,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Veronica Burton",
+  "player_key": "veronica burton",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "assists",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -129,
+    "under": -106,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": -130,
+    "under": -102,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Allisha Gray",
+  "player_key": "allisha gray",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "points",
+  "line": 15.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -109,
+    "under": -122,
+    "line": 15.5
+   },
+   {
+    "book": "fd",
+    "over": -106,
+    "under": -122,
+    "line": 15.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Angel Reese",
+  "player_key": "angel reese",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "points",
+  "line": 14.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -112,
+    "under": -119,
+    "line": 14.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 14.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Cecilia Zandalasini",
+  "player_key": "cecilia zandalasini",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "points",
+  "line": 6.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -130,
+    "under": -102,
+    "line": 6.5
+   },
+   {
+    "book": "fd",
+    "over": -128,
+    "under": -102,
+    "line": 6.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "DeWanna Bonner",
+  "player_key": "dewanna bonner",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "points",
+  "line": 7.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -137,
+    "under": 103,
+    "line": 7.5
+   },
+   {
+    "book": "fd",
+    "over": -130,
+    "under": 100,
+    "line": 7.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Gabby Williams",
+  "player_key": "gabby williams",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "points",
+  "line": 18.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -112,
+    "under": -119,
+    "line": 18.5
+   },
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -120,
+    "line": 18.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Janelle Salaun",
+  "player_key": "janelle salaun",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "points",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -117,
+    "under": -113,
+    "line": 5.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jordin Canada",
+  "player_key": "jordin canada",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "points",
+  "line": 11.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -118,
+    "under": -112,
+    "line": 11.5
+   },
+   {
+    "book": "fd",
+    "over": -120,
+    "under": -108,
+    "line": 11.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kaitlyn Chen",
+  "player_key": "kaitlyn chen",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "points",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -132,
+    "under": 100,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kayla Thornton",
+  "player_key": "kayla thornton",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "points",
+  "line": 7.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -119,
+    "under": -112,
+    "line": 7.5
+   },
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -120,
+    "line": 7.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kiah Stokes",
+  "player_key": "kiah stokes",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "points",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -107,
+    "under": -123,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Naz Hillmon",
+  "player_key": "naz hillmon",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "points",
+  "line": 6.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -119,
+    "under": -111,
+    "line": 6.5
+   },
+   {
+    "book": "fd",
+    "over": -115,
+    "under": -113,
+    "line": 6.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Rhyne Howard",
+  "player_key": "rhyne howard",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "points",
+  "line": 15.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -114,
+    "under": -116,
+    "line": 15.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 15.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Tiffany Hayes",
+  "player_key": "tiffany hayes",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "points",
+  "line": 8.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -116,
+    "line": 8.5
+   },
+   {
+    "book": "fd",
+    "over": -110,
+    "under": -118,
+    "line": 8.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Veronica Burton",
+  "player_key": "veronica burton",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "points",
+  "line": 10.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -105,
+    "under": -127,
+    "line": 10.5
+   },
+   {
+    "book": "fd",
+    "over": -106,
+    "under": -122,
+    "line": 10.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Allisha Gray",
+  "player_key": "allisha gray",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "pra",
+  "line": 20.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -119,
+    "under": -114,
+    "line": 20.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -118,
+    "line": 20.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Angel Reese",
+  "player_key": "angel reese",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "pra",
+  "line": 28.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -111,
+    "under": -122,
+    "line": 28.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Cecilia Zandalasini",
+  "player_key": "cecilia zandalasini",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "pra",
+  "line": 10.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -110,
+    "under": -124,
+    "line": 10.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "DeWanna Bonner",
+  "player_key": "dewanna bonner",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "pra",
+  "line": 15.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -122,
+    "under": -111,
+    "line": 15.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 15.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Gabby Williams",
+  "player_key": "gabby williams",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "pra",
+  "line": 25.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -129,
+    "under": -106,
+    "line": 25.5
+   },
+   {
+    "book": "fd",
+    "over": -128,
+    "under": -104,
+    "line": 25.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jordin Canada",
+  "player_key": "jordin canada",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "pra",
+  "line": 22.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -114,
+    "under": -119,
+    "line": 22.5
+   },
+   {
+    "book": "fd",
+    "over": -104,
+    "under": -128,
+    "line": 22.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kaitlyn Chen",
+  "player_key": "kaitlyn chen",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "pra",
+  "line": 7.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -118,
+    "line": 7.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kayla Thornton",
+  "player_key": "kayla thornton",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "pra",
+  "line": 13.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -111,
+    "under": -122,
+    "line": 13.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kiah Stokes",
+  "player_key": "kiah stokes",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "pra",
+  "line": 13.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -110,
+    "under": -123,
+    "line": 13.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Naz Hillmon",
+  "player_key": "naz hillmon",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "pra",
+  "line": 12.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -130,
+    "under": -105,
+    "line": 12.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Rhyne Howard",
+  "player_key": "rhyne howard",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "pra",
+  "line": 23.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -118,
+    "line": 23.5
+   },
+   {
+    "book": "fd",
+    "over": -106,
+    "under": -125,
+    "line": 23.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Tiffany Hayes",
+  "player_key": "tiffany hayes",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "pra",
+  "line": 12.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -132,
+    "under": -103,
+    "line": 12.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Veronica Burton",
+  "player_key": "veronica burton",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "pra",
+  "line": 18.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -120,
+    "under": -113,
+    "line": 18.5
+   },
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -110,
+    "line": 18.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Allisha Gray",
+  "player_key": "allisha gray",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "pts_ast",
+  "line": 17.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -114,
+    "under": -119,
+    "line": 17.5
+   },
+   {
+    "book": "fd",
+    "over": -112,
+    "under": -118,
+    "line": 17.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Angel Reese",
+  "player_key": "angel reese",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "pts_ast",
+  "line": 16.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -128,
+    "under": -106,
+    "line": 16.5
+   },
+   {
+    "book": "fd",
+    "over": -130,
+    "under": -102,
+    "line": 16.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Cecilia Zandalasini",
+  "player_key": "cecilia zandalasini",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "pts_ast",
+  "line": 8.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -106,
+    "under": -128,
+    "line": 8.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "DeWanna Bonner",
+  "player_key": "dewanna bonner",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "pts_ast",
+  "line": 9.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -134,
+    "under": -101,
+    "line": 9.5
+   },
+   {
+    "book": "fd",
+    "over": -130,
+    "under": -102,
+    "line": 9.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Gabby Williams",
+  "player_key": "gabby williams",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "pts_ast",
+  "line": 21.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -123,
+    "under": -111,
+    "line": 21.5
+   },
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -112,
+    "line": 21.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jordin Canada",
+  "player_key": "jordin canada",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "pts_ast",
+  "line": 18.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -131,
+    "under": -104,
+    "line": 18.5
+   },
+   {
+    "book": "fd",
+    "over": -128,
+    "under": -104,
+    "line": 18.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kaitlyn Chen",
+  "player_key": "kaitlyn chen",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "pts_ast",
+  "line": 6.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -109,
+    "under": -125,
+    "line": 6.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kayla Thornton",
+  "player_key": "kayla thornton",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "pts_ast",
+  "line": 8.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -116,
+    "under": -117,
+    "line": 8.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Naz Hillmon",
+  "player_key": "naz hillmon",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "pts_ast",
+  "line": 8.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -122,
+    "under": -111,
+    "line": 8.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Rhyne Howard",
+  "player_key": "rhyne howard",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "pts_ast",
+  "line": 19.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -107,
+    "under": -127,
+    "line": 19.5
+   },
+   {
+    "book": "fd",
+    "over": -102,
+    "under": -130,
+    "line": 19.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Tiffany Hayes",
+  "player_key": "tiffany hayes",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "pts_ast",
+  "line": 10.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -134,
+    "under": -102,
+    "line": 10.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Veronica Burton",
+  "player_key": "veronica burton",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "pts_ast",
+  "line": 15.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -103,
+    "under": -132,
+    "line": 15.5
+   },
+   {
+    "book": "fd",
+    "over": -104,
+    "under": -128,
+    "line": 15.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Allisha Gray",
+  "player_key": "allisha gray",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "pts_reb",
+  "line": 18.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -113,
+    "under": -120,
+    "line": 18.5
+   },
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -122,
+    "line": 18.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Angel Reese",
+  "player_key": "angel reese",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "pts_reb",
+  "line": 25.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -122,
+    "under": -111,
+    "line": 25.5
+   },
+   {
+    "book": "fd",
+    "over": -120,
+    "under": -110,
+    "line": 25.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Cecilia Zandalasini",
+  "player_key": "cecilia zandalasini",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "pts_reb",
+  "line": 8.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -130,
+    "under": -105,
+    "line": 8.5
+   },
+   {
+    "book": "fd",
+    "over": -128,
+    "under": -104,
+    "line": 8.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "DeWanna Bonner",
+  "player_key": "dewanna bonner",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "pts_reb",
+  "line": 13.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -123,
+    "under": -110,
+    "line": 13.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Gabby Williams",
+  "player_key": "gabby williams",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "pts_reb",
+  "line": 22.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -121,
+    "under": -112,
+    "line": 22.5
+   },
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -112,
+    "line": 22.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jordin Canada",
+  "player_key": "jordin canada",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "pts_reb",
+  "line": 14.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -130,
+    "under": -105,
+    "line": 14.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kaitlyn Chen",
+  "player_key": "kaitlyn chen",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "pts_reb",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -137,
+    "under": 101,
+    "line": 5.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kayla Thornton",
+  "player_key": "kayla thornton",
+  "team": "",
+  "game": "ATL @ GSV",
+  "market": "pts_reb",
+  "line": 11.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -132,
+    "under": 100,
+    "line": 11.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kiah Stokes",
+  "player_key": "kiah stokes",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "pts_reb",
+  "line": 11.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -119,
+    "under": -114,
+    "line": 11.5
+   },
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -112,
+    "line": 11.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Naz Hillmon",
+  "player_key": "naz hillmon",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "pts_reb",
+  "line": 10.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -130,
+    "under": -104,
+    "line": 10.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Rhyne Howard",
+  "player_key": "rhyne howard",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "pts_reb",
+  "line": 19.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -120,
+    "under": -113,
+    "line": 19.5
+   },
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -112,
+    "line": 19.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Tiffany Hayes",
+  "player_key": "tiffany hayes",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "pts_reb",
+  "line": 10.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -116,
+    "under": -117,
+    "line": 10.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Veronica Burton",
+  "player_key": "veronica burton",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "pts_reb",
+  "line": 13.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -125,
+    "under": -108,
+    "line": 13.5
+   },
+   {
+    "book": "fd",
+    "over": -128,
+    "under": -104,
+    "line": 13.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Angel Reese",
+  "player_key": "angel reese",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "reb_ast",
+  "line": 13.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -108,
+    "under": -126,
+    "line": 13.5
+   },
+   {
+    "book": "fd",
+    "over": 102,
+    "under": -136,
+    "line": 13.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Cecilia Zandalasini",
+  "player_key": "cecilia zandalasini",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "reb_ast",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 101,
+    "under": -137,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "DeWanna Bonner",
+  "player_key": "dewanna bonner",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "reb_ast",
+  "line": 7.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -118,
+    "under": -115,
+    "line": 7.5
+   },
+   {
+    "book": "fd",
+    "over": -112,
+    "under": -118,
+    "line": 7.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Gabby Williams",
+  "player_key": "gabby williams",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "reb_ast",
+  "line": 7.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -101,
+    "under": -134,
+    "line": 7.5
+   },
+   {
+    "book": "fd",
+    "over": -102,
+    "under": -130,
+    "line": 7.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jordin Canada",
+  "player_key": "jordin canada",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "reb_ast",
+  "line": 10.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -109,
+    "under": -124,
+    "line": 10.5
+   },
+   {
+    "book": "fd",
+    "over": 102,
+    "under": -136,
+    "line": 10.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kaitlyn Chen",
+  "player_key": "kaitlyn chen",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "reb_ast",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -106,
+    "under": -129,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kayla Thornton",
+  "player_key": "kayla thornton",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "reb_ast",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -114,
+    "under": -119,
+    "line": 5.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kiah Stokes",
+  "player_key": "kiah stokes",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "reb_ast",
+  "line": 9.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -122,
+    "under": -112,
+    "line": 9.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Naz Hillmon",
+  "player_key": "naz hillmon",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "reb_ast",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -143,
+    "under": 105,
+    "line": 5.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Rhyne Howard",
+  "player_key": "rhyne howard",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "reb_ast",
+  "line": 7.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -113,
+    "under": -120,
+    "line": 7.5
+   },
+   {
+    "book": "fd",
+    "over": -102,
+    "under": -130,
+    "line": 7.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Tiffany Hayes",
+  "player_key": "tiffany hayes",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "reb_ast",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 101,
+    "under": -138,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Angel Reese",
+  "player_key": "angel reese",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "rebounds",
+  "line": 10.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -140,
+    "under": 103,
+    "line": 10.5
+   },
+   {
+    "book": "fd",
+    "over": -144,
+    "under": 108,
+    "line": 10.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "DeWanna Bonner",
+  "player_key": "dewanna bonner",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "rebounds",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -118,
+    "under": -115,
+    "line": 5.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kayla Thornton",
+  "player_key": "kayla thornton",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "rebounds",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -126,
+    "under": -108,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kiah Stokes",
+  "player_key": "kiah stokes",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "rebounds",
+  "line": 7.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -137,
+    "under": 101,
+    "line": 7.5
+   },
+   {
+    "book": "fd",
+    "over": -146,
+    "under": 110,
+    "line": 7.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Veronica Burton",
+  "player_key": "veronica burton",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "rebounds",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 103,
+    "under": -140,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": 104,
+    "under": -138,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kaitlyn Chen",
+  "player_key": "kaitlyn chen",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "threes",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -110,
+    "under": -123,
+    "line": 0.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Rhyne Howard",
+  "player_key": "rhyne howard",
+  "team": "ATL",
+  "game": "ATL @ GSV",
+  "market": "threes",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -123,
+    "under": -111,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -128,
+    "under": -104,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Tiffany Hayes",
+  "player_key": "tiffany hayes",
+  "team": "GSV",
+  "game": "ATL @ GSV",
+  "market": "threes",
+  "line": 0.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -133,
+    "under": -102,
+    "line": 0.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ }
+]

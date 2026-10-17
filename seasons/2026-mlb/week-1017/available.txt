@@ -1,0 +1,4 @@
+# promo app availability, compiled by video.py
+# Player Name | market | line | sides | game
+Nick Martinez | hits_allowed | 3.5 | over,under | TB @ CLE
+Nick Martinez | pitching_outs | 11.5 | over,under | TB @ CLE

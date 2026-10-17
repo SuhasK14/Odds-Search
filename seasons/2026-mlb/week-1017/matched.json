@@ -1,0 +1,54 @@
+[
+ {
+  "player": "Nick Martinez",
+  "player_key": "nick martinez",
+  "team": "TB",
+  "game": "TB @ CLE",
+  "market": "hits_allowed",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 112,
+    "under": -149,
+    "line": 3.5
+   },
+   {
+    "book": "mgm",
+    "over": 100,
+    "under": -135,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Nick Martinez",
+  "player_key": "nick martinez",
+  "team": "TB",
+  "game": "TB @ CLE",
+  "market": "pitching_outs",
+  "line": 11.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -131,
+    "under": -102,
+    "line": 11.5
+   },
+   {
+    "book": "fd",
+    "over": -130,
+    "under": -102,
+    "line": 11.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ }
+]
