@@ -73,8 +73,10 @@ WNBA_MARKETS = ("points", "rebounds", "assists", "threes",
 # NHL: shots on goal only, by request. Goals and points are 0.5 / one-sided and
 # too thin; SOG is a two-way count line at both books (checked 2026-10-14).
 NHL_MARKETS = ("shots_on_goal",)
+# NBA: same counting stats and combos as WNBA (added 2026-10-20).
+NBA_MARKETS = WNBA_MARKETS
 SPORT_MARKETS = {"nfl": NFL_MARKETS, "mlb": MLB_MARKETS, "wnba": WNBA_MARKETS,
-                 "nhl": NHL_MARKETS}
+                 "nhl": NHL_MARKETS, "nba": NBA_MARKETS}
 MARKETS = NFL_MARKETS          # back-compat default for NFL-only callers
 ALL_MARKETS = tuple(dict.fromkeys(sum(SPORT_MARKETS.values(), ())))
 
@@ -131,8 +133,16 @@ ODDS_API_DEFAULT_BOOKS = ("mgm", "br", "fan", "wh")
 # book starts posting them.
 ODDS_API_NO_EXTRA = {"field_goals_made"}
 ODDS_API_SPORT_KEY = {"nfl": "americanfootball_nfl", "mlb": "baseball_mlb",
-                      "wnba": "basketball_wnba", "nhl": "icehockey_nhl"}
+                      "wnba": "basketball_wnba", "nhl": "icehockey_nhl",
+                      "nba": "basketball_nba"}
 ODDS_API_MARKET["player_shots_on_goal"] = "shots_on_goal"
+# Basketball (WNBA and NBA share these keys in the feed).
+ODDS_API_MARKET.update({
+    "player_points": "points", "player_rebounds": "rebounds", "player_assists": "assists",
+    "player_threes": "threes", "player_points_assists": "pts_ast",
+    "player_points_rebounds": "pts_reb", "player_rebounds_assists": "reb_ast",
+    "player_points_rebounds_assists": "pra",
+})
 
 NFL_TEAMS = {
     "Arizona Cardinals": "ARI", "Atlanta Falcons": "ATL", "Baltimore Ravens": "BAL",
@@ -182,7 +192,21 @@ NHL_TEAMS = {
     "Utah Hockey Club": "UTA", "Vancouver Canucks": "VAN", "Vegas Golden Knights": "VGK",
     "Washington Capitals": "WAS", "Winnipeg Jets": "WPG",
 }
-TEAMS = {"nfl": NFL_TEAMS, "mlb": MLB_TEAMS, "wnba": WNBA_TEAMS, "nhl": NHL_TEAMS}
+NBA_TEAMS = {
+    "Atlanta Hawks": "ATL", "Boston Celtics": "BOS", "Brooklyn Nets": "BKN",
+    "Charlotte Hornets": "CHA", "Chicago Bulls": "CHI", "Cleveland Cavaliers": "CLE",
+    "Dallas Mavericks": "DAL", "Denver Nuggets": "DEN", "Detroit Pistons": "DET",
+    "Golden State Warriors": "GS", "Houston Rockets": "HOU", "Indiana Pacers": "IND",
+    "Los Angeles Clippers": "LAC", "LA Clippers": "LAC", "Los Angeles Lakers": "LAL",
+    "Memphis Grizzlies": "MEM", "Miami Heat": "MIA", "Milwaukee Bucks": "MIL",
+    "Minnesota Timberwolves": "MIN", "New Orleans Pelicans": "NO", "New York Knicks": "NY",
+    "Oklahoma City Thunder": "OKC", "Orlando Magic": "ORL", "Philadelphia 76ers": "PHI",
+    "Phoenix Suns": "PHX", "Portland Trail Blazers": "POR", "Sacramento Kings": "SAC",
+    "San Antonio Spurs": "SA", "Toronto Raptors": "TOR", "Utah Jazz": "UTA",
+    "Washington Wizards": "WAS",
+}
+TEAMS = {"nfl": NFL_TEAMS, "mlb": MLB_TEAMS, "wnba": WNBA_TEAMS, "nhl": NHL_TEAMS,
+         "nba": NBA_TEAMS}
 # DraftKings' own shortName differs from FanDuel's for a few clubs. Left
 # unmapped these produce two different game strings for one game, which breaks
 # the per-game fetch filter. merge_records logs any pair that is still adrift.
@@ -191,6 +215,8 @@ DK_TEAM_ALIAS = {
     "mlb": {"A's": "ATH", "SFG": "SF", "WAS": "WSH"},
     "wnba": {"NY": "NYL", "LV": "LVA", "LA": "LAS", "GS": "GSV", "CONN": "CON"},
     "nhl": {"LAK": "LA", "SJS": "SJ", "TBL": "TB", "NJD": "NJ", "WSH": "WAS"},
+    "nba": {"GSW": "GS", "NYK": "NY", "SAS": "SA", "NOP": "NO", "PHO": "PHX", "BRK": "BKN",
+            "WSH": "WAS", "UTAH": "UTA"},
 }
 # FanDuel logo slugs: ".../images/team/nfl/buffalo_bills_jersey.png"
 NFL_SLUG = {k.lower().replace(" ", "_"): v for k, v in NFL_TEAMS.items()}
@@ -205,6 +231,7 @@ _SUFFIXES = {"jr", "sr", "ii", "iii", "iv", "v"}
 PLAYER_ALIASES = {
     "joshua palmer": "josh palmer",          # DK Joshua, FD Josh
     "cameron skattebo": "cam skattebo",      # DK Cameron, FD Cam
+    "s gilgeousalexander": "shai gilgeousalexander",   # one book uses the initial (NBA)
 }
 
 # normalized key -> display name(s) seen, so output can show the book's spelling
@@ -370,7 +397,8 @@ def parse_iso(s: str) -> dt.datetime:
 
 DK_BASE = "https://sportsbook-nash.draftkings.com/api/sportscontent/dkusva/v1"
 DK_ORIGIN = "https://sportsbook.draftkings.com"
-DK_LEAGUE = {"nfl": "88808", "mlb": "84240", "wnba": "94682", "nhl": "42133"}
+DK_LEAGUE = {"nfl": "88808", "mlb": "84240", "wnba": "94682", "nhl": "42133",
+             "nba": "42648"}
 
 # Resolved by subcategory NAME from the league payload at run time; the ids
 # below are the values observed 2026-09-16 and are only a fallback.
@@ -408,7 +436,7 @@ DK_SUBCAT_NHL = {
     "shots_on_goal":   ("Shots on Goal O/U",   (1189, 12040)),
 }
 DK_SUBCATS = {"nfl": DK_SUBCAT, "mlb": DK_SUBCAT_MLB, "wnba": DK_SUBCAT_WNBA,
-              "nhl": DK_SUBCAT_NHL}
+              "nhl": DK_SUBCAT_NHL, "nba": DK_SUBCAT_WNBA}   # NBA ids match WNBA
 DK_ONE_SIDED_MARKET_NAME = {"anytime_td": "anytime td scorer"}   # market.name to keep in that subcategory
 
 
@@ -558,7 +586,7 @@ FD_ORIGIN = "https://sportsbook.fanduel.com"
 # _ak is the public app key embedded in FanDuel's web client. If requests start
 # failing with 401/403, open the site, watch the sbapi XHRs, and update it.
 FD_AK = "FhMFpcPWXMeyZxOx"
-FD_PAGE = {"nfl": "nfl", "mlb": "mlb", "wnba": "wnba", "nhl": "nhl"}
+FD_PAGE = {"nfl": "nfl", "mlb": "mlb", "wnba": "wnba", "nhl": "nhl", "nba": "nba"}
 FD_TAB_NFL = {
     "pass_yards": "passing-props", "pass_tds": "passing-props",
     "completions": "passing-props", "pass_attempts": "passing-props",
@@ -579,7 +607,8 @@ FD_TAB_WNBA = {
     "reb_ast": "player-combos", "pra": "player-combos",
 }
 FD_TAB_NHL = {"shots_on_goal": "shots"}
-FD_TABS = {"nfl": FD_TAB_NFL, "mlb": FD_TAB_MLB, "wnba": FD_TAB_WNBA, "nhl": FD_TAB_NHL}
+FD_TABS = {"nfl": FD_TAB_NFL, "mlb": FD_TAB_MLB, "wnba": FD_TAB_WNBA, "nhl": FD_TAB_NHL,
+           "nba": FD_TAB_WNBA}
 FD_TAB = FD_TAB_NFL          # back-compat
 
 # Per-sport marketType -> our market. NFL uses PLAYER_X_<STAT>_<TIER>; MLB and
@@ -605,9 +634,11 @@ FD_TYPE_WNBA = {
     "TOTAL_POINTS_+_ASSISTS": "pts_ast", "TOTAL_POINTS_+_REBOUNDS": "pts_reb",
     "TOTAL_REBOUNDS_+_ASSISTS": "reb_ast",
     "TOTAL_POINTS_+_REBOUNDS_+_ASSISTS": "pra",
+    "TOTAL_POINTS_+_REB_+_AST": "pra",          # NBA spelling
 }
 _FD_SLOT_MLB = re.compile(r"^PITCHER_[A-Z]_(?P<stat>[A-Z0-9_+]+)$")
 _FD_SLOT_WNBA = re.compile(r"^PLAYER_[A-Z]_(?P<stat>[A-Z0-9_+]+)_WNBA$")
+_FD_SLOT_NBA = re.compile(r"^PLAYER_[A-Z]_(?P<stat>[A-Z0-9_+]+)$")   # same, no suffix
 # Known player-shaped types we deliberately skip: one-sided "N+" ladders and
 # stats outside the vocabulary. Listing them keeps the unmapped report useful.
 FD_IGNORE_STAT = {"STRIKEOUTS", "HITS_ALLOWED", "WALKS_ALLOWED",
@@ -628,8 +659,8 @@ def _fd_market_from_type(sport: str, mt: str):
             return None, False
         stat = g.group("stat")
         return FD_TYPE_MLB.get(stat), stat not in FD_IGNORE_STAT
-    if s == "wnba":
-        g = _FD_SLOT_WNBA.match(mt)
+    if s in ("wnba", "nba"):
+        g = (_FD_SLOT_WNBA if s == "wnba" else _FD_SLOT_NBA).match(mt)
         if not g:
             return None, False
         stat = g.group("stat")

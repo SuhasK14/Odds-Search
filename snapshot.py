@@ -172,7 +172,7 @@ def report(sport: str, available: str, since: str, min_move: float, top: int):
 def main():
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--sport", default="nfl", help="nfl | mlb | wnba | nhl")
+    ap.add_argument("--sport", default="nfl", help="nfl | mlb | wnba | nhl | nba")
     ap.add_argument("--days", type=float, default=7)
     ap.add_argument("--fd-state", default="il")
     ap.add_argument("--all-markets", action="store_true",

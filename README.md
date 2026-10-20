@@ -54,6 +54,7 @@ Everything for the week lands in `seasons/<season>/week-NN/`.
 | `mlb` | pitcher strikeouts, hits allowed, pitching outs | hits allowed is DK-only; batter props stay out, they are 4-event markets too noisy for a 56% leg |
 | `wnba` | points, rebounds, assists, threes, Pts+Reb, Pts+Ast, Reb+Ast, PRA | |
 | `nhl` | shots on goal only | DK posts it close to puck drop and pulls it once games go live |
+| `nba` | points, rebounds, assists, threes, Pts+Reb, Pts+Ast, Reb+Ast, PRA | same ids/tabs as WNBA |
 
 ```bash
 python fetchers.py --sport wnba --days 2 --out wnba.json
@@ -61,7 +62,7 @@ python run.py --week 1 --season 2026-wnba --video REC.mp4
 ```
 
 League and subcategory ids were discovered live (NFL 2026-09-16, MLB and WNBA
-2026-09-23, NHL 2026-10-14) and are in `fetchers.py`. DraftKings abbreviates a few clubs
+2026-09-23, NHL 2026-10-14, NBA 2026-10-20) and are in `fetchers.py`. DraftKings abbreviates a few clubs
 differently from FanDuel (Athletics, Giants, Nationals, Liberty); `DK_TEAM_ALIAS`
 reconciles them and any new mismatch is logged rather than silently split.
 
@@ -168,6 +169,7 @@ Checked live 2026-09-23. A market missing here is not a bug, it is the book.
 | MLB hits allowed | yes | **no** |
 | WNBA points, rebounds, assists, threes, all combos | yes | yes |
 | NHL shots on goal | yes (posts game day) | yes |
+| NBA points, rebounds, assists, threes, all combos | yes | yes |
 | targets (any sport), WNBA three-point attempts | **no** | **no** |
 
 ## Third and fourth books (The Odds API)
@@ -285,4 +287,19 @@ the number of images, so:
 
 ```bash
 python run.py --week 1015 --season 2026-nhl --video REC.mp4
+```
+
+## NBA (added 2026-10-20)
+
+Mirrors WNBA exactly at DraftKings (league `42648`, the same eight "... O/U"
+subcategory ids) and FanDuel (page `nba`, same five player tabs). FanDuel's
+market types are `PLAYER_<L>_TOTAL_<STAT>` with no `_WNBA` suffix, and PRA is
+spelled `TOTAL_POINTS_+_REB_+_AST`. Verified live on opening night: 345 props,
+199 at both books, all eight markets priced by both.
+
+One book lists "S Gilgeous-Alexander"; it is aliased in `PLAYER_ALIASES` so his
+lines merge. Watch the merge log for more of these as the season fills out.
+
+```bash
+python run.py --week 1020 --season 2026-nba --video REC.mp4
 ```
