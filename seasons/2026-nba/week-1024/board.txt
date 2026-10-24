@@ -1,0 +1,50 @@
+120 legs priced; top 20 shown. Tickets use legs at or above 56% (break-even 53.0%, multiplier 6.70x).
+pref = Suhas's market preference rank: 1=points, 2=rebounds, 3=assists, 4=pts_reb, 5=pts_ast, 6=reb_ast, 7=pra, 8=threes
+
+#  leg                                            true   spr  bk  opp  pref  flags
+----------------------------------------------------------------------------------
+1  P.J. Washington OVER 1.5 assists              56.5%  1.4   2    8     3  
+2  Alperen Sengun UNDER 5.5 assists              56.5%  0.3   2    8     3  
+3  Davion Mitchell OVER 2.5 rebounds             56.4%  0.1   2   10     2  
+4  Aaron Gordon OVER 8.5 reb_ast                 56.3%  0.0   1   18     6  1 book
+5  Norman Powell OVER 4.5 reb_ast                56.3%  0.0   1   18     6  1 book
+6  Jamal Murray UNDER 4.5 rebounds               55.7%  4.7   4   10     2  thin
+7  Stephon Castle OVER 5.5 assists               55.7%  1.4   2    8     3  
+8  Caleb Wilson OVER 7.5 reb_ast                 55.5%  0.0   1   18     6  1 book
+9  Julius Randle OVER 6.5 rebounds               55.4%  2.6   2   10     2  
+10 Aaron Gordon UNDER 6.5 rebounds               55.2%  1.3   4   10     2  
+11 Sion James UNDER 2.5 assists                  55.1%  2.4   2    8     3  
+12 Trey Murphy III OVER 4.5 rebounds             55.0%  3.7   4   10     2  thin
+13 Dyson Daniels UNDER 6.5 rebounds              54.8%  0.6   2   10     2  
+14 Jalen Smith UNDER 8.5 rebounds                54.8%  1.4   2   10     2  
+15 Zion Williamson UNDER 8.5 reb_ast             54.7%  1.0   2   18     6  
+16 Ryan Rollins OVER 3.5 rebounds                54.7%  2.3   2   10     2  
+17 Tyrese Maxey OVER 9.5 reb_ast                 54.6%  0.0   1   18     6  1 book
+18 P.J. Washington OVER 8.5 reb_ast              54.5%  0.1   2   18     6  
+19 Dejounte Murray OVER 10.5 reb_ast             54.5%  0.0   1   18     6  1 book
+20 Nikola Jokic OVER 12.5 rebounds               54.5%  2.0   2   10     2  
+
+STRUCTURE: leave-two-out on top 5
+
+TICKETS (10)
+   1. P.J. Washington OVER 1.5 ass  |  Alperen Sengun UNDER 5.5 ass  |  Davion Mitchell OVER 2.5 reb
+   2. P.J. Washington OVER 1.5 ass  |  Alperen Sengun UNDER 5.5 ass  |  Aaron Gordon OVER 8.5 reb_as
+   3. P.J. Washington OVER 1.5 ass  |  Alperen Sengun UNDER 5.5 ass  |  Norman Powell OVER 4.5 reb_a
+   4. P.J. Washington OVER 1.5 ass  |  Davion Mitchell OVER 2.5 reb  |  Aaron Gordon OVER 8.5 reb_as
+   5. P.J. Washington OVER 1.5 ass  |  Davion Mitchell OVER 2.5 reb  |  Norman Powell OVER 4.5 reb_a
+   6. P.J. Washington OVER 1.5 ass  |  Aaron Gordon OVER 8.5 reb_as  |  Norman Powell OVER 4.5 reb_a
+   7. Alperen Sengun UNDER 5.5 ass  |  Davion Mitchell OVER 2.5 reb  |  Aaron Gordon OVER 8.5 reb_as
+   8. Alperen Sengun UNDER 5.5 ass  |  Davion Mitchell OVER 2.5 reb  |  Norman Powell OVER 4.5 reb_a
+   9. Alperen Sengun UNDER 5.5 ass  |  Aaron Gordon OVER 8.5 reb_as  |  Norman Powell OVER 4.5 reb_a
+  10. Davion Mitchell OVER 2.5 reb  |  Aaron Gordon OVER 8.5 reb_as  |  Norman Powell OVER 4.5 reb_a
+
+EV per entry      +20.4%
+P(zero return)    38.1%
+P(profit)         27.8%
+Kelly (quarter)   2.3% of bankroll  <-- use this
+
+outcome distribution (tickets cashing -> probability)
+   0 cash   38.1%   return    0.0 on 10 staked
+   1 cash   34.1%   return    6.7 on 10 staked
+   4 cash   22.1%   return   26.8 on 10 staked
+  10 cash    5.7%   return   67.0 on 10 staked

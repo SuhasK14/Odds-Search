@@ -232,6 +232,10 @@ PLAYER_ALIASES = {
     "joshua palmer": "josh palmer",          # DK Joshua, FD Josh
     "cameron skattebo": "cam skattebo",      # DK Cameron, FD Cam
     "s gilgeousalexander": "shai gilgeousalexander",   # one book uses the initial (NBA)
+    "cameron ward": "cam ward",
+    "bam knight": "zonovan knight",
+    "andrew ogletree": "drew ogletree",
+    "alexandre sarr": "alex sarr",
 }
 
 # normalized key -> display name(s) seen, so output can show the book's spelling
