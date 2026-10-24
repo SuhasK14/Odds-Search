@@ -1,50 +1,28 @@
-84 legs priced; top 20 shown. Tickets use legs at or above 56% (break-even 53.0%, multiplier 6.70x).
+83 legs priced; top 20 shown. Tickets use legs at or above 56% (break-even 53.0%, multiplier 6.70x).
 pref = Suhas's market preference rank: 1=shots_on_goal
 
 #  leg                                            true   spr  bk  opp  pref  flags
 ----------------------------------------------------------------------------------
-1  Anders Lee OVER 1.5 shots_on_goal             60.1%  0.0   1    4     1  1 book
-2  Matthew Knies OVER 1.5 shots_on_goal          56.4%  0.0   1    4     1  1 book
-3  Trevor Moore OVER 1.5 shots_on_goal           56.3%  1.8   2    4     1  
-4  Robert Thomas UNDER 1.5 shots_on_goal         56.1%  1.2   2    4     1  
-5  Claude Giroux OVER 1.5 shots_on_goal          56.1%  1.2   2    4     1  
-6  Dylan Larkin OVER 2.5 shots_on_goal           55.8%  2.8   3    4     1  
-7  Barrett Hayton OVER 1.5 shots_on_goal         55.8%  0.0   1    4     1  1 book
-8  Evan Rodrigues OVER 1.5 shots_on_goal         55.6%  0.3   2    4     1  
-9  Kent Johnson OVER 1.5 shots_on_goal           55.6%  1.6   2    4     1  
-10 Morgan Frost OVER 1.5 shots_on_goal           55.1%  0.7   2    4     1  
+1  Ville Koivunen UNDER 1.5 shots_on_goal        56.7%  0.0   1    4     1  1 book
+2  Robert Thomas UNDER 1.5 shots_on_goal         56.6%  2.3   2    4     1  
+3  Jack Roslovic OVER 1.5 shots_on_goal          55.9%  3.3   2    4     1  thin
+4  Jordan Eberle OVER 1.5 shots_on_goal          55.6%  0.3   2    4     1  
+5  Dylan Larkin OVER 2.5 shots_on_goal           55.5%  3.8   3    4     1  thin
+6  Adrian Kempe OVER 2.5 shots_on_goal           55.4%  0.0   1    4     1  1 book
+7  Trevor Moore OVER 1.5 shots_on_goal           55.4%  0.0   1    4     1  1 book
+8  Ryan Hartman OVER 1.5 shots_on_goal           55.4%  3.8   2    4     1  thin
+9  Morgan Frost OVER 1.5 shots_on_goal           55.1%  0.7   2    4     1  
+10 Kent Johnson OVER 1.5 shots_on_goal           55.1%  2.5   2    4     1  
 11 Nikita Kucherov OVER 2.5 shots_on_goal        55.1%  0.5   2    4     1  
-12 Mason Marchment OVER 1.5 shots_on_goal        54.8%  0.0   1    4     1  1 book
-13 Jack Roslovic OVER 1.5 shots_on_goal          54.8%  0.0   1    4     1  1 book
-14 Kasperi Kapanen OVER 1.5 shots_on_goal        54.8%  0.0   1    4     1  1 book
-15 Valeri Nichushkin OVER 1.5 shots_on_goal      54.8%  0.7   2    4     1  
-16 Matvei Gridin OVER 1.5 shots_on_goal          54.5%  0.6   2    4     1  
-17 Bobby McMann UNDER 2.5 shots_on_goal          54.5%  0.0   1    4     1  1 book
-18 Ville Koivunen UNDER 1.5 shots_on_goal        54.5%  0.0   1    4     1  1 book
-19 Jordan Eberle OVER 1.5 shots_on_goal          54.5%  0.0   1    4     1  1 book
-20 Pavel Buchnevich UNDER 1.5 shots_on_goal      54.3%  0.3   2    4     1  
+12 Jack Eichel OVER 2.5 shots_on_goal            55.0%  2.0   3    4     1  
+13 Matvei Gridin OVER 1.5 shots_on_goal          55.0%  1.5   2    4     1  
+14 Evan Bouchard OVER 2.5 shots_on_goal          55.0%  3.3   3    4     1  thin
+15 Bobby McMann UNDER 2.5 shots_on_goal          54.9%  2.9   2    4     1  
+16 Dylan Cozens UNDER 2.5 shots_on_goal          54.8%  0.0   2    4     1  
+17 Claude Giroux OVER 1.5 shots_on_goal          54.8%  0.0   1    4     1  1 book
+18 James Hagens OVER 1.5 shots_on_goal           54.8%  0.0   1    4     1  1 book
+19 Barrett Hayton OVER 1.5 shots_on_goal         54.8%  0.0   1    4     1  1 book
+20 Matt Boldy OVER 3.5 shots_on_goal             54.8%  0.7   2    4     1  
 
-STRUCTURE: leave-two-out on top 5
-
-TICKETS (10)
-   1. Anders Lee OVER 1.5 shots_on  |  Matthew Knies OVER 1.5 shots  |  Trevor Moore OVER 1.5 shots_
-   2. Anders Lee OVER 1.5 shots_on  |  Matthew Knies OVER 1.5 shots  |  Robert Thomas UNDER 1.5 shot
-   3. Anders Lee OVER 1.5 shots_on  |  Matthew Knies OVER 1.5 shots  |  Claude Giroux OVER 1.5 shots
-   4. Anders Lee OVER 1.5 shots_on  |  Trevor Moore OVER 1.5 shots_  |  Robert Thomas UNDER 1.5 shot
-   5. Anders Lee OVER 1.5 shots_on  |  Trevor Moore OVER 1.5 shots_  |  Claude Giroux OVER 1.5 shots
-   6. Anders Lee OVER 1.5 shots_on  |  Robert Thomas UNDER 1.5 shot  |  Claude Giroux OVER 1.5 shots
-   7. Matthew Knies OVER 1.5 shots  |  Trevor Moore OVER 1.5 shots_  |  Robert Thomas UNDER 1.5 shot
-   8. Matthew Knies OVER 1.5 shots  |  Trevor Moore OVER 1.5 shots_  |  Claude Giroux OVER 1.5 shots
-   9. Matthew Knies OVER 1.5 shots  |  Robert Thomas UNDER 1.5 shot  |  Claude Giroux OVER 1.5 shots
-  10. Trevor Moore OVER 1.5 shots_  |  Robert Thomas UNDER 1.5 shot  |  Claude Giroux OVER 1.5 shots
-
-EV per entry      +23.9%
-P(zero return)    37.1%
-P(profit)         28.7%
-Kelly (quarter)   2.7% of bankroll  <-- use this
-
-outcome distribution (tickets cashing -> probability)
-   0 cash   37.1%   return    0.0 on 10 staked
-   1 cash   34.3%   return    6.7 on 10 staked
-   4 cash   22.7%   return   26.8 on 10 staked
-  10 cash    6.0%   return   67.0 on 10 staked
+STRUCTURE: only 2 qualifying legs -- do not force entries
+No slate. Unused entries cost nothing; bad legs cost money.

@@ -1,4 +1,4 @@
-179 legs priced; top 20 shown. Tickets use legs at or above 56% (break-even 53.0%, multiplier 6.70x).
+173 legs priced; top 20 shown. Tickets use legs at or above 56% (break-even 53.0%, multiplier 6.70x).
 1-sided legs: true_p = implied(yes price) / 1.08. That divisor is an assumption (--one-sided-overround), not a measurement.
 pref = Suhas's market preference rank: 1=receptions, 2=pass_tds, 3=targets, 4=anytime_td, 5=pass_attempts, 6=rush_attempts, 7=interceptions, 8=field_goals_made, 9=completions
 
@@ -6,46 +6,46 @@ pref = Suhas's market preference rank: 1=receptions, 2=pass_tds, 3=targets, 4=an
 ----------------------------------------------------------------------------------
 1  Christian Kirk UNDER 2.5 receptions           57.3%  3.5   2    6     1  thin
 2  Jaxon Smith-Njigba OVER 6.5 receptions        56.7%  0.1   2    6     1  
-3  Jaylin Noel UNDER 2.5 receptions              56.5%  0.4   2    6     1  
-4  Mason Taylor OVER 2.5 receptions              56.3%  1.7   2    6     1  
+3  Chris Olave OVER 5.5 receptions               56.7%  0.1   2    6     1  
+4  Jaylin Noel UNDER 2.5 receptions              56.5%  0.4   2    6     1  
 5  Sam LaPorta OVER 4.5 receptions               56.3%  0.8   2    6     1  
-6  Chris Olave OVER 5.5 receptions               56.2%  1.0   2    6     1  
-7  Ryan Fitzgerald OVER 1.5 field_goals_made     56.1%  0.0   1    6     8  1 book
-8  Tee Higgins OVER 4.5 receptions               56.1%  0.7   2    6     1  
-9  Kyle Juszczyk UNDER 1.5 receptions            55.7%  1.3   2    6     1  
-10 Jahmyr Gibbs OVER 4.5 receptions              55.4%  1.4   3    6     1  
-11 Daniel Carlson OVER 1.5 field_goals_made      55.3%  0.0   1    6     8  1 book
-12 Samaje Perine UNDER 8.5 rush_attempts         55.3%  0.0   1   15     6  1 book
-13 Samaje Perine OVER 1.5 receptions             55.3%  2.5   3    6     1  
-14 Jordan Love OVER 0.5 interceptions            55.2%  3.4   3    6     7  thin
-15 Kyren Williams OVER 3.5 receptions            55.1%  3.1   2    6     1  thin
-16 Isaac TeSlaa OVER 1.5 receptions              55.1%  0.1   2    6     1  
-17 Tyler Shough UNDER 3.5 rush_attempts          55.1%  0.0   1   15     6  1 book
-18 Pierre Strong Jr. UNDER 1.5 receptions        55.0%  3.4   2    6     1  thin
-19 Tre Tucker UNDER 3.5 receptions               54.9%  0.7   2    6     1  
-20 Harrison Butker OVER 1.5 field_goals_made     54.9%  0.0   1    6     8  1 book
+6  Ryan Fitzgerald OVER 1.5 field_goals_made     56.1%  0.0   1    6     8  1 book
+7  Tee Higgins OVER 4.5 receptions               56.1%  0.7   2    6     1  
+8  Kyle Juszczyk UNDER 1.5 receptions            55.7%  1.3   2    6     1  
+9  Jahmyr Gibbs OVER 4.5 receptions              55.4%  1.4   3    6     1  
+10 Daniel Carlson OVER 1.5 field_goals_made      55.3%  0.0   1    6     8  1 book
+11 Samaje Perine OVER 1.5 receptions             55.3%  2.5   3    6     1  
+12 Jordan Love OVER 0.5 interceptions            55.2%  3.4   3    6     7  thin
+13 Kyren Williams OVER 3.5 receptions            55.1%  3.1   2    6     1  thin
+14 Isaac TeSlaa OVER 1.5 receptions              55.1%  0.1   2    6     1  
+15 Tyler Shough UNDER 3.5 rush_attempts          55.1%  0.0   1   15     6  1 book
+16 Pierre Strong Jr. UNDER 1.5 receptions        55.0%  3.4   2    6     1  thin
+17 Bo Nix UNDER 1.5 pass_tds                     55.0%  3.5   2   32     2  thin
+18 Tre Tucker UNDER 3.5 receptions               54.9%  0.7   2    6     1  
+19 Harrison Butker OVER 1.5 field_goals_made     54.9%  0.0   1    6     8  1 book
+20 Dohnte Meyers OVER 1.5 receptions             54.9%  1.9   2    6     1  
 
 STRUCTURE: leave-two-out on top 5
 
 TICKETS (10)
-   1. Christian Kirk UNDER 2.5 rec  |  Jaxon Smith-Njigba OVER 6.5   |  Jaylin Noel UNDER 2.5 recept
-   2. Christian Kirk UNDER 2.5 rec  |  Jaxon Smith-Njigba OVER 6.5   |  Mason Taylor OVER 2.5 recept
+   1. Christian Kirk UNDER 2.5 rec  |  Jaxon Smith-Njigba OVER 6.5   |  Chris Olave OVER 5.5 recepti
+   2. Christian Kirk UNDER 2.5 rec  |  Jaxon Smith-Njigba OVER 6.5   |  Jaylin Noel UNDER 2.5 recept
    3. Christian Kirk UNDER 2.5 rec  |  Jaxon Smith-Njigba OVER 6.5   |  Sam LaPorta OVER 4.5 recepti
-   4. Christian Kirk UNDER 2.5 rec  |  Jaylin Noel UNDER 2.5 recept  |  Mason Taylor OVER 2.5 recept
-   5. Christian Kirk UNDER 2.5 rec  |  Jaylin Noel UNDER 2.5 recept  |  Sam LaPorta OVER 4.5 recepti
-   6. Christian Kirk UNDER 2.5 rec  |  Mason Taylor OVER 2.5 recept  |  Sam LaPorta OVER 4.5 recepti
-   7. Jaxon Smith-Njigba OVER 6.5   |  Jaylin Noel UNDER 2.5 recept  |  Mason Taylor OVER 2.5 recept
-   8. Jaxon Smith-Njigba OVER 6.5   |  Jaylin Noel UNDER 2.5 recept  |  Sam LaPorta OVER 4.5 recepti
-   9. Jaxon Smith-Njigba OVER 6.5   |  Mason Taylor OVER 2.5 recept  |  Sam LaPorta OVER 4.5 recepti
-  10. Jaylin Noel UNDER 2.5 recept  |  Mason Taylor OVER 2.5 recept  |  Sam LaPorta OVER 4.5 recepti
+   4. Christian Kirk UNDER 2.5 rec  |  Chris Olave OVER 5.5 recepti  |  Jaylin Noel UNDER 2.5 recept
+   5. Christian Kirk UNDER 2.5 rec  |  Chris Olave OVER 5.5 recepti  |  Sam LaPorta OVER 4.5 recepti
+   6. Christian Kirk UNDER 2.5 rec  |  Jaylin Noel UNDER 2.5 recept  |  Sam LaPorta OVER 4.5 recepti
+   7. Jaxon Smith-Njigba OVER 6.5   |  Chris Olave OVER 5.5 recepti  |  Jaylin Noel UNDER 2.5 recept
+   8. Jaxon Smith-Njigba OVER 6.5   |  Chris Olave OVER 5.5 recepti  |  Sam LaPorta OVER 4.5 recepti
+   9. Jaxon Smith-Njigba OVER 6.5   |  Jaylin Noel UNDER 2.5 recept  |  Sam LaPorta OVER 4.5 recepti
+  10. Chris Olave OVER 5.5 recepti  |  Jaylin Noel UNDER 2.5 recept  |  Sam LaPorta OVER 4.5 recepti
 
-EV per entry      +21.6%
-P(zero return)    37.7%
-P(profit)         28.1%
-Kelly (quarter)   2.4% of bankroll  <-- use this
+EV per entry      +22.0%
+P(zero return)    37.6%
+P(profit)         28.2%
+Kelly (quarter)   2.5% of bankroll  <-- use this
 
 outcome distribution (tickets cashing -> probability)
-   0 cash   37.7%   return    0.0 on 10 staked
+   0 cash   37.6%   return    0.0 on 10 staked
    1 cash   34.2%   return    6.7 on 10 staked
-   4 cash   22.3%   return   26.8 on 10 staked
+   4 cash   22.4%   return   26.8 on 10 staked
   10 cash    5.8%   return   67.0 on 10 staked
