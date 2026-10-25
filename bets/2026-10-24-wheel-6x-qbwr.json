@@ -1,0 +1,382 @@
+{
+ "placed_at": "2026-10-24",
+ "promo": {
+  "wheel": "6x/20x, all spins landed 6x",
+  "multiplier": 6.0,
+  "legs_per_ticket": 3,
+  "breakeven_ticket_p": 0.1667
+ },
+ "structure": "11 independent 3-leg tickets, mostly QB volume + own receiver + one cross-sport leg",
+ "stake_total": 530,
+ "pricing_note": "Legs not priced by DK/FD (defensive props, Burrow 24.5, Stroud att 32.5) assumed 50%. p_ticket_rho02 assumes 0.2 correlation between each QB leg and his own receiver.",
+ "expected": {
+  "ev_independent": -64,
+  "ev_with_correlation": 20
+ },
+ "tickets": [
+  {
+   "stake": 50,
+   "legs": [
+    {
+     "player": "Sam Darnold",
+     "market": "completions",
+     "line": 19.5,
+     "side": "over",
+     "true_p_at_bet": 0.5167,
+     "result": null
+    },
+    {
+     "player": "Jaxon Smith-Njigba",
+     "market": "receptions",
+     "line": 6.5,
+     "side": "over",
+     "true_p_at_bet": 0.5668,
+     "result": null
+    },
+    {
+     "player": "Norman Powell",
+     "market": "reb_ast",
+     "line": 4.5,
+     "side": "over",
+     "true_p_at_bet": 0.5635,
+     "result": null
+    }
+   ],
+   "p_ticket": 0.1464,
+   "multiplier": 6.0,
+   "p_ticket_indep": 0.165,
+   "p_ticket_rho02": 0.1929
+  },
+  {
+   "stake": 50,
+   "legs": [
+    {
+     "player": "Tyler Shough",
+     "market": "completions",
+     "line": 22.5,
+     "side": "over",
+     "true_p_at_bet": 0.4875,
+     "result": null
+    },
+    {
+     "player": "Chris Olave",
+     "market": "receptions",
+     "line": 5.5,
+     "side": "over",
+     "true_p_at_bet": 0.5668,
+     "result": null
+    },
+    {
+     "player": "Mason Taylor",
+     "market": "receptions",
+     "line": 2.5,
+     "side": "over",
+     "true_p_at_bet": 0.5102,
+     "result": null
+    }
+   ],
+   "p_ticket": 0.141,
+   "multiplier": 6.0,
+   "p_ticket_indep": 0.141,
+   "p_ticket_rho02": 0.1662
+  },
+  {
+   "stake": 30,
+   "legs": [
+    {
+     "player": "Joe Burrow",
+     "market": "completions",
+     "line": 24.5,
+     "side": "over",
+     "true_p_at_bet": null,
+     "result": null
+    },
+    {
+     "player": "Tee Higgins",
+     "market": "receptions",
+     "line": 4.5,
+     "side": "over",
+     "true_p_at_bet": 0.5498,
+     "result": null
+    },
+    {
+     "player": "Bryce Young",
+     "market": "pass_tds",
+     "line": 1.5,
+     "side": "over",
+     "true_p_at_bet": 0.5476,
+     "result": null
+    }
+   ],
+   "p_ticket": 0.1505,
+   "multiplier": 6.0,
+   "p_ticket_indep": 0.1505,
+   "p_ticket_rho02": 0.1778
+  },
+  {
+   "stake": 50,
+   "legs": [
+    {
+     "player": "Joe Burrow",
+     "market": "completions",
+     "line": 24.5,
+     "side": "over",
+     "true_p_at_bet": null,
+     "result": null
+    },
+    {
+     "player": "Tee Higgins",
+     "market": "receptions",
+     "line": 4.5,
+     "side": "over",
+     "true_p_at_bet": 0.5498,
+     "result": null
+    },
+    {
+     "player": "Anders Lee",
+     "market": "shots_on_goal",
+     "line": 1.5,
+     "side": "over",
+     "true_p_at_bet": 0.6011,
+     "result": null
+    }
+   ],
+   "p_ticket": 0.1375,
+   "multiplier": 6.0,
+   "p_ticket_indep": 0.1653,
+   "p_ticket_rho02": 0.1952
+  },
+  {
+   "stake": 50,
+   "legs": [
+    {
+     "player": "Jared Goff",
+     "market": "completions",
+     "line": 25.5,
+     "side": "over",
+     "true_p_at_bet": 0.5331,
+     "result": null
+    },
+    {
+     "player": "Sam LaPorta",
+     "market": "receptions",
+     "line": 4.5,
+     "side": "over",
+     "true_p_at_bet": 0.5625,
+     "result": null
+    },
+    {
+     "player": "Ryan Fitzgerald",
+     "market": "field_goals_made",
+     "line": 1.5,
+     "side": "over",
+     "true_p_at_bet": 0.5613,
+     "result": null
+    }
+   ],
+   "p_ticket": 0.1683,
+   "multiplier": 6.0,
+   "p_ticket_indep": 0.1683,
+   "p_ticket_rho02": 0.1961
+  },
+  {
+   "stake": 50,
+   "legs": [
+    {
+     "player": "Jacoby Brissett",
+     "market": "pass_attempts",
+     "line": 37.5,
+     "side": "under",
+     "true_p_at_bet": 0.4824,
+     "result": null
+    },
+    {
+     "player": "Michael Wilson",
+     "market": "receptions",
+     "line": 4.5,
+     "side": "under",
+     "true_p_at_bet": 0.5094,
+     "result": null
+    },
+    {
+     "player": "Norman Powell",
+     "market": "assists",
+     "line": 1.5,
+     "side": "over",
+     "true_p_at_bet": null,
+     "result": null
+    }
+   ],
+   "p_ticket": 0.1229,
+   "multiplier": 6.0,
+   "p_ticket_indep": 0.1229,
+   "p_ticket_rho02": 0.1478
+  },
+  {
+   "stake": 50,
+   "legs": [
+    {
+     "player": "Brock Purdy",
+     "market": "completions",
+     "line": 20.5,
+     "side": "under",
+     "true_p_at_bet": 0.5146,
+     "result": null
+    },
+    {
+     "player": "Christian McCaffrey",
+     "market": "receptions",
+     "line": 5.5,
+     "side": "under",
+     "true_p_at_bet": 0.4975,
+     "result": null
+    },
+    {
+     "player": "Jack Roslovic",
+     "market": "shots_on_goal",
+     "line": 1.5,
+     "side": "over",
+     "true_p_at_bet": 0.5586,
+     "result": null
+    }
+   ],
+   "p_ticket": 0.143,
+   "multiplier": 6.0,
+   "p_ticket_indep": 0.143,
+   "p_ticket_rho02": 0.1709
+  },
+  {
+   "stake": 50,
+   "legs": [
+    {
+     "player": "Geno Smith",
+     "market": "completions",
+     "line": 20.5,
+     "side": "over",
+     "true_p_at_bet": 0.5331,
+     "result": null
+    },
+    {
+     "player": "Mason Taylor",
+     "market": "receptions",
+     "line": 2.5,
+     "side": "over",
+     "true_p_at_bet": 0.5102,
+     "result": null
+    },
+    {
+     "player": "J Brooks",
+     "market": "tackles_assists",
+     "line": 8.5,
+     "side": "over",
+     "true_p_at_bet": null,
+     "result": null
+    }
+   ],
+   "p_ticket": 0.1276,
+   "multiplier": 6.0,
+   "p_ticket_indep": 0.136,
+   "p_ticket_rho02": 0.1609
+  },
+  {
+   "stake": 50,
+   "legs": [
+    {
+     "player": "CJ Stroud",
+     "market": "completions",
+     "line": 21.5,
+     "side": "over",
+     "true_p_at_bet": 0.474,
+     "result": null
+    },
+    {
+     "player": "Nico Collins",
+     "market": "receptions",
+     "line": 4.5,
+     "side": "over",
+     "true_p_at_bet": 0.5425,
+     "result": null
+    },
+    {
+     "player": "Claude Giroux",
+     "market": "shots_on_goal",
+     "line": 1.5,
+     "side": "over",
+     "true_p_at_bet": 0.5482,
+     "result": null
+    }
+   ],
+   "p_ticket": 0.141,
+   "multiplier": 6.0,
+   "p_ticket_indep": 0.141,
+   "p_ticket_rho02": 0.1682
+  },
+  {
+   "stake": 50,
+   "legs": [
+    {
+     "player": "CJ Stroud",
+     "market": "pass_attempts",
+     "line": 32.5,
+     "side": "over",
+     "true_p_at_bet": null,
+     "result": null
+    },
+    {
+     "player": "Nico Collins",
+     "market": "receptions",
+     "line": 4.5,
+     "side": "over",
+     "true_p_at_bet": 0.5425,
+     "result": null
+    },
+    {
+     "player": "P Adebo",
+     "market": "tackles",
+     "line": 2.5,
+     "side": "over",
+     "true_p_at_bet": null,
+     "result": null
+    }
+   ],
+   "p_ticket": 0.1356,
+   "multiplier": 6.0,
+   "p_ticket_indep": 0.1356,
+   "p_ticket_rho02": 0.1605
+  },
+  {
+   "stake": 50,
+   "legs": [
+    {
+     "player": "J.J. McCarthy",
+     "market": "completions",
+     "line": 18.5,
+     "side": "over",
+     "true_p_at_bet": 0.536,
+     "result": null
+    },
+    {
+     "player": "Malachi Fields",
+     "market": "receptions",
+     "line": 1.5,
+     "side": "over",
+     "true_p_at_bet": 0.5365,
+     "result": null
+    },
+    {
+     "player": "Will Anderson",
+     "market": "sacks",
+     "line": 0.5,
+     "side": "over",
+     "true_p_at_bet": null,
+     "result": null
+    }
+   ],
+   "p_ticket": 0.1438,
+   "multiplier": 6.0,
+   "p_ticket_indep": 0.1438,
+   "p_ticket_rho02": 0.1686
+  }
+ ],
+ "resolves": "NBA/NHL legs Sat 2026-10-24; NFL Sun 2026-10-25 and Mon"
+}
