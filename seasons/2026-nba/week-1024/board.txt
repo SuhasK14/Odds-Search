@@ -1,50 +1,50 @@
-120 legs priced; top 20 shown. Tickets use legs at or above 56% (break-even 53.0%, multiplier 6.70x).
+71 legs priced; top 20 shown. Tickets use legs at or above 56% (break-even 53.0%, multiplier 6.70x).
 pref = Suhas's market preference rank: 1=points, 2=rebounds, 3=assists, 4=pts_reb, 5=pts_ast, 6=reb_ast, 7=pra, 8=threes
 
 #  leg                                            true   spr  bk  opp  pref  flags
 ----------------------------------------------------------------------------------
-1  Matas Buzelis OVER 1.5 assists                56.8%  4.7   2    8     3  thin
-2  DeMar DeRozan OVER 5.5 reb_ast                56.7%  0.0   1   18     6  1 book
-3  DeMar DeRozan OVER 2.5 rebounds               56.5%  0.3   2   10     2  
-4  Ryan Rollins OVER 3.5 rebounds                56.3%  0.0   1   10     2  1 book
-5  Aaron Gordon OVER 8.5 reb_ast                 56.3%  0.0   1   18     6  1 book
-6  Sion James UNDER 6.5 reb_ast                  55.5%  2.3   2   18     6  
-7  Giannis Antetokounmpo UNDER 6.5 assists       55.5%  1.0   2    8     3  
-8  Stephon Castle OVER 5.5 assists               55.3%  0.4   2    8     3  
-9  Caleb Wilson OVER 7.5 reb_ast                 55.1%  0.0   1   18     6  1 book
-10 Trey Murphy III OVER 4.5 rebounds             55.1%  1.0   2   10     2  
-11 Jarrett Allen UNDER 8.5 rebounds              55.1%  1.5   2   10     2  
-12 Zion Williamson UNDER 8.5 reb_ast             55.0%  0.1   2   18     6  
-13 Caleb Wilson OVER 1.5 assists                 55.0%  2.2   2    8     3  
-14 Dyson Daniels UNDER 6.5 rebounds              55.0%  1.0   2   10     2  
-15 Nikola Jokic UNDER 10.5 assists               54.9%  0.3   2    8     3  
-16 Bam Adebayo UNDER 9.5 rebounds                54.8%  2.3   2   10     2  
-17 Aaron Gordon UNDER 6.5 rebounds               54.7%  0.2   2   10     2  
-18 Josh Giddey OVER 6.5 rebounds                 54.6%  0.0   1   10     2  1 book
-19 Dennis Schroder UNDER 3.5 rebounds            54.5%  0.4   2   10     2  
-20 Sion James UNDER 2.5 assists                  54.5%  1.1   2    8     3  
+1  Ryan Rollins OVER 3.5 rebounds                58.3%  0.0   1   10     2  1 book
+2  Kyshawn George OVER 3.5 rebounds              57.3%  0.0   1   10     2  1 book
+3  Caleb Wilson OVER 1.5 assists                 56.5%  5.0   3    8     3  thin
+4  Jamal Murray UNDER 4.5 rebounds               56.3%  4.0   2   10     2  thin
+5  Max Christie OVER 5.5 reb_ast                 56.0%  1.3   2   18     6  
+6  Devin Vassell OVER 5.5 reb_ast                55.9%  0.0   1   18     6  1 book
+7  DeMar DeRozan OVER 5.5 reb_ast                55.7%  1.9   2   18     6  
+8  Stephon Castle OVER 5.5 assists               55.6%  1.3   2    8     3  
+9  DeMar DeRozan OVER 2.5 rebounds               55.6%  0.3   2   10     2  
+10 Aaron Gordon OVER 8.5 reb_ast                 55.4%  0.0   1   18     6  1 book
+11 Trey Murphy III OVER 4.5 rebounds             55.2%  2.9   2   10     2  
+12 Nikola Jokic UNDER 10.5 assists               55.1%  0.7   2    8     3  
+13 Dyson Daniels UNDER 6.5 rebounds              55.1%  2.5   2   10     2  
+14 Dejounte Murray OVER 10.5 reb_ast             55.1%  0.0   1   18     6  1 book
+15 Zion Williamson UNDER 8.5 reb_ast             55.0%  1.8   2   18     6  
+16 Aaron Gordon UNDER 6.5 rebounds               54.9%  0.3   2   10     2  
+17 Nickeil Alexander-Walker UNDER 6.5 reb_ast    54.6%  6.4   2   18     6  thin
+18 Amen Thompson UNDER 8.5 rebounds              54.6%  0.0   1   10     2  1 book
+19 Matas Buzelis OVER 1.5 assists                54.3%  1.6   2    8     3  
+20 CJ McCollum OVER 2.5 rebounds                 54.1%  3.5   2   10     2  thin
 
 STRUCTURE: leave-two-out on top 5
 
 TICKETS (10)
-   1. Matas Buzelis OVER 1.5 assis  |  DeMar DeRozan OVER 5.5 reb_a  |  DeMar DeRozan OVER 2.5 rebou
-   2. Matas Buzelis OVER 1.5 assis  |  DeMar DeRozan OVER 5.5 reb_a  |  Ryan Rollins OVER 3.5 reboun
-   3. Matas Buzelis OVER 1.5 assis  |  DeMar DeRozan OVER 5.5 reb_a  |  Aaron Gordon OVER 8.5 reb_as
-   4. Matas Buzelis OVER 1.5 assis  |  DeMar DeRozan OVER 2.5 rebou  |  Ryan Rollins OVER 3.5 reboun
-   5. Matas Buzelis OVER 1.5 assis  |  DeMar DeRozan OVER 2.5 rebou  |  Aaron Gordon OVER 8.5 reb_as
-   6. Matas Buzelis OVER 1.5 assis  |  Ryan Rollins OVER 3.5 reboun  |  Aaron Gordon OVER 8.5 reb_as
-   7. DeMar DeRozan OVER 5.5 reb_a  |  DeMar DeRozan OVER 2.5 rebou  |  Ryan Rollins OVER 3.5 reboun
-   8. DeMar DeRozan OVER 5.5 reb_a  |  DeMar DeRozan OVER 2.5 rebou  |  Aaron Gordon OVER 8.5 reb_as
-   9. DeMar DeRozan OVER 5.5 reb_a  |  Ryan Rollins OVER 3.5 reboun  |  Aaron Gordon OVER 8.5 reb_as
-  10. DeMar DeRozan OVER 2.5 rebou  |  Ryan Rollins OVER 3.5 reboun  |  Aaron Gordon OVER 8.5 reb_as
+   1. Ryan Rollins OVER 3.5 reboun  |  Kyshawn George OVER 3.5 rebo  |  Caleb Wilson OVER 1.5 assist
+   2. Ryan Rollins OVER 3.5 reboun  |  Kyshawn George OVER 3.5 rebo  |  Jamal Murray UNDER 4.5 rebou
+   3. Ryan Rollins OVER 3.5 reboun  |  Kyshawn George OVER 3.5 rebo  |  Max Christie OVER 5.5 reb_as
+   4. Ryan Rollins OVER 3.5 reboun  |  Caleb Wilson OVER 1.5 assist  |  Jamal Murray UNDER 4.5 rebou
+   5. Ryan Rollins OVER 3.5 reboun  |  Caleb Wilson OVER 1.5 assist  |  Max Christie OVER 5.5 reb_as
+   6. Ryan Rollins OVER 3.5 reboun  |  Jamal Murray UNDER 4.5 rebou  |  Max Christie OVER 5.5 reb_as
+   7. Kyshawn George OVER 3.5 rebo  |  Caleb Wilson OVER 1.5 assist  |  Jamal Murray UNDER 4.5 rebou
+   8. Kyshawn George OVER 3.5 rebo  |  Caleb Wilson OVER 1.5 assist  |  Max Christie OVER 5.5 reb_as
+   9. Kyshawn George OVER 3.5 rebo  |  Jamal Murray UNDER 4.5 rebou  |  Max Christie OVER 5.5 reb_as
+  10. Caleb Wilson OVER 1.5 assist  |  Jamal Murray UNDER 4.5 rebou  |  Max Christie OVER 5.5 reb_as
 
-EV per entry      +21.0%
-P(zero return)    37.9%
-P(profit)         28.0%
-Kelly (quarter)   2.4% of bankroll  <-- use this
+EV per entry      +23.3%
+P(zero return)    37.3%
+P(profit)         28.5%
+Kelly (quarter)   2.6% of bankroll  <-- use this
 
 outcome distribution (tickets cashing -> probability)
-   0 cash   37.9%   return    0.0 on 10 staked
-   1 cash   34.1%   return    6.7 on 10 staked
-   4 cash   22.2%   return   26.8 on 10 staked
-  10 cash    5.8%   return   67.0 on 10 staked
+   0 cash   37.3%   return    0.0 on 10 staked
+   1 cash   34.2%   return    6.7 on 10 staked
+   4 cash   22.6%   return   26.8 on 10 staked
+  10 cash    6.0%   return   67.0 on 10 staked
