@@ -1,0 +1,51 @@
+{
+ "placed_at": "2026-10-30",
+ "promo": {
+  "wheel": "4x (50%) / 8x (50%)",
+  "expected_multiplier": 6.0,
+  "landed": "4x",
+  "legs_per_ticket": 3
+ },
+ "stake": null,
+ "legs": [
+  {
+   "player": "Jordan Eberle",
+   "market": "shots_on_goal",
+   "line": 1.5,
+   "side": "over",
+   "sport": "NHL",
+   "game": "SEA @ CGY",
+   "true_p_at_bet": 0.568,
+   "books": 2,
+   "result": null
+  },
+  {
+   "player": "Mark Stone",
+   "market": "shots_on_goal",
+   "line": 1.5,
+   "side": "over",
+   "sport": "NHL",
+   "game": "NJ @ VGK",
+   "true_p_at_bet": 0.567,
+   "books": 1,
+   "result": null
+  },
+  {
+   "player": "Connor Bedard",
+   "market": "shots_on_goal",
+   "line": 2.5,
+   "side": "over",
+   "sport": "NHL",
+   "game": "CHI @ BOS",
+   "true_p_at_bet": 0.553,
+   "books": 1,
+   "result": null
+  }
+ ],
+ "expected": {
+  "p_ticket": 0.178,
+  "roi_before_spin": 0.069,
+  "roi_after_4x_spin": -0.288
+ },
+ "resolves": "Eberle, Stone Fri 2026-10-30; Bedard Sat 2026-10-31 12:10 CT"
+}
