@@ -1,0 +1,28 @@
+156 legs priced; top 20 shown. Tickets use legs at or above 56% (break-even 53.0%, multiplier 6.70x).
+pref = Suhas's market preference rank: 1=points, 2=rebounds, 3=assists, 4=pts_reb, 5=pts_ast, 6=reb_ast, 7=pra, 8=threes
+
+#  leg                                            true   spr  bk  opp  pref  flags
+----------------------------------------------------------------------------------
+1  Cedric Coward OVER 2.5 assists                58.0%  2.2   2    8     3  
+2  Kevin Durant OVER 4.5 rebounds                56.4%  1.3   2   10     2  
+3  Victor Wembanyama OVER 2.5 assists            55.7%  1.4   2    8     3  
+4  Dean Wade OVER 4.5 rebounds                   55.6%  0.2   2   10     2  
+5  Ace Bailey OVER 7.5 reb_ast                   55.4%  0.0   2   18     6  
+6  Keldon Johnson UNDER 4.5 rebounds             55.3%  0.3   2   10     2  
+7  Dyson Daniels OVER 4.5 assists                55.3%  1.1   2    8     3  
+8  Donovan Mitchell OVER 4.5 rebounds            55.3%  1.5   2   10     2  
+9  Dennis Schroder OVER 5.5 assists              55.3%  3.3   3    8     3  thin
+10 Darius Acuff Jr. OVER 5.5 assists             55.3%  2.2   2    8     3  
+11 Naz Reid UNDER 8.5 rebounds                   55.3%  3.8   2   10     2  thin
+12 Cameron Boozer UNDER 8.5 rebounds             55.2%  2.2   2   10     2  
+13 Donovan Mitchell OVER 4.5 assists             55.2%  1.3   2    8     3  
+14 Karlo Matkovic OVER 4.5 rebounds              55.2%  0.1   2   10     2  
+15 Zion Williamson OVER 7.5 reb_ast              55.1%  0.0   2   18     6  
+16 Jaylen Brown UNDER 6.5 rebounds               55.0%  0.1   2   10     2  
+17 Keyonte George UNDER 6.5 assists              55.0%  2.6   2    8     3  
+18 Brandon Miller OVER 8.5 reb_ast               55.0%  1.7   2   18     6  
+19 Kenrich Williams UNDER 4.5 rebounds           54.7%  2.0   4   10     2  
+20 Luguentz Dort OVER 2.5 rebounds               54.7%  0.7   2   10     2  
+
+STRUCTURE: only 2 qualifying legs -- do not force entries
+No slate. Unused entries cost nothing; bad legs cost money.

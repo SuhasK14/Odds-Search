@@ -1,0 +1,165 @@
+# Boom NBA, recorded 2026-10-31 12:14-12:16. Rebounds, Assists and Asts+Rebs tabs only, by choice.
+{"frame": "f", "player": "Deni Avdija", "market": "Rebounds", "line": 7.5, "sides": "over,under", "confidence": "high", "game": "POR @ UTA"}
+{"frame": "f", "player": "Donovan Clingan", "market": "Rebounds", "line": 11.5, "sides": "over,under", "confidence": "high", "game": "POR @ UTA"}
+{"frame": "f", "player": "Jrue Holiday", "market": "Rebounds", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "POR @ UTA"}
+{"frame": "f", "player": "Scoot Henderson", "market": "Rebounds", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "POR @ UTA"}
+{"frame": "f", "player": "Toumani Camara", "market": "Rebounds", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "POR @ UTA"}
+{"frame": "f", "player": "Ace Bailey", "market": "Rebounds", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "POR @ UTA"}
+{"frame": "f", "player": "Jaxson Hayes", "market": "Rebounds", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "POR @ UTA"}
+{"frame": "f", "player": "Brandon Miller", "market": "Rebounds", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHA"}
+{"frame": "f", "player": "Jaylen Brown", "market": "Rebounds", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHA"}
+{"frame": "f", "player": "Naz Reid", "market": "Rebounds", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHA"}
+{"frame": "f", "player": "Anfernee Simons", "market": "Rebounds", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHA"}
+{"frame": "f", "player": "VJ Edgecombe", "market": "Rebounds", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHA"}
+{"frame": "f", "player": "Moussa Diabate", "market": "Rebounds", "line": 9.5, "sides": "over", "confidence": "high", "game": "PHI @ CHA"}
+{"frame": "f", "player": "Dean Wade", "market": "Rebounds", "line": 4.5, "sides": "over", "confidence": "high", "game": "PHI @ CHA"}
+{"frame": "f", "player": "Sion James", "market": "Rebounds", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHA"}
+{"frame": "f", "player": "Adem Bona", "market": "Rebounds", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHA"}
+{"frame": "f", "player": "Jalen Johnson", "market": "Rebounds", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NO"}
+{"frame": "f", "player": "Zion Williamson", "market": "Rebounds", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NO"}
+{"frame": "f", "player": "Dejounte Murray", "market": "Rebounds", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NO"}
+{"frame": "f", "player": "Trey Murphy III", "market": "Rebounds", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NO"}
+{"frame": "f", "player": "CJ McCollum", "market": "Rebounds", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NO"}
+{"frame": "f", "player": "Jeremiah Fears", "market": "Rebounds", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NO"}
+{"frame": "f", "player": "Herbert Jones", "market": "Rebounds", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NO"}
+{"frame": "f", "player": "Dyson Daniels", "market": "Rebounds", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NO"}
+{"frame": "f", "player": "Aaron Wiggins", "market": "Rebounds", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NO"}
+{"frame": "f", "player": "Kingston Flemings", "market": "Rebounds", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NO"}
+{"frame": "f", "player": "Luguentz Dort", "market": "Rebounds", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NO"}
+{"frame": "f", "player": "Karlo Matkovic", "market": "Rebounds", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NO"}
+{"frame": "f", "player": "Domantas Sabonis", "market": "Rebounds", "line": 13.5, "sides": "over,under", "confidence": "high", "game": "SAC @ MEM"}
+{"frame": "f", "player": "Darius Acuff Jr.", "market": "Rebounds", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "SAC @ MEM"}
+{"frame": "f", "player": "Cameron Boozer", "market": "Rebounds", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "SAC @ MEM"}
+{"frame": "f", "player": "Zach Edey", "market": "Rebounds", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "SAC @ MEM"}
+{"frame": "f", "player": "De'Andre Hunter", "market": "Rebounds", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "SAC @ MEM"}
+{"frame": "f", "player": "Precious Achiuwa", "market": "Rebounds", "line": 7.5, "sides": "over,under", "confidence": "high", "game": "SAC @ MEM"}
+{"frame": "f", "player": "Donovan Mitchell", "market": "Rebounds", "line": 4.5, "sides": "over", "confidence": "high", "game": "CLE @ MIL"}
+{"frame": "f", "player": "James Harden", "market": "Rebounds", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "CLE @ MIL"}
+{"frame": "f", "player": "Tyler Herro", "market": "Rebounds", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "CLE @ MIL"}
+{"frame": "f", "player": "Jaime Jaquez Jr.", "market": "Rebounds", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "CLE @ MIL"}
+{"frame": "f", "player": "Jarrett Allen", "market": "Rebounds", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "CLE @ MIL"}
+{"frame": "f", "player": "Myles Turner", "market": "Rebounds", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "CLE @ MIL"}
+{"frame": "f", "player": "Kyle Kuzma", "market": "Rebounds", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "CLE @ MIL"}
+{"frame": "f", "player": "Kel'el Ware", "market": "Rebounds", "line": 6.5, "sides": "over", "confidence": "high", "game": "CLE @ MIL"}
+{"frame": "f", "player": "Sam Merrill", "market": "Rebounds", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "CLE @ MIL"}
+{"frame": "f", "player": "Peyton Watson", "market": "Rebounds", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "CLE @ MIL"}
+{"frame": "f", "player": "Mario Hezonja", "market": "Rebounds", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "CLE @ MIL"}
+{"frame": "f", "player": "De'Aaron Fox", "market": "Rebounds", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "MIN @ SA"}
+{"frame": "f", "player": "Rudy Gobert", "market": "Rebounds", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "MIN @ SA"}
+{"frame": "f", "player": "Dylan Harper", "market": "Rebounds", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "MIN @ SA"}
+{"frame": "f", "player": "Jaden McDaniels", "market": "Rebounds", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "MIN @ SA"}
+{"frame": "f", "player": "Ayo Dosunmu", "market": "Rebounds", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "MIN @ SA"}
+{"frame": "f", "player": "Julian Champagnie", "market": "Rebounds", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "MIN @ SA"}
+{"frame": "f", "player": "Keldon Johnson", "market": "Rebounds", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "MIN @ SA"}
+{"frame": "f", "player": "Bones Hyland", "market": "Rebounds", "line": 1.5, "sides": "over", "confidence": "high", "game": "MIN @ SA"}
+{"frame": "f", "player": "Kevin Durant", "market": "Rebounds", "line": 4.5, "sides": "over", "confidence": "high", "game": "OKC @ HOU"}
+{"frame": "f", "player": "Alperen Sengun", "market": "Rebounds", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "OKC @ HOU"}
+{"frame": "f", "player": "Jabari Smith Jr.", "market": "Rebounds", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "OKC @ HOU"}
+{"frame": "f", "player": "Isaiah Hartenstein", "market": "Rebounds", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "OKC @ HOU"}
+{"frame": "f", "player": "Ajay Mitchell", "market": "Rebounds", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "OKC @ HOU"}
+{"frame": "f", "player": "Aday Mara", "market": "Rebounds", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "OKC @ HOU"}
+{"frame": "f", "player": "Kenrich Williams", "market": "Rebounds", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "OKC @ HOU"}
+{"frame": "f", "player": "Deni Avdija", "market": "Assists", "line": 6.5, "sides": "over", "confidence": "high", "game": "POR @ UTA"}
+{"frame": "f", "player": "Keyonte George", "market": "Assists", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "POR @ UTA"}
+{"frame": "f", "player": "Lauri Markkanen", "market": "Assists", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "POR @ UTA"}
+{"frame": "f", "player": "Scoot Henderson", "market": "Assists", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "POR @ UTA"}
+{"frame": "f", "player": "Toumani Camara", "market": "Assists", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "POR @ UTA"}
+{"frame": "f", "player": "Tyrese Maxey", "market": "Assists", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHA"}
+{"frame": "f", "player": "Jaylen Brown", "market": "Assists", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHA"}
+{"frame": "f", "player": "VJ Edgecombe", "market": "Assists", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHA"}
+{"frame": "f", "player": "Dennis Schroder", "market": "Assists", "line": 5.5, "sides": "over", "confidence": "high", "game": "PHI @ CHA"}
+{"frame": "f", "player": "Jalen Johnson", "market": "Assists", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NO"}
+{"frame": "f", "player": "Zion Williamson", "market": "Assists", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NO"}
+{"frame": "f", "player": "Onyeka Okongwu", "market": "Assists", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NO"}
+{"frame": "f", "player": "Dyson Daniels", "market": "Assists", "line": 4.5, "sides": "over", "confidence": "high", "game": "ATL @ NO"}
+{"frame": "f", "player": "Victor Wembanyama", "market": "Assists", "line": 2.5, "sides": "over", "confidence": "high", "game": "MIN @ SAS"}
+{"frame": "f", "player": "Stephon Castle", "market": "Assists", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "MIN @ SAS"}
+{"frame": "f", "player": "De'Aaron Fox", "market": "Assists", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "MIN @ SAS"}
+{"frame": "f", "player": "Dylan Harper", "market": "Assists", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "MIN @ SAS"}
+{"frame": "f", "player": "Devin Vassell", "market": "Assists", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "MIN @ SAS"}
+{"frame": "f", "player": "Domantas Sabonis", "market": "Assists", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "SAC @ MEM"}
+{"frame": "f", "player": "Darius Acuff Jr.", "market": "Assists", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "SAC @ MEM"}
+{"frame": "f", "player": "Cameron Boozer", "market": "Assists", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "SAC @ MEM"}
+{"frame": "f", "player": "De'Andre Hunter", "market": "Assists", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "SAC @ MEM"}
+{"frame": "f", "player": "Precious Achiuwa", "market": "Assists", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "SAC @ MEM"}
+{"frame": "f", "player": "Donovan Mitchell", "market": "Assists", "line": 4.5, "sides": "over", "confidence": "high", "game": "CLE @ MIL"}
+{"frame": "f", "player": "Evan Mobley", "market": "Assists", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "CLE @ MIL"}
+{"frame": "f", "player": "Jarrett Allen", "market": "Assists", "line": 1.5, "sides": "over", "confidence": "high", "game": "CLE @ MIL"}
+{"frame": "f", "player": "Tyler Herro", "market": "Assists", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "CLE @ MIL"}
+{"frame": "f", "player": "Myles Turner", "market": "Assists", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "CLE @ MIL"}
+{"frame": "f", "player": "Kyle Kuzma", "market": "Assists", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "CLE @ MIL"}
+{"frame": "f", "player": "Kasparas Jakucionis", "market": "Assists", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "CLE @ MIL"}
+{"frame": "f", "player": "Mario Hezonja", "market": "Assists", "line": 1.5, "sides": "over", "confidence": "high", "game": "CLE @ MIL"}
+{"frame": "f", "player": "Lamelo Ball", "market": "Assists", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "MIN @ SAS"}
+{"frame": "f", "player": "Rudy Gobert", "market": "Assists", "line": 1.5, "sides": "over,under", "confidence": "high", "game": "MIN @ SAS"}
+{"frame": "f", "player": "Jaden McDaniels", "market": "Assists", "line": 2.5, "sides": "over,under", "confidence": "high", "game": "MIN @ SAS"}
+{"frame": "f", "player": "Ayo Dosunmu", "market": "Assists", "line": 3.5, "sides": "over,under", "confidence": "high", "game": "MIN @ SAS"}
+{"frame": "f", "player": "Ty Jerome", "market": "Assists", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "MEM @ SAC"}
+{"frame": "f", "player": "Cedric Coward", "market": "Assists", "line": 2.5, "sides": "over", "confidence": "high", "game": "MEM @ SAC"}
+{"frame": "f", "player": "Shai Gilgeous-Alexander", "market": "Assists", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "OKC @ HOU"}
+{"frame": "f", "player": "Alperen Sengun", "market": "Assists", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "OKC @ HOU"}
+{"frame": "f", "player": "Amen Thompson", "market": "Assists", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "OKC @ HOU"}
+{"frame": "f", "player": "Jabari Smith Jr.", "market": "Assists", "line": 1.5, "sides": "over", "confidence": "high", "game": "OKC @ HOU"}
+{"frame": "f", "player": "Damian Lillard", "market": "Asts + Rebs", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "POR @ UTA"}
+{"frame": "f", "player": "Deni Avdija", "market": "Asts + Rebs", "line": 14.5, "sides": "over,under", "confidence": "high", "game": "POR @ UTA"}
+{"frame": "f", "player": "Keyonte George", "market": "Asts + Rebs", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "POR @ UTA"}
+{"frame": "f", "player": "Lauri Markkanen", "market": "Asts + Rebs", "line": 7.5, "sides": "over,under", "confidence": "high", "game": "POR @ UTA"}
+{"frame": "f", "player": "Donovan Clingan", "market": "Asts + Rebs", "line": 13.5, "sides": "over,under", "confidence": "high", "game": "POR @ UTA"}
+{"frame": "f", "player": "Jrue Holiday", "market": "Asts + Rebs", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "POR @ UTA"}
+{"frame": "f", "player": "Ace Bailey", "market": "Asts + Rebs", "line": 7.5, "sides": "over", "confidence": "high", "game": "POR @ UTA"}
+{"frame": "f", "player": "Scoot Henderson", "market": "Asts + Rebs", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "POR @ UTA"}
+{"frame": "f", "player": "Toumani Camara", "market": "Asts + Rebs", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "POR @ UTA"}
+{"frame": "f", "player": "Jaxson Hayes", "market": "Asts + Rebs", "line": 7.5, "sides": "over,under", "confidence": "high", "game": "POR @ UTA"}
+{"frame": "f", "player": "Tyrese Maxey", "market": "Asts + Rebs", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHA"}
+{"frame": "f", "player": "Brandon Miller", "market": "Asts + Rebs", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHA"}
+{"frame": "f", "player": "Jaylen Brown", "market": "Asts + Rebs", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHA"}
+{"frame": "f", "player": "Naz Reid", "market": "Asts + Rebs", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHA"}
+{"frame": "f", "player": "Anfernee Simons", "market": "Asts + Rebs", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHA"}
+{"frame": "f", "player": "VJ Edgecombe", "market": "Asts + Rebs", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHA"}
+{"frame": "f", "player": "Dennis Schroder", "market": "Asts + Rebs", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHA"}
+{"frame": "f", "player": "Moussa Diabate", "market": "Asts + Rebs", "line": 12.5, "sides": "over", "confidence": "high", "game": "PHI @ CHA"}
+{"frame": "f", "player": "Sion James", "market": "Asts + Rebs", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "PHI @ CHA"}
+{"frame": "f", "player": "Jalen Johnson", "market": "Asts + Rebs", "line": 17.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NO"}
+{"frame": "f", "player": "Zion Williamson", "market": "Asts + Rebs", "line": 7.5, "sides": "over", "confidence": "high", "game": "ATL @ NO"}
+{"frame": "f", "player": "Dejounte Murray", "market": "Asts + Rebs", "line": 11.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NO"}
+{"frame": "f", "player": "Nickeil Alexander-Walker", "market": "Asts + Rebs", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NO"}
+{"frame": "f", "player": "Onyeka Okongwu", "market": "Asts + Rebs", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NO"}
+{"frame": "f", "player": "Trey Murphy III", "market": "Asts + Rebs", "line": 7.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NO"}
+{"frame": "f", "player": "CJ McCollum", "market": "Asts + Rebs", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NO"}
+{"frame": "f", "player": "Jeremiah Fears", "market": "Asts + Rebs", "line": 7.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NO"}
+{"frame": "f", "player": "Dyson Daniels", "market": "Asts + Rebs", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NO"}
+{"frame": "f", "player": "Kingston Flemings", "market": "Asts + Rebs", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NO"}
+{"frame": "f", "player": "Derik Queen", "market": "Asts + Rebs", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "ATL @ NO"}
+{"frame": "f", "player": "Victor Wembanyama", "market": "Asts + Rebs", "line": 13.5, "sides": "over,under", "confidence": "high", "game": "MIN @ SAS"}
+{"frame": "f", "player": "Domantas Sabonis", "market": "Asts + Rebs", "line": 20.5, "sides": "over,under", "confidence": "high", "game": "MIN @ SAS"}
+{"frame": "f", "player": "Stephon Castle", "market": "Asts + Rebs", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "MIN @ SAS"}
+{"frame": "f", "player": "Lamelo Ball", "market": "Asts + Rebs", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "MIN @ SAS"}
+{"frame": "f", "player": "De'Aaron Fox", "market": "Asts + Rebs", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "MIN @ SAS"}
+{"frame": "f", "player": "Dylan Harper", "market": "Asts + Rebs", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "MIN @ SAS"}
+{"frame": "f", "player": "Jaden McDaniels", "market": "Asts + Rebs", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "MIN @ SAS"}
+{"frame": "f", "player": "Devin Vassell", "market": "Asts + Rebs", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "MIN @ SAS"}
+{"frame": "f", "player": "Ayo Dosunmu", "market": "Asts + Rebs", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "MIN @ SAS"}
+{"frame": "f", "player": "Jonathan Kuminga", "market": "Asts + Rebs", "line": 7.5, "sides": "over,under", "confidence": "high", "game": "MIN @ SAS"}
+{"frame": "f", "player": "Zach Lavine", "market": "Asts + Rebs", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "SAC @ MEM"}
+{"frame": "f", "player": "Ty Jerome", "market": "Asts + Rebs", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "SAC @ MEM"}
+{"frame": "f", "player": "Darius Acuff Jr.", "market": "Asts + Rebs", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "SAC @ MEM"}
+{"frame": "f", "player": "Cameron Boozer", "market": "Asts + Rebs", "line": 13.5, "sides": "over,under", "confidence": "high", "game": "SAC @ MEM"}
+{"frame": "f", "player": "Cedric Coward", "market": "Asts + Rebs", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "SAC @ MEM"}
+{"frame": "f", "player": "Zach Edey", "market": "Asts + Rebs", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "SAC @ MEM"}
+{"frame": "f", "player": "Jaylen Wells", "market": "Asts + Rebs", "line": 4.5, "sides": "over,under", "confidence": "high", "game": "SAC @ MEM"}
+{"frame": "f", "player": "Precious Achiuwa", "market": "Asts + Rebs", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "SAC @ MEM"}
+{"frame": "f", "player": "Tyler Herro", "market": "Asts + Rebs", "line": 9.5, "sides": "over,under", "confidence": "high", "game": "CLE @ MIL"}
+{"frame": "f", "player": "Ryan Rollins", "market": "Asts + Rebs", "line": 8.5, "sides": "over", "confidence": "high", "game": "CLE @ MIL"}
+{"frame": "f", "player": "Evan Mobley", "market": "Asts + Rebs", "line": 12.5, "sides": "over,under", "confidence": "high", "game": "CLE @ MIL"}
+{"frame": "f", "player": "Jaime Jaquez Jr.", "market": "Asts + Rebs", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "CLE @ MIL"}
+{"frame": "f", "player": "Jarrett Allen", "market": "Asts + Rebs", "line": 10.5, "sides": "over,under", "confidence": "high", "game": "CLE @ MIL"}
+{"frame": "f", "player": "Myles Turner", "market": "Asts + Rebs", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "CLE @ MIL"}
+{"frame": "f", "player": "Kyle Kuzma", "market": "Asts + Rebs", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "CLE @ MIL"}
+{"frame": "f", "player": "Peyton Watson", "market": "Asts + Rebs", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "CLE @ MIL"}
+{"frame": "f", "player": "Kasparas Jakucionis", "market": "Asts + Rebs", "line": 6.5, "sides": "over,under", "confidence": "high", "game": "CLE @ MIL"}
+{"frame": "f", "player": "Kevin Durant", "market": "Asts + Rebs", "line": 8.5, "sides": "over,under", "confidence": "high", "game": "OKC @ HOU"}
+{"frame": "f", "player": "Alperen Sengun", "market": "Asts + Rebs", "line": 14.5, "sides": "over,under", "confidence": "high", "game": "OKC @ HOU"}
+{"frame": "f", "player": "Amen Thompson", "market": "Asts + Rebs", "line": 11.5, "sides": "over,under", "confidence": "high", "game": "OKC @ HOU"}
+{"frame": "f", "player": "Jabari Smith Jr.", "market": "Asts + Rebs", "line": 7.5, "sides": "over", "confidence": "high", "game": "OKC @ HOU"}
+{"frame": "f", "player": "Isaiah Hartenstein", "market": "Asts + Rebs", "line": 12.5, "sides": "over,under", "confidence": "high", "game": "OKC @ HOU"}
+{"frame": "f", "player": "Jared McCain", "market": "Asts + Rebs", "line": 5.5, "sides": "over,under", "confidence": "high", "game": "OKC @ HOU"}

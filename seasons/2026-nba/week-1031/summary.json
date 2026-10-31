@@ -1,0 +1,1164 @@
+{
+ "week": 1031,
+ "season": "2026-nba",
+ "props_in_app": 164,
+ "odds_api_books": [
+  "br",
+  "mgm"
+ ],
+ "book_records": 266,
+ "matched": 156,
+ "matched_two_books": 135,
+ "unmatched": [
+  [
+   "Jarrett Allen",
+   "assists",
+   1.5,
+   "player found but not for assists (books have ['reb_ast', 'rebounds'])"
+  ],
+  [
+   "Mario Hezonja",
+   "assists",
+   1.5,
+   "player found but not for assists (books have ['rebounds'])"
+  ],
+  [
+   "Ryan Rollins",
+   "reb_ast",
+   8.5,
+   "line mismatch: app 8.5, books dk 9.5; fd 9.5. No two-way alternate line exists at either book, so no estimate."
+  ],
+  [
+   "Bones Hyland",
+   "rebounds",
+   1.5,
+   "player found but not for rebounds (books have ['assists'])"
+  ],
+  [
+   "Jabari Smith Jr.",
+   "assists",
+   1.5,
+   "player found but not for assists (books have ['rebounds'])"
+  ],
+  [
+   "Jabari Smith Jr.",
+   "reb_ast",
+   7.5,
+   "player found but not for reb_ast (books have ['rebounds'])"
+  ],
+  [
+   "Moussa Diabate",
+   "reb_ast",
+   12.5,
+   "player found but not for reb_ast (books have ['assists', 'rebounds'])"
+  ],
+  [
+   "Moussa Diabate",
+   "rebounds",
+   9.5,
+   "line mismatch: app 9.5, books dk 10.5. No two-way alternate line exists at either book, so no estimate."
+  ]
+ ],
+ "legs_priced": 156,
+ "legs_clear": 2,
+ "threshold": 0.56,
+ "structure": "only 2 qualifying legs -- do not force entries",
+ "tickets": [],
+ "p_zero": null,
+ "roi": null,
+ "kelly_quarter": null,
+ "board": [
+  {
+   "leg": "Cedric Coward OVER 2.5 assists",
+   "true_p": 0.5796,
+   "spread": 0.0217,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Kevin Durant OVER 4.5 rebounds",
+   "true_p": 0.564,
+   "spread": 0.013,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Victor Wembanyama OVER 2.5 assists",
+   "true_p": 0.5566,
+   "spread": 0.0138,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Dean Wade OVER 4.5 rebounds",
+   "true_p": 0.5558,
+   "spread": 0.0019,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Ace Bailey OVER 7.5 reb_ast",
+   "true_p": 0.5543,
+   "spread": 0.0002,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Keldon Johnson UNDER 4.5 rebounds",
+   "true_p": 0.5532,
+   "spread": 0.0033,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Dyson Daniels OVER 4.5 assists",
+   "true_p": 0.5531,
+   "spread": 0.0108,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Donovan Mitchell OVER 4.5 rebounds",
+   "true_p": 0.5531,
+   "spread": 0.0146,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Dennis Schroder OVER 5.5 assists",
+   "true_p": 0.553,
+   "spread": 0.0331,
+   "books": 3,
+   "opportunity": 8
+  },
+  {
+   "leg": "Darius Acuff Jr. OVER 5.5 assists",
+   "true_p": 0.5529,
+   "spread": 0.0221,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Naz Reid UNDER 8.5 rebounds",
+   "true_p": 0.5526,
+   "spread": 0.0382,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Cameron Boozer UNDER 8.5 rebounds",
+   "true_p": 0.5523,
+   "spread": 0.0223,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Donovan Mitchell OVER 4.5 assists",
+   "true_p": 0.5518,
+   "spread": 0.0135,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Karlo Matkovic OVER 4.5 rebounds",
+   "true_p": 0.5517,
+   "spread": 0.0012,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Zion Williamson OVER 7.5 reb_ast",
+   "true_p": 0.5513,
+   "spread": 0.0005,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Jaylen Brown UNDER 6.5 rebounds",
+   "true_p": 0.5504,
+   "spread": 0.0014,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Keyonte George UNDER 6.5 assists",
+   "true_p": 0.5501,
+   "spread": 0.026,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Brandon Miller OVER 8.5 reb_ast",
+   "true_p": 0.5498,
+   "spread": 0.0174,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Kenrich Williams UNDER 4.5 rebounds",
+   "true_p": 0.5475,
+   "spread": 0.0196,
+   "books": 4,
+   "opportunity": 10
+  },
+  {
+   "leg": "Luguentz Dort OVER 2.5 rebounds",
+   "true_p": 0.5475,
+   "spread": 0.0072,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Deni Avdija OVER 6.5 assists",
+   "true_p": 0.5472,
+   "spread": 0.0088,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Tyler Herro UNDER 9.5 reb_ast",
+   "true_p": 0.5471,
+   "spread": 0.008,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Tyler Herro UNDER 4.5 assists",
+   "true_p": 0.5467,
+   "spread": 0.0097,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Jrue Holiday UNDER 4.5 rebounds",
+   "true_p": 0.5458,
+   "spread": 0.0094,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Aday Mara OVER 4.5 rebounds",
+   "true_p": 0.5458,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 10
+  },
+  {
+   "leg": "Kyle Kuzma UNDER 5.5 rebounds",
+   "true_p": 0.5457,
+   "spread": 0.0589,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Tyrese Maxey OVER 5.5 assists",
+   "true_p": 0.5455,
+   "spread": 0.0186,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Jaden McDaniels OVER 2.5 assists",
+   "true_p": 0.5449,
+   "spread": 0.0417,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Ayo Dosunmu OVER 3.5 assists",
+   "true_p": 0.5448,
+   "spread": 0.0058,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Jaden McDaniels UNDER 5.5 rebounds",
+   "true_p": 0.5441,
+   "spread": 0.0125,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Scoot Henderson OVER 2.5 rebounds",
+   "true_p": 0.5439,
+   "spread": 0.0023,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Domantas Sabonis UNDER 6.5 assists",
+   "true_p": 0.5437,
+   "spread": 0.0147,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Herbert Jones UNDER 2.5 rebounds",
+   "true_p": 0.5431,
+   "spread": 0.0234,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Kel'el Ware OVER 6.5 rebounds",
+   "true_p": 0.5431,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 10
+  },
+  {
+   "leg": "Zach Lavine UNDER 6.5 reb_ast",
+   "true_p": 0.5426,
+   "spread": 0.0488,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Zion Williamson UNDER 5.5 rebounds",
+   "true_p": 0.5425,
+   "spread": 0.0067,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Myles Turner OVER 4.5 rebounds",
+   "true_p": 0.5419,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 10
+  },
+  {
+   "leg": "Domantas Sabonis OVER 13.5 rebounds",
+   "true_p": 0.5419,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 10
+  },
+  {
+   "leg": "Ayo Dosunmu UNDER 4.5 rebounds",
+   "true_p": 0.5416,
+   "spread": 0.0508,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Kyle Kuzma UNDER 8.5 reb_ast",
+   "true_p": 0.5411,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  },
+  {
+   "leg": "Stephon Castle OVER 10.5 reb_ast",
+   "true_p": 0.5411,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  },
+  {
+   "leg": "Damian Lillard UNDER 9.5 reb_ast",
+   "true_p": 0.5408,
+   "spread": 0.027,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Isaiah Hartenstein OVER 12.5 reb_ast",
+   "true_p": 0.5404,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  },
+  {
+   "leg": "Jeremiah Fears UNDER 7.5 reb_ast",
+   "true_p": 0.5391,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  },
+  {
+   "leg": "Jeremiah Fears OVER 3.5 rebounds",
+   "true_p": 0.5382,
+   "spread": 0.0282,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Jaden McDaniels UNDER 8.5 reb_ast",
+   "true_p": 0.5371,
+   "spread": 0.0278,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Cedric Coward UNDER 9.5 reb_ast",
+   "true_p": 0.5371,
+   "spread": 0.0016,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Trey Murphy III OVER 7.5 reb_ast",
+   "true_p": 0.537,
+   "spread": 0.0176,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Deni Avdija UNDER 7.5 rebounds",
+   "true_p": 0.5368,
+   "spread": 0.0008,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Jalen Johnson UNDER 8.5 assists",
+   "true_p": 0.5363,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 8
+  },
+  {
+   "leg": "Ayo Dosunmu UNDER 8.5 reb_ast",
+   "true_p": 0.5351,
+   "spread": 0.0319,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "VJ Edgecombe OVER 3.5 assists",
+   "true_p": 0.5345,
+   "spread": 0.0437,
+   "books": 4,
+   "opportunity": 8
+  },
+  {
+   "leg": "Cameron Boozer UNDER 5.5 assists",
+   "true_p": 0.5343,
+   "spread": 0.0122,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Aaron Wiggins UNDER 3.5 rebounds",
+   "true_p": 0.5341,
+   "spread": 0.0234,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Jrue Holiday UNDER 9.5 reb_ast",
+   "true_p": 0.5336,
+   "spread": 0.0094,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Dylan Harper UNDER 9.5 reb_ast",
+   "true_p": 0.5336,
+   "spread": 0.0166,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Victor Wembanyama OVER 13.5 reb_ast",
+   "true_p": 0.5323,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  },
+  {
+   "leg": "Jaylen Brown UNDER 4.5 assists",
+   "true_p": 0.5317,
+   "spread": 0.0803,
+   "books": 4,
+   "opportunity": 8
+  },
+  {
+   "leg": "CJ McCollum OVER 5.5 reb_ast",
+   "true_p": 0.5316,
+   "spread": 0.015,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "James Harden OVER 4.5 rebounds",
+   "true_p": 0.5311,
+   "spread": 0.0239,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Dyson Daniels OVER 5.5 rebounds",
+   "true_p": 0.5308,
+   "spread": 0.0414,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Jaxson Hayes OVER 7.5 reb_ast",
+   "true_p": 0.5306,
+   "spread": 0.0033,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Ty Jerome OVER 8.5 reb_ast",
+   "true_p": 0.5302,
+   "spread": 0.0123,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Kingston Flemings OVER 5.5 reb_ast",
+   "true_p": 0.5301,
+   "spread": 0.0419,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Lamelo Ball OVER 10.5 reb_ast",
+   "true_p": 0.5295,
+   "spread": 0.0167,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Isaiah Hartenstein OVER 9.5 rebounds",
+   "true_p": 0.5295,
+   "spread": 0.0102,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Myles Turner OVER 6.5 reb_ast",
+   "true_p": 0.5294,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  },
+  {
+   "leg": "Precious Achiuwa UNDER 9.5 reb_ast",
+   "true_p": 0.5294,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  },
+  {
+   "leg": "Zach Edey UNDER 8.5 rebounds",
+   "true_p": 0.5292,
+   "spread": 0.0102,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Brandon Miller OVER 5.5 rebounds",
+   "true_p": 0.5288,
+   "spread": 0.0012,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Lauri Markkanen OVER 7.5 reb_ast",
+   "true_p": 0.5276,
+   "spread": 0.0076,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Darius Acuff Jr. UNDER 3.5 rebounds",
+   "true_p": 0.5276,
+   "spread": 0.047,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Amen Thompson OVER 11.5 reb_ast",
+   "true_p": 0.527,
+   "spread": 0.0297,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Tyler Herro OVER 4.5 rebounds",
+   "true_p": 0.5268,
+   "spread": 0.0207,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Ace Bailey OVER 5.5 rebounds",
+   "true_p": 0.5266,
+   "spread": 0.0055,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Onyeka Okongwu OVER 9.5 reb_ast",
+   "true_p": 0.5263,
+   "spread": 0.0037,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Keyonte George UNDER 10.5 reb_ast",
+   "true_p": 0.5261,
+   "spread": 0.0057,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Dyson Daniels OVER 10.5 reb_ast",
+   "true_p": 0.5256,
+   "spread": 0.031,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Stephon Castle OVER 5.5 assists",
+   "true_p": 0.525,
+   "spread": 0.0338,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Toumani Camara UNDER 6.5 reb_ast",
+   "true_p": 0.5242,
+   "spread": 0.0178,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "De'Aaron Fox OVER 5.5 assists",
+   "true_p": 0.524,
+   "spread": 0.0278,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Ajay Mitchell OVER 3.5 rebounds",
+   "true_p": 0.5236,
+   "spread": 0.031,
+   "books": 4,
+   "opportunity": 10
+  },
+  {
+   "leg": "Jaime Jaquez Jr. UNDER 5.5 rebounds",
+   "true_p": 0.5235,
+   "spread": 0.0287,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Dejounte Murray OVER 11.5 reb_ast",
+   "true_p": 0.5234,
+   "spread": 0.0038,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Mario Hezonja OVER 3.5 rebounds",
+   "true_p": 0.5232,
+   "spread": 0.0082,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Zach Edey UNDER 9.5 reb_ast",
+   "true_p": 0.5232,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  },
+  {
+   "leg": "Kyle Kuzma OVER 2.5 assists",
+   "true_p": 0.5232,
+   "spread": 0.0181,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Jabari Smith Jr. OVER 5.5 rebounds",
+   "true_p": 0.5231,
+   "spread": 0.0232,
+   "books": 4,
+   "opportunity": 10
+  },
+  {
+   "leg": "Toumani Camara OVER 1.5 assists",
+   "true_p": 0.5226,
+   "spread": 0.037,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Donovan Clingan UNDER 11.5 rebounds",
+   "true_p": 0.5224,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 10
+  },
+  {
+   "leg": "Devin Vassell OVER 6.5 reb_ast",
+   "true_p": 0.5217,
+   "spread": 0.021,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "De'Aaron Fox OVER 3.5 rebounds",
+   "true_p": 0.5212,
+   "spread": 0.0041,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Jarrett Allen UNDER 9.5 rebounds",
+   "true_p": 0.5212,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 10
+  },
+  {
+   "leg": "Jonathan Kuminga UNDER 7.5 reb_ast",
+   "true_p": 0.5212,
+   "spread": 0.0058,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Jaxson Hayes OVER 5.5 rebounds",
+   "true_p": 0.5209,
+   "spread": 0.0127,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Jared McCain UNDER 5.5 reb_ast",
+   "true_p": 0.5208,
+   "spread": 0.0032,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Rudy Gobert OVER 10.5 rebounds",
+   "true_p": 0.5202,
+   "spread": 0.0323,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Peyton Watson UNDER 4.5 rebounds",
+   "true_p": 0.52,
+   "spread": 0.0359,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Anfernee Simons OVER 4.5 reb_ast",
+   "true_p": 0.5192,
+   "spread": 0.0262,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Deni Avdija UNDER 14.5 reb_ast",
+   "true_p": 0.5185,
+   "spread": 0.0005,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Jaylen Brown OVER 10.5 reb_ast",
+   "true_p": 0.5171,
+   "spread": 0.014,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "De'Andre Hunter UNDER 4.5 rebounds",
+   "true_p": 0.5166,
+   "spread": 0.0149,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Alperen Sengun UNDER 14.5 reb_ast",
+   "true_p": 0.5166,
+   "spread": 0.0231,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Donovan Clingan UNDER 13.5 reb_ast",
+   "true_p": 0.5162,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  },
+  {
+   "leg": "Ty Jerome OVER 5.5 assists",
+   "true_p": 0.5157,
+   "spread": 0.0192,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Adem Bona OVER 6.5 rebounds",
+   "true_p": 0.5147,
+   "spread": 0.0294,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Dejounte Murray OVER 5.5 rebounds",
+   "true_p": 0.5146,
+   "spread": 0.0172,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Sion James OVER 6.5 reb_ast",
+   "true_p": 0.5146,
+   "spread": 0.0172,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Dennis Schroder UNDER 9.5 reb_ast",
+   "true_p": 0.5146,
+   "spread": 0.009,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Jarrett Allen OVER 10.5 reb_ast",
+   "true_p": 0.5142,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  },
+  {
+   "leg": "Evan Mobley OVER 12.5 reb_ast",
+   "true_p": 0.5141,
+   "spread": 0.0404,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Anfernee Simons UNDER 2.5 rebounds",
+   "true_p": 0.5132,
+   "spread": 0.0061,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Scoot Henderson OVER 3.5 assists",
+   "true_p": 0.5126,
+   "spread": 0.0253,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Precious Achiuwa UNDER 7.5 rebounds",
+   "true_p": 0.5121,
+   "spread": 0.0141,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Lamelo Ball UNDER 6.5 assists",
+   "true_p": 0.5111,
+   "spread": 0.0102,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Peyton Watson OVER 6.5 reb_ast",
+   "true_p": 0.5111,
+   "spread": 0.0505,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Amen Thompson UNDER 4.5 assists",
+   "true_p": 0.5106,
+   "spread": 0.0212,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Derik Queen UNDER 9.5 reb_ast",
+   "true_p": 0.5101,
+   "spread": 0.0081,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Jaime Jaquez Jr. OVER 8.5 reb_ast",
+   "true_p": 0.5101,
+   "spread": 0.0081,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Toumani Camara OVER 4.5 rebounds",
+   "true_p": 0.5098,
+   "spread": 0.0012,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Myles Turner OVER 1.5 assists",
+   "true_p": 0.5092,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 8
+  },
+  {
+   "leg": "Dylan Harper UNDER 4.5 assists",
+   "true_p": 0.5086,
+   "spread": 0.0051,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "CJ McCollum OVER 2.5 rebounds",
+   "true_p": 0.5081,
+   "spread": 0.0162,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Kevin Durant UNDER 8.5 reb_ast",
+   "true_p": 0.5081,
+   "spread": 0.0162,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Dylan Harper OVER 4.5 rebounds",
+   "true_p": 0.5081,
+   "spread": 0.0041,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Alperen Sengun OVER 8.5 rebounds",
+   "true_p": 0.5075,
+   "spread": 0.0158,
+   "books": 4,
+   "opportunity": 10
+  },
+  {
+   "leg": "Lauri Markkanen OVER 1.5 assists",
+   "true_p": 0.5071,
+   "spread": 0.006,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Rudy Gobert UNDER 1.5 assists",
+   "true_p": 0.5071,
+   "spread": 0.0142,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "VJ Edgecombe OVER 10.5 reb_ast",
+   "true_p": 0.5071,
+   "spread": 0.002,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Precious Achiuwa OVER 1.5 assists",
+   "true_p": 0.5051,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 8
+  },
+  {
+   "leg": "Jalen Johnson OVER 17.5 reb_ast",
+   "true_p": 0.5046,
+   "spread": 0.0214,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Julian Champagnie UNDER 4.5 rebounds",
+   "true_p": 0.5046,
+   "spread": 0.0092,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Naz Reid OVER 10.5 reb_ast",
+   "true_p": 0.5046,
+   "spread": 0.003,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Evan Mobley OVER 3.5 assists",
+   "true_p": 0.5041,
+   "spread": 0.0203,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Onyeka Okongwu UNDER 2.5 assists",
+   "true_p": 0.504,
+   "spread": 0.004,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "De'Aaron Fox UNDER 9.5 reb_ast",
+   "true_p": 0.5036,
+   "spread": 0.0071,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Jaylen Wells OVER 4.5 reb_ast",
+   "true_p": 0.5031,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 18
+  },
+  {
+   "leg": "Trey Murphy III OVER 4.5 rebounds",
+   "true_p": 0.5025,
+   "spread": 0.0051,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Kasparas Jakucionis OVER 3.5 assists",
+   "true_p": 0.5025,
+   "spread": 0.0051,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Jalen Johnson UNDER 9.5 rebounds",
+   "true_p": 0.502,
+   "spread": 0.0162,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Kingston Flemings UNDER 2.5 rebounds",
+   "true_p": 0.502,
+   "spread": 0.004,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Kasparas Jakucionis OVER 6.5 reb_ast",
+   "true_p": 0.5016,
+   "spread": 0.0234,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Zion Williamson OVER 2.5 assists",
+   "true_p": 0.5015,
+   "spread": 0.0031,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "De'Andre Hunter UNDER 1.5 assists",
+   "true_p": 0.501,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 8
+  },
+  {
+   "leg": "Shai Gilgeous-Alexander UNDER 5.5 assists",
+   "true_p": 0.499,
+   "spread": 0.0263,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Tyrese Maxey OVER 10.5 reb_ast",
+   "true_p": 0.4985,
+   "spread": 0.0354,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Domantas Sabonis OVER 20.5 reb_ast",
+   "true_p": 0.498,
+   "spread": 0.0243,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Nickeil Alexander-Walker UNDER 6.5 reb_ast",
+   "true_p": 0.4975,
+   "spread": 0.0152,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Alperen Sengun OVER 5.5 assists",
+   "true_p": 0.4965,
+   "spread": 0.0313,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Darius Acuff Jr. OVER 9.5 reb_ast",
+   "true_p": 0.4951,
+   "spread": 0.0464,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Scoot Henderson OVER 6.5 reb_ast",
+   "true_p": 0.4942,
+   "spread": 0.0259,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "VJ Edgecombe UNDER 6.5 rebounds",
+   "true_p": 0.4939,
+   "spread": 0.0162,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Sam Merrill OVER 2.5 rebounds",
+   "true_p": 0.492,
+   "spread": 0.0222,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Cameron Boozer UNDER 13.5 reb_ast",
+   "true_p": 0.4914,
+   "spread": 0.0212,
+   "books": 2,
+   "opportunity": 18
+  },
+  {
+   "leg": "Sion James OVER 3.5 rebounds",
+   "true_p": 0.4905,
+   "spread": 0.0292,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Devin Vassell UNDER 2.5 assists",
+   "true_p": 0.4864,
+   "spread": 0.0373,
+   "books": 2,
+   "opportunity": 8
+  }
+ ]
+}
