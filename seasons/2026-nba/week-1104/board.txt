@@ -1,50 +1,50 @@
-236 legs priced; top 20 shown. Tickets use legs at or above 56% (break-even 53.0%, multiplier 6.70x).
+226 legs priced; top 20 shown. Tickets use legs at or above 56% (break-even 53.0%, multiplier 6.70x).
 pref = Suhas's market preference rank: 1=points, 2=rebounds, 3=assists, 4=pts_reb, 5=pts_ast, 6=reb_ast, 7=pra, 8=threes
 
 #  leg                                            true   spr  bk  opp  pref  flags
 ----------------------------------------------------------------------------------
-1  Paul George OVER 4.5 rebounds                 57.3%  0.3   2   10     2  
-2  Darryn Peterson OVER 3.5 assists              57.2%  1.2   2    8     3  
+1  Darryn Peterson OVER 3.5 assists              57.5%  1.7   2    8     3  
+2  Paul George OVER 4.5 rebounds                 57.2%  0.0   1   10     2  1 book
 3  Kyshawn George OVER 4.5 rebounds              56.4%  1.7   2   10     2  
-4  LeBron James OVER 5.5 rebounds                56.0%  1.1   2   10     2  
-5  Victor Wembanyama OVER 2.5 assists            56.0%  0.7   2    8     3  
-6  Alex Sarr OVER 1.5 assists                    56.0%  1.8   2    8     3  
-7  Jamal Murray OVER 5.5 assists                 56.0%  1.9   2    8     3  
-8  Kon Knueppel OVER 5.5 reb_ast                 56.0%  2.1   3   18     6  
-9  Dylan Harper UNDER 5.5 rebounds               56.0%  2.4   2   10     2  
-10 Stephon Castle OVER 5.5 assists               56.0%  1.0   2    8     3  
-11 Brandon Miller OVER 7.5 reb_ast               55.9%  0.0   1   18     6  1 book
-12 VJ Edgecombe OVER 7.5 reb_ast                 55.7%  1.4   2   18     6  
-13 Tyrese Maxey UNDER 8.5 reb_ast                55.6%  1.5   2   18     6  
-14 Zach LaVine OVER 2.5 rebounds                 55.5%  0.6   2   10     2  
-15 Collin Murray-Boyles UNDER 5.5 rebounds       55.4%  0.3   2   10     2  
-16 Cameron Boozer OVER 4.5 assists               55.3%  1.8   2    8     3  
-17 Devin Booker OVER 8.5 reb_ast                 55.3%  1.0   2   18     6  
-18 Trey Murphy III OVER 7.5 reb_ast              55.3%  2.0   2   18     6  
-19 Myles Turner OVER 4.5 rebounds                55.2%  1.0   3   10     2  
+4  OG Anunoby OVER 7.5 reb_ast                   56.3%  0.0   1   18     6  1 book
+5  Cameron Boozer OVER 4.5 assists               56.2%  0.0   1    8     3  1 book
+6  LeBron James OVER 5.5 rebounds                56.1%  1.2   2   10     2  
+7  Dylan Harper UNDER 5.5 rebounds               56.0%  2.4   2   10     2  
+8  Stephon Castle OVER 5.5 assists               56.0%  1.0   2    8     3  
+9  Alex Sarr OVER 1.5 assists                    56.0%  1.7   2    8     3  
+10 Brandon Miller OVER 7.5 reb_ast               55.9%  0.0   1   18     6  1 book
+11 De'Aaron Fox OVER 5.5 assists                 55.9%  0.0   1    8     3  1 book
+12 Victor Wembanyama OVER 2.5 assists            55.6%  0.2   2    8     3  
+13 Brayden Burries OVER 6.5 reb_ast              55.5%  0.0   1   18     6  1 book
+14 Myles Turner OVER 4.5 rebounds                55.4%  0.6   2   10     2  
+15 Zach LaVine OVER 2.5 rebounds                 55.4%  0.3   2   10     2  
+16 Collin Murray-Boyles UNDER 5.5 rebounds       55.4%  0.3   2   10     2  
+17 Devin Booker OVER 8.5 reb_ast                 55.3%  1.1   2   18     6  
+18 Jamal Murray OVER 5.5 assists                 55.3%  0.4   2    8     3  
+19 Kon Knueppel OVER 5.5 reb_ast                 55.2%  0.0   1   18     6  1 book
 20 Max Strus OVER 3.5 rebounds                   55.2%  3.0   2   10     2  
 
 STRUCTURE: leave-two-out on top 5
 
 TICKETS (10)
-   1. Paul George OVER 4.5 rebound  |  Darryn Peterson OVER 3.5 ass  |  Kyshawn George OVER 4.5 rebo
-   2. Paul George OVER 4.5 rebound  |  Darryn Peterson OVER 3.5 ass  |  LeBron James OVER 5.5 reboun
-   3. Paul George OVER 4.5 rebound  |  Darryn Peterson OVER 3.5 ass  |  Victor Wembanyama OVER 2.5 a
-   4. Paul George OVER 4.5 rebound  |  Kyshawn George OVER 4.5 rebo  |  LeBron James OVER 5.5 reboun
-   5. Paul George OVER 4.5 rebound  |  Kyshawn George OVER 4.5 rebo  |  Victor Wembanyama OVER 2.5 a
-   6. Paul George OVER 4.5 rebound  |  LeBron James OVER 5.5 reboun  |  Victor Wembanyama OVER 2.5 a
-   7. Darryn Peterson OVER 3.5 ass  |  Kyshawn George OVER 4.5 rebo  |  LeBron James OVER 5.5 reboun
-   8. Darryn Peterson OVER 3.5 ass  |  Kyshawn George OVER 4.5 rebo  |  Victor Wembanyama OVER 2.5 a
-   9. Darryn Peterson OVER 3.5 ass  |  LeBron James OVER 5.5 reboun  |  Victor Wembanyama OVER 2.5 a
-  10. Kyshawn George OVER 4.5 rebo  |  LeBron James OVER 5.5 reboun  |  Victor Wembanyama OVER 2.5 a
+   1. Darryn Peterson OVER 3.5 ass  |  Paul George OVER 4.5 rebound  |  Kyshawn George OVER 4.5 rebo
+   2. Darryn Peterson OVER 3.5 ass  |  Paul George OVER 4.5 rebound  |  OG Anunoby OVER 7.5 reb_ast
+   3. Darryn Peterson OVER 3.5 ass  |  Paul George OVER 4.5 rebound  |  Cameron Boozer OVER 4.5 assi
+   4. Darryn Peterson OVER 3.5 ass  |  Kyshawn George OVER 4.5 rebo  |  OG Anunoby OVER 7.5 reb_ast
+   5. Darryn Peterson OVER 3.5 ass  |  Kyshawn George OVER 4.5 rebo  |  Cameron Boozer OVER 4.5 assi
+   6. Darryn Peterson OVER 3.5 ass  |  OG Anunoby OVER 7.5 reb_ast  |  Cameron Boozer OVER 4.5 assi
+   7. Paul George OVER 4.5 rebound  |  Kyshawn George OVER 4.5 rebo  |  OG Anunoby OVER 7.5 reb_ast
+   8. Paul George OVER 4.5 rebound  |  Kyshawn George OVER 4.5 rebo  |  Cameron Boozer OVER 4.5 assi
+   9. Paul George OVER 4.5 rebound  |  OG Anunoby OVER 7.5 reb_ast  |  Cameron Boozer OVER 4.5 assi
+  10. Kyshawn George OVER 4.5 rebo  |  OG Anunoby OVER 7.5 reb_ast  |  Cameron Boozer OVER 4.5 assi
 
-EV per entry      +21.5%
-P(zero return)    37.8%
-P(profit)         28.1%
-Kelly (quarter)   2.4% of bankroll  <-- use this
+EV per entry      +22.2%
+P(zero return)    37.6%
+P(profit)         28.3%
+Kelly (quarter)   2.5% of bankroll  <-- use this
 
 outcome distribution (tickets cashing -> probability)
-   0 cash   37.8%   return    0.0 on 10 staked
+   0 cash   37.6%   return    0.0 on 10 staked
    1 cash   34.2%   return    6.7 on 10 staked
-   4 cash   22.3%   return   26.8 on 10 staked
-  10 cash    5.8%   return   67.0 on 10 staked
+   4 cash   22.4%   return   26.8 on 10 staked
+  10 cash    5.9%   return   67.0 on 10 staked
