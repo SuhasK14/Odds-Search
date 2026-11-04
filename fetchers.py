@@ -74,7 +74,9 @@ WNBA_MARKETS = ("points", "rebounds", "assists", "threes",
 # too thin; SOG is a two-way count line at both books (checked 2026-10-14).
 NHL_MARKETS = ("shots_on_goal",)
 # NBA: same counting stats and combos as WNBA (added 2026-10-20).
-NBA_MARKETS = WNBA_MARKETS
+# Steals+blocks (two-way) and double-double (yes-only) are DraftKings-only; FanDuel
+# posts neither on these tabs. Checked 2026-11-04.
+NBA_MARKETS = WNBA_MARKETS + ("stls_blks", "double_double")
 SPORT_MARKETS = {"nfl": NFL_MARKETS, "mlb": MLB_MARKETS, "wnba": WNBA_MARKETS,
                  "nhl": NHL_MARKETS, "nba": NBA_MARKETS}
 MARKETS = NFL_MARKETS          # back-compat default for NFL-only callers
@@ -83,7 +85,7 @@ ALL_MARKETS = tuple(dict.fromkeys(sum(SPORT_MARKETS.values(), ())))
 # Markets the books price on ONE side only ("yes" / over 0.5). Their quotes
 # carry only that side: {"book": "dk", "over": -150, "under": None}. A
 # one-sided price says nothing about the other side and is never mirrored.
-ONE_SIDED = {"anytime_td"}
+ONE_SIDED = {"anytime_td", "double_double"}
 
 
 def markets_for(sport: str) -> tuple:
@@ -236,6 +238,7 @@ PLAYER_ALIASES = {
     "bam knight": "zonovan knight",
     "andrew ogletree": "drew ogletree",
     "alexandre sarr": "alex sarr",
+    "cameron johnson": "cam johnson",
 }
 
 # normalized key -> display name(s) seen, so output can show the book's spelling
@@ -439,9 +442,12 @@ DK_SUBCAT_NHL = {
     # cat 1189 "Shots on Goal"; the bare "Shots on Goal" subcategory is an N+ ladder
     "shots_on_goal":   ("Shots on Goal O/U",   (1189, 12040)),
 }
+DK_SUBCAT_NBA = dict(DK_SUBCAT_WNBA)               # NBA ids match WNBA, plus two extras
+DK_SUBCAT_NBA["stls_blks"] = ("Steals + Blocks O/U", (1293, 13781))
+DK_SUBCAT_NBA["double_double"] = ("Double-Double", (583, 13762))
 DK_SUBCATS = {"nfl": DK_SUBCAT, "mlb": DK_SUBCAT_MLB, "wnba": DK_SUBCAT_WNBA,
-              "nhl": DK_SUBCAT_NHL, "nba": DK_SUBCAT_WNBA}   # NBA ids match WNBA
-DK_ONE_SIDED_MARKET_NAME = {"anytime_td": "anytime td scorer"}   # market.name to keep in that subcategory
+              "nhl": DK_SUBCAT_NHL, "nba": DK_SUBCAT_NBA}
+DK_ONE_SIDED_MARKET_NAME = {"anytime_td": "anytime td scorer", "double_double": "double-double"}   # market.name to keep in that subcategory
 
 
 def _dk_events(payload: dict, sport: str = "nfl") -> dict:

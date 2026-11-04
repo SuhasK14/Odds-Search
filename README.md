@@ -303,3 +303,22 @@ lines merge. Watch the merge log for more of these as the season fills out.
 ```bash
 python run.py --week 1020 --season 2026-nba --video REC.mp4
 ```
+
+### NBA, week of 2026-11-04: what the first full board taught us
+
+- **Boom's NBA abbreviations differ from the books':** Boom writes `NYK`, `SAS`, `NOP`;
+  the books use `NY`, `SA`, `NO`. Write the `game` field in the books' form. This is not
+  cosmetic: the per-game fetch filter skips any game it does not recognise, so three games
+  priced **zero** legs until relabelled (matched went 178 -> 236 of 265). Also check
+  home/away: `X vs Y` is home, `X @ Y` is away.
+- **Steals+Blocks and Double-Double** are posted by DraftKings only (FanDuel has neither
+  on these tabs). Steals+Blocks is a normal two-way line. Double-Double is yes-only and had
+  no pregame prices at midday, so it stays unmatched until DK posts it.
+- **Aliases added:** Cam/Cameron Johnson, Alex/Alexandre Sarr, Cam/Cameron Ward, and others.
+- **Game totals and spreads** come from the Odds API bulk endpoint
+  (`/sports/basketball_nba/odds?markets=totals,spreads`): about 2 credits for every game,
+  saved to `week-*/game_lines.json`. Use them to separate close, high-total games (overs)
+  from blowouts (starters sit, so unders).
+- **Same-game stacks** assume a shared game-level correlation of ~0.10 and ~0.16 between
+  teammates. That is an assumption, not a measurement: with independent legs the best
+  stacks are roughly break-even (-4% to +4% at 6x), so the whole edge is the correlation.

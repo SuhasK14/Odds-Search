@@ -84,6 +84,10 @@ MARKET_SYNONYMS = {
                      "pitcher hits allowed", "total hits allowed"],
     "pitching_outs": ["pitching_outs", "pitching outs", "outs recorded", "outs",
                       "total outs", "outs (pitcher)", "innings pitched outs"],
+    # ---- NBA extras ----
+    "stls_blks": ["stls_blks", "stls + blks", "steals + blocks", "steals+blocks", "stl + blk",
+                  "stocks"],
+    "double_double": ["double_double", "double-double", "double double", "dbl-dbl", "dd"],
     # ---- NHL ----
     "shots_on_goal": ["shots_on_goal", "shots on goal", "sog", "shots", "total shots",
                       "player shots on goal", "shots on goal o/u"],
