@@ -1531,6 +1531,18 @@
     "over": 123,
     "under": -157,
     "line": 4.5
+   },
+   {
+    "book": "bol",
+    "over": 110,
+    "under": -143,
+    "line": 4.5
+   },
+   {
+    "book": "bov",
+    "over": 115,
+    "under": -150,
+    "line": 4.5
    }
   ],
   "app_sides": [

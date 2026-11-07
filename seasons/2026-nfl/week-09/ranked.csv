@@ -1,9 +1,9 @@
 player,game,market,line,side,true_p,spread,books,opportunity,pref,one_sided
-George Pickens,DAL @ IND,receptions,4.5,under,0.5767,0.0000,1,6,1,0
 Khalil Shakir,BUF @ MIN,receptions,3.5,over,0.5698,0.0056,2,6,1,0
 Jayden Daniels,LAR @ WAS,interceptions,0.5,under,0.5679,0.0238,3,6,7,0
 James Cook,BUF @ MIN,receptions,1.5,over,0.5659,0.0253,2,6,1,0
 Oronde Gadsden,HOU @ LAC,receptions,1.5,over,0.5659,0.0296,2,6,1,0
+George Pickens,DAL @ IND,receptions,4.5,under,0.5642,0.0239,3,6,1,0
 Eddy Pineiro,LV @ SF,field_goals_made,1.5,over,0.5631,0.0000,1,6,8,0
 D'Andre Swift,TB @ CHI,receptions,2.5,over,0.5626,0.0082,2,6,1,0
 Quinshon Judkins,CLE @ NO,receptions,1.5,over,0.5611,0.0120,2,6,1,0

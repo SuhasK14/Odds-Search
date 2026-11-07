@@ -3,12 +3,14 @@
  "season": "2026-nfl",
  "props_in_app": 308,
  "odds_api_books": [
+  "bol",
+  "bov",
   "br",
   "mgm"
  ],
  "book_records": 723,
  "matched": 197,
- "matched_two_books": 83,
+ "matched_two_books": 84,
  "unmatched": [
   [
    "Gardner Minshew",
@@ -683,36 +685,6 @@
  "structure": "leave-two-out on top 5",
  "tickets": [
   [
-   "George Pickens UNDER 4.5 receptions",
-   "Khalil Shakir OVER 3.5 receptions",
-   "Jayden Daniels UNDER 0.5 interceptions"
-  ],
-  [
-   "George Pickens UNDER 4.5 receptions",
-   "Khalil Shakir OVER 3.5 receptions",
-   "James Cook OVER 1.5 receptions"
-  ],
-  [
-   "George Pickens UNDER 4.5 receptions",
-   "Khalil Shakir OVER 3.5 receptions",
-   "Oronde Gadsden OVER 1.5 receptions"
-  ],
-  [
-   "George Pickens UNDER 4.5 receptions",
-   "Jayden Daniels UNDER 0.5 interceptions",
-   "James Cook OVER 1.5 receptions"
-  ],
-  [
-   "George Pickens UNDER 4.5 receptions",
-   "Jayden Daniels UNDER 0.5 interceptions",
-   "Oronde Gadsden OVER 1.5 receptions"
-  ],
-  [
-   "George Pickens UNDER 4.5 receptions",
-   "James Cook OVER 1.5 receptions",
-   "Oronde Gadsden OVER 1.5 receptions"
-  ],
-  [
    "Khalil Shakir OVER 3.5 receptions",
    "Jayden Daniels UNDER 0.5 interceptions",
    "James Cook OVER 1.5 receptions"
@@ -724,26 +696,49 @@
   ],
   [
    "Khalil Shakir OVER 3.5 receptions",
+   "Jayden Daniels UNDER 0.5 interceptions",
+   "George Pickens UNDER 4.5 receptions"
+  ],
+  [
+   "Khalil Shakir OVER 3.5 receptions",
+   "James Cook OVER 1.5 receptions",
+   "Oronde Gadsden OVER 1.5 receptions"
+  ],
+  [
+   "Khalil Shakir OVER 3.5 receptions",
+   "James Cook OVER 1.5 receptions",
+   "George Pickens UNDER 4.5 receptions"
+  ],
+  [
+   "Khalil Shakir OVER 3.5 receptions",
+   "Oronde Gadsden OVER 1.5 receptions",
+   "George Pickens UNDER 4.5 receptions"
+  ],
+  [
+   "Jayden Daniels UNDER 0.5 interceptions",
    "James Cook OVER 1.5 receptions",
    "Oronde Gadsden OVER 1.5 receptions"
   ],
   [
    "Jayden Daniels UNDER 0.5 interceptions",
    "James Cook OVER 1.5 receptions",
-   "Oronde Gadsden OVER 1.5 receptions"
+   "George Pickens UNDER 4.5 receptions"
+  ],
+  [
+   "Jayden Daniels UNDER 0.5 interceptions",
+   "Oronde Gadsden OVER 1.5 receptions",
+   "George Pickens UNDER 4.5 receptions"
+  ],
+  [
+   "James Cook OVER 1.5 receptions",
+   "Oronde Gadsden OVER 1.5 receptions",
+   "George Pickens UNDER 4.5 receptions"
   ]
  ],
- "p_zero": 0.3718339639636549,
- "roi": 0.23574444590104005,
- "kelly_quarter": 0.026768711791210424,
+ "p_zero": 0.37633040853548794,
+ "roi": 0.21964884392456363,
+ "kelly_quarter": 0.02485377562594522,
  "board": [
-  {
-   "leg": "George Pickens UNDER 4.5 receptions",
-   "true_p": 0.5767,
-   "spread": 0.0,
-   "books": 1,
-   "opportunity": 6
-  },
   {
    "leg": "Khalil Shakir OVER 3.5 receptions",
    "true_p": 0.5698,
@@ -770,6 +765,13 @@
    "true_p": 0.5659,
    "spread": 0.0296,
    "books": 2,
+   "opportunity": 6
+  },
+  {
+   "leg": "George Pickens UNDER 4.5 receptions",
+   "true_p": 0.5642,
+   "spread": 0.0239,
+   "books": 3,
    "opportunity": 6
   },
   {

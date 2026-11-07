@@ -223,14 +223,26 @@ Coverage as checked live 2026-09-24:
 | MLB hits allowed, pitching outs | Fanatics only |
 | MLB strikeouts | Fanatics, Bovada |
 
-Default extra books are `mgm,br,fan,wh` — legal US only. Bovada and BetOnline
-are off by default: more vig, and they often mirror a US line rather than adding
-an independent opinion. They do, however, have the **widest** coverage of the QB
-count markets (attempts, completions, interceptions, rush attempts), well beyond
-BetRivers. If a run keeps coming back single-book on those, turn them on:
+Default extra books are `mgm,br,fan,wh` -- legal US only. Bovada (`bov`) and
+BetOnline (`bol`) are offshore: more vig, and they often mirror a US line, so they
+are **not** a normal source.
+
+They are used as a **tiebreaker**. A prop gets their quotes only when it has
+exactly one US book after everything else has run; with two US books they are
+dropped, and with zero they are never allowed to create a prop on their own.
+They do have the widest coverage of QB count markets, so this fills the gap
+without letting their extra vig pull down legs that already have two US books.
+
+Found on NFL week 9: Pickens U4.5 rec stayed single-book (DK 57.7%) because
+FanDuel had 3.5 and BetRivers posted the over only (never inferred from one side),
+while Bovada and BetOnline both quoted 4.5 two-way. With the tiebreak he is three
+books at 56.4%, 2.4 points apart. The Odds API returns every book in one response,
+so this costs **no extra credits**.
 
 ```bash
-python run.py --week 3 --odds-api --odds-api-books mgm,br,fan,wh,bov,bol
+python run.py --week 9 --odds-api                          # tiebreak on (default)
+python run.py --week 9 --odds-api --no-odds-api-tiebreak   # US books only
+python run.py --week 9 --odds-api --odds-api-books mgm,br,fan,wh,bov,bol  # offshore everywhere
 ```
 
 **Bet365 is not usable.** Every entry point returns 403 behind a Cloudflare

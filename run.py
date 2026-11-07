@@ -226,6 +226,39 @@ def print_unmatched_summary(unmatched):
 # board
 # --------------------------------------------------------------------------
 
+# Offshore books: more vig and often a mirror of a US line, so they are not a
+# default source. They are used only as a tiebreaker for a prop that would
+# otherwise stay below two books. Added 2026-11-07 after Pickens U4.5 rec stayed
+# single-book although Bovada and BetOnline both quoted it.
+OFFSHORE = ("bov", "bol")
+
+
+def apply_tiebreak(base: list, extra: list, offshore: tuple) -> tuple:
+    """Drop offshore quotes from `extra` for any prop that already has two or
+    more books (counting `base` plus the non-offshore extras). Returns
+    (filtered extra, number of props that kept an offshore quote)."""
+    def key(r):
+        return (r["player_key"], r["market"], round(float(r["line"]), 2))
+    have: dict = {}
+    for r in base:
+        have.setdefault(key(r), set()).update(q["book"] for q in r["quotes"])
+    for r in extra:
+        for q in r["quotes"]:
+            if q["book"] not in offshore:
+                have.setdefault(key(r), set()).add(q["book"])
+    out, kept = [], set()
+    for r in extra:
+        if any(q["book"] in offshore for q in r["quotes"]):
+            # Only a prop with exactly one non-offshore book qualifies: with two it
+            # is already settled, with none an offshore quote would create a prop
+            # priced by an offshore book alone.
+            if len(have.get(key(r), ())) != 1:
+                continue
+            kept.add(key(r))
+        out.append(r)
+    return out, len(kept)
+
+
 def price_leg(m: dict, a) -> "Leg":
     """Devig one matched record into a Leg. Used for the real board and, before
     any credits are spent, to see which single-book legs are worth a second price."""
@@ -326,6 +359,9 @@ def main():
                          "priced at or above this on the one book it has")
     ap.add_argument("--odds-api-top", type=int, default=8,
                     help="cap on how many single-book legs to cross-reference; 0 = no cap")
+    ap.add_argument("--odds-api-tiebreak", action=argparse.BooleanOptionalAction, default=True,
+                    help="use Bovada/BetOnline only for props that would otherwise have "
+                         "fewer than two books (default on; --no-odds-api-tiebreak to disable)")
     ap.add_argument("--odds-api-books", default=",".join(fetchers.ODDS_API_DEFAULT_BOOKS),
                     help="which extra books to accept; add bov,bol for the offshore pair")
     ap.add_argument("--fd-state", default="il")
@@ -470,10 +506,15 @@ def main():
                     print(f"     {l.true_p * 100:5.1f}%  {l.label()[:46]:<47}"
                           f"{'+'.join(q.book for q in l.quotes)}")
                 print(f"  budget {a.odds_api_budget} credits; 1 credit per game-market that has data")
+                tiebreak = tuple(b for b in OFFSHORE if b not in oa_books)                     if a.odds_api_tiebreak else ()
                 extra = fetchers.fetch_odds_api(
                     sport, markets, key, days=a.days, max_age_min=a.max_age,
-                    refresh=a.refresh, books=oa_books, only=gaps,
+                    refresh=a.refresh, books=oa_books + tiebreak, only=gaps,
                     budget=a.odds_api_budget)
+                if extra and tiebreak:
+                    extra, n_tb = apply_tiebreak(records, extra, tiebreak)
+                    print(f"  offshore tiebreak ({'+'.join(tiebreak)}): kept for "
+                          f"{n_tb} prop(s) that would otherwise stay below two books")
                 if extra:
                     before = sum(1 for r in records if len(r["quotes"]) >= 2)
                     records = fetchers.merge_records(records, extra)
