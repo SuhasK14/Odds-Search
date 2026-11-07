@@ -1,0 +1,97 @@
+# promo app availability, compiled by video.py
+# Player Name | market | line | sides | game
+CJ McCollum | assists | 3.5 | over,under | BKN @ ATL
+Day'Ron Sharpe | assists | 2.5 | over | BKN @ ATL
+Jalen Johnson | assists | 7.5 | over,under | BKN @ ATL
+Julius Randle | assists | 4.5 | over,under | BKN @ ATL
+Kingston Flemings | assists | 4.5 | over,under | BKN @ ATL
+Mikel Brown Jr. | assists | 3.5 | over | BKN @ ATL
+Onyeka Okongwu | assists | 2.5 | over,under | BKN @ ATL
+CJ McCollum | rebounds | 2.5 | over,under | BKN @ ATL
+Day'Ron Sharpe | rebounds | 8.5 | over,under | BKN @ ATL
+Dyson Daniels | rebounds | 6.5 | over,under | BKN @ ATL
+Jalen Johnson | rebounds | 9.5 | over,under | BKN @ ATL
+Julius Randle | rebounds | 6.5 | over,under | BKN @ ATL
+Michael Porter Jr. | rebounds | 7.5 | over,under | BKN @ ATL
+Moritz Wagner | rebounds | 4.5 | over,under | BKN @ ATL
+Nickeil Alexander-Walker | rebounds | 2.5 | over | BKN @ ATL
+Onyeka Okongwu | rebounds | 7.5 | over,under | BKN @ ATL
+Aaron Gordon | assists | 2.5 | over,under | DEN @ IND
+Andrew Nembhard | assists | 7.5 | over,under | DEN @ IND
+DeMar DeRozan | assists | 2.5 | over,under | DEN @ IND
+Nikola Jokic | assists | 9.5 | over,under | DEN @ IND
+Pascal Siakam | assists | 3.5 | over | DEN @ IND
+Aaron Gordon | rebounds | 5.5 | over,under | DEN @ IND
+Aaron Nesmith | rebounds | 3.5 | over,under | DEN @ IND
+Andrew Nembhard | rebounds | 2.5 | over,under | DEN @ IND
+Christian Braun | rebounds | 4.5 | over,under | DEN @ IND
+Ivica Zubac | rebounds | 7.5 | over,under | DEN @ IND
+Jamal Murray | rebounds | 4.5 | over,under | DEN @ IND
+Nikola Jokic | rebounds | 11.5 | over,under | DEN @ IND
+Obi Toppin | rebounds | 4.5 | over,under | DEN @ IND
+Pascal Siakam | rebounds | 6.5 | over,under | DEN @ IND
+Alperen Sengun | assists | 6.5 | over,under | HOU @ PHX
+Amen Thompson | assists | 3.5 | over | HOU @ PHX
+Oso Ighodaro | assists | 2.5 | over,under | HOU @ PHX
+Alperen Sengun | rebounds | 9.5 | over,under | HOU @ PHX
+Amen Thompson | rebounds | 6.5 | over,under | HOU @ PHX
+Collin Gillespie | rebounds | 2.5 | over | HOU @ PHX
+Dillon Brooks | rebounds | 3.5 | over,under | HOU @ PHX
+Jabari Smith Jr. | rebounds | 5.5 | over | HOU @ PHX
+Jalen Green | rebounds | 3.5 | over,under | HOU @ PHX
+Miles Bridges | rebounds | 6.5 | over,under | HOU @ PHX
+Oso Ighodaro | rebounds | 5.5 | over,under | HOU @ PHX
+Tari Eason | rebounds | 5.5 | over,under | HOU @ PHX
+Evan Mobley | assists | 3.5 | over,under | NY @ CLE
+Jalen Brunson | assists | 6.5 | over,under | NY @ CLE
+Karl-Anthony Towns | assists | 3.5 | over,under | NY @ CLE
+Landry Shamet | assists | 1.5 | over,under | NY @ CLE
+Donovan Mitchell | rebounds | 4.5 | over,under | NY @ CLE
+Evan Mobley | rebounds | 9.5 | over,under | NY @ CLE
+James Harden | rebounds | 4.5 | over,under | NY @ CLE
+Karl-Anthony Towns | rebounds | 12.5 | over,under | NY @ CLE
+Kenrich Williams | rebounds | 4.5 | over,under | NY @ CLE
+Mario Hezonja | rebounds | 6.5 | over,under | NY @ CLE
+Meleek Thomas | rebounds | 2.5 | over,under | NY @ CLE
+Miles McBride | rebounds | 1.5 | over | NY @ CLE
+OG Anunoby | rebounds | 5.5 | over,under | NY @ CLE
+Peyton Watson | rebounds | 4.5 | over | NY @ CLE
+Jared McCain | assists | 1.5 | over | OKC @ WAS
+Shai Gilgeous-Alexander | assists | 5.5 | over,under | OKC @ WAS
+Draymond Green | assists | 5.5 | over | ORL @ GS
+Stephen Curry | assists | 4.5 | over,under | ORL @ GS
+Wendell Carter Jr. | assists | 1.5 | over,under | ORL @ GS
+Yaxel Lendeborg | assists | 4.5 | over,under | ORL @ GS
+Anthony Black | rebounds | 4.5 | over,under | ORL @ GS
+Brandin Podziemski | rebounds | 5.5 | over,under | ORL @ GS
+De'Anthony Melton | rebounds | 3.5 | over | ORL @ GS
+Draymond Green | rebounds | 5.5 | over,under | ORL @ GS
+Franz Wagner | rebounds | 5.5 | over,under | ORL @ GS
+Tristan Da Silva | rebounds | 4.5 | over,under | ORL @ GS
+Wendell Carter Jr. | rebounds | 9.5 | over,under | ORL @ GS
+Will Richard | rebounds | 2.5 | over | ORL @ GS
+Yaxel Lendeborg | rebounds | 7.5 | over,under | ORL @ GS
+Damian Lillard | assists | 4.5 | over,under | SA @ POR
+De'Aaron Fox | assists | 5.5 | over,under | SA @ POR
+Devin Vassell | assists | 2.5 | over,under | SA @ POR
+Dylan Harper | assists | 4.5 | over,under | SA @ POR
+Jrue Holiday | assists | 4.5 | over,under | SA @ POR
+Scoot Henderson | assists | 2.5 | over,under | SA @ POR
+Stephon Castle | assists | 5.5 | over | SA @ POR
+Toumani Camara | assists | 1.5 | over,under | SA @ POR
+Victor Wembanyama | assists | 2.5 | over,under | SA @ POR
+Damian Lillard | rebounds | 3.5 | over,under | SA @ POR
+Deni Avdija | rebounds | 6.5 | over,under | SA @ POR
+Donovan Clingan | rebounds | 11.5 | over,under | SA @ POR
+Julian Champagnie | rebounds | 3.5 | over | SA @ POR
+Keldon Johnson | rebounds | 4.5 | over,under | SA @ POR
+Scoot Henderson | rebounds | 2.5 | over,under | SA @ POR
+Toumani Camara | rebounds | 3.5 | over | SA @ POR
+Victor Wembanyama | rebounds | 11.5 | over,under | SA @ POR
+Trae Young | assists | 8.5 | over,under | WAS @ OKC
+Aday Mara | rebounds | 6.5 | over,under | WAS @ OKC
+Alex Caruso | rebounds | 3.5 | over,under | WAS @ OKC
+Alex Sarr | rebounds | 6.5 | over,under | WAS @ OKC
+Anthony Davis | rebounds | 9.5 | over,under | WAS @ OKC
+Isaiah Hartenstein | rebounds | 10.5 | over,under | WAS @ OKC
+Trae Young | rebounds | 2.5 | over | WAS @ OKC

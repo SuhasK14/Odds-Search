@@ -29,8 +29,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -127,
-    "under": -101,
+    "over": -121,
+    "under": -105,
     "line": 20.5
    }
   ],
@@ -56,6 +56,12 @@
     "over": 107,
     "under": -136,
     "line": 0.5
+   },
+   {
+    "book": "br",
+    "over": 116,
+    "under": -155,
+    "line": 0.5
    }
   ],
   "app_sides": [
@@ -73,7 +79,13 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -138,
+    "over": -163,
+    "under": 128,
+    "line": 0.5
+   },
+   {
+    "book": "br",
+    "over": -143,
     "under": 108,
     "line": 0.5
    }
@@ -116,8 +128,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 101,
-    "under": -128,
+    "over": 105,
+    "under": -134,
     "line": 4.5
    },
    {
@@ -205,8 +217,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 106,
-    "under": -135,
+    "over": 110,
+    "under": -141,
     "line": 1.5
    },
    {
@@ -217,8 +229,8 @@
    },
    {
     "book": "mgm",
-    "over": -115,
-    "under": -115,
+    "over": 100,
+    "under": -135,
     "line": 1.5
    }
   ],
@@ -257,8 +269,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -101,
-    "under": -127,
+    "over": -105,
+    "under": -121,
     "line": 15.5
    }
   ],
@@ -417,14 +429,20 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -139,
-    "under": 109,
+    "over": -134,
+    "under": 105,
     "line": 0.5
    },
    {
     "book": "fd",
     "over": -138,
     "under": 104,
+    "line": 0.5
+   },
+   {
+    "book": "mgm",
+    "over": -150,
+    "under": 110,
     "line": 0.5
    }
   ],
@@ -443,14 +461,20 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -131,
-    "under": 103,
+    "over": -139,
+    "under": 109,
     "line": 3.5
    },
    {
     "book": "fd",
     "over": -130,
     "under": -102,
+    "line": 3.5
+   },
+   {
+    "book": "mgm",
+    "over": -125,
+    "under": -105,
     "line": 3.5
    }
   ],
@@ -473,14 +497,20 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -110,
-    "under": -116,
+    "over": 107,
+    "under": -137,
     "line": 3.5
    },
    {
     "book": "fd",
-    "over": -114,
-    "under": -114,
+    "over": 112,
+    "under": -148,
+    "line": 3.5
+   },
+   {
+    "book": "mgm",
+    "over": 105,
+    "under": -140,
     "line": 3.5
    }
   ],
@@ -499,14 +529,20 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -142,
-    "under": 111,
+    "over": -165,
+    "under": 129,
     "line": 1.5
    },
    {
     "book": "fd",
     "over": -162,
     "under": 122,
+    "line": 1.5
+   },
+   {
+    "book": "mgm",
+    "over": -140,
+    "under": 105,
     "line": 1.5
    }
   ],
@@ -533,6 +569,12 @@
     "over": -118,
     "under": -112,
     "line": 3.5
+   },
+   {
+    "book": "mgm",
+    "over": -111,
+    "under": -120,
+    "line": 3.5
    }
   ],
   "app_sides": [
@@ -550,14 +592,20 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -123,
-    "under": -103,
+    "over": -113,
+    "under": -113,
     "line": 6.5
    },
    {
     "book": "fd",
     "over": -108,
     "under": -122,
+    "line": 6.5
+   },
+   {
+    "book": "mgm",
+    "over": -115,
+    "under": -115,
     "line": 6.5
    }
   ],
@@ -576,14 +624,20 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 108,
-    "under": -138,
+    "over": 104,
+    "under": -133,
     "line": 2.5
    },
    {
     "book": "fd",
     "over": 104,
     "under": -138,
+    "line": 2.5
+   },
+   {
+    "book": "mgm",
+    "over": 110,
+    "under": -150,
     "line": 2.5
    }
   ],
@@ -601,15 +655,15 @@
   "line": 3.5,
   "quotes": [
    {
-    "book": "dk",
-    "over": -154,
-    "under": 121,
-    "line": 3.5
-   },
-   {
     "book": "fd",
     "over": -154,
     "under": 116,
+    "line": 3.5
+   },
+   {
+    "book": "mgm",
+    "over": -155,
+    "under": 115,
     "line": 3.5
    }
   ],
@@ -652,14 +706,20 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -112,
-    "under": -113,
+    "over": -102,
+    "under": -125,
     "line": 4.5
    },
    {
     "book": "fd",
     "over": -114,
     "under": -114,
+    "line": 4.5
+   },
+   {
+    "book": "mgm",
+    "over": 105,
+    "under": -140,
     "line": 4.5
    }
   ],
@@ -682,8 +742,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -106,
-    "under": -121,
+    "over": -109,
+    "under": -117,
     "line": 8.5
    }
   ],
@@ -802,8 +862,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -106,
-    "under": -120,
+    "over": -103,
+    "under": -124,
     "line": 5.5
    },
    {
@@ -828,8 +888,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -150,
-    "under": 118,
+    "over": -152,
+    "under": 119,
     "line": 2.5
    },
    {
@@ -873,7 +933,7 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -115,
+    "over": -110,
     "under": null,
     "line": 0.5
    },
@@ -901,26 +961,6 @@
     "over": -131,
     "under": 102,
     "line": 25.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Michael Penix Jr.",
-  "player_key": "michael penix",
-  "team": "ATL",
-  "game": "CIN @ ATL",
-  "market": "completions",
-  "line": 19.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -132,
-    "under": 103,
-    "line": 19.5
    }
   ],
   "app_sides": [
@@ -978,8 +1018,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -119,
-    "under": -107,
+    "over": -123,
+    "under": -104,
     "line": 36.5
    }
   ],
@@ -998,8 +1038,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -114,
-    "under": -112,
+    "over": -117,
+    "under": -109,
     "line": 31.5
    }
   ],
@@ -1018,8 +1058,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 102,
-    "under": -130,
+    "over": -102,
+    "under": -125,
     "line": 1.5
    },
    {
@@ -1044,8 +1084,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -131,
-    "under": 102,
+    "over": -136,
+    "under": 107,
     "line": 5.5
    },
    {
@@ -1128,8 +1168,8 @@
    },
    {
     "book": "fd",
-    "over": -114,
-    "under": -114,
+    "over": 102,
+    "under": -136,
     "line": 1.5
    }
   ],
@@ -1174,8 +1214,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -114,
-    "under": -112,
+    "over": -108,
+    "under": -118,
     "line": 19.5
    }
   ],
@@ -1214,8 +1254,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -104,
-    "under": -123,
+    "over": 100,
+    "under": -127,
     "line": 5.5
    }
   ],
@@ -1234,8 +1274,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -120,
-    "under": -106,
+    "over": -125,
+    "under": -102,
     "line": 18.5
    }
   ],
@@ -1254,8 +1294,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -123,
-    "under": -103,
+    "over": -122,
+    "under": -105,
     "line": 1.5
    }
   ],
@@ -1274,8 +1314,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -127,
-    "under": 100,
+    "over": -121,
+    "under": -105,
     "line": 30.5
    }
   ],
@@ -1294,8 +1334,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -123,
-    "under": -104,
+    "over": -116,
+    "under": -110,
     "line": 4.5
    },
    {
@@ -1320,8 +1360,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -107,
-    "under": -119,
+    "over": -108,
+    "under": -118,
     "line": 4.5
    },
    {
@@ -1346,8 +1386,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -143,
-    "under": 112,
+    "over": -151,
+    "under": 118,
     "line": 1.5
    },
    {
@@ -1371,8 +1411,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 100,
-    "under": -128,
+    "over": -108,
+    "under": -118,
     "line": 16.5
    }
   ],
@@ -1391,7 +1431,7 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -120,
+    "over": -130,
     "under": null,
     "line": 0.5
    },
@@ -1476,8 +1516,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -117,
-    "under": -109,
+    "over": -122,
+    "under": -104,
     "line": 31.5
    }
   ],
@@ -1496,8 +1536,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 104,
-    "under": -133,
+    "over": -120,
+    "under": -106,
     "line": 6.5
    },
    {
@@ -1505,44 +1545,6 @@
     "over": -114,
     "under": -114,
     "line": 6.5
-   },
-   {
-    "book": "mgm",
-    "over": -111,
-    "under": -120,
-    "line": 6.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "George Pickens",
-  "player_key": "george pickens",
-  "team": "DAL",
-  "game": "DAL @ IND",
-  "market": "receptions",
-  "line": 4.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": 123,
-    "under": -157,
-    "line": 4.5
-   },
-   {
-    "book": "bol",
-    "over": 110,
-    "under": -143,
-    "line": 4.5
-   },
-   {
-    "book": "bov",
-    "over": 115,
-    "under": -150,
-    "line": 4.5
    }
   ],
   "app_sides": [
@@ -1560,20 +1562,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -141,
-    "under": 110,
+    "over": -136,
+    "under": 107,
     "line": 1.5
    },
    {
     "book": "fd",
     "over": -138,
     "under": 104,
-    "line": 1.5
-   },
-   {
-    "book": "mgm",
-    "over": -135,
-    "under": 100,
     "line": 1.5
    }
   ],
@@ -1627,12 +1623,6 @@
     "over": -130,
     "under": -102,
     "line": 4.5
-   },
-   {
-    "book": "mgm",
-    "over": -110,
-    "under": -120,
-    "line": 4.5
    }
   ],
   "app_sides": [
@@ -1650,14 +1640,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 115,
-    "under": -147,
-    "line": 3.5
-   },
-   {
-    "book": "mgm",
-    "over": 100,
-    "under": -135,
+    "over": -139,
+    "under": 109,
     "line": 3.5
    }
   ],
@@ -1684,12 +1668,6 @@
     "book": "fd",
     "over": 102,
     "under": -136,
-    "line": 5.5
-   },
-   {
-    "book": "mgm",
-    "over": 120,
-    "under": -160,
     "line": 5.5
    }
   ],
@@ -1748,8 +1726,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -111,
-    "under": -115,
+    "over": -131,
+    "under": 102,
     "line": 21.5
    }
   ],
@@ -1768,8 +1746,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -127,
-    "under": 100,
+    "over": -131,
+    "under": 103,
     "line": 1.5
    }
   ],
@@ -1869,6 +1847,18 @@
     "over": -113,
     "under": -113,
     "line": 20.5
+   },
+   {
+    "book": "bol",
+    "over": 100,
+    "under": -130,
+    "line": 20.5
+   },
+   {
+    "book": "bov",
+    "over": -115,
+    "under": -115,
+    "line": 20.5
    }
   ],
   "app_sides": [
@@ -1886,8 +1876,20 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -109,
-    "under": -117,
+    "over": -110,
+    "under": -116,
+    "line": 5.5
+   },
+   {
+    "book": "bol",
+    "over": -112,
+    "under": -115,
+    "line": 5.5
+   },
+   {
+    "book": "bov",
+    "over": -110,
+    "under": -120,
     "line": 5.5
    }
   ],
@@ -1946,8 +1948,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -127,
-    "under": -101,
+    "over": -123,
+    "under": -104,
     "line": 31.5
    }
   ],
@@ -1972,7 +1974,7 @@
    },
    {
     "book": "fd",
-    "over": -102,
+    "over": 100,
     "under": -130,
     "line": 1.5
    }
@@ -2018,14 +2020,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -137,
-    "under": 107,
+    "over": -119,
+    "under": -108,
     "line": 4.5
    },
    {
     "book": "fd",
-    "over": -148,
-    "under": 112,
+    "over": -122,
+    "under": -108,
     "line": 4.5
    }
   ],
@@ -2043,8 +2045,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -106,
-    "under": -120,
+    "over": -110,
+    "under": -116,
     "line": 3.5
    },
    {
@@ -2069,8 +2071,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -120,
-    "under": -106,
+    "over": -114,
+    "under": -112,
     "line": 3.5
    },
    {
@@ -2095,8 +2097,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -112,
-    "under": -114,
+    "over": -117,
+    "under": -109,
     "line": 4.5
    },
    {
@@ -2121,8 +2123,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -105,
-    "under": -121,
+    "over": -102,
+    "under": -125,
     "line": 15.5
    }
   ],
@@ -2228,6 +2230,30 @@
     "over": 108,
     "under": -138,
     "line": 0.5
+   }
+  ],
+  "aliases": [
+   "CJ Stroud",
+   "C.J. Stroud"
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "CJ Stroud",
+  "player_key": "cj stroud",
+  "team": "HOU",
+  "game": "HOU @ LAC",
+  "market": "pass_attempts",
+  "line": 32.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -104,
+    "under": -122,
+    "line": 32.5
    }
   ],
   "aliases": [
@@ -2535,8 +2561,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -105,
-    "under": -121,
+    "over": -111,
+    "under": -115,
     "line": 5.5
    }
   ],
@@ -2575,8 +2601,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -116,
-    "under": -110,
+    "over": -122,
+    "under": -104,
     "line": 16.5
    }
   ],
@@ -2595,8 +2621,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -109,
-    "under": -117,
+    "over": -105,
+    "under": -121,
     "line": 1.5
    }
   ],
@@ -2615,8 +2641,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 109,
-    "under": -139,
+    "over": 105,
+    "under": -134,
     "line": 1.5
    },
    {
@@ -2641,13 +2667,13 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -150,
+    "over": -155,
     "under": null,
     "line": 0.5
    },
    {
     "book": "fd",
-    "over": -155,
+    "over": -150,
     "under": null,
     "line": 0.5
    }
@@ -2666,7 +2692,7 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -145,
+    "over": -140,
     "under": null,
     "line": 0.5
    },
@@ -2691,8 +2717,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -121,
-    "under": -105,
+    "over": -116,
+    "under": -110,
     "line": 19.5
    }
   ],
@@ -2751,8 +2777,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 117,
-    "under": -149,
+    "over": 113,
+    "under": -144,
     "line": 0.5
    },
    {
@@ -2803,8 +2829,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 103,
-    "under": -131,
+    "over": 102,
+    "under": -130,
     "line": 4.5
    },
    {
@@ -2829,8 +2855,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -123,
-    "under": -104,
+    "over": -131,
+    "under": 103,
     "line": 2.5
    },
    {
@@ -2855,8 +2881,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -141,
-    "under": 111,
+    "over": -135,
+    "under": 106,
     "line": 2.5
    },
    {
@@ -2881,8 +2907,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -109,
-    "under": -117,
+    "over": -110,
+    "under": -116,
     "line": 4.5
    },
    {
@@ -2907,8 +2933,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 101,
-    "under": -129,
+    "over": 105,
+    "under": -134,
     "line": 11.5
    }
   ],
@@ -2927,8 +2953,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -120,
-    "under": -106,
+    "over": -133,
+    "under": 104,
     "line": 13.5
    }
   ],
@@ -2947,8 +2973,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -117,
-    "under": -109,
+    "over": -113,
+    "under": -112,
     "line": 10.5
    }
   ],
@@ -2973,7 +2999,7 @@
    },
    {
     "book": "fd",
-    "over": -130,
+    "over": -120,
     "under": null,
     "line": 0.5
    }
@@ -3164,8 +3190,8 @@
    },
    {
     "book": "fd",
-    "over": -114,
-    "under": -114,
+    "over": -120,
+    "under": -110,
     "line": 6.5
    }
   ],
@@ -3210,8 +3236,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -132,
-    "under": 103,
+    "over": -123,
+    "under": -104,
     "line": 8.5
    }
   ],
@@ -3250,8 +3276,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -101,
-    "under": -126,
+    "over": -106,
+    "under": -120,
     "line": 9.5
    }
   ],
@@ -3334,8 +3360,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -110,
-    "under": -116,
+    "over": -115,
+    "under": -111,
     "line": 1.5
    },
    {
@@ -3364,8 +3390,20 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -132,
-    "under": 103,
+    "over": -141,
+    "under": 110,
+    "line": 5.5
+   },
+   {
+    "book": "bol",
+    "over": -120,
+    "under": -108,
+    "line": 5.5
+   },
+   {
+    "book": "bov",
+    "over": -145,
+    "under": 110,
     "line": 5.5
    }
   ],
@@ -3384,8 +3422,20 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -103,
-    "under": -124,
+    "over": 102,
+    "under": -131,
+    "line": 16.5
+   },
+   {
+    "book": "bol",
+    "over": 100,
+    "under": -130,
+    "line": 16.5
+   },
+   {
+    "book": "bov",
+    "over": 100,
+    "under": -130,
     "line": 16.5
    }
   ],
@@ -3408,8 +3458,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -125,
-    "under": -102,
+    "over": -146,
+    "under": 114,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -148,
+    "under": 112,
     "line": 3.5
    }
   ],
@@ -3428,8 +3484,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -127,
-    "under": -101,
+    "over": -123,
+    "under": -104,
     "line": 3.5
    }
   ],
@@ -3448,8 +3504,14 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 101,
-    "under": -129,
+    "over": 133,
+    "under": -170,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": 124,
+    "under": -166,
     "line": 1.5
    }
   ],
@@ -3468,8 +3530,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -119,
-    "under": -107,
+    "over": -120,
+    "under": -106,
     "line": 21.5
    }
   ],
@@ -3488,8 +3550,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -115,
-    "under": -111,
+    "over": -114,
+    "under": -112,
     "line": 0.5
    }
   ],
@@ -3508,13 +3570,13 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -109,
-    "under": -117,
+    "over": -108,
+    "under": -118,
     "line": 1.5
    },
    {
     "book": "fd",
-    "over": 106,
+    "over": 108,
     "under": -140,
     "line": 1.5
    }
@@ -3534,8 +3596,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -130,
-    "under": 102,
+    "over": -138,
+    "under": 108,
     "line": 5.5
    },
    {
@@ -3543,46 +3605,6 @@
     "over": -138,
     "under": 104,
     "line": 5.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Alvin Kamara",
-  "player_key": "alvin kamara",
-  "team": "NO",
-  "game": "CLE @ NO",
-  "market": "rush_attempts",
-  "line": 7.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -125,
-    "under": -102,
-    "line": 7.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Kendre Miller",
-  "player_key": "kendre miller",
-  "team": "NO",
-  "game": "CLE @ NO",
-  "market": "rush_attempts",
-  "line": 11.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -112,
-    "under": -114,
-    "line": 11.5
    }
   ],
   "app_sides": [
@@ -3739,8 +3761,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 102,
-    "under": -130,
+    "over": 107,
+    "under": -136,
     "line": 4.5
    },
    {
@@ -3791,8 +3813,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -137,
-    "under": 108,
+    "over": -133,
+    "under": 104,
     "line": 1.5
    },
    {
@@ -3837,8 +3859,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -116,
-    "under": -110,
+    "over": -111,
+    "under": -115,
     "line": 20.5
    }
   ],
@@ -3857,8 +3879,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -121,
-    "under": -105,
+    "over": -134,
+    "under": 105,
     "line": 21.5
    }
   ],
@@ -3877,8 +3899,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -118,
-    "under": -108,
+    "over": -122,
+    "under": -105,
     "line": 0.5
    }
   ],
@@ -3908,26 +3930,6 @@
   ]
  },
  {
-  "player": "Patrick Mahomes",
-  "player_key": "patrick mahomes",
-  "team": "KC",
-  "game": "NYJ @ KC",
-  "market": "pass_attempts",
-  "line": 32.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": -112,
-    "under": -114,
-    "line": 32.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
   "player": "Adonai Mitchell",
   "player_key": "adonai mitchell",
   "team": "NYJ",
@@ -3937,8 +3939,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -136,
-    "under": 106,
+    "over": -116,
+    "under": -110,
     "line": 3.5
    },
    {
@@ -3963,7 +3965,7 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -134,
+    "over": -135,
     "under": 105,
     "line": 2.5
    },
@@ -3989,8 +3991,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 102,
-    "under": -130,
+    "over": -103,
+    "under": -124,
     "line": 4.5
    },
    {
@@ -4019,29 +4021,9 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -115,
-    "under": -111,
+    "over": -104,
+    "under": -122,
     "line": 9.5
-   }
-  ],
-  "app_sides": [
-   "over",
-   "under"
-  ]
- },
- {
-  "player": "Breece Hall",
-  "player_key": "breece hall",
-  "team": "NYJ",
-  "game": "NYJ @ KC",
-  "market": "rush_attempts",
-  "line": 11.5,
-  "quotes": [
-   {
-    "book": "dk",
-    "over": 103,
-    "under": -132,
-    "line": 11.5
    }
   ],
   "app_sides": [
@@ -4059,8 +4041,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -111,
-    "under": -115,
+    "over": -115,
+    "under": -111,
     "line": 20.5
    }
   ],
@@ -4079,8 +4061,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 104,
-    "under": -132,
+    "over": 100,
+    "under": -127,
     "line": 3.5
    }
   ],
@@ -4119,8 +4101,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -152,
-    "under": 119,
+    "over": -145,
+    "under": 114,
     "line": 3.5
    },
    {
@@ -4145,8 +4127,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 107,
-    "under": -137,
+    "over": 101,
+    "under": -129,
     "line": 2.5
    },
    {
@@ -4328,8 +4310,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -120,
-    "under": -107,
+    "over": -115,
+    "under": -110,
     "line": 2.5
    },
    {
@@ -4378,13 +4360,13 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 100,
+    "over": 105,
     "under": null,
     "line": 0.5
    },
    {
     "book": "fd",
-    "over": 105,
+    "over": 110,
     "under": null,
     "line": 0.5
    }
@@ -4483,8 +4465,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -151,
-    "under": 118,
+    "over": -141,
+    "under": 110,
     "line": 3.5
    },
    {
@@ -4508,8 +4490,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": 101,
-    "under": -129,
+    "over": -103,
+    "under": -124,
     "line": 15.5
    }
   ],
@@ -4548,8 +4530,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -112,
-    "under": -114,
+    "over": -126,
+    "under": -101,
     "line": 1.5
    }
   ],

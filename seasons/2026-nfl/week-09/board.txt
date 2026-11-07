@@ -1,51 +1,51 @@
-197 legs priced; top 20 shown. Tickets use legs at or above 56% (break-even 53.0%, multiplier 6.70x).
+192 legs priced; top 20 shown. Tickets use legs at or above 56% (break-even 53.0%, multiplier 6.70x).
 1-sided legs: true_p = implied(yes price) / 1.08. That divisor is an assumption (--one-sided-overround), not a measurement.
 pref = Suhas's market preference rank: 1=receptions, 2=pass_tds, 3=targets, 4=anytime_td, 5=pass_attempts, 6=rush_attempts, 7=interceptions, 8=field_goals_made, 9=completions
 
 #  leg                                            true   spr  bk  opp  pref  flags
 ----------------------------------------------------------------------------------
-1  Khalil Shakir OVER 3.5 receptions             57.0%  0.6   2    6     1  
-2  Jayden Daniels UNDER 0.5 interceptions        56.8%  2.4   3    6     7  
-3  James Cook OVER 1.5 receptions                56.6%  2.5   2    6     1  
-4  Oronde Gadsden OVER 1.5 receptions            56.6%  3.0   2    6     1  
-5  George Pickens UNDER 4.5 receptions           56.4%  2.4   3    6     1  
-6  Eddy Pineiro OVER 1.5 field_goals_made        56.3%  0.0   1    6     8  1 book
-7  D'Andre Swift OVER 2.5 receptions             56.3%  0.8   2    6     1  
-8  Quinshon Judkins OVER 1.5 receptions          56.1%  1.2   2    6     1  
-9  Ladd McConkey OVER 3.5 receptions             56.0%  0.3   2    6     1  
-10 Kyren Williams OVER 0.5 anytime_td            55.9%  0.7   2    6     4  1-sided
-11 Tyler Warren UNDER 5.5 receptions             55.7%  3.7   3    6     1  thin
-12 Cooper Kupp OVER 2.5 receptions               55.7%  0.3   2    6     1  
-13 Tyler Allgeier OVER 2.5 receptions            55.6%  2.2   3    6     1  
-14 Emeka Egbuka OVER 3.5 receptions              55.5%  2.5   2    6     1  
-15 Trey McBride OVER 6.5 receptions              55.3%  1.1   2    6     1  
-16 Christian Watson OVER 4.5 receptions          55.2%  1.4   2    6     1  
+1  Kyle Williams UNDER 1.5 receptions            58.9%  1.2   2    6     1  
+2  James Cook OVER 1.5 receptions                57.0%  4.3   3    6     1  thin
+3  Gardner Minshew OVER 0.5 interceptions        56.8%  3.5   2    6     7  thin
+4  Quinshon Judkins OVER 1.5 receptions          56.7%  0.0   2    6     1  
+5  Khalil Shakir OVER 3.5 receptions             56.7%  0.1   2    6     1  
+6  Oronde Gadsden OVER 1.5 receptions            56.6%  3.0   2    6     1  
+7  Jayden Daniels UNDER 0.5 interceptions        56.5%  2.4   3    6     7  
+8  D'Andre Swift OVER 2.5 receptions             56.4%  1.1   2    6     1  
+9  Eddy Pineiro OVER 1.5 field_goals_made        56.3%  0.0   1    6     8  1 book
+10 Ladd McConkey OVER 3.5 receptions             56.0%  0.3   2    6     1  
+11 Kyren Williams OVER 0.5 anytime_td            55.9%  0.7   2    6     4  1-sided
+12 Demario Douglas OVER 3.5 receptions           55.9%  0.1   2    6     1  
+13 Cooper Kupp OVER 2.5 receptions               55.7%  0.3   2    6     1  
+14 Tyler Allgeier OVER 2.5 receptions            55.6%  2.2   3    6     1  
+15 Drew Lock UNDER 0.5 interceptions             55.6%  2.4   2    6     7  
+16 Trey McBride OVER 6.5 receptions              55.3%  1.1   2    6     1  
 17 Dalton Schultz OVER 3.5 receptions            55.2%  3.9   2    6     1  thin
 18 Dominic Zvada OVER 1.5 field_goals_made       55.1%  0.0   1    6     8  1 book
-19 Laquon Treadwell UNDER 1.5 receptions         55.0%  0.2   2    6     1  
+19 Dalton Kincaid UNDER 3.5 receptions           54.9%  1.4   3    6     1  
 20 Charlie Kolar OVER 1.5 receptions             54.9%  0.7   2    6     1  
 
 STRUCTURE: leave-two-out on top 5
 
 TICKETS (10)
-   1. Khalil Shakir OVER 3.5 recep  |  Jayden Daniels UNDER 0.5 int  |  James Cook OVER 1.5 receptio
-   2. Khalil Shakir OVER 3.5 recep  |  Jayden Daniels UNDER 0.5 int  |  Oronde Gadsden OVER 1.5 rece
-   3. Khalil Shakir OVER 3.5 recep  |  Jayden Daniels UNDER 0.5 int  |  George Pickens UNDER 4.5 rec
-   4. Khalil Shakir OVER 3.5 recep  |  James Cook OVER 1.5 receptio  |  Oronde Gadsden OVER 1.5 rece
-   5. Khalil Shakir OVER 3.5 recep  |  James Cook OVER 1.5 receptio  |  George Pickens UNDER 4.5 rec
-   6. Khalil Shakir OVER 3.5 recep  |  Oronde Gadsden OVER 1.5 rece  |  George Pickens UNDER 4.5 rec
-   7. Jayden Daniels UNDER 0.5 int  |  James Cook OVER 1.5 receptio  |  Oronde Gadsden OVER 1.5 rece
-   8. Jayden Daniels UNDER 0.5 int  |  James Cook OVER 1.5 receptio  |  George Pickens UNDER 4.5 rec
-   9. Jayden Daniels UNDER 0.5 int  |  Oronde Gadsden OVER 1.5 rece  |  George Pickens UNDER 4.5 rec
-  10. James Cook OVER 1.5 receptio  |  Oronde Gadsden OVER 1.5 rece  |  George Pickens UNDER 4.5 rec
+   1. Kyle Williams UNDER 1.5 rece  |  James Cook OVER 1.5 receptio  |  Gardner Minshew OVER 0.5 int
+   2. Kyle Williams UNDER 1.5 rece  |  James Cook OVER 1.5 receptio  |  Quinshon Judkins OVER 1.5 re
+   3. Kyle Williams UNDER 1.5 rece  |  James Cook OVER 1.5 receptio  |  Khalil Shakir OVER 3.5 recep
+   4. Kyle Williams UNDER 1.5 rece  |  Gardner Minshew OVER 0.5 int  |  Quinshon Judkins OVER 1.5 re
+   5. Kyle Williams UNDER 1.5 rece  |  Gardner Minshew OVER 0.5 int  |  Khalil Shakir OVER 3.5 recep
+   6. Kyle Williams UNDER 1.5 rece  |  Quinshon Judkins OVER 1.5 re  |  Khalil Shakir OVER 3.5 recep
+   7. James Cook OVER 1.5 receptio  |  Gardner Minshew OVER 0.5 int  |  Quinshon Judkins OVER 1.5 re
+   8. James Cook OVER 1.5 receptio  |  Gardner Minshew OVER 0.5 int  |  Khalil Shakir OVER 3.5 recep
+   9. James Cook OVER 1.5 receptio  |  Quinshon Judkins OVER 1.5 re  |  Khalil Shakir OVER 3.5 recep
+  10. Gardner Minshew OVER 0.5 int  |  Quinshon Judkins OVER 1.5 re  |  Khalil Shakir OVER 3.5 recep
 
-EV per entry      +22.0%
-P(zero return)    37.6%
-P(profit)         28.2%
-Kelly (quarter)   2.5% of bankroll  <-- use this
+EV per entry      +25.5%
+P(zero return)    36.6%
+P(profit)         29.1%
+Kelly (quarter)   2.9% of bankroll  <-- use this
 
 outcome distribution (tickets cashing -> probability)
-   0 cash   37.6%   return    0.0 on 10 staked
-   1 cash   34.2%   return    6.7 on 10 staked
-   4 cash   22.3%   return   26.8 on 10 staked
-  10 cash    5.8%   return   67.0 on 10 staked
+   0 cash   36.6%   return    0.0 on 10 staked
+   1 cash   34.3%   return    6.7 on 10 staked
+   4 cash   22.9%   return   26.8 on 10 staked
+  10 cash    6.1%   return   67.0 on 10 staked

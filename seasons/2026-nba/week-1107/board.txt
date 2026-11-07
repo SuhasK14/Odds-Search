@@ -1,0 +1,50 @@
+88 legs priced; top 20 shown. Tickets use legs at or above 56% (break-even 53.0%, multiplier 6.70x).
+pref = Suhas's market preference rank: 1=points, 2=rebounds, 3=assists, 4=pts_reb, 5=pts_ast, 6=reb_ast, 7=pra, 8=threes
+
+#  leg                                            true   spr  bk  opp  pref  flags
+----------------------------------------------------------------------------------
+1  Nickeil Alexander-Walker OVER 2.5 rebounds    57.7%  3.4   3   10     2  thin
+2  Victor Wembanyama OVER 2.5 assists            57.6%  2.5   2    8     3  
+3  Collin Gillespie OVER 2.5 rebounds            57.6%  1.7   2   10     2  
+4  Amen Thompson OVER 3.5 assists                57.2%  0.7   2    8     3  
+5  DeMar DeRozan OVER 2.5 assists                56.6%  1.3   2    8     3  
+6  Peyton Watson OVER 4.5 rebounds               56.4%  0.5   2   10     2  
+7  Mikel Brown Jr. OVER 3.5 assists              55.8%  3.4   2    8     3  thin
+8  Stephon Castle OVER 5.5 assists               55.8%  3.5   2    8     3  thin
+9  Devin Vassell UNDER 2.5 assists               55.8%  1.2   2    8     3  
+10 CJ McCollum UNDER 3.5 assists                 55.6%  4.5   2    8     3  thin
+11 Aaron Nesmith UNDER 3.5 rebounds              55.4%  0.7   2   10     2  
+12 Toumani Camara OVER 3.5 rebounds              55.3%  3.1   2   10     2  thin
+13 Jrue Holiday UNDER 4.5 assists                55.3%  2.9   2    8     3  
+14 Jared McCain OVER 1.5 assists                 55.3%  1.4   2    8     3  
+15 Trae Young OVER 2.5 rebounds                  55.2%  2.2   2   10     2  
+16 Evan Mobley UNDER 3.5 assists                 55.2%  0.5   2    8     3  
+17 Ivica Zubac OVER 7.5 rebounds                 55.1%  1.6   2   10     2  
+18 Amen Thompson OVER 6.5 rebounds               55.0%  1.7   2   10     2  
+19 Michael Porter Jr. UNDER 7.5 rebounds         55.0%  2.0   4   10     2  
+20 Jalen Johnson UNDER 7.5 assists               54.9%  2.9   2    8     3  
+
+STRUCTURE: leave-two-out on top 5
+
+TICKETS (10)
+   1. Nickeil Alexander-Walker OVE  |  Victor Wembanyama OVER 2.5 a  |  Collin Gillespie OVER 2.5 re
+   2. Nickeil Alexander-Walker OVE  |  Victor Wembanyama OVER 2.5 a  |  Amen Thompson OVER 3.5 assis
+   3. Nickeil Alexander-Walker OVE  |  Victor Wembanyama OVER 2.5 a  |  DeMar DeRozan OVER 2.5 assis
+   4. Nickeil Alexander-Walker OVE  |  Collin Gillespie OVER 2.5 re  |  Amen Thompson OVER 3.5 assis
+   5. Nickeil Alexander-Walker OVE  |  Collin Gillespie OVER 2.5 re  |  DeMar DeRozan OVER 2.5 assis
+   6. Nickeil Alexander-Walker OVE  |  Amen Thompson OVER 3.5 assis  |  DeMar DeRozan OVER 2.5 assis
+   7. Victor Wembanyama OVER 2.5 a  |  Collin Gillespie OVER 2.5 re  |  Amen Thompson OVER 3.5 assis
+   8. Victor Wembanyama OVER 2.5 a  |  Collin Gillespie OVER 2.5 re  |  DeMar DeRozan OVER 2.5 assis
+   9. Victor Wembanyama OVER 2.5 a  |  Amen Thompson OVER 3.5 assis  |  DeMar DeRozan OVER 2.5 assis
+  10. Collin Gillespie OVER 2.5 re  |  Amen Thompson OVER 3.5 assis  |  DeMar DeRozan OVER 2.5 assis
+
+EV per entry      +26.2%
+P(zero return)    36.5%
+P(profit)         29.2%
+Kelly (quarter)   3.0% of bankroll  <-- use this
+
+outcome distribution (tickets cashing -> probability)
+   0 cash   36.5%   return    0.0 on 10 staked
+   1 cash   34.3%   return    6.7 on 10 staked
+   4 cash   23.0%   return   26.8 on 10 staked
+  10 cash    6.2%   return   67.0 on 10 staked

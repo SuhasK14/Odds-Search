@@ -1,0 +1,2265 @@
+[
+ {
+  "player": "Andrei Svechnikov",
+  "player_key": "andrei svechnikov",
+  "team": "CAR",
+  "game": "CHI @ CAR",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -120,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -128,
+    "under": -102,
+    "line": 2.5
+   },
+   {
+    "book": "mgm",
+    "over": -130,
+    "under": -111,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Anton Frondell",
+  "player_key": "anton frondell",
+  "team": "CHI",
+  "game": "CHI @ CAR",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -140,
+    "under": 100,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": -146,
+    "under": 112,
+    "line": 1.5
+   },
+   {
+    "book": "mgm",
+    "over": -185,
+    "under": 125,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Connor Bedard",
+  "player_key": "connor bedard",
+  "team": "CHI",
+  "game": "CHI @ CAR",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -125,
+    "under": -110,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -115,
+    "under": -113,
+    "line": 2.5
+   },
+   {
+    "book": "mgm",
+    "over": -125,
+    "under": -115,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Frank Nazar",
+  "player_key": "frank nazar",
+  "team": "CHI",
+  "game": "CHI @ CAR",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -115,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 1.5
+   },
+   {
+    "book": "mgm",
+    "over": -120,
+    "under": -120,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jaccob Slavin",
+  "player_key": "jaccob slavin",
+  "team": "CAR",
+  "game": "CHI @ CAR",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -115,
+    "line": 1.5
+   },
+   {
+    "book": "bol",
+    "over": -103,
+    "under": -125,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jackson Blake",
+  "player_key": "jackson blake",
+  "team": "CAR",
+  "game": "CHI @ CAR",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 100,
+    "under": -135,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -110,
+    "under": -118,
+    "line": 2.5
+   },
+   {
+    "book": "mgm",
+    "over": 100,
+    "under": -145,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Logan Stankoven",
+  "player_key": "logan stankoven",
+  "team": "CAR",
+  "game": "CHI @ CAR",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -110,
+    "under": -125,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -110,
+    "under": -118,
+    "line": 2.5
+   },
+   {
+    "book": "mgm",
+    "over": -110,
+    "under": -135,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Mark Jankowski",
+  "player_key": "mark jankowski",
+  "team": "CAR",
+  "game": "CHI @ CAR",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -125,
+    "under": -110,
+    "line": 1.5
+   },
+   {
+    "book": "mgm",
+    "over": -120,
+    "under": -120,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Nikolaj Ehlers",
+  "player_key": "nikolaj ehlers",
+  "team": "CAR",
+  "game": "CHI @ CAR",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 110,
+    "under": -150,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -110,
+    "under": -120,
+    "line": 2.5
+   },
+   {
+    "book": "mgm",
+    "over": -105,
+    "under": -140,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Roman Kantserov",
+  "player_key": "roman kantserov",
+  "team": "CHI",
+  "game": "CHI @ CAR",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -120,
+    "under": -110,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": -122,
+    "under": -106,
+    "line": 1.5
+   },
+   {
+    "book": "mgm",
+    "over": -140,
+    "under": -105,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Sean Walker",
+  "player_key": "sean walker",
+  "team": "CAR",
+  "game": "CHI @ CAR",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -150,
+    "under": 110,
+    "line": 1.5
+   },
+   {
+    "book": "mgm",
+    "over": -140,
+    "under": -105,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Sebastian Aho",
+  "player_key": "sebastian aho",
+  "team": "",
+  "game": "CHI @ CAR",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "bol",
+    "over": -118,
+    "under": -110,
+    "line": 2.5
+   },
+   {
+    "book": "mgm",
+    "over": -135,
+    "under": -110,
+    "line": 2.5
+   },
+   {
+    "book": "bov",
+    "over": -120,
+    "under": -110,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Shayne Gostisbehere",
+  "player_key": "shayne gostisbehere",
+  "team": "CAR",
+  "game": "CHI @ CAR",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -110,
+    "under": -125,
+    "line": 1.5
+   },
+   {
+    "book": "mgm",
+    "over": -111,
+    "under": -130,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Andrew Copp",
+  "player_key": "andrew copp",
+  "team": "DET",
+  "game": "DET @ COL",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 110,
+    "under": -150,
+    "line": 1.5
+   },
+   {
+    "book": "bol",
+    "over": 104,
+    "under": -135,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Brent Burns",
+  "player_key": "brent burns",
+  "team": "COL",
+  "game": "DET @ COL",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -140,
+    "under": 100,
+    "line": 1.5
+   },
+   {
+    "book": "mgm",
+    "over": -120,
+    "under": -120,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Brock Nelson",
+  "player_key": "brock nelson",
+  "team": "",
+  "game": "DET @ COL",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "bol",
+    "over": -115,
+    "under": -112,
+    "line": 1.5
+   },
+   {
+    "book": "mgm",
+    "over": -160,
+    "under": 110,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Cale Makar",
+  "player_key": "cale makar",
+  "team": "COL",
+  "game": "DET @ COL",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -120,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 2.5
+   },
+   {
+    "book": "mgm",
+    "over": -118,
+    "under": -118,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Devon Toews",
+  "player_key": "devon toews",
+  "team": "COL",
+  "game": "DET @ COL",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -105,
+    "under": -130,
+    "line": 1.5
+   },
+   {
+    "book": "mgm",
+    "over": -111,
+    "under": -130,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Gabriel Landeskog",
+  "player_key": "gabriel landeskog",
+  "team": "COL",
+  "game": "DET @ COL",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -120,
+    "line": 1.5
+   },
+   {
+    "book": "mgm",
+    "over": -140,
+    "under": -105,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jaden Schwartz",
+  "player_key": "jaden schwartz",
+  "team": "COL",
+  "game": "DET @ COL",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -110,
+    "under": -125,
+    "line": 1.5
+   },
+   {
+    "book": "mgm",
+    "over": -110,
+    "under": -135,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Lucas Raymond",
+  "player_key": "lucas raymond",
+  "team": "DET",
+  "game": "DET @ COL",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -105,
+    "under": -125,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": 100,
+    "under": -130,
+    "line": 2.5
+   },
+   {
+    "book": "mgm",
+    "over": -105,
+    "under": -140,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Martin Necas",
+  "player_key": "martin necas",
+  "team": "COL",
+  "game": "DET @ COL",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 100,
+    "under": -135,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": 100,
+    "under": -130,
+    "line": 2.5
+   },
+   {
+    "book": "mgm",
+    "over": -111,
+    "under": -130,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Michael Brandsegg-Nygard",
+  "player_key": "michael brandseggnygard",
+  "team": "DET",
+  "game": "DET @ COL",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -135,
+    "under": 100,
+    "line": 1.5
+   },
+   {
+    "book": "mgm",
+    "over": -155,
+    "under": 105,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Nathan MacKinnon",
+  "player_key": "nathan mackinnon",
+  "team": "COL",
+  "game": "DET @ COL",
+  "market": "shots_on_goal",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -125,
+    "under": -110,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -115,
+    "under": -113,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Sam Malinski",
+  "player_key": "sam malinski",
+  "team": "COL",
+  "game": "DET @ COL",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -130,
+    "under": -105,
+    "line": 1.5
+   },
+   {
+    "book": "mgm",
+    "over": -145,
+    "under": 100,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Viktor Arvidsson",
+  "player_key": "viktor arvidsson",
+  "team": "DET",
+  "game": "DET @ COL",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -110,
+    "under": -120,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -110,
+    "line": 2.5
+   },
+   {
+    "book": "mgm",
+    "over": -135,
+    "under": -110,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Alexandre Texier",
+  "player_key": "alexandre texier",
+  "team": "MTL",
+  "game": "MTL @ TOR",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 110,
+    "under": -150,
+    "line": 1.5
+   },
+   {
+    "book": "bol",
+    "over": 115,
+    "under": -149,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Easton Cowan",
+  "player_key": "easton cowan",
+  "team": "TOR",
+  "game": "MTL @ TOR",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -120,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": -132,
+    "under": 102,
+    "line": 1.5
+   },
+   {
+    "book": "mgm",
+    "over": -155,
+    "under": 105,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Gavin McKenna",
+  "player_key": "gavin mckenna",
+  "team": "TOR",
+  "game": "MTL @ TOR",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -120,
+    "under": -115,
+    "line": 1.5
+   },
+   {
+    "book": "mgm",
+    "over": -115,
+    "under": -125,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Lane Hutson",
+  "player_key": "lane hutson",
+  "team": "MTL",
+  "game": "MTL @ TOR",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -120,
+    "line": 1.5
+   },
+   {
+    "book": "mgm",
+    "over": -140,
+    "under": -105,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "William Nylander",
+  "player_key": "william nylander",
+  "team": "TOR",
+  "game": "MTL @ TOR",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -110,
+    "under": -120,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -102,
+    "under": -128,
+    "line": 2.5
+   },
+   {
+    "book": "mgm",
+    "over": -120,
+    "under": -120,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Zack Bolduc",
+  "player_key": "zack bolduc",
+  "team": "",
+  "game": "MTL @ TOR",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "bol",
+    "over": -130,
+    "under": 100,
+    "line": 1.5
+   },
+   {
+    "book": "mgm",
+    "over": -145,
+    "under": 100,
+    "line": 1.5
+   },
+   {
+    "book": "bov",
+    "over": -145,
+    "under": 110,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Brayden Schenn",
+  "player_key": "brayden schenn",
+  "team": "NYI",
+  "game": "NJ @ NYI",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -120,
+    "under": -110,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Emil Heineman",
+  "player_key": "emil heineman",
+  "team": "NYI",
+  "game": "NJ @ NYI",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -105,
+    "under": -125,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Evan Rodrigues",
+  "player_key": "evan rodrigues",
+  "team": "NJ",
+  "game": "NJ @ NYI",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 100,
+    "under": -140,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jack Hughes",
+  "player_key": "jack hughes",
+  "team": "NJ",
+  "game": "NJ @ NYI",
+  "market": "shots_on_goal",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -105,
+    "under": -130,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -102,
+    "under": -128,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Simon Holmstrom",
+  "player_key": "simon holmstrom",
+  "team": "NYI",
+  "game": "NJ @ NYI",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -120,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Timo Meier",
+  "player_key": "timo meier",
+  "team": "NJ",
+  "game": "NJ @ NYI",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -125,
+    "under": -105,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -144,
+    "under": 110,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Victor Eklund",
+  "player_key": "victor eklund",
+  "team": "NYI",
+  "game": "NJ @ NYI",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -110,
+    "under": -120,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Adam Fox",
+  "player_key": "adam fox",
+  "team": "NYR",
+  "game": "NYR @ SEA",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -140,
+    "under": 105,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Berkly Catton",
+  "player_key": "berkly catton",
+  "team": "SEA",
+  "game": "NYR @ SEA",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -120,
+    "under": -110,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Bobby McMann",
+  "player_key": "bobby mcmann",
+  "team": "SEA",
+  "game": "NYR @ SEA",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -135,
+    "under": 100,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -113,
+    "under": -115,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Gabe Perreault",
+  "player_key": "gabe perreault",
+  "team": "NYR",
+  "game": "NYR @ SEA",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -145,
+    "under": 105,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "J.T. Miller",
+  "player_key": "jt miller",
+  "team": "NYR",
+  "game": "NYR @ SEA",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -135,
+    "under": 100,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Matthew Wood",
+  "player_key": "matthew wood",
+  "team": "SEA",
+  "game": "NYR @ SEA",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -140,
+    "under": 100,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Matty Beniers",
+  "player_key": "matty beniers",
+  "team": "SEA",
+  "game": "NYR @ SEA",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -105,
+    "under": -130,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Mika Zibanejad",
+  "player_key": "mika zibanejad",
+  "team": "NYR",
+  "game": "NYR @ SEA",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 105,
+    "under": -140,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Tye Kartye",
+  "player_key": "tye kartye",
+  "team": "NYR",
+  "game": "NYR @ SEA",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -110,
+    "under": -120,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Will Cuylle",
+  "player_key": "will cuylle",
+  "team": "NYR",
+  "game": "NYR @ SEA",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -140,
+    "under": 100,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Matt Coronato",
+  "player_key": "matt coronato",
+  "team": "CGY",
+  "game": "PHI @ CGY",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Morgan Frost",
+  "player_key": "morgan frost",
+  "team": "CGY",
+  "game": "PHI @ CGY",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -156,
+    "under": 120,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Tyson Foerster",
+  "player_key": "tyson foerster",
+  "team": "PHI",
+  "game": "PHI @ CGY",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -148,
+    "under": 114,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Yegor Sharangovich",
+  "player_key": "yegor sharangovich",
+  "team": "CGY",
+  "game": "PHI @ CGY",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -146,
+    "under": 112,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Beckett Sennecke",
+  "player_key": "beckett sennecke",
+  "team": "ANA",
+  "game": "PIT @ ANA",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -160,
+    "under": 122,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Cutter Gauthier",
+  "player_key": "cutter gauthier",
+  "team": "ANA",
+  "game": "PIT @ ANA",
+  "market": "shots_on_goal",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": 100,
+    "under": -130,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Leo Carlsson",
+  "player_key": "leo carlsson",
+  "team": "ANA",
+  "game": "PIT @ ANA",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -120,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Alex Laferriere",
+  "player_key": "alex laferriere",
+  "team": "LA",
+  "game": "PIT @ LA",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -115,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -122,
+    "under": -106,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Artemi Panarin",
+  "player_key": "artemi panarin",
+  "team": "LA",
+  "game": "PIT @ LA",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -160,
+    "under": 115,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -135,
+    "under": 104,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Brandt Clarke",
+  "player_key": "brandt clarke",
+  "team": "LA",
+  "game": "PIT @ LA",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -110,
+    "under": -120,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Corey Perry",
+  "player_key": "corey perry",
+  "team": "LA",
+  "game": "PIT @ LA",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 105,
+    "under": -145,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Egor Chinakhov",
+  "player_key": "egor chinakhov",
+  "team": "PIT",
+  "game": "PIT @ LA",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -145,
+    "under": 105,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": -148,
+    "under": 114,
+    "line": 1.5
+   }
+  ],
+  "aliases": [
+   "Egor Chinakhov",
+   "Yegor Chinakhov"
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Rickard Rakell",
+  "player_key": "rickard rakell",
+  "team": "PIT",
+  "game": "PIT @ LA",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 105,
+    "under": -140,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -102,
+    "under": -128,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Trevor Moore",
+  "player_key": "trevor moore",
+  "team": "LA",
+  "game": "PIT @ LA",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -150,
+    "under": 110,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": -146,
+    "under": 112,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Jamie Benn",
+  "player_key": "jamie benn",
+  "team": "DAL",
+  "game": "SJ @ DAL",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -110,
+    "under": -125,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kiefer Sherwood",
+  "player_key": "kiefer sherwood",
+  "team": "SJ",
+  "game": "SJ @ DAL",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -115,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Mason Marchment",
+  "player_key": "mason marchment",
+  "team": "SJ",
+  "game": "SJ @ DAL",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -105,
+    "under": -130,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Thomas Harley",
+  "player_key": "thomas harley",
+  "team": "DAL",
+  "game": "SJ @ DAL",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -105,
+    "under": -125,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": 102,
+    "under": -132,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Tyler Seguin",
+  "player_key": "tyler seguin",
+  "team": "DAL",
+  "game": "SJ @ DAL",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -140,
+    "under": 105,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Tyler Toffoli",
+  "player_key": "tyler toffoli",
+  "team": "SJ",
+  "game": "SJ @ DAL",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -135,
+    "under": 100,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Wyatt Johnston",
+  "player_key": "wyatt johnston",
+  "team": "DAL",
+  "game": "SJ @ DAL",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -145,
+    "under": 105,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -138,
+    "under": 106,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Anthony Cirelli",
+  "player_key": "anthony cirelli",
+  "team": "TB",
+  "game": "TB @ MIN",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -110,
+    "under": -120,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Brandon Hagel",
+  "player_key": "brandon hagel",
+  "team": "TB",
+  "game": "TB @ MIN",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -140,
+    "under": 105,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -130,
+    "under": 100,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jake Guentzel",
+  "player_key": "jake guentzel",
+  "team": "TB",
+  "game": "TB @ MIN",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -110,
+    "under": -125,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": 100,
+    "under": -130,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Joel Eriksson Ek",
+  "player_key": "joel eriksson ek",
+  "team": "MIN",
+  "game": "TB @ MIN",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -170,
+    "under": 125,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -154,
+    "under": 118,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "John Carlson",
+  "player_key": "john carlson",
+  "team": "TB",
+  "game": "TB @ MIN",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -130,
+    "under": -105,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": -135,
+    "under": 104,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Maxim Shabanov",
+  "player_key": "maxim shabanov",
+  "team": "MIN",
+  "game": "TB @ MIN",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -120,
+    "under": -115,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Nikita Kucherov",
+  "player_key": "nikita kucherov",
+  "team": "TB",
+  "game": "TB @ MIN",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -155,
+    "under": 115,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -140,
+    "under": 108,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Anders Lee",
+  "player_key": "anders lee",
+  "team": "UTA",
+  "game": "UTA @ OTT",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -135,
+    "under": 100,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Barrett Hayton",
+  "player_key": "barrett hayton",
+  "team": "UTA",
+  "game": "UTA @ OTT",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -140,
+    "under": 105,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": -132,
+    "under": 102,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Claude Giroux",
+  "player_key": "claude giroux",
+  "team": "OTT",
+  "game": "UTA @ OTT",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -140,
+    "under": 105,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": -130,
+    "under": 100,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Dylan Guenther",
+  "player_key": "dylan guenther",
+  "team": "UTA",
+  "game": "UTA @ OTT",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -150,
+    "under": 110,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -128,
+    "under": -102,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Mackenzie Weegar",
+  "player_key": "mackenzie weegar",
+  "team": "UTA",
+  "game": "UTA @ OTT",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -120,
+    "under": -115,
+    "line": 1.5
+   },
+   {
+    "book": "fd",
+    "over": -128,
+    "under": -102,
+    "line": 1.5
+   }
+  ],
+  "aliases": [
+   "Mackenzie Weegar",
+   "MacKenzie Weegar"
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Philip Tomasino",
+  "player_key": "philip tomasino",
+  "team": "OTT",
+  "game": "UTA @ OTT",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -105,
+    "under": -130,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Thomas Chabot",
+  "player_key": "thomas chabot",
+  "team": "OTT",
+  "game": "UTA @ OTT",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -120,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Vincent Trocheck",
+  "player_key": "vincent trocheck",
+  "team": "UTA",
+  "game": "UTA @ OTT",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -120,
+    "under": -110,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Evan Bouchard",
+  "player_key": "evan bouchard",
+  "team": "EDM",
+  "game": "VAN @ EDM",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -170,
+    "under": 125,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -140,
+    "under": 108,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Filip Hronek",
+  "player_key": "filip hronek",
+  "team": "VAN",
+  "game": "VAN @ EDM",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -105,
+    "under": -130,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jake DeBrusk",
+  "player_key": "jake debrusk",
+  "team": "VAN",
+  "game": "VAN @ EDM",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 100,
+    "under": -135,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jonathan Lekkerimaki",
+  "player_key": "jonathan lekkerimaki",
+  "team": "VAN",
+  "game": "VAN @ EDM",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -110,
+    "under": -120,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Mattias Ekholm",
+  "player_key": "mattias ekholm",
+  "team": "EDM",
+  "game": "VAN @ EDM",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -145,
+    "under": 105,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Zach Hyman",
+  "player_key": "zach hyman",
+  "team": "EDM",
+  "game": "VAN @ EDM",
+  "market": "shots_on_goal",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -110,
+    "under": -118,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Mark Stone",
+  "player_key": "mark stone",
+  "team": "VGK",
+  "game": "VGK @ BUF",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -165,
+    "under": 126,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Shea Theodore",
+  "player_key": "shea theodore",
+  "team": "VGK",
+  "game": "VGK @ BUF",
+  "market": "shots_on_goal",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": 100,
+    "under": -130,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ }
+]

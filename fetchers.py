@@ -239,6 +239,7 @@ PLAYER_ALIASES = {
     "andrew ogletree": "drew ogletree",
     "alexandre sarr": "alex sarr",
     "cameron johnson": "cam johnson",
+    "yegor chinakhov": "egor chinakhov",
 }
 
 # normalized key -> display name(s) seen, so output can show the book's spelling
