@@ -1,0 +1,50 @@
+92 legs priced; top 20 shown. Tickets use legs at or above 56% (break-even 53.0%, multiplier 6.70x).
+pref = Suhas's market preference rank: 1=shots_on_goal
+
+#  leg                                            true   spr  bk  opp  pref  flags
+----------------------------------------------------------------------------------
+1  Matthew Knies OVER 1.5 shots_on_goal          57.2%  1.2   2    4     1  
+2  Gavin McKenna OVER 1.5 shots_on_goal          56.7%  0.0   2    4     1  
+3  Jordan Eberle OVER 1.5 shots_on_goal          56.5%  0.6   3    4     1  
+4  Joel Eriksson Ek OVER 2.5 shots_on_goal       56.3%  1.9   2    4     1  
+5  Josh Morrissey OVER 1.5 shots_on_goal         56.2%  2.7   2    4     1  
+6  Valeri Nichushkin OVER 1.5 shots_on_goal      55.8%  0.0   2    4     1  
+7  Michael Misa UNDER 1.5 shots_on_goal          55.5%  0.2   2    4     1  
+8  Anton Frondell OVER 1.5 shots_on_goal         55.4%  0.0   1    4     1  1 book
+9  Noah Dobson OVER 1.5 shots_on_goal            55.4%  0.0   1    4     1  1 book
+10 Carter Verhaeghe UNDER 2.5 shots_on_goal      55.3%  0.9   2    4     1  
+11 Steven Stamkos UNDER 2.5 shots_on_goal        55.3%  1.6   2    4     1  
+12 Jack Quinn UNDER 2.5 shots_on_goal            55.3%  0.9   2    4     1  
+13 Eric Pohlkamp UNDER 1.5 shots_on_goal         55.2%  0.8   2    4     1  
+14 Lucas Raymond UNDER 2.5 shots_on_goal         55.1%  0.5   2    4     1  
+15 Matthew Schaefer OVER 2.5 shots_on_goal       54.9%  3.6   2    4     1  thin
+16 Mackenzie Weegar OVER 1.5 shots_on_goal       54.8%  6.0   2    4     1  thin
+17 Rasmus Dahlin UNDER 2.5 shots_on_goal         54.8%  0.0   2    4     1  
+18 Jonatan Berggren UNDER 1.5 shots_on_goal      54.8%  0.0   1    4     1  1 book
+19 Lawson Crouse OVER 1.5 shots_on_goal          54.7%  1.5   2    4     1  
+20 Nick Suzuki UNDER 2.5 shots_on_goal           54.6%  0.4   2    4     1  
+
+STRUCTURE: leave-two-out on top 5
+
+TICKETS (10)
+   1. Matthew Knies OVER 1.5 shots  |  Gavin McKenna OVER 1.5 shots  |  Jordan Eberle OVER 1.5 shots
+   2. Matthew Knies OVER 1.5 shots  |  Gavin McKenna OVER 1.5 shots  |  Joel Eriksson Ek OVER 2.5 sh
+   3. Matthew Knies OVER 1.5 shots  |  Gavin McKenna OVER 1.5 shots  |  Josh Morrissey OVER 1.5 shot
+   4. Matthew Knies OVER 1.5 shots  |  Jordan Eberle OVER 1.5 shots  |  Joel Eriksson Ek OVER 2.5 sh
+   5. Matthew Knies OVER 1.5 shots  |  Jordan Eberle OVER 1.5 shots  |  Josh Morrissey OVER 1.5 shot
+   6. Matthew Knies OVER 1.5 shots  |  Joel Eriksson Ek OVER 2.5 sh  |  Josh Morrissey OVER 1.5 shot
+   7. Gavin McKenna OVER 1.5 shots  |  Jordan Eberle OVER 1.5 shots  |  Joel Eriksson Ek OVER 2.5 sh
+   8. Gavin McKenna OVER 1.5 shots  |  Jordan Eberle OVER 1.5 shots  |  Josh Morrissey OVER 1.5 shot
+   9. Gavin McKenna OVER 1.5 shots  |  Joel Eriksson Ek OVER 2.5 sh  |  Josh Morrissey OVER 1.5 shot
+  10. Jordan Eberle OVER 1.5 shots  |  Joel Eriksson Ek OVER 2.5 sh  |  Josh Morrissey OVER 1.5 shot
+
+EV per entry      +21.3%
+P(zero return)    37.8%
+P(profit)         28.0%
+Kelly (quarter)   2.4% of bankroll  <-- use this
+
+outcome distribution (tickets cashing -> probability)
+   0 cash   37.8%   return    0.0 on 10 staked
+   1 cash   34.1%   return    6.7 on 10 staked
+   4 cash   22.2%   return   26.8 on 10 staked
+  10 cash    5.8%   return   67.0 on 10 staked

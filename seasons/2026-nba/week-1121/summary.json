@@ -1,0 +1,567 @@
+{
+ "week": 1121,
+ "season": "2026-nba",
+ "props_in_app": 72,
+ "odds_api_books": [
+  "bol",
+  "bov",
+  "br",
+  "mgm"
+ ],
+ "book_records": 134,
+ "matched": 65,
+ "matched_two_books": 58,
+ "unmatched": [
+  [
+   "De'Andre Hunter",
+   "rebounds",
+   3.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Neemias Queta",
+   "rebounds",
+   7.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Joan Beringer",
+   "rebounds",
+   5.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Trey Lyles",
+   "rebounds",
+   4.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Luke Kornet",
+   "rebounds",
+   4.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "OG Anunoby",
+   "rebounds",
+   5.0,
+   "player not found at DK or FD for the fetched games/markets"
+  ],
+  [
+   "Robert Williams III",
+   "rebounds",
+   5.5,
+   "player not found at DK or FD for the fetched games/markets"
+  ]
+ ],
+ "legs_priced": 64,
+ "legs_clear": 8,
+ "threshold": 0.56,
+ "structure": "leave-two-out on top 5",
+ "tickets": [
+  [
+   "Deni Avdija OVER 5.5 rebounds",
+   "Naji Marshall OVER 3.5 rebounds",
+   "Devin Vassell OVER 2.5 assists"
+  ],
+  [
+   "Deni Avdija OVER 5.5 rebounds",
+   "Naji Marshall OVER 3.5 rebounds",
+   "Saddiq Bey OVER 4.5 rebounds"
+  ],
+  [
+   "Deni Avdija OVER 5.5 rebounds",
+   "Naji Marshall OVER 3.5 rebounds",
+   "Stephon Castle OVER 4.5 rebounds"
+  ],
+  [
+   "Deni Avdija OVER 5.5 rebounds",
+   "Devin Vassell OVER 2.5 assists",
+   "Saddiq Bey OVER 4.5 rebounds"
+  ],
+  [
+   "Deni Avdija OVER 5.5 rebounds",
+   "Devin Vassell OVER 2.5 assists",
+   "Stephon Castle OVER 4.5 rebounds"
+  ],
+  [
+   "Deni Avdija OVER 5.5 rebounds",
+   "Saddiq Bey OVER 4.5 rebounds",
+   "Stephon Castle OVER 4.5 rebounds"
+  ],
+  [
+   "Naji Marshall OVER 3.5 rebounds",
+   "Devin Vassell OVER 2.5 assists",
+   "Saddiq Bey OVER 4.5 rebounds"
+  ],
+  [
+   "Naji Marshall OVER 3.5 rebounds",
+   "Devin Vassell OVER 2.5 assists",
+   "Stephon Castle OVER 4.5 rebounds"
+  ],
+  [
+   "Naji Marshall OVER 3.5 rebounds",
+   "Saddiq Bey OVER 4.5 rebounds",
+   "Stephon Castle OVER 4.5 rebounds"
+  ],
+  [
+   "Devin Vassell OVER 2.5 assists",
+   "Saddiq Bey OVER 4.5 rebounds",
+   "Stephon Castle OVER 4.5 rebounds"
+  ]
+ ],
+ "p_zero": 0.37433255901095824,
+ "roi": 0.2266972947464332,
+ "kelly_quarter": 0.025692888334896982,
+ "board": [
+  {
+   "leg": "Deni Avdija OVER 5.5 rebounds",
+   "true_p": 0.5775,
+   "spread": 0.0281,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Naji Marshall OVER 3.5 rebounds",
+   "true_p": 0.5691,
+   "spread": 0.0052,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Devin Vassell OVER 2.5 assists",
+   "true_p": 0.5677,
+   "spread": 0.0117,
+   "books": 3,
+   "opportunity": 8
+  },
+  {
+   "leg": "Saddiq Bey OVER 4.5 rebounds",
+   "true_p": 0.5627,
+   "spread": 0.0095,
+   "books": 4,
+   "opportunity": 10
+  },
+  {
+   "leg": "Stephon Castle OVER 4.5 rebounds",
+   "true_p": 0.5622,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 10
+  },
+  {
+   "leg": "Darius Acuff Jr. OVER 5.5 assists",
+   "true_p": 0.5615,
+   "spread": 0.0048,
+   "books": 3,
+   "opportunity": 8
+  },
+  {
+   "leg": "Damian Lillard UNDER 3.5 rebounds",
+   "true_p": 0.5612,
+   "spread": 0.038,
+   "books": 4,
+   "opportunity": 10
+  },
+  {
+   "leg": "Julian Champagnie OVER 4.5 rebounds",
+   "true_p": 0.5604,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 10
+  },
+  {
+   "leg": "Derrick Jones Jr. OVER 3.5 rebounds",
+   "true_p": 0.5595,
+   "spread": 0.0331,
+   "books": 3,
+   "opportunity": 10
+  },
+  {
+   "leg": "Stephon Castle OVER 6.5 assists",
+   "true_p": 0.558,
+   "spread": 0.0083,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Rudy Gobert OVER 9.5 rebounds",
+   "true_p": 0.5562,
+   "spread": 0.0027,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Bones Hyland OVER 2.5 assists",
+   "true_p": 0.5543,
+   "spread": 0.0184,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Donovan Clingan OVER 1.5 assists",
+   "true_p": 0.5534,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 8
+  },
+  {
+   "leg": "Rui Hachimura UNDER 1.5 assists",
+   "true_p": 0.5528,
+   "spread": 0.004,
+   "books": 3,
+   "opportunity": 8
+  },
+  {
+   "leg": "Jayson Tatum OVER 6.5 assists",
+   "true_p": 0.5478,
+   "spread": 0.0119,
+   "books": 3,
+   "opportunity": 8
+  },
+  {
+   "leg": "Jonathan Kuminga UNDER 5.5 rebounds",
+   "true_p": 0.5458,
+   "spread": 0.0326,
+   "books": 4,
+   "opportunity": 10
+  },
+  {
+   "leg": "Taylor Hendricks OVER 4.5 rebounds",
+   "true_p": 0.5451,
+   "spread": 0.0314,
+   "books": 3,
+   "opportunity": 10
+  },
+  {
+   "leg": "Jalen Brunson UNDER 6.5 assists",
+   "true_p": 0.5431,
+   "spread": 0.0234,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Zach LaVine UNDER 2.5 assists",
+   "true_p": 0.5413,
+   "spread": 0.05,
+   "books": 4,
+   "opportunity": 8
+  },
+  {
+   "leg": "Ayo Dosunmu OVER 3.5 assists",
+   "true_p": 0.5411,
+   "spread": 0.0275,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Karl-Anthony Towns OVER 12.5 rebounds",
+   "true_p": 0.5393,
+   "spread": 0.0172,
+   "books": 4,
+   "opportunity": 10
+  },
+  {
+   "leg": "Yves Missi OVER 6.5 rebounds",
+   "true_p": 0.5387,
+   "spread": 0.0017,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Max Strus UNDER 4.5 rebounds",
+   "true_p": 0.5384,
+   "spread": 0.0502,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Jonathan Kuminga UNDER 2.5 assists",
+   "true_p": 0.5375,
+   "spread": 0.0008,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Jaden McDaniels UNDER 5.5 rebounds",
+   "true_p": 0.5374,
+   "spread": 0.041,
+   "books": 4,
+   "opportunity": 10
+  },
+  {
+   "leg": "Cooper Flagg OVER 6.5 rebounds",
+   "true_p": 0.5368,
+   "spread": 0.0285,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Mikal Bridges UNDER 3.5 rebounds",
+   "true_p": 0.5362,
+   "spread": 0.0372,
+   "books": 4,
+   "opportunity": 10
+  },
+  {
+   "leg": "Zach Edey OVER 7.5 rebounds",
+   "true_p": 0.5356,
+   "spread": 0.0036,
+   "books": 4,
+   "opportunity": 10
+  },
+  {
+   "leg": "Caleb Martin UNDER 2.5 assists",
+   "true_p": 0.5353,
+   "spread": 0.0186,
+   "books": 4,
+   "opportunity": 8
+  },
+  {
+   "leg": "Kris Dunn OVER 2.5 rebounds",
+   "true_p": 0.5352,
+   "spread": 0.01,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Paul George OVER 4.5 assists",
+   "true_p": 0.5347,
+   "spread": 0.0384,
+   "books": 3,
+   "opportunity": 8
+  },
+  {
+   "leg": "Deni Avdija UNDER 5.5 assists",
+   "true_p": 0.5315,
+   "spread": 0.0247,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Zion Williamson UNDER 5.5 rebounds",
+   "true_p": 0.5313,
+   "spread": 0.0379,
+   "books": 4,
+   "opportunity": 10
+  },
+  {
+   "leg": "Josh Hart UNDER 7.5 rebounds",
+   "true_p": 0.5309,
+   "spread": 0.0266,
+   "books": 3,
+   "opportunity": 10
+  },
+  {
+   "leg": "Naji Marshall OVER 3.5 assists",
+   "true_p": 0.5286,
+   "spread": 0.0351,
+   "books": 3,
+   "opportunity": 8
+  },
+  {
+   "leg": "Terrence Shannon Jr. UNDER 2.5 assists",
+   "true_p": 0.5271,
+   "spread": 0.0217,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Keaton Wagler UNDER 2.5 assists",
+   "true_p": 0.5258,
+   "spread": 0.0194,
+   "books": 3,
+   "opportunity": 8
+  },
+  {
+   "leg": "Victor Wembanyama UNDER 11.5 rebounds",
+   "true_p": 0.5254,
+   "spread": 0.0242,
+   "books": 4,
+   "opportunity": 10
+  },
+  {
+   "leg": "Jeremiah Fears UNDER 5.5 assists",
+   "true_p": 0.5252,
+   "spread": 0.0193,
+   "books": 4,
+   "opportunity": 8
+  },
+  {
+   "leg": "Toumani Camara OVER 1.5 assists",
+   "true_p": 0.5232,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 8
+  },
+  {
+   "leg": "Keegan Murray UNDER 4.5 rebounds",
+   "true_p": 0.5203,
+   "spread": 0.0123,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "De'Aaron Fox OVER 3.5 rebounds",
+   "true_p": 0.519,
+   "spread": 0.0294,
+   "books": 4,
+   "opportunity": 10
+  },
+  {
+   "leg": "Keaton Wagler OVER 2.5 rebounds",
+   "true_p": 0.5175,
+   "spread": 0.0074,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Domantas Sabonis UNDER 11.5 rebounds",
+   "true_p": 0.5172,
+   "spread": 0.0061,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Zion Williamson UNDER 2.5 assists",
+   "true_p": 0.5168,
+   "spread": 0.0275,
+   "books": 4,
+   "opportunity": 8
+  },
+  {
+   "leg": "Jrue Holiday OVER 3.5 rebounds",
+   "true_p": 0.5155,
+   "spread": 0.0412,
+   "books": 3,
+   "opportunity": 10
+  },
+  {
+   "leg": "Daniel Gafford OVER 6.5 rebounds",
+   "true_p": 0.5145,
+   "spread": 0.0369,
+   "books": 4,
+   "opportunity": 10
+  },
+  {
+   "leg": "Josh Hart OVER 3.5 assists",
+   "true_p": 0.5122,
+   "spread": 0.0122,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Kyrie Irving OVER 4.5 assists",
+   "true_p": 0.5115,
+   "spread": 0.0347,
+   "books": 4,
+   "opportunity": 8
+  },
+  {
+   "leg": "Jaylen Wells OVER 1.5 assists",
+   "true_p": 0.5112,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 8
+  },
+  {
+   "leg": "Cedric Coward OVER 3.5 assists",
+   "true_p": 0.5101,
+   "spread": 0.0081,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Karl-Anthony Towns UNDER 3.5 assists",
+   "true_p": 0.5101,
+   "spread": 0.0181,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Caleb Martin OVER 3.5 rebounds",
+   "true_p": 0.5082,
+   "spread": 0.0292,
+   "books": 4,
+   "opportunity": 10
+  },
+  {
+   "leg": "Mikal Bridges OVER 2.5 assists",
+   "true_p": 0.5081,
+   "spread": 0.0162,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Derrick White UNDER 3.5 rebounds",
+   "true_p": 0.5071,
+   "spread": 0.0142,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Ty Jerome OVER 5.5 assists",
+   "true_p": 0.5071,
+   "spread": 0.002,
+   "books": 2,
+   "opportunity": 8
+  },
+  {
+   "leg": "Rudy Gobert UNDER 1.5 assists",
+   "true_p": 0.5061,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 8
+  },
+  {
+   "leg": "Darius Garland UNDER 2.5 rebounds",
+   "true_p": 0.5053,
+   "spread": 0.0581,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Paul George OVER 5.5 rebounds",
+   "true_p": 0.502,
+   "spread": 0.0324,
+   "books": 2,
+   "opportunity": 10
+  },
+  {
+   "leg": "Herbert Jones OVER 2.5 rebounds",
+   "true_p": 0.5,
+   "spread": 0.0,
+   "books": 1,
+   "opportunity": 10
+  },
+  {
+   "leg": "Donovan Clingan OVER 10.5 rebounds",
+   "true_p": 0.4995,
+   "spread": 0.0263,
+   "books": 4,
+   "opportunity": 10
+  },
+  {
+   "leg": "Sidy Cissoko OVER 3.5 rebounds",
+   "true_p": 0.4992,
+   "spread": 0.0352,
+   "books": 4,
+   "opportunity": 10
+  },
+  {
+   "leg": "Jeremiah Fears UNDER 4.5 rebounds",
+   "true_p": 0.4984,
+   "spread": 0.0347,
+   "books": 4,
+   "opportunity": 10
+  },
+  {
+   "leg": "Cedric Coward OVER 7.5 rebounds",
+   "true_p": 0.4862,
+   "spread": 0.0267,
+   "books": 4,
+   "opportunity": 10
+  }
+ ]
+}

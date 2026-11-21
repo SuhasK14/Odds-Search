@@ -1,0 +1,51 @@
+168 legs priced; top 20 shown. Tickets use legs at or above 56% (break-even 53.0%, multiplier 6.70x).
+1-sided legs: true_p = implied(yes price) / 1.08. That divisor is an assumption (--one-sided-overround), not a measurement.
+pref = Suhas's market preference rank: 1=receptions, 2=pass_tds, 3=targets, 4=anytime_td, 5=pass_attempts, 6=rush_attempts, 7=interceptions, 8=field_goals_made, 9=completions
+
+#  leg                                            true   spr  bk  opp  pref  flags
+----------------------------------------------------------------------------------
+1  D'Andre Swift OVER 0.5 anytime_td             57.7%  0.0   2    6     4  1-sided
+2  Jake Bates OVER 1.5 field_goals_made          57.3%  0.0   1    6     8  1 book
+3  Parker Washington UNDER 4.5 receptions        56.9%  1.2   2    6     1  
+4  Derrick Henry OVER 1.5 receptions             56.3%  1.7   2    6     1  
+5  Cameron Dicker OVER 1.5 field_goals_made      56.3%  0.0   1    6     8  1 book
+6  Ashton Jeanty OVER 3.5 receptions             55.7%  0.3   2    6     1  
+7  Zonovan Knight OVER 1.5 receptions            55.2%  2.8   2    6     1  
+8  Ja'Kobi Lane OVER 2.5 receptions              55.2%  2.8   2    6     1  
+9  Josh Allen OVER 1.5 pass_tds                  55.0%  2.2   2   32     2  
+10 Ty Johnson OVER 1.5 receptions                55.0%  4.3   2    6     1  thin
+11 Jaylen Waddle OVER 3.5 receptions             54.9%  1.5   2    6     1  
+12 Cade Otton UNDER 3.5 receptions               54.9%  3.6   2    6     1  thin
+13 Harrison Butker OVER 1.5 field_goals_made     54.9%  0.0   1    6     8  1 book
+14 Trevor Lawrence OVER 1.5 pass_tds             54.9%  0.5   2   32     2  
+15 Joe Milton OVER 6.5 rush_attempts             54.8%  0.0   1   15     6  1 book
+16 Caleb Douglas OVER 3.5 receptions             54.8%  0.4   2    6     1  
+17 Justice Hill OVER 2.5 receptions              54.7%  1.1   2    6     1  
+18 Chase Brown UNDER 4.5 receptions              54.7%  2.3   2    6     1  
+19 Saquon Barkley OVER 1.5 receptions            54.7%  0.9   2    6     1  
+20 Christian McCaffrey OVER 3.5 receptions       54.6%  2.7   2    6     1  
+
+STRUCTURE: leave-two-out on top 5
+
+TICKETS (10)
+   1. D'Andre Swift OVER 0.5 anyti  |  Jake Bates OVER 1.5 field_go  |  Parker Washington UNDER 4.5 
+   2. D'Andre Swift OVER 0.5 anyti  |  Jake Bates OVER 1.5 field_go  |  Derrick Henry OVER 1.5 recep
+   3. D'Andre Swift OVER 0.5 anyti  |  Jake Bates OVER 1.5 field_go  |  Cameron Dicker OVER 1.5 fiel
+   4. D'Andre Swift OVER 0.5 anyti  |  Parker Washington UNDER 4.5   |  Derrick Henry OVER 1.5 recep
+   5. D'Andre Swift OVER 0.5 anyti  |  Parker Washington UNDER 4.5   |  Cameron Dicker OVER 1.5 fiel
+   6. D'Andre Swift OVER 0.5 anyti  |  Derrick Henry OVER 1.5 recep  |  Cameron Dicker OVER 1.5 fiel
+   7. Jake Bates OVER 1.5 field_go  |  Parker Washington UNDER 4.5   |  Derrick Henry OVER 1.5 recep
+   8. Jake Bates OVER 1.5 field_go  |  Parker Washington UNDER 4.5   |  Cameron Dicker OVER 1.5 fiel
+   9. Jake Bates OVER 1.5 field_go  |  Derrick Henry OVER 1.5 recep  |  Cameron Dicker OVER 1.5 fiel
+  10. Parker Washington UNDER 4.5   |  Derrick Henry OVER 1.5 recep  |  Cameron Dicker OVER 1.5 fiel
+
+EV per entry      +23.4%
+P(zero return)    37.2%
+P(profit)         28.5%
+Kelly (quarter)   2.7% of bankroll  <-- use this
+
+outcome distribution (tickets cashing -> probability)
+   0 cash   37.2%   return    0.0 on 10 staked
+   1 cash   34.2%   return    6.7 on 10 staked
+   4 cash   22.6%   return   26.8 on 10 staked
+  10 cash    6.0%   return   67.0 on 10 staked

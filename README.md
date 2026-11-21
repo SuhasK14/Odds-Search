@@ -334,3 +334,14 @@ python run.py --week 1020 --season 2026-nba --video REC.mp4
 - **Same-game stacks** assume a shared game-level correlation of ~0.10 and ~0.16 between
   teammates. That is an assumption, not a measurement: with independent legs the best
   stacks are roughly break-even (-4% to +4% at 6x), so the whole edge is the correlation.
+
+### QB completions: Boom line vs the books (`qb_completions.py`)
+
+Boom sets its own line. When it is lower than the book's the over is easier than priced,
+when higher the under is. One completion of line gap is worth roughly 8-10 points of
+probability. Across weeks 2-11, Boom matched the book on 85% of QBs (lower 13%, higher 2%).
+QB completions is a **one-book market** (DraftKings only) at almost every line, so these
+numbers are softer than a two-book price. The standard deviation in the model is assumed,
+not measured. Check on week 11: MGM priced Bo Nix over 20.5 and Geno Smith over 19.5 at
+54.5%, against 54.6% and 55.4% from the model at SD 5.0. Use `--history` for the pattern,
+`--week N` for the board.

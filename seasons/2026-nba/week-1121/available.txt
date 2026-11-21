@@ -1,0 +1,74 @@
+# promo app availability, compiled by video.py
+# Player Name | market | line | sides | game
+Darius Acuff Jr. | assists | 5.5 | over | BOS @ SAC
+Jayson Tatum | assists | 6.5 | over,under | BOS @ SAC
+Paul George | assists | 4.5 | over,under | BOS @ SAC
+Zach LaVine | assists | 2.5 | over,under | BOS @ SAC
+De'Andre Hunter | rebounds | 3.5 | over,under | BOS @ SAC
+Derrick White | rebounds | 3.5 | over,under | BOS @ SAC
+Domantas Sabonis | rebounds | 11.5 | over,under | BOS @ SAC
+Keegan Murray | rebounds | 4.5 | over,under | BOS @ SAC
+Neemias Queta | rebounds | 7.5 | over,under | BOS @ SAC
+Paul George | rebounds | 5.5 | over,under | BOS @ SAC
+Caleb Martin | assists | 2.5 | over,under | LAC @ DAL
+Daniel Gafford | assists | 1.5 | over | LAC @ DAL
+Keaton Wagler | assists | 2.5 | over,under | LAC @ DAL
+Kyrie Irving | assists | 4.5 | over,under | LAC @ DAL
+Naji Marshall | assists | 3.5 | over,under | LAC @ DAL
+Rui Hachimura | assists | 1.5 | over,under | LAC @ DAL
+Caleb Martin | rebounds | 3.5 | over,under | LAC @ DAL
+Cooper Flagg | rebounds | 6.5 | over | LAC @ DAL
+Daniel Gafford | rebounds | 6.5 | over,under | LAC @ DAL
+Darius Garland | rebounds | 2.5 | over,under | LAC @ DAL
+Derrick Jones Jr. | rebounds | 3.5 | over | LAC @ DAL
+Keaton Wagler | rebounds | 2.5 | over,under | LAC @ DAL
+Kris Dunn | rebounds | 2.5 | over,under | LAC @ DAL
+Max Strus | rebounds | 4.5 | over,under | LAC @ DAL
+Naji Marshall | rebounds | 3.5 | over,under | LAC @ DAL
+Ayo Dosunmu | assists | 3.5 | over,under | MEM @ MIN
+Bones Hyland | assists | 2.5 | over | MEM @ MIN
+Cedric Coward | assists | 3.5 | over,under | MEM @ MIN
+Jaylen Wells | assists | 1.5 | over,under | MEM @ MIN
+Jonathan Kuminga | assists | 2.5 | over,under | MEM @ MIN
+Rudy Gobert | assists | 1.5 | over,under | MEM @ MIN
+Terrence Shannon Jr. | assists | 2.5 | over,under | MEM @ MIN
+Ty Jerome | assists | 5.5 | over,under | MEM @ MIN
+Cedric Coward | rebounds | 7.5 | over,under | MEM @ MIN
+Jaden McDaniels | rebounds | 5.5 | over,under | MEM @ MIN
+Joan Beringer | rebounds | 5.5 | over,under | MEM @ MIN
+Jonathan Kuminga | rebounds | 5.5 | over,under | MEM @ MIN
+Rudy Gobert | rebounds | 9.5 | over | MEM @ MIN
+Taylor Hendricks | rebounds | 4.5 | over | MEM @ MIN
+Trey Lyles | rebounds | 4.5 | over,under | MEM @ MIN
+Zach Edey | rebounds | 7.5 | over,under | MEM @ MIN
+Devin Vassell | assists | 2.5 | over | NO @ SA
+Jeremiah Fears | assists | 5.5 | over,under | NO @ SA
+Stephon Castle | assists | 6.5 | over | NO @ SA
+Zion Williamson | assists | 2.5 | over,under | NO @ SA
+De'Aaron Fox | rebounds | 3.5 | over,under | NO @ SA
+Herbert Jones | rebounds | 2.5 | over,under | NO @ SA
+Jeremiah Fears | rebounds | 4.5 | over,under | NO @ SA
+Julian Champagnie | rebounds | 4.5 | over | NO @ SA
+Luke Kornet | rebounds | 4.5 | over,under | NO @ SA
+Saddiq Bey | rebounds | 4.5 | over | NO @ SA
+Stephon Castle | rebounds | 4.5 | over | NO @ SA
+Victor Wembanyama | rebounds | 11.5 | over,under | NO @ SA
+Yves Missi | rebounds | 6.5 | over,under | NO @ SA
+Zion Williamson | rebounds | 5.5 | over,under | NO @ SA
+Deni Avdija | assists | 5.5 | over,under | POR @ NY
+Donovan Clingan | assists | 1.5 | over | POR @ NY
+Jalen Brunson | assists | 6.5 | over,under | POR @ NY
+Josh Hart | assists | 3.5 | over,under | POR @ NY
+Karl-Anthony Towns | assists | 3.5 | over,under | POR @ NY
+Mikal Bridges | assists | 2.5 | over,under | POR @ NY
+Toumani Camara | assists | 1.5 | over,under | POR @ NY
+Damian Lillard | rebounds | 3.5 | over,under | POR @ NY
+Deni Avdija | rebounds | 5.5 | over | POR @ NY
+Donovan Clingan | rebounds | 10.5 | over,under | POR @ NY
+Josh Hart | rebounds | 7.5 | over,under | POR @ NY
+Jrue Holiday | rebounds | 3.5 | over,under | POR @ NY
+Karl-Anthony Towns | rebounds | 12.5 | over,under | POR @ NY
+Mikal Bridges | rebounds | 3.5 | over,under | POR @ NY
+OG Anunoby | rebounds | 5.0 | over,under | POR @ NY
+Robert Williams III | rebounds | 5.5 | over,under | POR @ NY
+Sidy Cissoko | rebounds | 3.5 | over,under | POR @ NY

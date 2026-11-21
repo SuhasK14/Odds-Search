@@ -1,0 +1,1958 @@
+[
+ {
+  "player": "Darius Acuff Jr.",
+  "player_key": "darius acuff",
+  "team": "SAC",
+  "game": "BOS @ SAC",
+  "market": "assists",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -148,
+    "under": 112,
+    "line": 5.5
+   },
+   {
+    "book": "bol",
+    "over": -149,
+    "under": 115,
+    "line": 5.5
+   },
+   {
+    "book": "bov",
+    "over": -150,
+    "under": 115,
+    "line": 5.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Jayson Tatum",
+  "player_key": "jayson tatum",
+  "team": "BOS",
+  "game": "BOS @ SAC",
+  "market": "assists",
+  "line": 6.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -141,
+    "under": 107,
+    "line": 6.5
+   },
+   {
+    "book": "fd",
+    "over": -138,
+    "under": 104,
+    "line": 6.5
+   },
+   {
+    "book": "br",
+    "over": -148,
+    "under": 108,
+    "line": 6.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Paul George",
+  "player_key": "paul george",
+  "team": "BOS",
+  "game": "BOS @ SAC",
+  "market": "assists",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -129,
+    "under": -102,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": -125,
+    "under": -106,
+    "line": 4.5
+   },
+   {
+    "book": "br",
+    "over": -150,
+    "under": 110,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Zach LaVine",
+  "player_key": "zach lavine",
+  "team": "SAC",
+  "game": "BOS @ SAC",
+  "market": "assists",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -105,
+    "under": -126,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -102,
+    "under": -130,
+    "line": 2.5
+   },
+   {
+    "book": "br",
+    "over": 117,
+    "under": -159,
+    "line": 2.5
+   },
+   {
+    "book": "mgm",
+    "over": 105,
+    "under": -140,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Derrick White",
+  "player_key": "derrick white",
+  "team": "BOS",
+  "game": "BOS @ SAC",
+  "market": "rebounds",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -108,
+    "under": -122,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Domantas Sabonis",
+  "player_key": "domantas sabonis",
+  "team": "SAC",
+  "game": "BOS @ SAC",
+  "market": "rebounds",
+  "line": 11.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -105,
+    "under": -125,
+    "line": 11.5
+   },
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -122,
+    "line": 11.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Keegan Murray",
+  "player_key": "keegan murray",
+  "team": "SAC",
+  "game": "BOS @ SAC",
+  "market": "rebounds",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -102,
+    "under": -128,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -122,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Paul George",
+  "player_key": "paul george",
+  "team": "BOS",
+  "game": "BOS @ SAC",
+  "market": "rebounds",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -124,
+    "under": -106,
+    "line": 5.5
+   },
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -122,
+    "line": 5.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Caleb Martin",
+  "player_key": "caleb martin",
+  "team": "DAL",
+  "game": "LAC @ DAL",
+  "market": "assists",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 100,
+    "under": -131,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -102,
+    "under": -130,
+    "line": 2.5
+   },
+   {
+    "book": "br",
+    "over": 105,
+    "under": -143,
+    "line": 2.5
+   },
+   {
+    "book": "mgm",
+    "over": 100,
+    "under": -135,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Daniel Gafford",
+  "player_key": "daniel gafford",
+  "team": "DAL",
+  "game": "LAC @ DAL",
+  "market": "assists",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 109,
+    "under": -143,
+    "line": 1.5
+   },
+   {
+    "book": "mgm",
+    "over": 115,
+    "under": -155,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Keaton Wagler",
+  "player_key": "keaton wagler",
+  "team": "LAC",
+  "game": "LAC @ DAL",
+  "market": "assists",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 101,
+    "under": -133,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -102,
+    "under": -130,
+    "line": 2.5
+   },
+   {
+    "book": "br",
+    "over": -109,
+    "under": -124,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kyrie Irving",
+  "player_key": "kyrie irving",
+  "team": "DAL",
+  "game": "LAC @ DAL",
+  "market": "assists",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -119,
+    "under": -110,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 4.5
+   },
+   {
+    "book": "br",
+    "over": -117,
+    "under": -115,
+    "line": 4.5
+   },
+   {
+    "book": "mgm",
+    "over": -135,
+    "under": 100,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Naji Marshall",
+  "player_key": "naji marshall",
+  "team": "DAL",
+  "game": "LAC @ DAL",
+  "market": "assists",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -137,
+    "under": 104,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -112,
+    "line": 3.5
+   },
+   {
+    "book": "br",
+    "over": -137,
+    "under": 102,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Rui Hachimura",
+  "player_key": "rui hachimura",
+  "team": "LAC",
+  "game": "LAC @ DAL",
+  "market": "assists",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 110,
+    "under": -145,
+    "line": 1.5
+   },
+   {
+    "book": "bol",
+    "over": 109,
+    "under": -141,
+    "line": 1.5
+   },
+   {
+    "book": "bov",
+    "over": 110,
+    "under": -145,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Caleb Martin",
+  "player_key": "caleb martin",
+  "team": "DAL",
+  "game": "LAC @ DAL",
+  "market": "rebounds",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -118,
+    "under": -111,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -122,
+    "under": -108,
+    "line": 3.5
+   },
+   {
+    "book": "br",
+    "over": -112,
+    "under": -121,
+    "line": 3.5
+   },
+   {
+    "book": "mgm",
+    "over": -125,
+    "under": -105,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Cooper Flagg",
+  "player_key": "cooper flagg",
+  "team": "",
+  "game": "LAC @ DAL",
+  "market": "rebounds",
+  "line": 6.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -144,
+    "under": 108,
+    "line": 6.5
+   },
+   {
+    "book": "br",
+    "over": -129,
+    "under": -106,
+    "line": 6.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Daniel Gafford",
+  "player_key": "daniel gafford",
+  "team": "DAL",
+  "game": "LAC @ DAL",
+  "market": "rebounds",
+  "line": 6.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": -114,
+    "line": 6.5
+   },
+   {
+    "book": "fd",
+    "over": -136,
+    "under": 102,
+    "line": 6.5
+   },
+   {
+    "book": "br",
+    "over": -122,
+    "under": -112,
+    "line": 6.5
+   },
+   {
+    "book": "mgm",
+    "over": -120,
+    "under": -111,
+    "line": 6.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Darius Garland",
+  "player_key": "darius garland",
+  "team": "LAC",
+  "game": "LAC @ DAL",
+  "market": "rebounds",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 101,
+    "under": -133,
+    "line": 2.5
+   },
+   {
+    "book": "br",
+    "over": -129,
+    "under": -105,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Derrick Jones Jr.",
+  "player_key": "derrick jones",
+  "team": "LAC",
+  "game": "LAC @ DAL",
+  "market": "rebounds",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -154,
+    "under": 117,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -158,
+    "under": 118,
+    "line": 3.5
+   },
+   {
+    "book": "br",
+    "over": -137,
+    "under": 102,
+    "line": 3.5
+   }
+  ],
+  "aliases": [
+   "Derrick Jones Jr.",
+   "Derrick Jones"
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Keaton Wagler",
+  "player_key": "keaton wagler",
+  "team": "LAC",
+  "game": "LAC @ DAL",
+  "market": "rebounds",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -126,
+    "under": -105,
+    "line": 2.5
+   },
+   {
+    "book": "br",
+    "over": -124,
+    "under": -110,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Kris Dunn",
+  "player_key": "kris dunn",
+  "team": "LAC",
+  "game": "LAC @ DAL",
+  "market": "rebounds",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -131,
+    "under": -101,
+    "line": 2.5
+   },
+   {
+    "book": "br",
+    "over": -139,
+    "under": 102,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Max Strus",
+  "player_key": "max strus",
+  "team": "LAC",
+  "game": "LAC @ DAL",
+  "market": "rebounds",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -108,
+    "under": -121,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": 114,
+    "under": -152,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Naji Marshall",
+  "player_key": "naji marshall",
+  "team": "",
+  "game": "LAC @ DAL",
+  "market": "rebounds",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -158,
+    "under": 118,
+    "line": 3.5
+   },
+   {
+    "book": "mgm",
+    "over": -155,
+    "under": 115,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Ayo Dosunmu",
+  "player_key": "ayo dosunmu",
+  "team": "MIN",
+  "game": "MEM @ MIN",
+  "market": "assists",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -129,
+    "under": -102,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -146,
+    "under": 110,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Bones Hyland",
+  "player_key": "bones hyland",
+  "team": "MIN",
+  "game": "MEM @ MIN",
+  "market": "assists",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -139,
+    "under": 106,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -152,
+    "under": 114,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Cedric Coward",
+  "player_key": "cedric coward",
+  "team": "MEM",
+  "game": "MEM @ MIN",
+  "market": "assists",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -118,
+    "under": -112,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -122,
+    "under": -108,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jaylen Wells",
+  "player_key": "jaylen wells",
+  "team": "MEM",
+  "game": "MEM @ MIN",
+  "market": "assists",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -120,
+    "under": -109,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jonathan Kuminga",
+  "player_key": "jonathan kuminga",
+  "team": "MIN",
+  "game": "MEM @ MIN",
+  "market": "assists",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 102,
+    "under": -135,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": 102,
+    "under": -136,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Rudy Gobert",
+  "player_key": "rudy gobert",
+  "team": "MIN",
+  "game": "MEM @ MIN",
+  "market": "assists",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -112,
+    "under": -118,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Terrence Shannon Jr.",
+  "player_key": "terrence shannon",
+  "team": "MIN",
+  "game": "MEM @ MIN",
+  "market": "assists",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -107,
+    "under": -123,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": 102,
+    "under": -136,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Ty Jerome",
+  "player_key": "ty jerome",
+  "team": "MEM",
+  "game": "MEM @ MIN",
+  "market": "assists",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -119,
+    "under": -111,
+    "line": 5.5
+   },
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -112,
+    "line": 5.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Cedric Coward",
+  "player_key": "cedric coward",
+  "team": "MEM",
+  "game": "MEM @ MIN",
+  "market": "rebounds",
+  "line": 7.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -117,
+    "under": -113,
+    "line": 7.5
+   },
+   {
+    "book": "fd",
+    "over": -106,
+    "under": -122,
+    "line": 7.5
+   },
+   {
+    "book": "br",
+    "over": -106,
+    "under": -129,
+    "line": 7.5
+   },
+   {
+    "book": "mgm",
+    "over": -105,
+    "under": -125,
+    "line": 7.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jaden McDaniels",
+  "player_key": "jaden mcdaniels",
+  "team": "MIN",
+  "game": "MEM @ MIN",
+  "market": "rebounds",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 105,
+    "under": -138,
+    "line": 5.5
+   },
+   {
+    "book": "fd",
+    "over": 108,
+    "under": -144,
+    "line": 5.5
+   },
+   {
+    "book": "br",
+    "over": 105,
+    "under": -141,
+    "line": 5.5
+   },
+   {
+    "book": "mgm",
+    "over": -110,
+    "under": -120,
+    "line": 5.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jonathan Kuminga",
+  "player_key": "jonathan kuminga",
+  "team": "MIN",
+  "game": "MEM @ MIN",
+  "market": "rebounds",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 106,
+    "under": -139,
+    "line": 5.5
+   },
+   {
+    "book": "fd",
+    "over": 102,
+    "under": -136,
+    "line": 5.5
+   },
+   {
+    "book": "br",
+    "over": 100,
+    "under": -134,
+    "line": 5.5
+   },
+   {
+    "book": "mgm",
+    "over": 115,
+    "under": -155,
+    "line": 5.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Rudy Gobert",
+  "player_key": "rudy gobert",
+  "team": "",
+  "game": "MEM @ MIN",
+  "market": "rebounds",
+  "line": 9.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -146,
+    "under": 110,
+    "line": 9.5
+   },
+   {
+    "book": "mgm",
+    "over": -150,
+    "under": 110,
+    "line": 9.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Taylor Hendricks",
+  "player_key": "taylor hendricks",
+  "team": "MEM",
+  "game": "MEM @ MIN",
+  "market": "rebounds",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -146,
+    "under": 111,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": -146,
+    "under": 110,
+    "line": 4.5
+   },
+   {
+    "book": "br",
+    "over": -130,
+    "under": -105,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Zach Edey",
+  "player_key": "zach edey",
+  "team": "MEM",
+  "game": "MEM @ MIN",
+  "market": "rebounds",
+  "line": 7.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -133,
+    "under": 101,
+    "line": 7.5
+   },
+   {
+    "book": "fd",
+    "over": -136,
+    "under": 102,
+    "line": 7.5
+   },
+   {
+    "book": "br",
+    "over": -136,
+    "under": 100,
+    "line": 7.5
+   },
+   {
+    "book": "mgm",
+    "over": -135,
+    "under": 100,
+    "line": 7.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Devin Vassell",
+  "player_key": "devin vassell",
+  "team": "SA",
+  "game": "NO @ SA",
+  "market": "assists",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -152,
+    "under": 115,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -152,
+    "under": 114,
+    "line": 2.5
+   },
+   {
+    "book": "mgm",
+    "over": -160,
+    "under": 120,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Jeremiah Fears",
+  "player_key": "jeremiah fears",
+  "team": "NO",
+  "game": "NO @ SA",
+  "market": "assists",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -107,
+    "under": -122,
+    "line": 5.5
+   },
+   {
+    "book": "fd",
+    "over": -102,
+    "under": -130,
+    "line": 5.5
+   },
+   {
+    "book": "br",
+    "over": -106,
+    "under": -129,
+    "line": 5.5
+   },
+   {
+    "book": "mgm",
+    "over": 100,
+    "under": -135,
+    "line": 5.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Stephon Castle",
+  "player_key": "stephon castle",
+  "team": "SA",
+  "game": "NO @ SA",
+  "market": "assists",
+  "line": 6.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -150,
+    "under": 114,
+    "line": 6.5
+   },
+   {
+    "book": "br",
+    "over": -148,
+    "under": 108,
+    "line": 6.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Zion Williamson",
+  "player_key": "zion williamson",
+  "team": "NO",
+  "game": "NO @ SA",
+  "market": "assists",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -111,
+    "under": -118,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -106,
+    "under": -122,
+    "line": 2.5
+   },
+   {
+    "book": "br",
+    "over": -112,
+    "under": -121,
+    "line": 2.5
+   },
+   {
+    "book": "mgm",
+    "over": 100,
+    "under": -135,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "De'Aaron Fox",
+  "player_key": "deaaron fox",
+  "team": "SA",
+  "game": "NO @ SA",
+  "market": "rebounds",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -122,
+    "under": -108,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -112,
+    "line": 3.5
+   },
+   {
+    "book": "br",
+    "over": -136,
+    "under": 100,
+    "line": 3.5
+   },
+   {
+    "book": "mgm",
+    "over": -125,
+    "under": -105,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Herbert Jones",
+  "player_key": "herbert jones",
+  "team": "",
+  "game": "NO @ SA",
+  "market": "rebounds",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jeremiah Fears",
+  "player_key": "jeremiah fears",
+  "team": "NO",
+  "game": "NO @ SA",
+  "market": "rebounds",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -110,
+    "under": -120,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": -112,
+    "under": -118,
+    "line": 4.5
+   },
+   {
+    "book": "br",
+    "over": -115,
+    "under": -117,
+    "line": 4.5
+   },
+   {
+    "book": "mgm",
+    "over": -130,
+    "under": -105,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Julian Champagnie",
+  "player_key": "julian champagnie",
+  "team": "SA",
+  "game": "NO @ SA",
+  "market": "rebounds",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -149,
+    "under": 113,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Saddiq Bey",
+  "player_key": "saddiq bey",
+  "team": "NO",
+  "game": "NO @ SA",
+  "market": "rebounds",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -148,
+    "under": 113,
+    "line": 4.5
+   },
+   {
+    "book": "fd",
+    "over": -154,
+    "under": 116,
+    "line": 4.5
+   },
+   {
+    "book": "br",
+    "over": -150,
+    "under": 110,
+    "line": 4.5
+   },
+   {
+    "book": "mgm",
+    "over": -155,
+    "under": 115,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Stephon Castle",
+  "player_key": "stephon castle",
+  "team": "SA",
+  "game": "NO @ SA",
+  "market": "rebounds",
+  "line": 4.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -150,
+    "under": 114,
+    "line": 4.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Victor Wembanyama",
+  "player_key": "victor wembanyama",
+  "team": "SA",
+  "game": "NO @ SA",
+  "market": "rebounds",
+  "line": 11.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 103,
+    "under": -135,
+    "line": 11.5
+   },
+   {
+    "book": "fd",
+    "over": -108,
+    "under": -122,
+    "line": 11.5
+   },
+   {
+    "book": "br",
+    "over": -103,
+    "under": -132,
+    "line": 11.5
+   },
+   {
+    "book": "mgm",
+    "over": -105,
+    "under": -125,
+    "line": 11.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Yves Missi",
+  "player_key": "yves missi",
+  "team": "",
+  "game": "NO @ SA",
+  "market": "rebounds",
+  "line": 6.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -136,
+    "under": 102,
+    "line": 6.5
+   },
+   {
+    "book": "bol",
+    "over": -135,
+    "under": 104,
+    "line": 6.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Zion Williamson",
+  "player_key": "zion williamson",
+  "team": "NO",
+  "game": "NO @ SA",
+  "market": "rebounds",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 105,
+    "under": -138,
+    "line": 5.5
+   },
+   {
+    "book": "fd",
+    "over": -104,
+    "under": -128,
+    "line": 5.5
+   },
+   {
+    "book": "br",
+    "over": 106,
+    "under": -143,
+    "line": 5.5
+   },
+   {
+    "book": "mgm",
+    "over": -110,
+    "under": -120,
+    "line": 5.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Deni Avdija",
+  "player_key": "deni avdija",
+  "team": "POR",
+  "game": "POR @ NY",
+  "market": "assists",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 105,
+    "under": -139,
+    "line": 5.5
+   },
+   {
+    "book": "fd",
+    "over": -106,
+    "under": -125,
+    "line": 5.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Donovan Clingan",
+  "player_key": "donovan clingan",
+  "team": "POR",
+  "game": "POR @ NY",
+  "market": "assists",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -144,
+    "under": 110,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Jalen Brunson",
+  "player_key": "jalen brunson",
+  "team": "NY",
+  "game": "POR @ NY",
+  "market": "assists",
+  "line": 6.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 100,
+    "under": -131,
+    "line": 6.5
+   },
+   {
+    "book": "fd",
+    "over": 110,
+    "under": -146,
+    "line": 6.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Josh Hart",
+  "player_key": "josh hart",
+  "team": "NY",
+  "game": "POR @ NY",
+  "market": "assists",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -124,
+    "under": -106,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -118,
+    "under": -112,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Karl-Anthony Towns",
+  "player_key": "karlanthony towns",
+  "team": "NY",
+  "game": "POR @ NY",
+  "market": "assists",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -114,
+    "under": -115,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -106,
+    "under": -125,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Mikal Bridges",
+  "player_key": "mikal bridges",
+  "team": "NY",
+  "game": "POR @ NY",
+  "market": "assists",
+  "line": 2.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -123,
+    "under": -107,
+    "line": 2.5
+   },
+   {
+    "book": "fd",
+    "over": -114,
+    "under": -114,
+    "line": 2.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Toumani Camara",
+  "player_key": "toumani camara",
+  "team": "POR",
+  "game": "POR @ NY",
+  "market": "assists",
+  "line": 1.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -127,
+    "under": -104,
+    "line": 1.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Damian Lillard",
+  "player_key": "damian lillard",
+  "team": "POR",
+  "game": "POR @ NY",
+  "market": "rebounds",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": 103,
+    "under": -135,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": 114,
+    "under": -152,
+    "line": 3.5
+   },
+   {
+    "book": "br",
+    "over": 120,
+    "under": -162,
+    "line": 3.5
+   },
+   {
+    "book": "mgm",
+    "over": 115,
+    "under": -155,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Deni Avdija",
+  "player_key": "deni avdija",
+  "team": "",
+  "game": "POR @ NY",
+  "market": "rebounds",
+  "line": 5.5,
+  "quotes": [
+   {
+    "book": "fd",
+    "over": -152,
+    "under": 114,
+    "line": 5.5
+   },
+   {
+    "book": "bov",
+    "over": -170,
+    "under": 130,
+    "line": 5.5
+   }
+  ],
+  "app_sides": [
+   "over"
+  ]
+ },
+ {
+  "player": "Donovan Clingan",
+  "player_key": "donovan clingan",
+  "team": "POR",
+  "game": "POR @ NY",
+  "market": "rebounds",
+  "line": 10.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -123,
+    "under": -107,
+    "line": 10.5
+   },
+   {
+    "book": "fd",
+    "over": -112,
+    "under": -118,
+    "line": 10.5
+   },
+   {
+    "book": "br",
+    "over": -115,
+    "under": -117,
+    "line": 10.5
+   },
+   {
+    "book": "mgm",
+    "over": -110,
+    "under": -120,
+    "line": 10.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Josh Hart",
+  "player_key": "josh hart",
+  "team": "NY",
+  "game": "POR @ NY",
+  "market": "rebounds",
+  "line": 7.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -107,
+    "under": -122,
+    "line": 7.5
+   },
+   {
+    "book": "fd",
+    "over": 104,
+    "under": -138,
+    "line": 7.5
+   },
+   {
+    "book": "br",
+    "over": 100,
+    "under": -136,
+    "line": 7.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Jrue Holiday",
+  "player_key": "jrue holiday",
+  "team": "POR",
+  "game": "POR @ NY",
+  "market": "rebounds",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -133,
+    "under": 101,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -125,
+    "under": -106,
+    "line": 3.5
+   },
+   {
+    "book": "br",
+    "over": -113,
+    "under": -120,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Karl-Anthony Towns",
+  "player_key": "karlanthony towns",
+  "team": "NY",
+  "game": "POR @ NY",
+  "market": "rebounds",
+  "line": 12.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -135,
+    "under": 103,
+    "line": 12.5
+   },
+   {
+    "book": "fd",
+    "over": -140,
+    "under": 106,
+    "line": 12.5
+   },
+   {
+    "book": "br",
+    "over": -132,
+    "under": -103,
+    "line": 12.5
+   },
+   {
+    "book": "mgm",
+    "over": -140,
+    "under": 105,
+    "line": 12.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Mikal Bridges",
+  "player_key": "mikal bridges",
+  "team": "NY",
+  "game": "POR @ NY",
+  "market": "rebounds",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -105,
+    "under": -125,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -102,
+    "under": -130,
+    "line": 3.5
+   },
+   {
+    "book": "br",
+    "over": 102,
+    "under": -137,
+    "line": 3.5
+   },
+   {
+    "book": "mgm",
+    "over": 110,
+    "under": -150,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ },
+ {
+  "player": "Sidy Cissoko",
+  "player_key": "sidy cissoko",
+  "team": "POR",
+  "game": "POR @ NY",
+  "market": "rebounds",
+  "line": 3.5,
+  "quotes": [
+   {
+    "book": "dk",
+    "over": -119,
+    "under": -111,
+    "line": 3.5
+   },
+   {
+    "book": "fd",
+    "over": -112,
+    "under": -118,
+    "line": 3.5
+   },
+   {
+    "book": "br",
+    "over": -124,
+    "under": -109,
+    "line": 3.5
+   },
+   {
+    "book": "mgm",
+    "over": -105,
+    "under": -125,
+    "line": 3.5
+   }
+  ],
+  "app_sides": [
+   "over",
+   "under"
+  ]
+ }
+]
