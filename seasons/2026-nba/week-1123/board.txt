@@ -1,0 +1,28 @@
+118 legs priced; top 20 shown. Tickets use legs at or above 56% (break-even 53.0%, multiplier 6.70x).
+pref = Suhas's market preference rank: 1=points, 2=rebounds, 3=assists, 4=pts_reb, 5=pts_ast, 6=reb_ast, 7=pra, 8=threes
+
+#  leg                                            true   spr  bk  opp  pref  flags
+----------------------------------------------------------------------------------
+1  Collin Murray-Boyles UNDER 2.5 assists        57.6%  3.4   2    8     3  thin
+2  Tyrese Maxey OVER 4.5 assists                 56.9%  1.5   2    8     3  
+3  Shai Gilgeous-Alexander OVER 3.5 rebounds     56.1%  1.2   3   10     2  
+4  Quentin Grimes UNDER 3.5 assists              56.0%  3.6   2    8     3  thin
+5  Pascal Siakam OVER 5.5 rebounds               55.9%  1.7   4   10     2  
+6  Fred VanVleet OVER 2.5 rebounds               55.9%  2.6   2   10     2  
+7  Moritz Wagner OVER 3.5 rebounds               55.7%  3.7   2   10     2  thin
+8  Jaime Jaquez Jr. OVER 3.5 rebounds            55.6%  2.1   2   10     2  
+9  De'Andre Hunter UNDER 4.5 rebounds            55.6%  2.2   2   10     2  
+10 Kelly Oubre Jr. OVER 3.5 rebounds             55.5%  1.4   2   10     2  
+11 Collin Gillespie OVER 3.5 assists             55.5%  2.7   3    8     3  
+12 Jaylen Brown OVER 5.5 rebounds                55.5%  0.7   2   10     2  
+13 Zach LaVine UNDER 2.5 assists                 55.3%  0.8   4    8     3  
+14 Deni Avdija OVER 5.5 assists                  55.3%  1.0   3    8     3  
+15 Kevin Durant OVER 3.5 assists                 55.3%  2.8   2    8     3  
+16 Tyrese Proctor OVER 2.5 assists               55.2%  3.2   4    8     3  thin
+17 Egor Demin OVER 2.5 assists                   55.2%  0.5   2    8     3  
+18 Ayo Dosunmu OVER 3.5 assists                  55.0%  0.0   1    8     3  1 book
+19 Rudy Gobert OVER 9.5 rebounds                 55.0%  0.0   1   10     2  1 book
+20 Jake LaRavia OVER 3.5 rebounds                54.9%  0.3   2   10     2  
+
+STRUCTURE: only 3 qualifying legs -- do not force entries
+No slate. Unused entries cost nothing; bad legs cost money.

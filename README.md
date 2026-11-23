@@ -318,7 +318,7 @@ python run.py --week 1020 --season 2026-nba --video REC.mp4
 
 ### NBA, week of 2026-11-04: what the first full board taught us
 
-- **Boom's NBA abbreviations differ from the books':** Boom writes `NYK`, `SAS`, `NOP`;
+- **Boom's NBA abbreviations differ from the books':** Boom writes `NYK`, `SAS`, `NOP` (seen again 2026-11-23 as `PHX @ NOP`, 16 props priced zero until relabelled);
   the books use `NY`, `SA`, `NO`. Write the `game` field in the books' form. This is not
   cosmetic: the per-game fetch filter skips any game it does not recognise, so three games
   priced **zero** legs until relabelled (matched went 178 -> 236 of 265). Also check

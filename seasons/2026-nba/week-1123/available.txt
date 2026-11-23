@@ -1,0 +1,141 @@
+# promo app availability, compiled by video.py
+# Player Name | market | line | sides | game
+Ayo Dosunmu | assists | 3.5 | over | BKN @ MIN
+Day'Ron Sharpe | assists | 3.5 | over,under | BKN @ MIN
+Egor Demin | assists | 2.5 | over,under | BKN @ MIN
+Julius Randle | assists | 4.5 | over,under | BKN @ MIN
+Rudy Gobert | assists | 1.5 | over,under | BKN @ MIN
+Terrence Shannon Jr. | assists | 2.5 | over,under | BKN @ MIN
+Danny Wolf | rebounds | 5.5 | over,under | BKN @ MIN
+Day'Ron Sharpe | rebounds | 7.5 | over,under | BKN @ MIN
+Egor Demin | rebounds | 2.5 | over,under | BKN @ MIN
+Jaden McDaniels | rebounds | 5.5 | over,under | BKN @ MIN
+Jonathan Kuminga | rebounds | 5.5 | over,under | BKN @ MIN
+Michael Porter Jr. | rebounds | 6.5 | over,under | BKN @ MIN
+Moritz Wagner | rebounds | 3.5 | over | BKN @ MIN
+Rudy Gobert | rebounds | 9.5 | over,under | BKN @ MIN
+Trey Lyles | rebounds | 3.5 | over,under | BKN @ MIN
+James Harden | assists | 7.5 | over,under | CLE @ CHI
+Jarrett Allen | assists | 1.5 | over | CLE @ CHI
+Josh Giddey | assists | 9.5 | over,under | CLE @ CHI
+Meleek Thomas | assists | 1.5 | over | CLE @ CHI
+Tyrese Proctor | assists | 2.5 | over,under | CLE @ CHI
+Donovan Mitchell | rebounds | 4.5 | over,under | CLE @ CHI
+Jalen Smith | rebounds | 7.5 | over,under | CLE @ CHI
+James Harden | rebounds | 4.5 | over,under | CLE @ CHI
+Jarrett Allen | rebounds | 9.5 | over,under | CLE @ CHI
+Matas Buzelis | rebounds | 5.5 | over,under | CLE @ CHI
+Meleek Thomas | rebounds | 2.5 | over | CLE @ CHI
+Peyton Watson | rebounds | 4.5 | over,under | CLE @ CHI
+Alperen Sengun | assists | 6.5 | over,under | LAC @ HOU
+Darius Garland | assists | 6.5 | over | LAC @ HOU
+Jabari Smith Jr. | assists | 1.5 | over | LAC @ HOU
+Kevin Durant | assists | 3.5 | over | LAC @ HOU
+Kris Dunn | assists | 2.5 | over,under | LAC @ HOU
+Max Strus | assists | 2.5 | over,under | LAC @ HOU
+Alperen Sengun | rebounds | 9.5 | over,under | LAC @ HOU
+Amen Thompson | rebounds | 6.5 | over,under | LAC @ HOU
+Brook Lopez | rebounds | 4.5 | over,under | LAC @ HOU
+Derrick Jones Jr. | rebounds | 3.5 | over,under | LAC @ HOU
+Fred VanVleet | rebounds | 2.5 | over | LAC @ HOU
+Jabari Smith Jr. | rebounds | 6.5 | over,under | LAC @ HOU
+Keaton Wagler | rebounds | 2.5 | over,under | LAC @ HOU
+Reed Sheppard | rebounds | 1.5 | over | LAC @ HOU
+Rui Hachimura | rebounds | 4.5 | over,under | LAC @ HOU
+Tari Eason | rebounds | 5.5 | over,under | LAC @ HOU
+Cam Spencer | assists | 5.5 | over,under | MEM @ CHA
+Naz Reid | assists | 2.5 | over,under | MEM @ CHA
+Royce O'Neale | assists | 1.5 | over,under | MEM @ CHA
+Ty Jerome | assists | 5.5 | over,under | MEM @ CHA
+Brandon Miller | rebounds | 4.5 | over,under | MEM @ CHA
+Coby White | rebounds | 2.5 | over,under | MEM @ CHA
+Isaiah Stewart | rebounds | 3.5 | over,under | MEM @ CHA
+Jaylen Wells | rebounds | 2.5 | over,under | MEM @ CHA
+Naz Reid | rebounds | 8.5 | over,under | MEM @ CHA
+Royce O'Neale | rebounds | 3.5 | over,under | MEM @ CHA
+Taylor Hendricks | rebounds | 4.5 | over,under | MEM @ CHA
+Brayden Burries | assists | 2.5 | over,under | MIL @ TOR
+Collin Murray-Boyles | assists | 2.5 | over,under | MIL @ TOR
+Immanuel Quickley | assists | 6.5 | over,under | MIL @ TOR
+Jaime Jaquez Jr. | assists | 2.5 | over,under | MIL @ TOR
+Jamal Shead | assists | 6.5 | over,under | MIL @ TOR
+Scottie Barnes | assists | 5.5 | over,under | MIL @ TOR
+Allen Graves | rebounds | 4.5 | over,under | MIL @ TOR
+Immanuel Quickley | rebounds | 3.5 | over,under | MIL @ TOR
+Jaime Jaquez Jr. | rebounds | 3.5 | over,under | MIL @ TOR
+Jakob Poeltl | rebounds | 7.5 | over | MIL @ TOR
+Kel'el Ware | rebounds | 6.5 | over,under | MIL @ TOR
+Kyle Kuzma | rebounds | 4.5 | over,under | MIL @ TOR
+Ryan Rollins | rebounds | 3.5 | over,under | MIL @ TOR
+Ajay Mitchell | assists | 3.5 | over,under | OKC @ IND
+Ivica Zubac | assists | 1.5 | over | OKC @ IND
+Ajay Mitchell | rebounds | 3.5 | over,under | OKC @ IND
+Andrew Nembhard | rebounds | 2.5 | over | OKC @ IND
+Isaiah Hartenstein | rebounds | 11.5 | over,under | OKC @ IND
+Ivica Zubac | rebounds | 8.5 | over,under | OKC @ IND
+Kelly Oubre Jr. | rebounds | 3.5 | over | OKC @ IND
+Pascal Siakam | rebounds | 5.5 | over,under | OKC @ IND
+Shai Gilgeous-Alexander | rebounds | 3.5 | over | OKC @ IND
+Collin Gillespie | assists | 3.5 | over | PHX @ NO
+Devin Booker | assists | 5.5 | over | PHX @ NO
+Jeremiah Fears | assists | 5.5 | over,under | PHX @ NO
+Jordan Goodwin | assists | 2.5 | over,under | PHX @ NO
+Trey Murphy III | assists | 2.5 | over,under | PHX @ NO
+Zion Williamson | assists | 2.5 | over,under | PHX @ NO
+Dillon Brooks | rebounds | 3.5 | over,under | PHX @ NO
+Herbert Jones | rebounds | 2.5 | over,under | PHX @ NO
+Jalen Green | rebounds | 3.5 | over | PHX @ NO
+Jeremiah Fears | rebounds | 4.5 | over,under | PHX @ NO
+Jordan Goodwin | rebounds | 4.5 | over,under | PHX @ NO
+Miles Bridges | rebounds | 5.5 | over | PHX @ NO
+Oso Ighodaro | rebounds | 5.5 | over,under | PHX @ NO
+Trey Murphy III | rebounds | 4.5 | over,under | PHX @ NO
+Yves Missi | rebounds | 7.5 | over,under | PHX @ NO
+Zion Williamson | rebounds | 5.5 | over,under | PHX @ NO
+Anfernee Simons | assists | 1.5 | over | POR @ PHI
+Deni Avdija | assists | 5.5 | over | POR @ PHI
+Joel Embiid | assists | 3.5 | over,under | POR @ PHI
+LeBron James | assists | 6.5 | over,under | POR @ PHI
+Scoot Henderson | assists | 1.5 | over,under | POR @ PHI
+Sidy Cissoko | assists | 1.5 | over,under | POR @ PHI
+Toumani Camara | assists | 1.5 | over,under | POR @ PHI
+Tyrese Maxey | assists | 4.5 | over | POR @ PHI
+Damian Lillard | rebounds | 3.5 | over,under | POR @ PHI
+Deni Avdija | rebounds | 6.5 | over,under | POR @ PHI
+Donovan Clingan | rebounds | 10.5 | over,under | POR @ PHI
+Jaylen Brown | rebounds | 5.5 | over | POR @ PHI
+Joel Embiid | rebounds | 8.5 | over,under | POR @ PHI
+LeBron James | rebounds | 6.5 | over,under | POR @ PHI
+Robert Williams III | rebounds | 6.5 | over,under | POR @ PHI
+Toumani Camara | rebounds | 4.5 | over,under | POR @ PHI
+Tyrese Maxey | rebounds | 3.5 | over,under | POR @ PHI
+VJ Edgecombe | rebounds | 5.5 | over,under | POR @ PHI
+Darius Acuff Jr. | assists | 6.5 | over,under | SA @ SAC
+De'Andre Hunter | assists | 1.5 | over,under | SA @ SAC
+Domantas Sabonis | assists | 4.5 | over,under | SA @ SAC
+Keegan Murray | assists | 1.5 | over,under | SA @ SAC
+Stephon Castle | assists | 7.5 | over,under | SA @ SAC
+Zach LaVine | assists | 2.5 | over,under | SA @ SAC
+De'Aaron Fox | rebounds | 3.5 | over,under | SA @ SAC
+De'Andre Hunter | rebounds | 4.5 | over,under | SA @ SAC
+Domantas Sabonis | rebounds | 12.5 | over,under | SA @ SAC
+Julian Champagnie | rebounds | 5.5 | over,under | SA @ SAC
+Keegan Murray | rebounds | 5.5 | over,under | SA @ SAC
+Precious Achiuwa | rebounds | 5.5 | over,under | SA @ SAC
+Stephon Castle | rebounds | 5.5 | over,under | SA @ SAC
+Victor Wembanyama | rebounds | 11.5 | over,under | SA @ SAC
+Collin Sexton | assists | 2.5 | over,under | UTA @ LAL
+Darryn Peterson | assists | 4.5 | over,under | UTA @ LAL
+Luka Doncic | assists | 7.5 | over | UTA @ LAL
+Quentin Grimes | assists | 3.5 | over,under | UTA @ LAL
+Walker Kessler | assists | 1.5 | over | UTA @ LAL
+Ace Bailey | rebounds | 5.5 | over,under | UTA @ LAL
+Darryn Peterson | rebounds | 4.5 | over,under | UTA @ LAL
+Jake LaRavia | rebounds | 3.5 | over,under | UTA @ LAL
+Jaxson Hayes | rebounds | 5.5 | over,under | UTA @ LAL
+Keyonte George | rebounds | 3.5 | over,under | UTA @ LAL
+Luka Doncic | rebounds | 6.5 | over,under | UTA @ LAL
+Mo Bamba | rebounds | 9.5 | over | UTA @ LAL
+Sandro Mamukelashvili | rebounds | 4.5 | over,under | UTA @ LAL
+Walker Kessler | rebounds | 10.5 | over,under | UTA @ LAL
+Ziaire Williams | rebounds | 2.5 | over,under | UTA @ LAL
