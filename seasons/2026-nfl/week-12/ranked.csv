@@ -1,9 +1,9 @@
 player,game,market,line,side,true_p,spread,books,opportunity,pref,one_sided
 Christian Watson,GB @ LAR,receptions,4.5,over,0.5611,0.0125,2,6,1,0
-Tutu Atwell,GB @ LAR,receptions,1.5,over,0.5581,0.0065,2,6,1,0
 Rico Dowdle,DEN @ PIT,receptions,1.5,over,0.5579,0.0278,2,6,1,0
 Jaylen Waddle,DEN @ PIT,receptions,3.5,over,0.5548,0.0000,1,6,1,0
 Sione Vaki,CHI @ DET,receptions,0.5,over,0.5540,0.0091,2,6,1,0
+Tutu Atwell,GB @ LAR,receptions,1.5,over,0.5537,0.0024,2,6,1,0
 Cairo Santos,CHI @ DET,field_goals_made,1.5,over,0.5525,0.0000,1,6,8,0
 Matthew Stafford,GB @ LAR,pass_tds,1.5,under,0.5516,0.0194,2,32,2,0
 Patrick Mahomes,KC @ BUF,pass_tds,1.5,over,0.5474,0.0148,2,32,2,0
@@ -66,5 +66,5 @@ Josh Allen,KC @ BUF,pass_tds,1.5,over,0.4960,0.0122,2,32,2,0
 Dallas Goedert,PHI @ DAL,receptions,3.5,over,0.4896,0.0355,2,6,1,0
 Evan Engram,DEN @ PIT,receptions,2.5,over,0.4859,0.0282,2,6,1,0
 Jonah Coleman,DEN @ PIT,anytime_td,0.5,over,0.4850,0.0000,2,6,4,1
-Kyren Williams,GB @ LAR,anytime_td,0.5,over,0.4209,0.0000,1,6,4,1
-Blake Corum,GB @ LAR,anytime_td,0.5,over,0.4115,0.0000,1,6,4,1
+Kyren Williams,GB @ LAR,anytime_td,0.5,over,0.4581,0.0744,2,6,4,1
+Blake Corum,GB @ LAR,anytime_td,0.5,over,0.4211,0.0191,2,6,4,1

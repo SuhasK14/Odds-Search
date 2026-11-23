@@ -618,6 +618,12 @@
   "line": 0.5,
   "quotes": [
    {
+    "book": "dk",
+    "over": 115,
+    "under": null,
+    "line": 0.5
+   },
+   {
     "book": "fd",
     "over": 125,
     "under": null,
@@ -636,6 +642,12 @@
   "market": "anytime_td",
   "line": 0.5,
   "quotes": [
+   {
+    "book": "dk",
+    "over": -115,
+    "under": null,
+    "line": 0.5
+   },
    {
     "book": "fd",
     "over": 120,
@@ -982,8 +994,8 @@
   "quotes": [
    {
     "book": "dk",
-    "over": -147,
-    "under": 115,
+    "over": -141,
+    "under": 111,
     "line": 1.5
    },
    {

@@ -6,9 +6,9 @@
   "bol",
   "bov"
  ],
- "book_records": 268,
+ "book_records": 270,
  "matched": 69,
- "matched_two_books": 27,
+ "matched_two_books": 29,
  "unmatched": [
   [
    "Tyler Bass",
@@ -268,13 +268,6 @@
    "opportunity": 6
   },
   {
-   "leg": "Tutu Atwell OVER 1.5 receptions",
-   "true_p": 0.5581,
-   "spread": 0.0065,
-   "books": 2,
-   "opportunity": 6
-  },
-  {
    "leg": "Rico Dowdle OVER 1.5 receptions",
    "true_p": 0.5579,
    "spread": 0.0278,
@@ -292,6 +285,13 @@
    "leg": "Sione Vaki OVER 0.5 receptions",
    "true_p": 0.554,
    "spread": 0.0091,
+   "books": 2,
+   "opportunity": 6
+  },
+  {
+   "leg": "Tutu Atwell OVER 1.5 receptions",
+   "true_p": 0.5537,
+   "spread": 0.0024,
    "books": 2,
    "opportunity": 6
   },
@@ -731,16 +731,16 @@
   },
   {
    "leg": "Kyren Williams OVER 0.5 anytime_td",
-   "true_p": 0.4209,
-   "spread": 0.0,
-   "books": 1,
+   "true_p": 0.4581,
+   "spread": 0.0744,
+   "books": 2,
    "opportunity": 6
   },
   {
    "leg": "Blake Corum OVER 0.5 anytime_td",
-   "true_p": 0.4115,
-   "spread": 0.0,
-   "books": 1,
+   "true_p": 0.4211,
+   "spread": 0.0191,
+   "books": 2,
    "opportunity": 6
   }
  ]

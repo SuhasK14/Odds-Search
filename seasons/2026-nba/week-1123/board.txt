@@ -1,28 +1,55 @@
-118 legs priced; top 20 shown. Tickets use legs at or above 56% (break-even 53.0%, multiplier 6.70x).
+119 legs priced; top 20 shown. Tickets use legs at or above 56% (break-even 53.0%, multiplier 6.70x).
 pref = Suhas's market preference rank: 1=points, 2=rebounds, 3=assists, 4=pts_reb, 5=pts_ast, 6=reb_ast, 7=pra, 8=threes
 
 #  leg                                            true   spr  bk  opp  pref  flags
 ----------------------------------------------------------------------------------
-1  Collin Murray-Boyles UNDER 2.5 assists        57.6%  3.4   2    8     3  thin
-2  Tyrese Maxey OVER 4.5 assists                 56.9%  1.5   2    8     3  
-3  Shai Gilgeous-Alexander OVER 3.5 rebounds     56.1%  1.2   3   10     2  
-4  Quentin Grimes UNDER 3.5 assists              56.0%  3.6   2    8     3  thin
-5  Pascal Siakam OVER 5.5 rebounds               55.9%  1.7   4   10     2  
-6  Fred VanVleet OVER 2.5 rebounds               55.9%  2.6   2   10     2  
-7  Moritz Wagner OVER 3.5 rebounds               55.7%  3.7   2   10     2  thin
-8  Jaime Jaquez Jr. OVER 3.5 rebounds            55.6%  2.1   2   10     2  
-9  De'Andre Hunter UNDER 4.5 rebounds            55.6%  2.2   2   10     2  
-10 Kelly Oubre Jr. OVER 3.5 rebounds             55.5%  1.4   2   10     2  
-11 Collin Gillespie OVER 3.5 assists             55.5%  2.7   3    8     3  
-12 Jaylen Brown OVER 5.5 rebounds                55.5%  0.7   2   10     2  
-13 Zach LaVine UNDER 2.5 assists                 55.3%  0.8   4    8     3  
-14 Deni Avdija OVER 5.5 assists                  55.3%  1.0   3    8     3  
-15 Kevin Durant OVER 3.5 assists                 55.3%  2.8   2    8     3  
-16 Tyrese Proctor OVER 2.5 assists               55.2%  3.2   4    8     3  thin
-17 Egor Demin OVER 2.5 assists                   55.2%  0.5   2    8     3  
-18 Ayo Dosunmu OVER 3.5 assists                  55.0%  0.0   1    8     3  1 book
-19 Rudy Gobert OVER 9.5 rebounds                 55.0%  0.0   1   10     2  1 book
-20 Jake LaRavia OVER 3.5 rebounds                54.9%  0.3   2   10     2  
+1  Zach LaVine UNDER 2.5 assists                 58.2%  0.1   2    8     3  
+2  Collin Murray-Boyles UNDER 2.5 assists        57.4%  2.2   3    8     3  
+3  Herbert Jones OVER 2.5 rebounds               56.9%  2.9   2   10     2  
+4  Tyrese Maxey OVER 4.5 assists                 56.9%  2.4   3    8     3  
+5  Zion Williamson OVER 2.5 assists              56.8%  0.9   2    8     3  
+6  Stephon Castle UNDER 7.5 assists              56.6%  1.1   2    8     3  
+7  Egor Demin OVER 2.5 assists                   56.4%  3.9   3    8     3  thin
+8  Miles Bridges OVER 5.5 rebounds               56.4%  0.1   2   10     2  
+9  Shai Gilgeous-Alexander OVER 3.5 rebounds     56.3%  2.8   4   10     2  
+10 Quentin Grimes UNDER 3.5 assists              56.2%  3.2   2    8     3  thin
+11 Devin Booker OVER 5.5 assists                 56.1%  1.3   2    8     3  
+12 Stephon Castle UNDER 5.5 rebounds             55.9%  3.1   4   10     2  thin
+13 Jarrett Allen OVER 1.5 assists                55.8%  0.9   2    8     3  
+14 Collin Gillespie OVER 3.5 assists             55.8%  3.4   2    8     3  thin
+15 Ayo Dosunmu OVER 3.5 assists                  55.8%  0.1   2    8     3  
+16 Keegan Murray UNDER 5.5 rebounds              55.7%  2.6   3   10     2  
+17 Fred VanVleet OVER 2.5 rebounds               55.7%  3.0   2   10     2  
+18 De'Andre Hunter UNDER 4.5 rebounds            55.6%  3.3   4   10     2  thin
+19 Jaylen Brown OVER 5.5 rebounds                55.6%  1.8   2   10     2  
+20 Matas Buzelis UNDER 5.5 rebounds              55.5%  1.0   2   10     2  
 
-STRUCTURE: only 3 qualifying legs -- do not force entries
-No slate. Unused entries cost nothing; bad legs cost money.
+STRUCTURE: two cycles of 5
+
+TICKETS (10)
+   1. Zach LaVine UNDER 2.5 assist  |  Collin Murray-Boyles UNDER 2  |  Herbert Jones OVER 2.5 rebou
+   2. Collin Murray-Boyles UNDER 2  |  Herbert Jones OVER 2.5 rebou  |  Zion Williamson OVER 2.5 ass
+   3. Herbert Jones OVER 2.5 rebou  |  Zion Williamson OVER 2.5 ass  |  Tyrese Maxey OVER 4.5 assist
+   4. Zion Williamson OVER 2.5 ass  |  Tyrese Maxey OVER 4.5 assist  |  Zach LaVine UNDER 2.5 assist
+   5. Tyrese Maxey OVER 4.5 assist  |  Zach LaVine UNDER 2.5 assist  |  Collin Murray-Boyles UNDER 2
+   6. Stephon Castle UNDER 7.5 ass  |  Egor Demin OVER 2.5 assists  |  Miles Bridges OVER 5.5 rebou
+   7. Egor Demin OVER 2.5 assists  |  Miles Bridges OVER 5.5 rebou  |  Shai Gilgeous-Alexander OVER
+   8. Miles Bridges OVER 5.5 rebou  |  Shai Gilgeous-Alexander OVER  |  Quentin Grimes UNDER 3.5 ass
+   9. Shai Gilgeous-Alexander OVER  |  Quentin Grimes UNDER 3.5 ass  |  Stephon Castle UNDER 7.5 ass
+  10. Quentin Grimes UNDER 3.5 ass  |  Stephon Castle UNDER 7.5 ass  |  Egor Demin OVER 2.5 assists
+
+EV per entry      +22.9%
+P(zero return)    29.7%
+P(profit)         51.7%
+Kelly (quarter)   4.7% of bankroll  <-- use this
+
+outcome distribution (tickets cashing -> probability)
+   0 cash   29.7%   return    0.0 on 10 staked
+   1 cash   18.6%   return    6.7 on 10 staked
+   2 cash   27.4%   return   13.4 on 10 staked
+   3 cash    7.7%   return   20.1 on 10 staked
+   4 cash    5.1%   return   26.8 on 10 staked
+   5 cash    6.5%   return   33.5 on 10 staked
+   6 cash    2.0%   return   40.2 on 10 staked
+   7 cash    2.7%   return   46.9 on 10 staked
+  10 cash    0.3%   return   67.0 on 10 staked
